@@ -13,7 +13,7 @@ For example, the original MENATIME data only contained DBpedia links, so we adde
 The data statistics are as follows. 
 
 You can confirm them using the following commmand (with Python 3.8.0 or later). For example,
-- `python3 src/show_data_statistics.py -i data/json_split/train.json`
+- `python3 src/show_data_statistics.py -i data/voxel/json/en/s-voxel.json`
 
 |			     |VoxEL|MEANTIME|Linked-DocRed|
 |--			     |--:  | --:    |--:          |
@@ -123,14 +123,14 @@ For Linked-DocRed, the names of living persons are masked with `■` symbols, an
 
 - The VoxEL data
   - We used `sVoxEL-en.ttl` from the [VoxEL benchmark dataset](https://users.dcc.uchile.cl/~hrosales/VoxEL.html).
-  - Our extended data is licensed under [Academic Research Non-Commercial Limited CC-BY-NC-SA Reference-Type License](https://github.com/shigashiyama/en-ja-el/LICENSE_ARNC-Limited-CC-BY-NC-SA).
+  - Our extended data is licensed under [Academic Research Non-Commercial Limited CC-BY-NC-SA Reference-Type License](https://github.com/shigashiyama/en-ja-el/blob/main/LICENSE_ARNC_CC_RT.md).
 )
 - The MEANTIME data
   - We used 120 documents in `intra_cross-doc_annotation` from the NewsReader [MEANTIME corpus](http://www.newsreader-project.eu/results/data/wikinews/) (`meantime_newsreader_english_oct15.zip`).
-  - Our extended data is licensed under [Academic Research Non-Commercial Limited CC-BY-NC-SA Reference-Type License](https://github.com/shigashiyama/en-ja-el/LICENSE_ARNC_CC_RT.md).
+  - Our extended data is licensed under [Academic Research Non-Commercial Limited CC-BY-NC-SA Reference-Type License](https://github.com/shigashiyama/en-ja-el/blob/main/LICENSE_ARNC_CC_RT.md).
 - The Linked-DocRED data
   - We used `test_revised.json` from [Linked-Re-DocRED](https://github.com/alteca/Linked-DocRED/tree/main/Linked-Re-DocRED).
-  - Our extended data is licensed under the [GPLv3 License](https://github.com/shigashiyama/en-ja-el/LICENSE_ARNC_CC_RT.md).
+  - Our extended data is licensed under the [GPLv3 License](https://github.com/shigashiyama/en-ja-el/blob/main/LICENSE_GPL-3.0.md).
     ~~~~
     EnJaEL Linked-DocRED
     Copyright (C) 2025 National Institute of Information and Communications Technology (Shohei Higashiyama)
@@ -189,7 +189,6 @@ English bibliography:
 
 ## Reference
 
-VoxEL
-MEANTIME
-
-[1] Tan, Qingyu, Lu Xu, Lidong Bing, Hwee Tou Ng, and Sharifah Mahani Aljunied. Revisiting DocRED - Addressing the False Negative Problem in Relation Extraction. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, 8472–87. Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, 2022. https://aclanthology.org/2022.emnlp-main.580.
+1. Henry Rosales-Méndez, Aidan Hogan, Barbara Poblete. VoxEL: A Benchmark Dataset for Multilingual Entity Linking. International Semantic Web Conference (ISWC), Monterey, United States, 2018. https://dl.acm.org/doi/10.1007/978-3-030-00668-6_11.
+1. Anne-Lyse Minard, Manuela Speranza, Ruben Urizar, Begona Altuna, Marieke van Erp, Anneleen Schoen, and Chantal van Son. MEANTIME, the NewsReader Multilingual Event and Time Corpus. In Proceedings of the 10th language resources and evaluation conference (LREC 2016), European Language Resources Association (ELRA), Portorož, Slovenia, 2016. https://aclanthology.org/L16-1699/
+1. Tan, Qingyu, Lu Xu, Lidong Bing, Hwee Tou Ng, and Sharifah Mahani Aljunied. Revisiting DocRED - Addressing the False Negative Problem in Relation Extraction. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, 8472–87. Abu Dhabi, United Arab Emirates: Association for Computational Linguistics, 2022. https://aclanthology.org/2022.emnlp-main.580
