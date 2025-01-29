@@ -1,0 +1,543 @@
+{
+  "3455": {
+    "doc_info": {
+      "title": "Hidhir Hasbiallah",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■は、ウッドランズ・ウェリントンFCでプレーするシンガポール人サッカー選手です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "当初ミッドフィールダーとしてスタートした彼は、ゴンバク・ユナイテッドでプレーしていたときにディフェンダーとしての潜在能力を開花させるように育てられました。",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "2013年シーズンは、国家兵役のため2年間の欠場を経て、Sリーグのプロ・フットボールに復帰することになります。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "その間に、■■■■はナショナル・フットボール・リーグの警察スポーツ協会に所属しました。",
+        "mention_ids": [
+          "M0_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "■■■■は、元シンガポールU-21およびシンガポールU-23代表でもあり、最近ではアジア大会サッカーチームに2010年に招集を受けています。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "■■■■は、2013年2月21日のウォリアーズF.C.との試合でウッドランズ・ウェリントンでデビューし、同じくラムズでデビューした■■■■■■■■■■の後半の代役として途中出場し、2 - 2で引き分けました。",
+        "mention_ids": [
+          "M0_2",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M2_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          9
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          30
+        ],
+        "text": "シンガポールU-23",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          54,
+          59
+        ],
+        "text": "2010年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          41,
+          46
+        ],
+        "text": "アジア大会",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          16
+        ],
+        "text": "2013年2月21日",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          27
+        ],
+        "text": "ウォリアーズF.C.",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          65,
+          75
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          55,
+          58
+        ],
+        "text": "ラムズ",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          42
+        ],
+        "text": "シンガポール人",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          29
+        ],
+        "text": "ウッドランズ・ウェリントンFC",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "05",
+        "span": [
+          32,
+          45
+        ],
+        "text": "ウッドランズ・ウェリントン",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          34
+        ],
+        "text": "ゴンバク・ユナイテッド",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2013年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          28,
+          32
+        ],
+        "text": "Sリーグ",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          21
+        ],
+        "text": "2年間",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          35
+        ],
+        "text": "警察スポーツ協会",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          26
+        ],
+        "text": "ナショナル・フットボール・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          17
+        ],
+        "text": "シンガポールU-21",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "removed_mention_ids": [
+          "M0_4"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hidhir_Hasbiallah",
+          "wikidata": "http://www.wikidata.org/entity/Q5752793"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore",
+          "wikidata": "http://www.wikidata.org/entity/Q334",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Woodlands_Wellington_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q2064053",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gombak_United_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q1536784",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Gombak_United",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%B3%E3%83%90%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore_Premier_League",
+          "wikidata": "http://www.wikidata.org/entity/Q285473",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/S.League",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore_Football_League",
+          "wikidata": "http://www.wikidata.org/entity/Q7523060",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Singapore_National_Football_League"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore_national_under-21_football_team",
+          "wikidata": "http://www.wikidata.org/entity/Q28419201"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Young_Lions_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q2036086",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Young_Lions_(football_team)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asian_Games",
+          "wikidata": "http://www.wikidata.org/entity/Q483463",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warriors_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q633185",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Warriors_F.C.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%BAFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rosman_Sulaiman",
+          "wikidata": "http://www.wikidata.org/entity/Q7369076"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Woodlands_Wellington_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q2064053",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Woodlands_Wellington",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

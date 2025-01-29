@@ -1,0 +1,660 @@
+{
+  "3257": {
+    "doc_info": {
+      "title": "List of Presidents of Ethiopia",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "これはエチオピアの大統領のリストであり、1974年のエチオピア帝国の崩壊後の国家元首のリストでもあります。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "1974年まで、エチオピア帝国の国家元首は皇帝か摂政でした。",
+        "mention_ids": [
+          "M1_1",
+          "M2_1"
+        ]
+      },
+      "02": {
+        "text": "1974年9月の帝国の崩壊につながったデルグのクーデターから1975年3月まで、デルグは皇太子の■■■■■■■■■■■を名目上の国家元首とみなしていましたが、皇太子はこれを受け入れることを拒否しました。",
+        "mention_ids": [
+          "M1_2",
+          "M2_2",
+          "M3_0",
+          "M3_5",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "この期間中、デルグの議長、デルグの指導者は国家元首代理とみなされることになっていました。",
+        "mention_ids": [
+          "M3_6",
+          "M3_7"
+        ]
+      },
+      "04": {
+        "text": "1975年3月21日以降、デルグ軍事政権が完全に政権を引き継ぎました。",
+        "mention_ids": [
+          "M3_4",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "text": "1987年にエチオピア人民民主共和国が設立されるまでは、依然としてデルグの人物、デルグの議長は国家元首とみなされなければなりませんが、大統領ではありません。",
+        "mention_ids": [
+          "M3_2",
+          "M3_3",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "06": {
+        "text": "デルグが崩壊し、1991年にエチオピア暫定政府が設立された後、初代即時大統領（メレス・ゼナウィ）は暫定大統領とみなされなければなりません。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M3_1",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "text": "1987年の大統領府の正式な設立以来、6人の正式な大統領がいます。",
+        "mention_ids": [
+          "M12_0",
+          "M8_1"
+        ]
+      },
+      "08": {
+        "text": "大統領はエチオピアの国家元首です。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "09": {
+        "text": "現在の大統領は■■■■■■■■■■■で、エチオピア初の女性大統領でもあり、2018年10月25日に連邦議会の議員によって選出されました。",
+        "mention_ids": [
+          "M0_2",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          3,
+          8
+        ],
+        "text": "エチオピア",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "08",
+        "span": [
+          4,
+          9
+        ],
+        "text": "エチオピア",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "09",
+        "span": [
+          20,
+          25
+        ],
+        "text": "エチオピア",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          8,
+          13
+        ],
+        "text": "1991年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          39,
+          47
+        ],
+        "text": "メレス・ゼナウィ",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          19,
+          21
+        ],
+        "text": "6人",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "09",
+        "span": [
+          7,
+          18
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "09",
+        "span": [
+          37,
+          48
+        ],
+        "text": "2018年10月25日",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          49,
+          53
+        ],
+        "text": "連邦議会",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          33
+        ],
+        "text": "エチオピア帝国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          15
+        ],
+        "text": "エチオピア帝国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          10
+        ],
+        "text": "帝国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          25
+        ],
+        "text": "1974年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1974年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "1974年9月",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          43
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          3
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          43
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          33,
+          36
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          16
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          22
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_6": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          16
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_7": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          9
+        ],
+        "text": "デルグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          30,
+          37
+        ],
+        "text": "1975年3月",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          10
+        ],
+        "text": "1975年3月21日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          59
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          79,
+          82
+        ],
+        "text": "皇太子",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          18
+        ],
+        "text": "エチオピア人民民主共和国",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1987年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1987年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          23
+        ],
+        "text": "エチオピア暫定政府",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "removed_mention_ids": [
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q207521",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4",
+          "M3_5",
+          "M3_6",
+          "M3_7"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Derg",
+          "wikidata": "http://www.wikidata.org/entity/Q828005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asfaw_Wossen",
+          "wikidata": "http://www.wikidata.org/entity/Q4804222"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Crown_prince",
+          "wikidata": "http://www.wikidata.org/entity/Q207293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9A%87%E5%A4%AA%E5%AD%90"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q940821",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/People's_Democratic_Republic_of_Ethiopia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q332071",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E6%9A%AB%E5%AE%9A%E6%94%BF%E5%BA%9C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Meles_Zenawi",
+          "wikidata": "http://www.wikidata.org/entity/Q161184",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%BC%E3%83%8A%E3%82%A6%E3%82%A3"
+        },
+        "date_of_death": "2012-08-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sahle-Work_Zewde",
+          "wikidata": "http://www.wikidata.org/entity/Q7399685",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BC%E3%82%A6%E3%83%87"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Parliamentary_Assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q257899",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E8%AD%B0%E4%BC%9A_(%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

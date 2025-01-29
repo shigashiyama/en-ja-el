@@ -1,0 +1,634 @@
+{
+  "3340": {
+    "doc_info": {
+      "title": "Oakland/Troy Airport",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "オークランド/トロイ空港は、米国ミシガン州のオークランド郡の都市であるトロイの中央ビジネス地区の東に位置する郡所有の公共用空港です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "これは、2017年～2021年の連邦航空局（FAA）の総合空港システム国家計画に、地域救援空港施設として分類されて含まれています。",
+        "mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "オークランド/トロイ空港は、郡の「行政」空港とみなされます。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "03": {
+        "text": "自家用機、社用機、チャーター機を利用するビジネス旅行者や観光客は、空港がビジネス、レクリエーション、エンターテイメント施設への便利な近さの恩恵を受けています。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "それは、メープル・ロードと14マイル・ロード、クーリッジ・ハイウェイ、クルックス・ロードの間に位置します。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "ほとんどの米国の空港はFAAとIATAに同じ3文字の位置識別子を使用していますが、オークランド/トロイ空港はFAAによってVLLが割り当てられていますが、IATAからの指定はありません（VLLはスペインのバリャドリッドに割り当てられています）。",
+        "mention_ids": [
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M13_0",
+          "M14_0",
+          "M14_1",
+          "M15_0",
+          "M16_0",
+          "M4_1",
+          "M5_2",
+          "M5_3"
+        ]
+      },
+      "06": {
+        "text": "オークランド/トロイは以前は7D2と指定されていましたが、自動気象観測所が同地に設置された後の、2005年3月17日に変更されました。",
+        "mention_ids": [
+          "M0_5",
+          "M0_6",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "オークランド/トロイ空港",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          12
+        ],
+        "text": "オークランド/トロイ空港",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          53
+        ],
+        "text": "オークランド/トロイ空港",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          93,
+          96
+        ],
+        "text": "VLL",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          64
+        ],
+        "text": "VLL",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          10
+        ],
+        "text": "オークランド/トロイ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          17
+        ],
+        "text": "7D2",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          22
+        ],
+        "text": "14マイル・ロード",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          34
+        ],
+        "text": "クーリッジ・ハイウェイ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          35,
+          44
+        ],
+        "text": "クルックス・ロード",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          23
+        ],
+        "text": "3",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          19
+        ],
+        "text": "IATA",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "05",
+        "span": [
+          77,
+          81
+        ],
+        "text": "IATA",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          102,
+          109
+        ],
+        "text": "バリャドリッド",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          97,
+          101
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          48,
+          58
+        ],
+        "text": "2005年3月17日",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          38
+        ],
+        "text": "トロイ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          29
+        ],
+        "text": "オークランド郡",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          21
+        ],
+        "text": "ミシガン州",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          16
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          7
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          21
+        ],
+        "text": "連邦航空局",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          25
+        ],
+        "text": "FAA",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "FAA",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "05",
+        "span": [
+          54,
+          57
+        ],
+        "text": "FAA",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          39
+        ],
+        "text": "総合空港システム国家計画",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          15
+        ],
+        "text": "2021年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          12
+        ],
+        "text": "メープル・ロード",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oakland/Troy_Airport",
+          "wikidata": "http://www.wikidata.org/entity/Q2902372"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Troy,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q990271",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AD%E3%82%A4_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q498024",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E9%83%A1_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q1166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Aviation_Administration",
+          "wikidata": "http://www.wikidata.org/entity/Q335357",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Plan_of_Integrated_Airport_Systems",
+          "wikidata": "http://www.wikidata.org/entity/Q4121040"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
+          "wikidata": "http://www.wikidata.org/entity/Q19755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA%E9%81%8B%E9%80%81%E5%8D%94%E4%BC%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Valladolid",
+          "wikidata": "http://www.wikidata.org/entity/Q8356",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%83%A3%E3%83%89%E3%83%AA%E3%83%83%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

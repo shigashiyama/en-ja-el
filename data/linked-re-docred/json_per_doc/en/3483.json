@@ -1,0 +1,513 @@
+{
+  "3483": {
+    "doc_info": {
+      "title": "Culture of Los Angeles",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The culture of Los Angeles is rich with arts and ethnically diverse .",
+        "text": "The culture of Los Angeles is rich with arts and ethnically diverse .",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The greater Los Angeles metro area has several notable art museums including the Los Angeles County Museum of Art ( LACMA ) , the J. Paul Getty Museum on the Santa Monica mountains overlooking the Pacific , the Museum of Contemporary Art ( MOCA ) , the Hammer Museum and the Norton Simon Museum .",
+        "text": "The greater Los Angeles metro area has several notable art museums including the Los Angeles County Museum of Art ( LACMA ) , the J. Paul Getty Museum on the Santa Monica mountains overlooking the Pacific , the Museum of Contemporary Art ( MOCA ) , the Hammer Museum and the Norton Simon Museum .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "In the 1920s and 1930s Will Durant and Ariel Durant , Arnold Schoenberg and other intellectuals were the representatives of culture , in addition to the movie writers and directors .",
+        "text": "In the 1920s and 1930s Will Durant and Ariel Durant , Arnold Schoenberg and other intellectuals were the representatives of culture , in addition to the movie writers and directors .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "As the city flourished financially in the middle of the 20th century , culture followed .",
+        "text": "As the city flourished financially in the middle of the 20th century , culture followed .",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Boosters such as Dorothy Buffum Chandler and other philanthropists raised funds for the establishment of art museums , music centers and theaters .",
+        "text": "Boosters such as Dorothy Buffum Chandler and other philanthropists raised funds for the establishment of art museums , music centers and theaters .",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Today , the Southland cultural scene is as complex , sophisticated and varied as any in the world .",
+        "text": "Today , the Southland cultural scene is as complex , sophisticated and varied as any in the world .",
+        "mention_ids": [
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          26
+        ],
+        "text": "Los Angeles",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          12,
+          23
+        ],
+        "text": "Los Angeles",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          34
+        ],
+        "text": "Will Durant",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          51
+        ],
+        "text": "Ariel Durant",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          71
+        ],
+        "text": "Arnold Schoenberg",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          68
+        ],
+        "text": "20th century",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          40
+        ],
+        "text": "Dorothy Buffum Chandler",
+        "entity_type": "PER",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          21
+        ],
+        "text": "Southland",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "01",
+        "span": [
+          81,
+          113
+        ],
+        "text": "Los Angeles County Museum of Art",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          116,
+          121
+        ],
+        "text": "LACMA",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          130,
+          150
+        ],
+        "text": "J. Paul Getty Museum",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          158,
+          170
+        ],
+        "text": "Santa Monica",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          197,
+          204
+        ],
+        "text": "Pacific",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          211,
+          237
+        ],
+        "text": "Museum of Contemporary Art",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          240,
+          244
+        ],
+        "text": "MOCA",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          253,
+          266
+        ],
+        "text": "Hammer Museum",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          275,
+          294
+        ],
+        "text": "Norton Simon Museum",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          12
+        ],
+        "text": "the 1920s",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          22
+        ],
+        "text": "1930s",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles",
+          "wikidata": "http://www.wikidata.org/entity/Q65",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Los_Angeles,_California",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_County_Museum_of_Art",
+          "wikidata": "http://www.wikidata.org/entity/Q1641836",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/LACMA",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/J._Paul_Getty_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q731126",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/J%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B2%E3%83%86%E3%82%A3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Santa_Monica_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q1229470",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Santa_Monica_mountains"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art,_Los_Angeles",
+          "wikidata": "http://www.wikidata.org/entity/Q1134646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hammer_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q677561"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norton_Simon_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q1752085",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E7%BE%8E%E8%A1%93%E9%A4%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Will_Durant",
+          "wikidata": "http://www.wikidata.org/entity/Q333911",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%80%E3%83%A9%E3%83%B3%E3%83%88"
+        },
+        "date_of_death": "1981-11-07T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ariel_Durant",
+          "wikidata": "http://www.wikidata.org/entity/Q469474"
+        },
+        "date_of_death": "1981-10-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+          "wikidata": "http://www.wikidata.org/entity/Q154770",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%8E%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF"
+        },
+        "date_of_death": "1951-07-13T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Buffum_Chandler",
+          "wikidata": "http://www.wikidata.org/entity/Q1250274"
+        },
+        "date_of_death": "1997-07-06T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

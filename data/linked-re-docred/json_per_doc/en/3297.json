@@ -1,0 +1,621 @@
+{
+  "3297": {
+    "doc_info": {
+      "title": "Mehdi Karroubi",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■ ( , born 26 September 1937 ) is an Iranian Shia cleric and reformist politician leading the National Trust Party .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "He was the speaker of the parliament from 1989 to 1992 and 2000 to 2004 , and a presidential candidate in the 2005 and 2009 presidential elections .",
+        "text": "He was the speaker of the parliament from 1989 to 1992 and 2000 to 2004 , and a presidential candidate in the 2005 and 2009 presidential elections .",
+        "mention_ids": [
+          "M10_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_1"
+        ]
+      },
+      "02": {
+        "text": "Following 2009–2010 Iranian election protests , ■■■■■■■■ was put under house arrest in February 2011 – reportedly ordered by the Supreme Leader of Iran – without officially being charged , although he is accused of being a \" seditionist \" and \" traitor \" .",
+        "mention_ids": [
+          "M0_2",
+          "M11_0",
+          "M12_0",
+          "M13_1"
+        ]
+      },
+      "03": {
+        "orig_text": "As of 2018 , he is still confined to his house .",
+        "text": "As of 2018 , he is still confined to his house .",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "04": {
+        "orig_text": "He has been described as a \" moderate \" with a \" mostly rural \" base of support .",
+        "text": "He has been described as a \" moderate \" with a \" mostly rural \" base of support .",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "■■■■■■■■ considers himself a pragmatic reformist and now is one of the leaders of the Iranian Green Movement .",
+        "mention_ids": [
+          "M0_3",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "orig_text": "He is a founding member and former secretary - general of the Association of Combatant Clerics party .",
+        "text": "He is a founding member and former secretary - general of the Association of Combatant Clerics party .",
+        "mention_ids": [
+          "M16_0"
+        ]
+      },
+      "07": {
+        "text": "■■■■■■■■ is a critic of the Guardian Council and Iran 's Judicial System .",
+        "mention_ids": [
+          "M0_1",
+          "M13_0",
+          "M17_0"
+        ]
+      },
+      "08": {
+        "orig_text": "By appointment of the Supreme Leader , he was a member of the Expediency Discernment Council and an adviser , posts he held until resigning from all his posts on 15 June 2005 after the first round of the 2005 presidential election .",
+        "text": "By appointment of the Supreme Leader , he was a member of the Expediency Discernment Council and an adviser , posts he held until resigning from all his posts on 15 June 2005 after the first round of the 2005 presidential election .",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          8
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          56
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          119,
+          123
+        ],
+        "text": "2009",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          45
+        ],
+        "text": "2009–2010 Iranian election protests",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          87,
+          100
+        ],
+        "text": "February 2011",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          49,
+          53
+        ],
+        "text": "Iran",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "02",
+        "span": [
+          147,
+          151
+        ],
+        "text": "Iran",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          10
+        ],
+        "text": "2018",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          86,
+          108
+        ],
+        "text": "Iranian Green Movement",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          62,
+          94
+        ],
+        "text": "Association of Combatant Clerics",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          44
+        ],
+        "text": "Guardian Council",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "08",
+        "span": [
+          62,
+          92
+        ],
+        "text": "Expediency Discernment Council",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          162,
+          174
+        ],
+        "text": "15 June 2005",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          41
+        ],
+        "text": "26 September 1937",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          57
+        ],
+        "text": "Iranian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          62
+        ],
+        "text": "Shia",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          107,
+          127
+        ],
+        "text": "National Trust Party",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          42,
+          46
+        ],
+        "text": "1989",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          54
+        ],
+        "text": "1992",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          59,
+          63
+        ],
+        "text": "2000",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          67,
+          71
+        ],
+        "text": "2004",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "08",
+        "span": [
+          204,
+          208
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "01",
+        "span": [
+          110,
+          114
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mehdi_Karroubi",
+          "wikidata": "http://www.wikidata.org/entity/Q315011",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%95%E3%83%87%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%83%E3%83%AB%E3%83%BC%E3%83%93%E3%83%BC"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iran",
+          "wikidata": "http://www.wikidata.org/entity/Q794",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shia_Islam",
+          "wikidata": "http://www.wikidata.org/entity/Q9585",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Shia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%A2%E6%B4%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Trust_Party_(Iran)",
+          "wikidata": "http://www.wikidata.org/entity/Q2425963"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/2009_Iranian_presidential_election_protests",
+          "wikidata": "http://www.wikidata.org/entity/Q854206",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/2009–2010_Iranian_election_protests"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iran",
+          "wikidata": "http://www.wikidata.org/entity/Q794",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iranian_Green_Movement",
+          "wikidata": "http://www.wikidata.org/entity/Q2626387"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_of_Combatant_Clerics",
+          "wikidata": "http://www.wikidata.org/entity/Q2068291"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guardian_Council",
+          "wikidata": "http://www.wikidata.org/entity/Q828689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%9D%A3%E8%80%85%E8%A9%95%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Expediency_Discernment_Council",
+          "wikidata": "http://www.wikidata.org/entity/Q1422933",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AC%E7%9B%8A%E5%88%A4%E5%88%A5%E4%BC%9A%E8%AD%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

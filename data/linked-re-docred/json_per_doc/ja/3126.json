@@ -1,0 +1,486 @@
+{
+  "3126": {
+    "doc_info": {
+      "title": "John H. Furse",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ジョン・ハウスアル・ファース（1880年4月20日–1907年9月30日）は、アメリカ海軍の士官でした。現役は1901年から1907年に海で亡くなるまで続きました。",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "ファースは、サウスカロライナ州で1880年4月20日生まれ、1901年の米国海軍兵学校クラスのメンバーでした。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M4_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "彼の最初の勤務はアジア基地で、科学遠征中にマニラで勤務したほか、他の船でも勤務しました。",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "米国に戻り、彼はイリノイ(BB-7)に参加し1904年9月29日、同艦の中でキューバ海域で勤務しました。",
+        "mention_ids": [
+          "M10_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "04": {
+        "text": "ファース中尉は、船を脅かした嵐との戦いで受けた負傷により、イリノイ上で1907年9月30日に死亡しました。",
+        "mention_ids": [
+          "M0_1",
+          "M11_1",
+          "M2_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "ジョン・ハウスアル・ファース",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ファース",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ファース",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_1": {
+        "sentence_id": "04",
+        "span": [
+          29,
+          33
+        ],
+        "text": "イリノイ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          18
+        ],
+        "text": "イリノイ(BB-7)",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          32
+        ],
+        "text": "1904年9月29日",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          42
+        ],
+        "text": "キューバ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          26
+        ],
+        "text": "1880年4月20日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          25
+        ],
+        "text": "1880年4月20日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          36
+        ],
+        "text": "1907年9月30日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          35,
+          45
+        ],
+        "text": "1907年9月30日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          45
+        ],
+        "text": "アメリカ海軍",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          60
+        ],
+        "text": "1901年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          35
+        ],
+        "text": "1901年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          67
+        ],
+        "text": "1907年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          15
+        ],
+        "text": "サウスカロライナ州",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          43
+        ],
+        "text": "米国海軍兵学校",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          13
+        ],
+        "text": "アジア基地",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          24
+        ],
+        "text": "マニラ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Navy",
+          "wikidata": "http://www.wikidata.org/entity/Q11220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B5%B7%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q1456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Naval_Academy",
+          "wikidata": "http://www.wikidata.org/entity/Q559549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%85%B5%E5%AD%A6%E6%A0%A1_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asiatic_Squadron",
+          "wikidata": "http://www.wikidata.org/entity/Q1541133",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Asiatic_Station"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q1461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_1"
+        ],
+        "removed_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Illinois_(BB-7)",
+          "wikidata": "http://www.wikidata.org/entity/Q3274031",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4_(BB-7)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Illinois_(BB-7)",
+          "wikidata": "http://www.wikidata.org/entity/Q3274031",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4_(BB-7)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cuba",
+          "wikidata": "http://www.wikidata.org/entity/Q241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "0023973": {
+    "doc_info": {
+      "title": "23973_Apple_introduces_new_iPod_with_video_playback_capabilities",
+      "url": "http://en.wikinews.org/wiki/Apple_introduces_new_iPod_with_video_playback_capabilities"
+    },
+    "sentences": {
+      "00": {
+        "text": "Apple、ビデオ再生機能を備えた新しいiPodを発表",
+        "mention_ids": [
+          "M008",
+          "M010"
+        ]
+      },
+      "01": {
+        "text": "2005 年 10 月 13 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "水曜日、Appleはビデオと新しいビデオ・セクションを表示できるiPodを iTunes Music Store に導入しました。",
+        "mention_ids": [
+          "M001",
+          "M004",
+          "M021"
+        ]
+      },
+      "03": {
+        "text": "Apple CEOスティーブ・ジョブズは、iPodが最初にリリースされたとき、これが音楽業界への影響と同様に、映画業界にも大きな影響を与える可能性があると考えています。",
+        "mention_ids": [
+          "M007",
+          "M014",
+          "M016",
+          "M017"
+        ]
+      },
+      "04": {
+        "text": "新しいiPodには、30GBエディションと60GBエディションがあり、価格はそれぞれ299米ドルと399米ドルです。",
+        "mention_ids": [
+          "M006",
+          "M018"
+        ]
+      },
+      "05": {
+        "text": "30GB iPodでは、解像度320x240の75時間のビデオを保存できます。60GB iPodでは、150時間保存できます。",
+        "mention_ids": [
+          "M015",
+          "M019",
+          "M020",
+          "M022",
+          "M024"
+        ]
+      },
+      "06": {
+        "text": "これらの機能にもかかわらず、楽しむには画面が小さすぎるのではないかという意見があります。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ただし、iPodの所有者は、iPodからのビデオをテレビで再生するために、オプションのS-Videoケーブルを購入できます。",
+        "mention_ids": [
+          "M120",
+          "M124"
+        ]
+      },
+      "08": {
+        "text": "新しいビデオセクションを補完するために、アップルとABCは、「ロスト」や「デスパレートな妻たち」などのテレビ番組のエピソードを、放送翌日から1話あたり1.99ドルで視聴できるようにする契約に合意しました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "ビデオ部門の他の計画には、現在のApple CEOスティーブ・ジョブズが設立したアニメーション会社Pixarが関与しています。",
+        "mention_ids": [
+          "M121"
+        ]
+      },
+      "10": {
+        "text": "ピクサーの配給会社でありABCの所有者であるディズニーのコンテンツも配信する計画もあります。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "さらに、ミュージック・ビデオもオンライン・ミュージック・ストアでそれぞれ1.99ドルで入手できます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          36
+        ],
+        "text": "ビデオと新しいビデオ・セクションを表示できるiPod",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          57
+        ],
+        "text": " iTunes Music Store ",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M006": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          31
+        ],
+        "text": "30GBエディションと60GBエディション",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          19
+        ],
+        "text": "Apple CEOスティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M008": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M010": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          24
+        ],
+        "text": "ビデオ再生機能を備えた新しいiPod",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          55,
+          59
+        ],
+        "text": "映画業界",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M015": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          22
+        ],
+        "text": "解像度320x240",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          46
+        ],
+        "text": "音楽業界",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          25
+        ],
+        "text": "iPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "新しいiPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M019": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "30GB iPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M020": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          48
+        ],
+        "text": "60GB iPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M021": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          9
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M022": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          31
+        ],
+        "text": "75時間のビデオ",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M024": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          56
+        ],
+        "text": "150時間",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M120": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          8
+        ],
+        "text": "iPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M121": {
+        "sentence_id": "09",
+        "span": [
+          16,
+          35
+        ],
+        "text": "Apple CEOスティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M124": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          18
+        ],
+        "text": "iPod",
+        "entity_type": null,
+        "entity_id": "E091"
+      }
+    },
+    "entities": {
+      "E091": {
+        "member_mention_ids": [
+          "M017",
+          "M018",
+          "M020",
+          "M120",
+          "M124"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod",
+          "wikidata": "http://www.wikidata.org/entity/Q9479",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod"
+        }
+      },
+      "E092": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M007",
+          "M121"
+        ],
+        "removed_mention_ids": [
+          "M009",
+          "M011",
+          "M122",
+          "M123"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Music_Industry",
+          "dbpedia:orig": "http://dbpedia.org/resource/Music_Industry",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Music_industry",
+          "wikidata": "http://www.wikidata.org/entity/Q746359",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E7%94%A3%E6%A5%AD"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M022",
+          "M024"
+        ],
+        "removed_mention_ids": [
+          "M012",
+          "M023"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E115": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M013"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E118": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Film_Industry",
+          "dbpedia:orig": "http://dbpedia.org/resource/Film_Industry",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Film_industry",
+          "wikidata": "http://www.wikidata.org/entity/Q1415395",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB%E7%94%A3%E6%A5%AD"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "3538": {
+    "doc_info": {
+      "title": "Scotia Plate",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Scotia Plate ( ) is a tectonic plate on the edge of the South Atlantic and Southern Ocean .",
+        "text": "The Scotia Plate ( ) is a tectonic plate on the edge of the South Atlantic and Southern Ocean .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Thought to have formed during the early Eocene with the opening of the Drake Passage that separates South America from Antarctica , it is a minor plate whose movement is largely controlled by the two major plates that surround it : the South American plate and Antarctic plate .",
+        "text": "Thought to have formed during the early Eocene with the opening of the Drake Passage that separates South America from Antarctica , it is a minor plate whose movement is largely controlled by the two major plates that surround it : the South American plate and Antarctic plate .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Roughly rhomboid , extending between and , the plate is wide and long .",
+        "text": "Roughly rhomboid, extending between 50°S 70°W and 63°S 20°W, the plate is 800 km (500 mi) wide and 3,000 km (1,900 mi) long.",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "It is moving WSW at /year and the South Sandwich Plate is moving east at /year in an absolute reference frame .",
+        "text": "It is moving WSW at /year and the South Sandwich Plate is moving east at /year in an absolute reference frame .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It takes its name from the steam yacht Scotia of the Scottish National Antarctic Expedition ( 1902 – 04 ) , the expedition that made the first bathymetric study of the region .",
+        "text": "It takes its name from the steam yacht Scotia of the Scottish National Antarctic Expedition ( 1902 – 04 ) , the expedition that made the first bathymetric study of the region .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The Scotia Plate is made of oceanic crust and continental fragments now distributed around the Scotia Sea .",
+        "text": "The Scotia Plate is made of oceanic crust and continental fragments now distributed around the Scotia Sea .",
+        "mention_ids": [
+          "M0_1",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Before the formation of the plate began ( 40Ma ) , these fragments formed a continuous landmass from Patagonia to the Antarctic Peninsula along an active subduction margin .",
+        "text": "Before the formation of the plate began ( 40Ma ) , these fragments formed a continuous landmass from Patagonia to the Antarctic Peninsula along an active subduction margin .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "07": {
+        "orig_text": "At present the plate is almost completely submerged , with only the small exceptions of the South Georgia Islands on its northeastern edge and the southern tip of South America .",
+        "text": "At present the plate is almost completely submerged , with only the small exceptions of the South Georgia Islands on its northeastern edge and the southern tip of South America .",
+        "mention_ids": [
+          "M19_0",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          16
+        ],
+        "text": "Scotia Plate",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          16
+        ],
+        "text": "Scotia Plate",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          54
+        ],
+        "text": "South Sandwich Plate",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          45
+        ],
+        "text": "Scotia",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          53,
+          91
+        ],
+        "text": "Scottish National Antarctic Expedition",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          94,
+          98
+        ],
+        "text": "1902",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          101,
+          103
+        ],
+        "text": "04",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          95,
+          105
+        ],
+        "text": "Scotia Sea",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          46
+        ],
+        "text": "40Ma",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          101,
+          110
+        ],
+        "text": "Patagonia",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          118,
+          137
+        ],
+        "text": "Antarctic Peninsula",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          92,
+          113
+        ],
+        "text": "South Georgia Islands",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          60,
+          74
+        ],
+        "text": "South Atlantic",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          79,
+          93
+        ],
+        "text": "Southern Ocean",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          46
+        ],
+        "text": "Eocene",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          71,
+          84
+        ],
+        "text": "Drake Passage",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          100,
+          113
+        ],
+        "text": "South America",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "07",
+        "span": [
+          163,
+          176
+        ],
+        "text": "South America",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          119,
+          129
+        ],
+        "text": "Antarctica",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          196,
+          199
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          236,
+          256
+        ],
+        "text": "South American plate",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          261,
+          276
+        ],
+        "text": "Antarctic plate",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Scotia_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q1046074",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Scotia_Plate",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%A2%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q97",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_Atlantic_Ocean",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Southern_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q7354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E6%B5%B7"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Drake_Passage",
+          "wikidata": "http://www.wikidata.org/entity/Q143650",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AC%E3%83%BC%E3%82%AF%E6%B5%B7%E5%B3%A1"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_American_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q119490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antarctic_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q501705",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_American_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q119490",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_American_Plate",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antarctic_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q501705",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Antarctic_Plate",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Sandwich_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q1361645",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_Sandwich_Plate",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Scotia_plate",
+          "wikidata": "http://www.wikidata.org/entity/Q1046074",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Scotia_Plate",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%A2%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Scottish_National_Antarctic_Expedition",
+          "wikidata": "http://www.wikidata.org/entity/Q1970833",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E5%9B%BD%E5%96%B6%E5%8D%97%E6%A5%B5%E9%81%A0%E5%BE%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Scotia_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q204703",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%A2%E6%B5%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Patagonia",
+          "wikidata": "http://www.wikidata.org/entity/Q1507",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BF%E3%82%B4%E3%83%8B%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antarctic_Peninsula",
+          "wikidata": "http://www.wikidata.org/entity/Q185605",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E5%8D%8A%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands",
+          "wikidata": "http://www.wikidata.org/entity/Q35086",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_Georgia_Islands",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E8%AB%B8%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

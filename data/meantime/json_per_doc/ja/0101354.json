@@ -1,0 +1,507 @@
+{
+  "0101354": {
+    "doc_info": {
+      "title": "101354_Apple_releases_iPhone_SDK,_announces_upcoming_update",
+      "url": "http://en.wikinews.org/wiki/Apple_releases_iPhone_SDK,_announces_upcoming_update"
+    },
+    "sentences": {
+      "00": {
+        "text": "AppleがiPhone SDKをリリースし、今後のアップデートを発表",
+        "mention_ids": [
+          "M016",
+          "M018"
+        ]
+      },
+      "01": {
+        "text": "2008年3月6日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "クパチーノの本社で開催されたメディア・イベント中に、Appleは待望のiPhoneソフトウェア開発キット（SDK）と、関連するiTunes「App Store」とiPhone開発者プログラムをリリースしました。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M068"
+        ]
+      },
+      "03": {
+        "text": "SDKにより、サードパーティのソフトウェア開発者は、iPhone用のアプリを作成し、それらをiTunes Apps Storeで配布することができます。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M017",
+          "M019",
+          "M020"
+        ]
+      },
+      "04": {
+        "text": "iPhone開発者プログラムのメンバーは誰でも、アプリをストアに無料で追加できます。プログラムは参加に99ドル(USD)かかります。",
+        "mention_ids": [
+          "M001",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "05": {
+        "text": "開発者は、アプリの価格を設定したり、それらを無料でリリースしたりできます。",
+        "mention_ids": [
+          "M002",
+          "M004",
+          "M006",
+          "M007"
+        ]
+      },
+      "06": {
+        "text": "すべてのアプリは、ストアで許可される前にAppleの承認を受ける必要があります。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "許可されていないカテゴリは、「ポルノ」、過剰な帯域幅ユーザー、悪意のあるものまたは違法なものです。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "VoIPアプリはWi-Fi経由でのみ許可されます。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "企業はストア上にプライベート・ページを設定して、内部アプリケーションを配布できます。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "イベントでは、SDKへの早期アクセスを与えられた数人のサードパーティ開発者が、彼らのアプリをデモしました。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "デモされたアプリの中には、EAのSpore、AOLのAIMインスタント・メッセンジャー、医薬品参照サービスのエポクラテスのクライアントなどがありました。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "同社はまた、開発者向けのクローズド・ベータ版としてリリースされ、6月に一般公開される予定のiPhone 2.0アップデートも発表しました。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "新バージョンでは、AppleはRIMのBlackBerryやMicrosoftのWindows Mobileなどのライバルと競争するためにエンタープライズ機能に重点を置いています。",
+        "mention_ids": []
+      },
+      "14": {
+        "text": "このアップデートでは、AppleがライバルのMicrosoftからライセンスを取得したActiveSync、WPA2、仮想プライベート・ネットワークのサポートが追加されます。",
+        "mention_ids": []
+      },
+      "15": {
+        "text": "このアップデートは、Appleが過去にiPodTouchおよびMacBook Wi-Fiアップデートで行ったように、スティーブ・ジョブズが「少額の料金」と表現した料金でiPod Touchユーザーも利用できます。",
+        "mention_ids": [
+          "M115"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          47
+        ],
+        "text": "プログラム",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M002": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "開発者",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M004": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          22
+        ],
+        "text": "それらを",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M006": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          11
+        ],
+        "text": "価格",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M007": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          8
+        ],
+        "text": "アプリ",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "クパチーノの本社",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          31
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          52
+        ],
+        "text": "待望のiPhoneソフトウェア開発キット",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M011": {
+        "sentence_id": "02",
+        "span": [
+          59,
+          79
+        ],
+        "text": "関連するiTunes「App Store",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          81,
+          95
+        ],
+        "text": "iPhone開発者プログラム",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "SDK",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          24
+        ],
+        "text": "サードパーティのソフトウェア開発者",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          37
+        ],
+        "text": "アプリ",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M016": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          32
+        ],
+        "text": "iPhone",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M018": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          16
+        ],
+        "text": "iPhone SDK",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          46
+        ],
+        "text": "それらを",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          63
+        ],
+        "text": "iTunes Apps Store",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M021": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          23
+        ],
+        "text": "iPhone開発者プログラムのメンバーは誰でも",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M022": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          27
+        ],
+        "text": "アプリ",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M023": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          31
+        ],
+        "text": "ストア",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M068": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          56
+        ],
+        "text": "SDK",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M115": {
+        "sentence_id": "15",
+        "span": [
+          58,
+          68
+        ],
+        "text": "スティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E117"
+      }
+    },
+    "entities": {
+      "E080": {
+        "member_mention_ids": [
+          "M011",
+          "M020",
+          "M023"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M001",
+          "M012"
+        ],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M002",
+          "M021"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E107": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPhone",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPhone",
+          "wikidata": "http://www.wikidata.org/entity/Q2766",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPhone"
+        }
+      },
+      "E108": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E110": {
+        "member_mention_ids": [
+          "M010",
+          "M013",
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M068"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IOS_SDK",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IOS_SDK",
+          "wikidata": "http://www.wikidata.org/entity/Q27446",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IOS_SDK"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M009",
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M004",
+          "M007",
+          "M015",
+          "M022"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M115"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      }
+    }
+  }
+}

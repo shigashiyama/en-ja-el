@@ -1,0 +1,709 @@
+{
+  "3299": {
+    "doc_info": {
+      "title": "Three Lions",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "\" Three Lions \" ( alternatively titled \" Three Lions ( Football 's Coming Home ) \" ) is a song released in 1996 as a single by English band The Lightning Seeds to mark the England football team 's hosting of that year 's European Championships .",
+        "text": "\" Three Lions \" ( alternatively titled \" Three Lions ( Football 's Coming Home ) \" ) is a song released in 1996 as a single by English band The Lightning Seeds to mark the England football team 's hosting of that year 's European Championships .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_1",
+          "M3_0",
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "The music was written by the Lightning Seeds ' ■■■■■■■■■■■ , with comedians ■■■■■■■■■■■■■ and ■■■■■■■■■■■■■ — presenters of football - themed comedy show Fantasy Football League — providing the lyrics .",
+        "mention_ids": [
+          "M3_1",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The title comes from the emblem of the England football team , which is in turn derived from the Royal Arms of England .",
+        "text": "The title comes from the emblem of the England football team , which is in turn derived from the Royal Arms of England .",
+        "mention_ids": [
+          "M10_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "orig_text": "This song is one of only three songs to top the British charts more than once with lyric variants , the others being \" Mambo No .",
+        "text": "This song is one of only three songs to top the British charts more than once with lyric variants , the others being \" Mambo No .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_1"
+        ]
+      },
+      "04": {
+        "text": "5 \" ( in versions by ■■■■■■■■ and ■■■■■■■■■■■■■■■ ) and \" Do They Know It 's Christmas ? \"",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "orig_text": "( by Band Aid , Band Aid 20 and Band Aid 30 ) .",
+        "text": "( by Band Aid , Band Aid 20 and Band Aid 30 ) .",
+        "mention_ids": [
+          "M17_0",
+          "M17_1",
+          "M17_2"
+        ]
+      },
+      "06": {
+        "orig_text": "It also regularly reappears in the UK singles chart around major football tournaments involving the England team .",
+        "text": "It also regularly reappears in the UK singles chart around major football tournaments involving the England team .",
+        "mention_ids": [
+          "M18_0",
+          "M4_2"
+        ]
+      },
+      "07": {
+        "orig_text": "The song has been described as the de facto \" anthem \" of English football since 1996 .",
+        "text": "The song has been described as the de facto \" anthem \" of English football since 1996 .",
+        "mention_ids": [
+          "M1_1",
+          "M2_2"
+        ]
+      },
+      "08": {
+        "orig_text": "Its chorus , with the refrain \" It 's coming home \" , has become a popular chant for fans at England games in subsequent years .",
+        "text": "Its chorus , with the refrain \" It 's coming home \" , has become a popular chant for fans at England games in subsequent years .",
+        "mention_ids": [
+          "M2_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          13
+        ],
+        "text": "Three Lions",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          80
+        ],
+        "text": "Three Lions ( Football 's Coming Home )",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          97,
+          118
+        ],
+        "text": "Royal Arms of England",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          30
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          55
+        ],
+        "text": "British",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          1
+        ],
+        "text": "5",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "03",
+        "span": [
+          119,
+          127
+        ],
+        "text": "Mambo No",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          21,
+          29
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          49
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          88
+        ],
+        "text": "Do They Know It 's Christmas ?",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          13
+        ],
+        "text": "Band Aid",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          27
+        ],
+        "text": "Band Aid 20",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M17_2": {
+        "sentence_id": "05",
+        "span": [
+          32,
+          43
+        ],
+        "text": "Band Aid 30",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          51
+        ],
+        "text": "UK singles chart",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          107,
+          111
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          81,
+          85
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "08",
+        "span": [
+          93,
+          100
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          127,
+          134
+        ],
+        "text": "English",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "07",
+        "span": [
+          58,
+          65
+        ],
+        "text": "English",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          140,
+          159
+        ],
+        "text": "The Lightning Seeds",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          44
+        ],
+        "text": "Lightning Seeds",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          60
+        ],
+        "text": "England football team",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "00",
+        "span": [
+          172,
+          193
+        ],
+        "text": "England football team",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "06",
+        "span": [
+          100,
+          112
+        ],
+        "text": "England team",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          221,
+          243
+        ],
+        "text": "European Championships",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          47,
+          58
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          76,
+          89
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          94,
+          107
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          154,
+          177
+        ],
+        "text": "Fantasy Football League",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "removed_mention_ids": [
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Three_Lions_(song)",
+          "wikidata": "http://www.wikidata.org/entity/Q2429491",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Three_Lions"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Lightning_Seeds",
+          "wikidata": "http://www.wikidata.org/entity/Q1973228",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B7%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "wikidata": "http://www.wikidata.org/entity/Q47762",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/England_football_team",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BB%A3%E8%A1%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UEFA_Euro_1996",
+          "wikidata": "http://www.wikidata.org/entity/Q180563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/UEFA_EURO_%2796"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ian_Broudie",
+          "wikidata": "http://www.wikidata.org/entity/Q921695"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Baddiel",
+          "wikidata": "http://www.wikidata.org/entity/Q526242"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Frank_Skinner",
+          "wikidata": "http://www.wikidata.org/entity/Q5489658"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fantasy_Football_League_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q5434295",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Fantasy_Football_League"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Coat_of_arms_of_England",
+          "wikidata": "http://www.wikidata.org/entity/Q643999",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Royal_Arms_of_England",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E7%8E%8B%E5%AE%A4%E7%B4%8B%E7%AB%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mambo_No._5",
+          "wikidata": "http://www.wikidata.org/entity/Q705575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%9CNo.5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lou_Bega",
+          "wikidata": "http://www.wikidata.org/entity/Q60268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%99%E3%82%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bob_the_Builder",
+          "wikidata": "http://www.wikidata.org/entity/Q888360",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%96%E3%81%A8%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E3%83%96%E3%83%BC%E3%83%96%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Do_They_Know_It%27s_Christmas%3F",
+          "wikidata": "http://www.wikidata.org/entity/Q1188494",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Do_They_Know_It's_Christmas?"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1",
+          "M17_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Band_Aid_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q806231",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UK_singles_chart",
+          "wikidata": "http://www.wikidata.org/entity/Q193259",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/UK_Singles_Chart",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%A8%E8%8B%B1%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

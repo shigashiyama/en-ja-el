@@ -1,0 +1,716 @@
+{
+  "3314": {
+    "doc_info": {
+      "title": "PLATIT",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "プラチットAGは、切削工具製造業界向けのコーティング装置を製造および販売するスイスの会社です。",
+        "mention_ids": [
+          "M0_2",
+          "M1_1"
+        ]
+      },
+      "01": {
+        "text": "同社は物理蒸着コーティング技術における技術リーダーの1つです。、",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "プラチットは、1992年にブレッシュグループによって設立されました。同社の本社はスイスのゼルザッハにあります。",
+        "mention_ids": [
+          "M0_0",
+          "M1_4",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "text": "子会社は、シカゴ、米国、上海、中国、ソウル、韓国、ロスキレ、デンマーク、スイス、チェコ共和国にあります。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M1_3",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "38か国に465の設備があります。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "text": "プラチットは、スイスの時計業界向けの製品に焦点を当てているスイスの複合企業であるBCIグループが主に完全所有しています。",
+        "mention_ids": [
+          "M0_1",
+          "M16_0",
+          "M1_0",
+          "M1_2"
+        ]
+      },
+      "06": {
+        "text": "競合他社には、エリコン・バルザース-スルザー、イオンボンド（IHI日本）、ハウザー・テクノ・コーティング（IHI日本）、(メタプラス・イオンボンド)、セメコン・ドイツが含まれます。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M19_1",
+          "M20_0",
+          "M20_1",
+          "M21_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "プラチット",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "プラチット",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "プラチットAG",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          24
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          29
+        ],
+        "text": "ロスキレ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          35
+        ],
+        "text": "デンマーク",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          40,
+          46
+        ],
+        "text": "チェコ共和国",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          8
+        ],
+        "text": "465",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          2
+        ],
+        "text": "38",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          47
+        ],
+        "text": "BCIグループ",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          22
+        ],
+        "text": "エリコン・バルザース-スルザー",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          29
+        ],
+        "text": "イオンボンド",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          30,
+          35
+        ],
+        "text": "IHI日本",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M19_1": {
+        "sentence_id": "06",
+        "span": [
+          53,
+          58
+        ],
+        "text": "IHI日本",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          32
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          41
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          10
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          39
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          43
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          37,
+          52
+        ],
+        "text": "ハウザー・テクノ・コーティング",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "06",
+        "span": [
+          61,
+          73
+        ],
+        "text": "メタプラス・イオンボンド",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          75,
+          83
+        ],
+        "text": "セメコン・ドイツ",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          18
+        ],
+        "text": "ブレッシュ",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1992年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          49
+        ],
+        "text": "ゼルザッハ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          8
+        ],
+        "text": "シカゴ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          11
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          14
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          17
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          21
+        ],
+        "text": "ソウル",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/PLATIT",
+          "wikidata": "http://www.wikidata.org/entity/Q3359722"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M1_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_companies_of_Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q269548",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/List_of_Swiss_companies",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%81%AE%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Selzach",
+          "wikidata": "http://www.wikidata.org/entity/Q67935"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chicago",
+          "wikidata": "http://www.wikidata.org/entity/Q1297",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AB%E3%82%B4"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shanghai",
+          "wikidata": "http://www.wikidata.org/entity/Q8686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Seoul",
+          "wikidata": "http://www.wikidata.org/entity/Q8684",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6%E3%83%AB%E7%89%B9%E5%88%A5%E5%B8%82"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Roskilde",
+          "wikidata": "http://www.wikidata.org/entity/Q26563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%82%AD%E3%83%AC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q35",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Czech_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q213",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/BCI_Group",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/BCI_Group"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oerlikon_Balzers",
+          "wikidata": "http://www.wikidata.org/entity/Q1347593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AB%E3%82%B6%E3%83%BC%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0",
+          "M19_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IHI_Corporation",
+          "wikidata": "http://www.wikidata.org/entity/Q1653679",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IHI"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

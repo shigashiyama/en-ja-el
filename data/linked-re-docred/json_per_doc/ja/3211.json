@@ -1,0 +1,587 @@
+{
+  "3211": {
+    "doc_info": {
+      "title": "List of Major League Baseball first-round draft picks",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "メジャー・リーグ・ベースボール（MLB）は、北米プロ野球の最高レベルのプレーであり、ナショナル・リーグとアメリカン・リーグを運営する組織です。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "2000年に、2つのリーグは別個の法人として正式に解散され、それらの全ての権利と機能はコミッショナーのオフィスに統合されました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "それ以来、MLBは単一リーグとして運営され、アメリカの主要なプロスポーツ・リーグの1つを構成しています。",
+        "mention_ids": [
+          "M0_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "それは30チームで構成されています。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "ルール4ドラフトとしても知られる1年目選手のドラフトは、MLBが高校、大学、他のアマチュア野球クラブからアマチュア野球選手をMLBのチームに割り当てるための主要なメカニズムです。",
+        "mention_ids": [
+          "M0_3",
+          "M8_0",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "text": "最初のドラフトは1965年に行われました。それは、より裕福なチームがトップレベルの有望選手とより裕福な契約を交渉し、それによって選手市場を独占することを防ぐために導入されました。",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "当初は毎年3回のドラフトがありました。",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "07": {
+        "text": "最初のドラフトは6月に行われ、シーズンを終えたばかりの高校卒業生と大学4年生が参加しました。",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "08": {
+        "text": "2回目のドラフトは、12月に卒業した高校生および大学生の選手をに対して1月に行われました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "09": {
+        "text": "3回目のドラフトは8月に行われ、アメリカのアマチュア・サマーリーグに参加した選手に対してでした。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "10": {
+        "text": "8月のドラフトは2年後に廃止され、1月のドラフトは1986年まで続きました。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "11": {
+        "text": "ドラフトの順番は前シーズンの順位に基づいて決定され、最も悪い成績のチームが1位指名を有します。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "さらに、前のオフシーズンにフリーエージェントを失ったチームには、「補償的な」指名が与えられる場合があります。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "メジャー・リーグ・ベースボール",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          19
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          8
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          31
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          7
+        ],
+        "text": "3回",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          8,
+          10
+        ],
+        "text": "6月",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "08",
+        "span": [
+          35,
+          37
+        ],
+        "text": "1月",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "08",
+        "span": [
+          10,
+          13
+        ],
+        "text": "12月",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "09",
+        "span": [
+          9,
+          11
+        ],
+        "text": "8月",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          16,
+          20
+        ],
+        "text": "アメリカ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "09",
+        "span": [
+          21,
+          33
+        ],
+        "text": "アマチュア・サマーリーグ",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "10",
+        "span": [
+          8,
+          10
+        ],
+        "text": "2年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "10",
+        "span": [
+          25,
+          30
+        ],
+        "text": "1986年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          24
+        ],
+        "text": "北米",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          51
+        ],
+        "text": "ナショナル・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          61
+        ],
+        "text": "アメリカン・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2000年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          10
+        ],
+        "text": "2つの",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          26
+        ],
+        "text": "アメリカ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          5
+        ],
+        "text": "30",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          26
+        ],
+        "text": "1年目選手のドラフト",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ルール4ドラフト",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          13
+        ],
+        "text": "1965年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+          "wikidata": "http://www.wikidata.org/entity/Q1163715",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_America",
+          "wikidata": "http://www.wikidata.org/entity/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_League_(baseball)",
+          "wikidata": "http://www.wikidata.org/entity/Q858082",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/National_League",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_League",
+          "wikidata": "http://www.wikidata.org/entity/Q465469",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Major_League_Baseball_draft",
+          "wikidata": "http://www.wikidata.org/entity/Q953813",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rule_4_Draft",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%95%E3%83%88%E4%BC%9A%E8%AD%B0_(MLB)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

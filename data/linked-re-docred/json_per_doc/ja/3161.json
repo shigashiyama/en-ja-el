@@ -1,0 +1,614 @@
+{
+  "3161": {
+    "doc_info": {
+      "title": "Bigpoint Games",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Bigpoint GmbHは、ドイツのビデオゲーム開発会社です。",
+        "mention_ids": [
+          "M0_3",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "同社は、スタンドアロンのブラウザベースのゲームやソーシャルネットワーク・ゲームを開発しています。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "Bigpointは、自社が制作した多数のブラウザベースの大規模マルチプレイヤー・オンライン・ロール・プレイングゲームを備えたゲームポータル・ウェブサイトも運営しており、2億人を超える登録ユーザーがいます(2011年6月に発表)。",
+        "mention_ids": [
+          "M0_2",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "03": {
+        "text": "Bigpoint.comには、2013年10月10日の時点で、337,104,419人のプレイヤーが登録されていると右上隅に記載されています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "04": {
+        "text": "NBCUは、一部のケーブル・チャンネルのウェブサイトでBigpointのゲームの一部を紹介しています。",
+        "mention_ids": [
+          "M0_1",
+          "M6_0"
+        ]
+      },
+      "05": {
+        "text": "Bigpointは、ドイツのハンブルグにある本社に加えて、ベルリン、サンフランシスコ、マルタ、サンパウロにもオフィスを構えています。",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "同社のゲームには、『バトルスターギャラクティカ・オンライン』、『Farmerama』、『ドラケンサング・オンライン』、『DarkOrbit』、『 Seafight 』などがあります。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "text": "このスタジオは2016年にYouzu Interactiveによって買収され、独立した子会社として運営を続けています。",
+        "mention_ids": [
+          "M18_0",
+          "M19_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Bigpoint",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          35
+        ],
+        "text": "Bigpoint",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Bigpoint",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Bigpoint GmbH",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          42
+        ],
+        "text": "サンフランシスコ",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          43,
+          46
+        ],
+        "text": "マルタ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          47,
+          52
+        ],
+        "text": "サンパウロ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          29
+        ],
+        "text": "バトルスターギャラクティカ・オンライン",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          32,
+          41
+        ],
+        "text": "Farmerama",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          44,
+          57
+        ],
+        "text": "ドラケンサング・オンライン",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          60,
+          69
+        ],
+        "text": "DarkOrbit",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          72,
+          82
+        ],
+        "text": " Seafight ",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          13,
+          30
+        ],
+        "text": "Youzu Interactive",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          12
+        ],
+        "text": "2016年",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          18
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "02",
+        "span": [
+          84,
+          87
+        ],
+        "text": "2億人",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          102,
+          109
+        ],
+        "text": "2011年6月",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Bigpoint.com",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          43
+        ],
+        "text": "337,104,419人",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "NBCU",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          19
+        ],
+        "text": "ハンブルグ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          13
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          33
+        ],
+        "text": "ベルリン",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bigpoint",
+          "wikidata": "http://www.wikidata.org/entity/Q694590"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NBCUniversal",
+          "wikidata": "http://www.wikidata.org/entity/Q724759",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NBC%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hamburg",
+          "wikidata": "http://www.wikidata.org/entity/Q1055",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berlin",
+          "wikidata": "http://www.wikidata.org/entity/Q64",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Francisco",
+          "wikidata": "http://www.wikidata.org/entity/Q62",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malta",
+          "wikidata": "http://www.wikidata.org/entity/Q233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "wikidata": "http://www.wikidata.org/entity/Q174",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/São_Paulo",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%91%E3%82%A6%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Battlestar_Galactica_Online",
+          "wikidata": "http://www.wikidata.org/entity/Q1186362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Battlestar_Galactica_Online"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "wikidata": "http://www.wikidata.org/entity/Q911460"
+        },
+        "method": "manual",
+        "confidence": "C"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Drakensang_Online",
+          "wikidata": "http://www.wikidata.org/entity/Q1255555"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/DarkOrbit",
+          "wikidata": "http://www.wikidata.org/entity/Q1166122"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Seafight",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Seafight"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yoozoo_Games",
+          "wikidata": "http://www.wikidata.org/entity/Q17038791",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Youzu_Interactive"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

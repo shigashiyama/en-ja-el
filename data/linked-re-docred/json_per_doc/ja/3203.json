@@ -1,0 +1,435 @@
+{
+  "3203": {
+    "doc_info": {
+      "title": "Carlos Pedevilla",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■（1980年頃の生まれ）は、アルゼンチンの俳優です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "■■■■は、テレフェの作品『チキティータス』における「■■」の性格描写としてより記憶されているかもしれません。",
+        "mention_ids": [
+          "M0_1",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "■■■■は、『エル・アルボル・アズール』（「ブルー・ツリー」）でテレビ俳優のデビューを果たし、■■■■■■■■■■■などと共演する機会がありました。",
+        "mention_ids": [
+          "M0_2",
+          "M6_0",
+          "M6_1",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "その後、1990年代に、彼は『チキティータス』で演技する機会を与えられ、そこで彼は■■■■■■■■■「■■■■」の恋愛対象を演じました。",
+        "mention_ids": [
+          "M5_1",
+          "M8_0",
+          "M9_0",
+          "M9_2"
+        ]
+      },
+      "04": {
+        "text": "「■■」と「■■■■」がデートしている間、「■■」は「チキティータス」の孤児の家に住んでいるその他の子供たちに対して一般的な軽蔑を感じました。",
+        "mention_ids": [
+          "M3_1",
+          "M3_2",
+          "M5_3",
+          "M9_1"
+        ]
+      },
+      "05": {
+        "text": "「チキティータス」の配役のメンバーとしての期間が終了した後、■■■■はスクリーンでの演技から引退しました。",
+        "mention_ids": [
+          "M0_3",
+          "M5_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          30,
+          34
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          15
+        ],
+        "text": "1980年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          29
+        ],
+        "text": "アルゼンチン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          29
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          3
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          24
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          10
+        ],
+        "text": "テレフェ",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          21
+        ],
+        "text": "チキティータス",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          22
+        ],
+        "text": "チキティータス",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "05",
+        "span": [
+          1,
+          8
+        ],
+        "text": "チキティータス",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          34
+        ],
+        "text": "チキティータス",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          19
+        ],
+        "text": "エル・アルボル・アズール",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          29
+        ],
+        "text": "ブルー・ツリー",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          47,
+          58
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          10
+        ],
+        "text": "1990年代",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          50
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          10
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      },
+      "M9_2": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          55
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Carlos_Pedevilla",
+          "wikidata": "http://www.wikidata.org/entity/Q5042480"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Argentina",
+          "wikidata": "http://www.wikidata.org/entity/Q414",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Telefe",
+          "wikidata": "http://www.wikidata.org/entity/Q1143518",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%95%E3%82%A7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chiquititas",
+          "wikidata": "http://www.wikidata.org/entity/Q1974380"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/El_%C3%A1rbol_azul",
+          "wikidata": "http://www.wikidata.org/entity/Q5827192",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/El_Arbol_Azul"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrea_del_Boca",
+          "wikidata": "http://www.wikidata.org/entity/Q287873",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Andrea_Del_Boca"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1",
+          "M9_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Georgina_Mollo",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Georgina_Mollo"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "3073": {
+    "doc_info": {
+      "title": "Little Mahantango Creek",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "リトル・マハンタンゴ・クリークは、米国ペンシルベニア州のスクールキル郡とノーサンバーランド郡にあるマハンタンゴ・クリークの支流です。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "この川はおよそ長く、スクールキル郡のエルドレッド郡区とアッパー・マハントンゴ郡区、およびノーサンバーランド郡のアッパー・マハノイ郡区を流れています。",
+        "mention_ids": [
+          "M2_1",
+          "M3_1",
+          "M6_0",
+          "M7_0",
+          "M7_1"
+        ]
+      },
+      "02": {
+        "text": "小川の流域の面積は15.1平方マイル（39平方キロメートル）です。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "クリークには名前のない支流や亜支流が多数あり、本流と同様に、それらすべてが正常な機能が損なわれています。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "リトル・マハンタンゴ・クリークの損傷の原因は堆積物/沈泥であり、考えられる損傷の原因は農業です。",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "05": {
+        "text": "リトル・マハンタンゴ・クリーク付近の主な岩層には、アイリッシュ・バレー層、トリマーズ・ロック層、ダンキャノン層、シャーマン・クリーク層などがあります。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "クリーク付近の主な土壌には、レック・キル・マイナーズビル・カルビン土壌、バークス・ワイカート・ベディントン土壌、ヘーゼルトン・デカルブ・ブフナン土壌があります。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "07": {
+        "text": "その近隣の主な土地利用は農地ですが、森林地帯や造成地も存在します。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "小川には多くの橋が建設されています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          15
+        ],
+        "text": "リトル・マハンタンゴ・クリーク",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "リトル・マハンタンゴ・クリーク",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          15
+        ],
+        "text": "リトル・マハンタンゴ・クリーク",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          48,
+          54
+        ],
+        "text": "ダンキャノン",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          66
+        ],
+        "text": "シャーマン・クリーク",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          33
+        ],
+        "text": "レック・キル・マイナーズビル・カルビン",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          36,
+          53
+        ],
+        "text": "バークス・ワイカート・ベディントン",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          56,
+          72
+        ],
+        "text": "ヘーゼルトン・デカルブ・ブフナン",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          60
+        ],
+        "text": "マハンタンゴ・クリーク",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          35
+        ],
+        "text": "スクールキル郡",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          17
+        ],
+        "text": "スクールキル郡",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          46
+        ],
+        "text": "ノーサンバーランド郡",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          44,
+          54
+        ],
+        "text": "ノーサンバーランド郡",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          27
+        ],
+        "text": "ペンシルベニア州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          19
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          26
+        ],
+        "text": "エルドレッド郡区",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          55,
+          66
+        ],
+        "text": "アッパー・マハノイ郡区",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          40
+        ],
+        "text": "アッパー・マハントンゴ郡区",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          35
+        ],
+        "text": "アイリッシュ・バレー",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          47
+        ],
+        "text": "トリマーズ・ロック層",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Little_Mahantango_Creek",
+          "wikidata": "http://www.wikidata.org/entity/Q24900666"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mahantango_Creek",
+          "wikidata": "http://www.wikidata.org/entity/Q6733152"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Schuylkill_County,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q494207",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%BC%E3%82%AB%E3%83%AB%E9%83%A1_(%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northumberland_County,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q494164",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E9%83%A1_(%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q1400",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eldred_Township,_Schuylkill_County,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q5354146"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Upper_Mahanoy_Township,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q1896149",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Upper_Mahanoy_Township,_Northumberland_County,_Pennsylvania",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%8F%E3%83%8E%E3%82%A4%E9%83%A1%E5%8C%BA_(%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E%E3%83%8E%E3%83%BC%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E9%83%A1)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Trimmers_Rock_Formation",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Trimmers_Rock_Formation"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Duncannon,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q1130985"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shermans_Creek_(Pennsylvania)",
+          "wikidata": "http://www.wikidata.org/entity/Q7495151",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sherman_Creek_(Pennsylvania)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

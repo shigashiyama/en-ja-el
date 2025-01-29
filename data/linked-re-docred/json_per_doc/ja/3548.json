@@ -1,0 +1,645 @@
+{
+  "3548": {
+    "doc_info": {
+      "title": "Vladislav Frolov",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■( ) (1980年1月25日、タンボフ生まれ)は、ロシアの短距離走選手です。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_3"
+        ]
+      },
+      "01": {
+        "text": "彼は、ヨーテボリで開催された2006年ヨーロッパ陸上競技選手権の400メートルで45.09秒の自己ベストを記録し銀メダルを獲得しました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "2007年ヨーロッパ室内陸上競技選手権大会では、チームメイトの■■■■■■■■、■■■■■■■■■■■、■■■■■■■■■■■■■と4×400メートルリレーで銀メダルを獲得しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M4_1",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ロシアチームは当初、ロシアのアンカーランナーである■■■■■■■■は、ドイツの■■■■■■■■■■■■■が最終ラップで■■■■■■■■を抜き去ったときに押されて3位で終了しました。",
+        "mention_ids": [
+          "M14_0",
+          "M14_1",
+          "M15_1",
+          "M16_0",
+          "M3_0",
+          "M3_2"
+        ]
+      },
+      "04": {
+        "text": "しかし、この事件により、優勝したドイツチームは失格となり、その後ロシアが２位に昇格しました。",
+        "mention_ids": [
+          "M15_0",
+          "M3_1"
+        ]
+      },
+      "05": {
+        "text": "■■■■は、2008年夏季オリンピックの男子4×400メートルリレーで3位になったチームの一員だったが、チームメイトの■■■■■■■■■■がドーピングの陽性反応を示した後、チームは失格となりました。",
+        "mention_ids": [
+          "M0_0",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          21
+        ],
+        "text": "ヨーロッパ室内陸上競技選手権大会",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          39
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          51
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          65
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          33
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          59,
+          67
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          19
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "03",
+        "span": [
+          35,
+          38
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          52
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          31
+        ],
+        "text": "4×400メートル",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          19
+        ],
+        "text": "2008年夏季オリンピック",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          59,
+          69
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          33
+        ],
+        "text": "1980年1月25日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          38
+        ],
+        "text": "タンボフ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          13
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          35
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "00",
+        "span": [
+          44,
+          47
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          32,
+          39
+        ],
+        "text": "400メートル",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          75
+        ],
+        "text": "4×400メートル",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          19
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          31
+        ],
+        "text": "ヨーロッパ陸上競技選手権",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          8
+        ],
+        "text": "ヨーテボリ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          45
+        ],
+        "text": "45.09",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2007年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladislav_Frolov",
+          "wikidata": "http://www.wikidata.org/entity/Q512462"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tambov",
+          "wikidata": "http://www.wikidata.org/entity/Q3544",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%9C%E3%83%95"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/2006_European_Athletics_Championships",
+          "wikidata": "http://www.wikidata.org/entity/Q623563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2006%E5%B9%B4%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E9%99%B8%E4%B8%8A%E7%AB%B6%E6%8A%80%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gothenburg",
+          "wikidata": "http://www.wikidata.org/entity/Q25287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%86%E3%83%9C%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/2007_European_Athletics_Indoor_Championships",
+          "wikidata": "http://www.wikidata.org/entity/Q301405"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ivan_Buzolin",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Ivan_Buzolin"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maksim_Dyldin",
+          "wikidata": "http://www.wikidata.org/entity/Q561763"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Artem_Sergeyenkov",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Artem_Sergeyenkov"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Artem_Sergeyenkov",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Artem_Sergeyenkov"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bastian_Swillims",
+          "wikidata": "http://www.wikidata.org/entity/Q257989"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+          "wikidata": "http://www.wikidata.org/entity/Q159821",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denis_Alekseyev",
+          "wikidata": "http://www.wikidata.org/entity/Q512447",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%BB%E3%83%BC%E3%82%A8%E3%83%95"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

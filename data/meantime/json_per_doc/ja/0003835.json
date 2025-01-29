@@ -1,0 +1,465 @@
+{
+  "0003835": {
+    "doc_info": {
+      "title": "3835_Chinese_airlines_agree_purchase_of_Boeing_787_Dreamliners",
+      "url": "http://en.wikinews.org/wiki/Chinese_airlines_agree_purchase_of_Boeing_787_Dreamliners_worth_US$7.2bn"
+    },
+    "sentences": {
+      "00": {
+        "text": "中国の航空会社、72億米ドル相当のボーイング787ドリームライナーの購入に同意",
+        "mention_ids": [
+          "M016",
+          "M018"
+        ]
+      },
+      "01": {
+        "text": "2005 年 1 月 29 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "中華人民共和国当局者は、ボーイング787ドリームライナー60機を72億米ドル相当の契約で購入することに合意しました。",
+        "mention_ids": [
+          "M011",
+          "M013"
+        ]
+      },
+      "03": {
+        "text": "中国では、航空機は選択および購入されますが、同国の政府によってであり、政府はそれらをさまざまな航空会社に分配します。",
+        "mention_ids": [
+          "M015",
+          "M017",
+          "M019"
+        ]
+      },
+      "04": {
+        "text": "予備合意により、ドリームライナーは中国国際航空、中国東方航空、中国南方航空、海南航空、上海航空、厦門航空の6社の航空会社に引き渡されることになります。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "05": {
+        "text": "納入は2008年の北京オリンピックに間に合うよう計画されています。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "この航空機はかつて7E7と名付けられましたが、契約の発表と同時に名前が変更されました。",
+        "mention_ids": [
+          "M082"
+        ]
+      },
+      "07": {
+        "text": "ボーイングは2006年に生産を開始し、この航空機は2008年に航空サービスを開始する予定です。",
+        "mention_ids": [
+          "M094",
+          "M108"
+        ]
+      },
+      "08": {
+        "text": "それは200～300人が座ることができ、航続距離は3,500～8,500海里になります。",
+        "mention_ids": [
+          "M091"
+        ]
+      },
+      "09": {
+        "text": "最新の素材と設計の使用により、それは現在の同等の航空機よりも燃料効率が20%向上します。",
+        "mention_ids": [
+          "M081"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          16
+        ],
+        "text": "ドリームライナー",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M003": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          55
+        ],
+        "text": "中国国際航空、中国東方航空、中国南方航空、海南航空、上海航空、厦門航空の6社",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M011": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "中華人民共和国当局者",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M013": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          31
+        ],
+        "text": "ボーイング787ドリームライナー60機",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "中国",
+        "entity_type": null,
+        "entity_id": "E130"
+      },
+      "M016": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "中国の航空会社",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          8
+        ],
+        "text": "航空機",
+        "entity_type": null,
+        "entity_id": "E132"
+      },
+      "M018": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          33
+        ],
+        "text": "72億米ドル相当のボーイング787ドリームライナー",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          57
+        ],
+        "text": "同国の政府によってであり、政府はそれらをさまざまな航空会社に分配します",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M081": {
+        "sentence_id": "09",
+        "span": [
+          15,
+          17
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M082": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "この航空機",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M091": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M094": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M108": {
+        "sentence_id": "07",
+        "span": [
+          19,
+          24
+        ],
+        "text": "この航空機",
+        "entity_type": null,
+        "entity_id": "E128"
+      }
+    },
+    "entities": {
+      "E109": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E110": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China_Southern_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China_Southern_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q291090",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Air_China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Air_China",
+          "wikidata": "http://www.wikidata.org/entity/Q51747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Xiamen_Airlines",
+          "dbpedia:orig": "http://dbpedia.org/resource/Xiamen_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/XiamenAir",
+          "wikidata": "http://www.wikidata.org/entity/Q147208",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%A6%E9%96%80%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M003",
+          "M016"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E122": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Shanghai_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q721994",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/China_Eastern_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China_Eastern_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q291796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%9D%B1%E6%96%B9%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M094"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing",
+          "wikidata": "http://www.wikidata.org/entity/Q66",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M002",
+          "M018",
+          "M081",
+          "M082",
+          "M091",
+          "M108"
+        ],
+        "removed_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing_787_Dreamliner",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+          "wikidata": "http://www.wikidata.org/entity/Q6428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0787"
+        }
+      },
+      "E130": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      },
+      "E132": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "removed_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E134": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Hainan_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hainan_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q292428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%8D%97%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E136": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M012",
+          "M021"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

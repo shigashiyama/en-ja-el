@@ -1,0 +1,635 @@
+{
+  "3333": {
+    "doc_info": {
+      "title": "Space Mirror Memorial",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Space Mirror Memorial , which forms part of the larger Astronauts Memorial , is a National Memorial on the grounds of the John F. Kennedy Space Center Visitor Complex on Merritt Island , Florida .",
+        "text": "The Space Mirror Memorial , which forms part of the larger Astronauts Memorial , is a National Memorial on the grounds of the John F. Kennedy Space Center Visitor Complex on Merritt Island , Florida .",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is maintained by the Astronauts Memorial Foundation , whose offices are located in the NASA Center for Space Education next door to the Visitor Complex .",
+        "text": "It is maintained by the Astronauts Memorial Foundation , whose offices are located in the NASA Center for Space Education next door to the Visitor Complex .",
+        "mention_ids": [
+          "M0_1",
+          "M3_1",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "The memorial was designed in 1987 by ■■■■■■■■■■■■■■■■■■■■■■■ , and dedicated on May 9 , 1991 , to remember the lives of the men and women who have died in the various space programs of the United States , particularly those of NASA .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The Astronauts Memorial has been designated by the U.S. Congress \" as the national memorial to astronauts who die in the line of duty \" ( Joint Resolution 214 , 1991 ) .",
+        "text": "The Astronauts Memorial has been designated by the U.S. Congress \" as the national memorial to astronauts who die in the line of duty \" ( Joint Resolution 214 , 1991 ) .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M1_0",
+          "M9_1"
+        ]
+      },
+      "04": {
+        "orig_text": "In addition to 20 NASA career astronauts , the memorial includes the names of a U.S. Air Force X-15 test pilot , a U.S. Air Force officer who died while training for a then - classified military space program , a civilian spaceflight participant who died in the Challenger disaster , and an Israeli astronaut who was killed during the Columbia disaster .",
+        "text": "In addition to 20 NASA career astronauts , the memorial includes the names of a U.S. Air Force X-15 test pilot , a U.S. Air Force officer who died while training for a then - classified military space program , a civilian spaceflight participant who died in the Challenger disaster , and an Israeli astronaut who was killed during the Columbia disaster .",
+        "mention_ids": [
+          "M11_1",
+          "M14_0",
+          "M15_0",
+          "M15_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          25
+        ],
+        "text": "Space Mirror Memorial",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          54
+        ],
+        "text": "Astronauts Memorial Foundation",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          185,
+          202
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          227,
+          231
+        ],
+        "text": "NASA",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "04",
+        "span": [
+          18,
+          22
+        ],
+        "text": "NASA",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          64
+        ],
+        "text": "U.S. Congress",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          138,
+          158
+        ],
+        "text": "Joint Resolution 214",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          17
+        ],
+        "text": "20",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          80,
+          94
+        ],
+        "text": "U.S. Air Force",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "04",
+        "span": [
+          115,
+          129
+        ],
+        "text": "U.S. Air Force",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          95,
+          99
+        ],
+        "text": "X-15",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          262,
+          281
+        ],
+        "text": "Challenger disaster",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          291,
+          298
+        ],
+        "text": "Israeli",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          335,
+          352
+        ],
+        "text": "Columbia disaster",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          23
+        ],
+        "text": "Astronauts Memorial",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          78
+        ],
+        "text": "Astronauts Memorial",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          103
+        ],
+        "text": "National Memorial",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          126,
+          170
+        ],
+        "text": "John F. Kennedy Space Center Visitor Complex",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          139,
+          154
+        ],
+        "text": "Visitor Complex",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          174,
+          188
+        ],
+        "text": "Merritt Island",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          191,
+          198
+        ],
+        "text": "Florida",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          90,
+          121
+        ],
+        "text": "NASA Center for Space Education",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          33
+        ],
+        "text": "1987",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          60
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          80,
+          92
+        ],
+        "text": "May 9 , 1991",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "03",
+        "span": [
+          161,
+          165
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Space_Mirror_Memorial",
+          "wikidata": "http://www.wikidata.org/entity/Q1546040",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_memorial",
+          "wikidata": "http://www.wikidata.org/entity/Q111569355",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/National_Memorial"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Visitor_Complex",
+          "wikidata": "http://www.wikidata.org/entity/Q6389687"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Merritt_Island,_Florida",
+          "wikidata": "http://www.wikidata.org/entity/Q991010",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Florida",
+          "wikidata": "http://www.wikidata.org/entity/Q812",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NASA",
+          "wikidata": "http://www.wikidata.org/entity/Q23548",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E5%B1%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q11268",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/U.S._Congress",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+          "wikidata": "http://www.wikidata.org/entity/Q11223",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/U.S._Air_Force",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%A9%BA%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_American_X-15",
+          "wikidata": "http://www.wikidata.org/entity/Q221269",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/X-15",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/X-15_(%E8%88%AA%E7%A9%BA%E6%A9%9F)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+          "wikidata": "http://www.wikidata.org/entity/Q858145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E5%8F%B7%E7%88%86%E7%99%BA%E4%BA%8B%E6%95%85"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Israel",
+          "wikidata": "http://www.wikidata.org/entity/Q801",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster",
+          "wikidata": "http://www.wikidata.org/entity/Q580867",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%8F%B7%E7%A9%BA%E4%B8%AD%E5%88%86%E8%A7%A3%E4%BA%8B%E6%95%85"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

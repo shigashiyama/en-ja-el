@@ -1,0 +1,759 @@
+{
+  "3128": {
+    "doc_info": {
+      "title": "Lombardia (wine)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ロンバルディア(ロンバルディ)ワインは、北中部イタリアのロンバルディア地方で生産されるイタリアワインです。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M1_1",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "この地域は、フランチャコルタとオルトレポ・パヴェーゼ地域で作られるスパークリング・ワインで特に知られています。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "ロンバルディアでは、ヴァルテッリーナ地方のネブビオロワイン、ガルダ湖の湖岸沿いのキアレットスタイルのロゼを使って生産されたトレビアーノ・ディ・ルガーナ白ワインを含む、様々な地元および国際的な葡萄から作られた赤、白、ロゼのワインが生産されています。",
+        "mention_ids": [
+          "M2_1",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "現在、ワイン産地には15個のデノミナツィオーネ・ディ・オリージネ・コントロッラータ(DOC)、3個のデノミナツィオーネ・ディ・オリージネ・コントロッラータ・エ・ガランティータ(DOCG)および13個のインディカツィオーネ・ジオグラフィカ・ティピカ(IGT)の指定地域があります。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M11_1",
+          "M12_0",
+          "M13_0",
+          "M13_1",
+          "M14_0",
+          "M15_0",
+          "M15_1"
+        ]
+      },
+      "04": {
+        "text": "この地域の主要都市は、ミラノ、ベルガモ、ブレシアです。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "05": {
+        "text": "この地域は年間約130万ヘクトリットルのワインを生産しており、これはフリウリ-ヴェネツィア・ジュリア、マルシェ、トレンティーノ-アルト・アディジェ/スュディトロール、ウンブリアの地域よりも多いです。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ロンバルディア",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          14
+        ],
+        "text": "ロンバルディ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          13
+        ],
+        "text": "15個",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          41
+        ],
+        "text": "デノミナツィオーネ・ディ・オリージネ・コントロッラータ",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          45
+        ],
+        "text": "DOC",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          47,
+          49
+        ],
+        "text": "3個",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          50,
+          87
+        ],
+        "text": "デノミナツィオーネ・ディ・オリージネ・コントロッラータ・エ・ガランティータ",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "03",
+        "span": [
+          88,
+          92
+        ],
+        "text": "DOCG",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          96,
+          99
+        ],
+        "text": "13個",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          100,
+          123
+        ],
+        "text": "インディカツィオーネ・ジオグラフィカ・ティピカ",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "03",
+        "span": [
+          124,
+          127
+        ],
+        "text": "IGT",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          14
+        ],
+        "text": "ミラノ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          19
+        ],
+        "text": "ベルガモ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          24
+        ],
+        "text": "ブレシア",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          12
+        ],
+        "text": "130万",
+        "entity_type": "NUM",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          27
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          47
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          50
+        ],
+        "text": "フリウリ-ヴェネツィア・ジュリア",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          55
+        ],
+        "text": "マルシェ",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          82
+        ],
+        "text": "トレンティーノ-アルト・アディジェ/スュディトロール",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          83,
+          88
+        ],
+        "text": "ウンブリア",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          35
+        ],
+        "text": "ロンバルディア",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ロンバルディア",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          14
+        ],
+        "text": "フランチャコルタ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          26
+        ],
+        "text": "オルトレポ・パヴェーゼ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          26
+        ],
+        "text": "ネブビオロ",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          18
+        ],
+        "text": "ヴァルテッリーナ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          75
+        ],
+        "text": "トレビアーノ・ディ・ルガーナ",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          45
+        ],
+        "text": "キアレット",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          30,
+          34
+        ],
+        "text": "ガルダ湖",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lombardy",
+          "wikidata": "http://www.wikidata.org/entity/Q1210",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lombardy",
+          "wikidata": "http://www.wikidata.org/entity/Q1210",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Franciacorta_DOCG",
+          "wikidata": "http://www.wikidata.org/entity/Q3750896",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Franciacorta_(wine)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%B3%E3%83%AB%E3%82%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oltrep%C3%B2_Pavese",
+          "wikidata": "http://www.wikidata.org/entity/Q1248675",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Oltrepò_Pavese"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nebbiolo",
+          "wikidata": "http://www.wikidata.org/entity/Q202290",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%93%E3%82%AA%E3%83%BC%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Valtellina",
+          "wikidata": "http://www.wikidata.org/entity/Q685105",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%86%E3%83%83%E3%83%AA%E3%83%BC%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Verdicchio",
+          "wikidata": "http://www.wikidata.org/entity/Q1937755",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Trebbiano_di_Lugana",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AD%E3%82%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lake_Garda",
+          "wikidata": "http://www.wikidata.org/entity/Q6414",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AB%E3%83%80%E6%B9%96"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Italian_DOC_wines",
+          "wikidata": "http://www.wikidata.org/entity/Q4434132"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/DOCG",
+          "wikidata": "http://www.wikidata.org/entity/Q2305591",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/List_of_Italian_DOCG_wines",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8E%E3%83%9F%E3%83%8A%E3%83%84%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%8D%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%8D%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%83%E3%83%A9%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%A8%E3%83%BB%E3%82%AC%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Italian_IGT_wines",
+          "wikidata": "http://www.wikidata.org/entity/Q4013657"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Milan",
+          "wikidata": "http://www.wikidata.org/entity/Q490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%83%8E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bergamo",
+          "wikidata": "http://www.wikidata.org/entity/Q628",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AC%E3%83%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brescia",
+          "wikidata": "http://www.wikidata.org/entity/Q6221",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia",
+          "wikidata": "http://www.wikidata.org/entity/Q1250",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%A6%E3%83%AA%EF%BC%9D%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%84%E3%82%A3%E3%82%A2%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marche",
+          "wikidata": "http://www.wikidata.org/entity/Q1279",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%B1%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Tyrol_wine",
+          "wikidata": "http://www.wikidata.org/entity/Q7838516",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Trentino-Alto_Adige/Südtirol_(wine)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Umbria",
+          "wikidata": "http://www.wikidata.org/entity/Q1280",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%B3%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

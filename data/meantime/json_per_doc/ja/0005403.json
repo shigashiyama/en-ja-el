@@ -1,0 +1,409 @@
+{
+  "0005403": {
+    "doc_info": {
+      "title": "5403_Boeing_allowed_to_bid_for_U.S._space_launch_contracts_again",
+      "url": "http://en.wikinews.org/wiki/Boeing_allowed_to_bid_for_U.S._space_launch_contracts_again"
+    },
+    "sentences": {
+      "00": {
+        "text": "ボーイングは、米国宇宙打ち上げ契約への入札を再び許可されました。",
+        "mention_ids": [
+          "M013",
+          "M015"
+        ]
+      },
+      "01": {
+        "text": "2005 年 3 月 6 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米空軍が発表したところによると、ボーイングの打ち上げシステム、打ち上げサービス、デルタ・プログラムの各事業部門は、米国の宇宙打ち上げ契約に再び入札できるようになります。",
+        "mention_ids": [
+          "M012",
+          "M014",
+          "M064"
+        ]
+      },
+      "03": {
+        "text": "ボーイングは、連邦法に違反したため、2003年7月24日から運航を停止されていました。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "04": {
+        "text": "同社は、1998年の進化型使い捨てロケットの供給源選定プロセス中に、ボーイング社のライバルであるロッキード・マーティン社からの数千ページの文書を所持していたことが判明しました。",
+        "mention_ids": [
+          "M004",
+          "M018"
+        ]
+      },
+      "05": {
+        "text": "アメリカ空軍とボーイングは、空軍の利益を保護するための暫定協定に署名しました。",
+        "mention_ids": [
+          "M002",
+          "M006",
+          "M020"
+        ]
+      },
+      "06": {
+        "text": "この合意では、ボーイングが起訴されるか有罪判決を受けた場合、あるいは新たな証拠が発見された場合には、停職処分を再開することが認められています。",
+        "mention_ids": [
+          "M097"
+        ]
+      },
+      "07": {
+        "text": "ボーイングは、自身が講じた是正措置を外部検証に提出する必要があり、関連費用を空軍に請求することはできません。",
+        "mention_ids": [
+          "M063",
+          "M067",
+          "M083"
+        ]
+      },
+      "08": {
+        "text": "倫理実践に対する内部管理責任が変更されました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "ロッキード・マーティンのアトラスVとボーイングのデルタIVは、宇宙打ち上げのコストを削減するために設計された2種類の使い捨てロケットです。",
+        "mention_ids": [
+          "M070"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          12
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M004": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          71
+        ],
+        "text": "1998年の進化型使い捨てロケットの供給源選定プロセス中に、ボーイング社のライバルであるロッキード・マーティン社からの数千ページの文書",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M006": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          16
+        ],
+        "text": "空軍",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          68
+        ],
+        "text": "米国の宇宙打ち上げ契約",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M013": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M014": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          3
+        ],
+        "text": "米空軍",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M015": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          17
+        ],
+        "text": "米国宇宙打ち上げ契約",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          10
+        ],
+        "text": "連邦法",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          2
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M020": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "アメリカ空軍",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M063": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M064": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          55
+        ],
+        "text": "ボーイングの打ち上げシステム、打ち上げサービス、デルタ・プログラムの各事業部門",
+        "entity_type": null,
+        "entity_id": "E065"
+      },
+      "M067": {
+        "sentence_id": "07",
+        "span": [
+          38,
+          40
+        ],
+        "text": "空軍",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M070": {
+        "sentence_id": "09",
+        "span": [
+          18,
+          23
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M083": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          9
+        ],
+        "text": "自身",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M097": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          12
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E118"
+      }
+    },
+    "entities": {
+      "E065": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E100": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E101": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M094",
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E110": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003",
+          "M019",
+          "M010"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Lockheed_Martin",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lockheed_Martin",
+          "wikidata": "http://www.wikidata.org/entity/Q7240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M006",
+          "M014",
+          "M020",
+          "M067"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/United_States_Air_Force",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+          "wikidata": "http://www.wikidata.org/entity/Q11223",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%A9%BA%E8%BB%8D"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M012",
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E114": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E118": {
+        "member_mention_ids": [
+          "M002",
+          "M013",
+          "M016",
+          "M018",
+          "M063",
+          "M070",
+          "M083",
+          "M097"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M008"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing",
+          "wikidata": "http://www.wikidata.org/entity/Q66",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M062",
+          "M066"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

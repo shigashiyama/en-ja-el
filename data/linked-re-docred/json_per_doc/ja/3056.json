@@ -1,0 +1,936 @@
+{
+  "3056": {
+    "doc_info": {
+      "title": "Bantustan",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "バントゥースタン(バンツーの故郷、黒人の故郷、黒人の州、または単に故郷としても知られています)は、アパルトヘイト政策の一環として南アフリカおよび南西アフリカ(現在のナミビア)の黒人住民のために確保された領土でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "10のバンツースタンが南アフリカに設立され、次に隣接する南西アフリカに設立されました（当時南アフリカの統治下にありました）。目的は、指定された民族グループのメンバーを集中させ、さまざまな黒人民族グループのための南アフリカの「自治」民族国家を創設する基礎として、それらの地域を民族的に均質にすることでした。",
+        "mention_ids": [
+          "M2_1",
+          "M2_4",
+          "M3_1",
+          "M5_0",
+          "M6_1",
+          "M7_2"
+        ]
+      },
+      "02": {
+        "text": "この用語は1940年代後半に初めて使用され、バントゥー（一部のバントゥーの言語で「人々」を意味する）と、スタン（ペルシア語および一部のペルシア語の影響を受けた西部、中部、南アジアの言語で「土地」を意味する接尾語）から作られました。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M8_0",
+          "M9_0",
+          "M9_1"
+        ]
+      },
+      "03": {
+        "text": "それは、一部の批評家によって、アパルトヘイト時代の政府の「祖国」（アフリカーンス語の祖国から）に対する軽蔑的な用語とみなされていました。",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "04": {
+        "text": "「バントゥースタン」という言葉は、今日では、あらゆる正当性を欠いている地域、いくつかの関係のない飛び地で構成されている地域、または国内または国際的なゲリマンダリングから生じた地域を表すときに、軽蔑的な意味でよく使用されます。",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "05": {
+        "text": "南アフリカのバンツースタンの4つ—トランスケイ、ボプタツワナ、ヴェンダおよびシスケイ(いわゆる「TBVC州」)は宣言した独立地域ですが、これは南アフリカ以外では認められませんでした>。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M2_2",
+          "M6_2",
+          "M7_0"
+        ]
+      },
+      "06": {
+        "text": "他の南アフリカのバントゥースタン（クワズール、レボワ、クワクワ）は部分的な自治権は得ましたが、独立は決して認められませんでした。",
+        "mention_ids": [
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M6_0",
+          "M7_1"
+        ]
+      },
+      "07": {
+        "text": "南西アフリカ、オヴァンボランド、カバンゴランド、および東カプリビでは自己決定が認められました。",
+        "mention_ids": [
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M3_2"
+        ]
+      },
+      "08": {
+        "text": "バントゥースタンはアパルトヘイトの終焉とともに廃止され、1994年に正式に南アフリカに再加盟しました。",
+        "mention_ids": [
+          "M26_0",
+          "M2_3",
+          "M6_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "バントゥースタン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          56,
+          60
+        ],
+        "text": "ペルシア",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          72
+        ],
+        "text": "ペルシア語",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          86,
+          89
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          41
+        ],
+        "text": "アフリカーンス語",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          9
+        ],
+        "text": "バントゥースタン",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          16
+        ],
+        "text": "4つ",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          23
+        ],
+        "text": "トランスケイ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          30
+        ],
+        "text": "ボプタツワナ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          35
+        ],
+        "text": "ヴェンダ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          42
+        ],
+        "text": "シスケイ",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          48,
+          52
+        ],
+        "text": "TBVC",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          16
+        ],
+        "text": "バンツーの故郷",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          22
+        ],
+        "text": "クワズール",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          26
+        ],
+        "text": "レボワ",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          31
+        ],
+        "text": "クワクワ",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          15
+        ],
+        "text": "オヴァンボランド",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "07",
+        "span": [
+          16,
+          23
+        ],
+        "text": "カバンゴランド",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "07",
+        "span": [
+          27,
+          32
+        ],
+        "text": "東カプリビ",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "08",
+        "span": [
+          28,
+          33
+        ],
+        "text": "1994年",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          69
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          16
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "05",
+        "span": [
+          71,
+          76
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "08",
+        "span": [
+          37,
+          42
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "01",
+        "span": [
+          105,
+          110
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          72,
+          78
+        ],
+        "text": "南西アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          34
+        ],
+        "text": "南西アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          6
+        ],
+        "text": "南西アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          82,
+          86
+        ],
+        "text": "ナミビア",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "10",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "06",
+        "span": [
+          8,
+          16
+        ],
+        "text": "バントゥースタン",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          10
+        ],
+        "text": "バンツースタン",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          13
+        ],
+        "text": "バンツースタン",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_3": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          8
+        ],
+        "text": "バントゥースタン",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          7
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "01",
+        "span": [
+          45,
+          50
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          11
+        ],
+        "text": "1940年代",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          27
+        ],
+        "text": "バントゥー",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          36
+        ],
+        "text": "バントゥー",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bantustan",
+          "wikidata": "http://www.wikidata.org/entity/Q190354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bantustan",
+          "wikidata": "http://www.wikidata.org/entity/Q190354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_West_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q953068",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E8%A5%BF%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB_(%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%A7%94%E4%BB%BB%E7%B5%B1%E6%B2%BB%E9%A0%98)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Namibia",
+          "wikidata": "http://www.wikidata.org/entity/Q1030",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2",
+          "M6_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bantustan",
+          "wikidata": "http://www.wikidata.org/entity/Q190354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bantu_languages",
+          "wikidata": "http://www.wikidata.org/entity/Q33146",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E8%AA%9E%E7%BE%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Persian_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9168",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asia",
+          "wikidata": "http://www.wikidata.org/entity/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Afrikaans",
+          "wikidata": "http://www.wikidata.org/entity/Q14196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%B3%E3%82%B9%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bantustan",
+          "wikidata": "http://www.wikidata.org/entity/Q190354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transkei",
+          "wikidata": "http://www.wikidata.org/entity/Q466551",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%AB%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bophuthatswana",
+          "wikidata": "http://www.wikidata.org/entity/Q158236",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%97%E3%82%BF%E3%83%84%E3%83%AF%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Venda",
+          "wikidata": "http://www.wikidata.org/entity/Q848668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ciskei",
+          "wikidata": "http://www.wikidata.org/entity/Q379042",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/KwaZulu",
+          "wikidata": "http://www.wikidata.org/entity/Q594798"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lebowa",
+          "wikidata": "http://www.wikidata.org/entity/Q1433131"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/QwaQwa",
+          "wikidata": "http://www.wikidata.org/entity/Q179548",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AF%E3%82%AF%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ovamboland",
+          "wikidata": "http://www.wikidata.org/entity/Q1501001"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kavangoland",
+          "wikidata": "http://www.wikidata.org/entity/Q1737252"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Caprivi",
+          "wikidata": "http://www.wikidata.org/entity/Q1660773"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

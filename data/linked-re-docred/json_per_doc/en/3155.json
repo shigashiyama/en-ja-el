@@ -1,0 +1,382 @@
+{
+  "3155": {
+    "doc_info": {
+      "title": "Piracy on Falcon Lake",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Piracy on Falcon Lake refers to an increase in crime at the border between the United States and Mexico on Falcon Lake .",
+        "text": "Piracy on Falcon Lake refers to an increase in crime at the border between the United States and Mexico on Falcon Lake .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_1"
+        ]
+      },
+      "01": {
+        "orig_text": "The lake is a long reservoir of the Rio Grande that was constructed in 1954 and is a known drug smuggling route .",
+        "text": "The lake is a long reservoir of the Rio Grande that was constructed in 1954 and is a known drug smuggling route .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A turf war between rival drug cartels for control of the lake began in March 2010 and has led to a series of armed robberies and shooting incidents .",
+        "text": "A turf war between rival drug cartels for control of the lake began in March 2010 and has led to a series of armed robberies and shooting incidents .",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "All of the attacks were credited to the Los Zetas cartel and occurred primarily on the Mexican side of the reservoir but within sight of the Texas coast .",
+        "text": "All of the attacks were credited to the Los Zetas cartel and occurred primarily on the Mexican side of the reservoir but within sight of the Texas coast .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The so - called pirates operate \" fleets \" of small boats designed to seize fisherman and smuggle drugs .",
+        "text": "The so - called pirates operate \" fleets \" of small boats designed to seize fisherman and smuggle drugs .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "While the events have been referred to colloquially as piracy , all the waters of Falcon Lake are considered either US or Mexican territorial waters and therefore are not technically piracy under Article 101 of the UN Convention on the Law of the Sea .",
+        "text": "While the events have been referred to colloquially as piracy , all the waters of Falcon Lake are considered either US or Mexican territorial waters and therefore are not technically piracy under Article 101 of the UN Convention on the Law of the Sea .",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M3_0",
+          "M8_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Piracy on Falcon Lake",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          215,
+          250
+        ],
+        "text": "UN Convention on the Law of the Sea",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          75,
+          92
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          116,
+          118
+        ],
+        "text": "US",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          97,
+          103
+        ],
+        "text": "Mexico",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "05",
+        "span": [
+          82,
+          93
+        ],
+        "text": "Falcon Lake",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          107,
+          118
+        ],
+        "text": "Falcon Lake",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          46
+        ],
+        "text": "Rio Grande",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          71,
+          75
+        ],
+        "text": "1954",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          81
+        ],
+        "text": "March 2010",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          40,
+          49
+        ],
+        "text": "Los Zetas",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          87,
+          94
+        ],
+        "text": "Mexican",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          122,
+          129
+        ],
+        "text": "Mexican",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          141,
+          146
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Piracy_on_Falcon_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q7197664"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q96",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Falcon_International_Reservoir",
+          "wikidata": "http://www.wikidata.org/entity/Q4967120"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rio_Grande",
+          "wikidata": "http://www.wikidata.org/entity/Q160636",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Zetas",
+          "wikidata": "http://www.wikidata.org/entity/Q248337",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%BB%E3%82%BF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q96",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "removed_mention_ids": [
+          "M10_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q216996",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E6%9D%A1%E7%B4%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,713 @@
+{
+  "3501": {
+    "doc_info": {
+      "title": "Hvidovre Municipality",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Hvidovre Kommune is a municipality ( Danish , kommune ) in Region Hovedstaden near Copenhagen on the island of Zealand ( Sjælland ) in eastern Denmark .",
+        "text": "Hvidovre Kommune is a municipality ( Danish , kommune ) in Region Hovedstaden near Copenhagen on the island of Zealand ( Sjælland ) in eastern Denmark .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M4_2",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The municipality covers an area of 22  km² , and has a total population of 52,027 ( 1 April 2014 ) .",
+        "text": "The municipality covers an area of 22 km² , and has a total population of 52,027 ( 1 April 2014 ) .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "Its mayor is ■■■■■■■■■■■■■■■■■■■■■■■■ , a member of the Social Democrats ( Socialdemokraterne ) political party .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The main town and the site of its municipal council is the town of Hvidovre .",
+        "text": "The main town and the site of its municipal council is the town of Hvidovre .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Other towns in the municipality are Avedøre and Friheden .",
+        "text": "Other towns in the municipality are Avedøre and Friheden .",
+        "mention_ids": [
+          "M13_2",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Neighboring municipalities are Copenhagen to the east , Rødovre to the north , and Brøndby to the west .",
+        "text": "Neighboring municipalities are Copenhagen to the east , Rødovre to the north , and Brøndby to the west .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M3_1"
+        ]
+      },
+      "06": {
+        "orig_text": "Part of its eastern border are the waters of Kalveboderne , and to the south is Køge Bay ( Køge Bugt ) .",
+        "text": "Part of its eastern border are the waters of Kalveboderne , and to the south is Køge Bay ( Køge Bugt ) .",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M18_2"
+        ]
+      },
+      "07": {
+        "orig_text": "The southern - most section of the municipality , known as Avedøre Holme , juts out into Køge Bay and forms part of the entryway into Kalveboderne , the waters of which separate the island of Zealand from neighboring Amager .",
+        "text": "The southern - most section of the municipality , known as Avedøre Holme , juts out into Køge Bay and forms part of the entryway into Kalveboderne , the waters of which separate the island of Zealand from neighboring Amager .",
+        "mention_ids": [
+          "M13_0",
+          "M17_1",
+          "M18_1",
+          "M19_0",
+          "M4_1"
+        ]
+      },
+      "08": {
+        "orig_text": "Avedøre Holm houses two harbours .",
+        "text": "Avedøre Holm houses two harbours .",
+        "mention_ids": [
+          "M13_1",
+          "M20_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "Hvidovre Kommune",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          56,
+          72
+        ],
+        "text": "Social Democrats",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          93
+        ],
+        "text": "Socialdemokraterne",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          67,
+          75
+        ],
+        "text": "Hvidovre",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          59,
+          72
+        ],
+        "text": "Avedøre Holme",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Avedøre Holm",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "04",
+        "span": [
+          36,
+          43
+        ],
+        "text": "Avedøre",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          48,
+          56
+        ],
+        "text": "Friheden",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          63
+        ],
+        "text": "Rødovre",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          83,
+          90
+        ],
+        "text": "Brøndby",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          45,
+          57
+        ],
+        "text": "Kalveboderne",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "07",
+        "span": [
+          134,
+          146
+        ],
+        "text": "Kalveboderne",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          91,
+          100
+        ],
+        "text": "Køge Bugt",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "07",
+        "span": [
+          89,
+          97
+        ],
+        "text": "Køge Bay",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M18_2": {
+        "sentence_id": "06",
+        "span": [
+          80,
+          88
+        ],
+        "text": "Køge Bay",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          217,
+          223
+        ],
+        "text": "Amager",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          43
+        ],
+        "text": "Danish",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          20,
+          23
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          77
+        ],
+        "text": "Region Hovedstaden",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          93
+        ],
+        "text": "Copenhagen",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          41
+        ],
+        "text": "Copenhagen",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          111,
+          118
+        ],
+        "text": "Zealand",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "07",
+        "span": [
+          192,
+          199
+        ],
+        "text": "Zealand",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "00",
+        "span": [
+          121,
+          129
+        ],
+        "text": "Sjælland",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          135,
+          150
+        ],
+        "text": "eastern Denmark",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          35,
+          41
+        ],
+        "text": "22 km²",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          74,
+          80
+        ],
+        "text": "52,027",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          83,
+          95
+        ],
+        "text": "1 April 2014",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          37
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hvidovre_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q512562"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Danish_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Capital_Region_of_Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q26073",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Region_Hovedstaden",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E9%A6%96%E9%83%BD%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Copenhagen",
+          "wikidata": "http://www.wikidata.org/entity/Q1748",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Region_Zealand",
+          "wikidata": "http://www.wikidata.org/entity/Q26589",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%A9%E3%83%B3%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q14329915"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)",
+          "wikidata": "http://www.wikidata.org/entity/Q212101",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)",
+          "wikidata": "http://www.wikidata.org/entity/Q212101",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hvidovre",
+          "wikidata": "http://www.wikidata.org/entity/Q3590079",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%BA%E3%82%AA%E3%82%A6%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aved%C3%B8re",
+          "wikidata": "http://www.wikidata.org/entity/Q4827976",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Avedøre"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Friheden",
+          "wikidata": "http://www.wikidata.org/entity/Q5504541"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/R%C3%B8dovre",
+          "wikidata": "http://www.wikidata.org/entity/Q28230",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rødovre"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Br%C3%B8ndby_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q484038",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Brøndby"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1",
+          "M18_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/K%C3%B8ge_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q1638096",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Køge_Bay"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amager",
+          "wikidata": "http://www.wikidata.org/entity/Q210396",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%BC%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

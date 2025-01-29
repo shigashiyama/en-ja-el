@@ -1,0 +1,679 @@
+{
+  "3238": {
+    "doc_info": {
+      "title": "Nazim Khaled",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "フランスのマルセイユ生まれの■■■■■■■■は、フランスの作詞家兼作曲家です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "彼はサンテ・ティエンヌで育ち、パリに移る前にサンテ・ティエンヌ音楽院で学びました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "彼は、■■■■■■■■■、■■■■■■■■、■■■■■■■■、■■■■■■■、■■■■などの協力を通じて、フランスのSNEPチャートに記録された数多くのヒット曲を作曲しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M3_4",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "彼は、■■■■が演奏したユーロビジョン・ソング・コンテスト2016へのフランスのエントリー『私は探した』と、■■■が演奏したユーロビジョン・ソング・コンテスト2017へのフランスのエントリー曲である『レクイエム』を共同作曲・共同プロデュースしました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M14_1",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M3_1",
+          "M3_2",
+          "M8_1"
+        ]
+      },
+      "04": {
+        "text": "彼は、2015年に、フランスのミュージカル『アーサー王伝説』（フルタイトルは『アーサー王伝説：愛が歴史を変えるとき』）も作曲しました。",
+        "mention_ids": [
+          "M19_0",
+          "M19_1",
+          "M20_0",
+          "M3_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          22
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          30
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          38
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          43
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          51
+        ],
+        "text": "私は探した",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          29
+        ],
+        "text": "ユーロビジョン・ソング・コンテスト",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          62,
+          79
+        ],
+        "text": "ユーロビジョン・ソング・コンテスト",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          33
+        ],
+        "text": "2016",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          100,
+          105
+        ],
+        "text": "レクイエム",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          79,
+          83
+        ],
+        "text": "2017",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          57
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          57
+        ],
+        "text": "アーサー王伝説：愛が歴史を変えるとき",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M19_1": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          29
+        ],
+        "text": "アーサー王伝説",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          10
+        ],
+        "text": "マルセイユ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          8
+        ],
+        "text": "2015年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          28
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          85,
+          90
+        ],
+        "text": "フランスの",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          35,
+          40
+        ],
+        "text": "フランスの",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          15
+        ],
+        "text": "フランスの",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          57
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          2,
+          11
+        ],
+        "text": "サンテ・ティエンヌ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          34
+        ],
+        "text": "サンテ・ティエンヌ音楽院",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          17
+        ],
+        "text": "パリ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          58,
+          62
+        ],
+        "text": "SNEP",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          12
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          7
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          21
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nazim_Khaled",
+          "wikidata": "http://www.wikidata.org/entity/Q24572386"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marseille",
+          "wikidata": "http://www.wikidata.org/entity/Q23482",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint-%C3%89tienne",
+          "wikidata": "http://www.wikidata.org/entity/Q42716",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Saint-Étienne",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%EF%BC%9D%E3%83%86%E3%83%86%E3%82%A3%E3%82%A8%E3%83%B3%E3%83%8C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SNEP",
+          "wikidata": "http://www.wikidata.org/entity/Q831044",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9F%B3%E6%A5%BD%E5%87%BA%E7%89%88%E7%B5%84%E5%90%88_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amir_Haddad",
+          "wikidata": "http://www.wikidata.org/entity/Q16887680",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%80%E3%83%83%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chim%C3%A8ne_Badi",
+          "wikidata": "http://www.wikidata.org/entity/Q469767",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Chimène_Badi"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kendji_Girac",
+          "wikidata": "http://www.wikidata.org/entity/Q17385969"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yannick_Noah",
+          "wikidata": "http://www.wikidata.org/entity/Q221908",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8E%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/J%27ai_cherch%C3%A9",
+          "wikidata": "http://www.wikidata.org/entity/Q23672811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/J'ai_cherché"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest",
+          "wikidata": "http://www.wikidata.org/entity/Q276",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Requiem_(Alma_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q28736384"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alma_(French_singer)",
+          "wikidata": "http://www.wikidata.org/entity/Q28736241"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0",
+          "M19_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/La_L%C3%A9gende_du_roi_Arthur",
+          "wikidata": "http://www.wikidata.org/entity/Q18745285",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/La_Légende_du_roi_Arthur"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

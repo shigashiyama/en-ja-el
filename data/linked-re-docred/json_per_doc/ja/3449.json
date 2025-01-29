@@ -1,0 +1,813 @@
+{
+  "3449": {
+    "doc_info": {
+      "title": "Lough Owel",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "オウル湖( )は、アイルランドのミッドランズにある中栄養性の湖で、ウェストミースの郡都マリンガーの北に位置します。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_1"
+        ]
+      },
+      "01": {
+        "text": "最大深さは22 mです。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "ラフ・オウェルからの水は、ダブリンからシャノン川までアイルランドを横断する運河であるロイヤル運河に供給されています。",
+        "mention_ids": [
+          "M0_2",
+          "M2_1",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "湖へは、N4マリンガーからロングフォードまでのルートの南にある駐車場と桟橋からアクセスできます。",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "オウル湖とエネル湖は、ブロスナ川流域を形成する多くの湖のうちの2つです。",
+        "mention_ids": [
+          "M0_0",
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "05": {
+        "text": "ブロスナ川はシャノンの支流で、マリンガーとキルベガンを流れ、どちらもウェストミースにあり、そこから(オファリー郡)クララの町を通ってシャノンに入ります。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M15_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M3_1",
+          "M4_0"
+        ]
+      },
+      "06": {
+        "text": "ヴァイキングの族長トゥルゲシウスは、845年メール・セクネイル・マック・メール・ルアネイドによってラフ・オウェルで溺死しました。",
+        "mention_ids": [
+          "M0_3",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "07": {
+        "text": "1996年以来、この湖はラムサール条約地域として国際保護を受けています。",
+        "mention_ids": [
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "08": {
+        "text": "野鳥の生息地として有名で、釣り人の間でもよく知られており、ブラウントラウトとともに数種のイワナが生息しています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "オウル湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "オウル湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ラフ・オウェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "06",
+        "span": [
+          49,
+          56
+        ],
+        "text": "ラフ・オウェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          20
+        ],
+        "text": "ロングフォード",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          9
+        ],
+        "text": "エネル湖",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          31,
+          33
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ブロスナ川",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ブロスナ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          10
+        ],
+        "text": "シャノン",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "05",
+        "span": [
+          66,
+          70
+        ],
+        "text": "シャノン",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          26
+        ],
+        "text": "キルベガン",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          57,
+          60
+        ],
+        "text": "クララ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          56
+        ],
+        "text": "オファリー郡",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ヴァイキング",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          22
+        ],
+        "text": "ミッドランズ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          16
+        ],
+        "text": "トゥルゲシウス",
+        "entity_type": "PER",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          45
+        ],
+        "text": "メール・セクネイル・マック・メール・ルアネイド",
+        "entity_type": "PER",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          22
+        ],
+        "text": "845年",
+        "entity_type": "TIME",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1996年",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "07",
+        "span": [
+          12,
+          19
+        ],
+        "text": "ラムサール条約",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          15
+        ],
+        "text": "アイルランド",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          32
+        ],
+        "text": "アイルランド",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          48
+        ],
+        "text": "マリンガー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          20
+        ],
+        "text": "マリンガー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          41
+        ],
+        "text": "ウェストミース",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          40
+        ],
+        "text": "ウェストミース",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          9
+        ],
+        "text": "22 m",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          48
+        ],
+        "text": "ロイヤル運河",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          17
+        ],
+        "text": "ダブリン",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          24
+        ],
+        "text": "シャノン川",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          11
+        ],
+        "text": "N4マリンガー",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lough_Owel",
+          "wikidata": "http://www.wikidata.org/entity/Q2702889"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Midland_Region,_Ireland",
+          "wikidata": "http://www.wikidata.org/entity/Q1345331",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Midlands_of_Ireland"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ireland",
+          "wikidata": "http://www.wikidata.org/entity/Q22890",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%B3%B6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mullingar",
+          "wikidata": "http://www.wikidata.org/entity/Q55308",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/County_Westmeath",
+          "wikidata": "http://www.wikidata.org/entity/Q182633",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Westmeath",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%9F%E3%83%BC%E3%82%BA%E7%9C%8C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Canal",
+          "wikidata": "http://www.wikidata.org/entity/Q1542268",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Royal_Canal_of_Ireland"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dublin",
+          "wikidata": "http://www.wikidata.org/entity/Q1761",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AA%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/River_Shannon",
+          "wikidata": "http://www.wikidata.org/entity/Q192820",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/N4_road_(Ireland)",
+          "wikidata": "http://www.wikidata.org/entity/Q2638177"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Longford",
+          "wikidata": "http://www.wikidata.org/entity/Q645623",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lough_Ennell",
+          "wikidata": "http://www.wikidata.org/entity/Q2639357"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/River_Brosna",
+          "wikidata": "http://www.wikidata.org/entity/Q1210558"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/River_Brosna",
+          "wikidata": "http://www.wikidata.org/entity/Q1210558"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shannon",
+          "wikidata": "http://www.wikidata.org/entity/Q223838",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kilbeggan",
+          "wikidata": "http://www.wikidata.org/entity/Q68364"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Clara,_County_Offaly",
+          "wikidata": "http://www.wikidata.org/entity/Q5953835"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/County_Offaly",
+          "wikidata": "http://www.wikidata.org/entity/Q184445",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%82%A1%E3%83%AA%E3%83%BC%E7%9C%8C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vikings",
+          "wikidata": "http://www.wikidata.org/entity/Q12567",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Viking",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Turgesius",
+          "wikidata": "http://www.wikidata.org/entity/Q1380288"
+        },
+        "date_of_death": "0845-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1el_Sechnaill_mac_M%C3%A1ele_Ruanaid",
+          "wikidata": "http://www.wikidata.org/entity/Q16705878",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Máel_Sechnaill_mac_Maíl_Ruanaid"
+        },
+        "date_of_death": "0862-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ramsar_site",
+          "wikidata": "http://www.wikidata.org/entity/Q19683138"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

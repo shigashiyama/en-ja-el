@@ -1,0 +1,651 @@
+{
+  "3273": {
+    "doc_info": {
+      "title": "Jan Betley",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ヤン・ベトリー（1908年～1980年）は、ポーランド人の画家でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ベトリーはプウォツクで生まれました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "第二次世界大戦前、彼はワルシャワの美術アカデミー（ASP）で、2人の有名なポーランド人画家であるタデウシュ・プルシュコフスキとフェリジャン・コワルスキーの生徒でした。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M3_3",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "1936年に、彼はプルシュコフスキの指導のもと卒業し、1948年に助教授としての資格を取得しました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "text": "彼の初期の絵画のほとんどは戦時中に失われてしまいました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "戦後、彼はASPで教えました。",
+        "mention_ids": [
+          "M12_1"
+        ]
+      },
+      "06": {
+        "text": "彼は伝統的な主題と技術の完璧主義を提唱する第四派のメンバーでした。",
+        "mention_ids": [
+          "M16_0"
+        ]
+      },
+      "07": {
+        "text": "彼は彼の肖像画、風景画、馬の絵、戦闘シーン、風俗画の作品で知られています。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "彼はポーランドの色彩主義と密接な関係がありました。",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "09": {
+        "text": "彼の作品はポーランドの美術館と、ポーランドとイギリスのプライベート・コレクションで見ることができます。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M3_2"
+        ]
+      },
+      "10": {
+        "text": "ベトリーはワルシャワで72歳で亡くなりました。",
+        "mention_ids": [
+          "M11_1",
+          "M19_0",
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ヤン・ベトリー",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          24
+        ],
+        "text": "美術アカデミー",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ワルシャワ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "10",
+        "span": [
+          5,
+          10
+        ],
+        "text": "ワルシャワ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          28
+        ],
+        "text": "ASP",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          8
+        ],
+        "text": "ASP",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1936年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          17
+        ],
+        "text": "プルシュコフスキ",
+        "entity_type": "PER",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          32
+        ],
+        "text": "1948年",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          24
+        ],
+        "text": "第四派",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "09",
+        "span": [
+          16,
+          21
+        ],
+        "text": "ポーランド",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "09",
+        "span": [
+          22,
+          26
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "10",
+        "span": [
+          11,
+          13
+        ],
+        "text": "72",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          13
+        ],
+        "text": "1908年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          19
+        ],
+        "text": "1980年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          28
+        ],
+        "text": "ポーランド人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "08",
+        "span": [
+          2,
+          7
+        ],
+        "text": "ポーランド",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "09",
+        "span": [
+          5,
+          10
+        ],
+        "text": "ポーランド",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          43
+        ],
+        "text": "ポーランド人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ベトリー",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ベトリー",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "プウォツク",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          33
+        ],
+        "text": "2人",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          62
+        ],
+        "text": "タデウシュ・プルシュコフスキ",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          63,
+          76
+        ],
+        "text": "フェリジャン・コワルスキー",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jan_Betley",
+          "wikidata": "http://www.wikidata.org/entity/Q683956"
+        },
+        "date_of_death": "1980-04-04T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Polish_painters",
+          "wikidata": "http://www.wikidata.org/entity/Q839198",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Polish_painter"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jan_Betley",
+          "wikidata": "http://www.wikidata.org/entity/Q683956"
+        },
+        "date_of_death": "1980-04-04T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/P%C5%82ock",
+          "wikidata": "http://www.wikidata.org/entity/Q104725",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Płock",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A6%E3%82%A9%E3%83%84%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tadeusz_Pruszkowski",
+          "wikidata": "http://www.wikidata.org/entity/Q442239"
+        },
+        "date_of_death": "1942-07-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Felicjan_Kowarski",
+          "wikidata": "http://www.wikidata.org/entity/Q1403110"
+        },
+        "date_of_death": "1948-09-22T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q270",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tadeusz_Pruszkowski",
+          "wikidata": "http://www.wikidata.org/entity/Q442239"
+        },
+        "date_of_death": "1942-07-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fourth_Group",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Fourth_Group"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poland",
+          "wikidata": "http://www.wikidata.org/entity/Q36",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

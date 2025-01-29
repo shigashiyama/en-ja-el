@@ -1,0 +1,656 @@
+{
+  "3270": {
+    "doc_info": {
+      "title": "Telecom Business School",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "インスティテュート・マインズ-テレコム・ビジネス・スクール（以前は、1979年の設立から2009年のブランド変更まではINTマネージメント、2009年から2018年まではテレコム・ビジネス・スクールとして知られていました）は、フランスの国が資金を提供するマネジメント・スクールで、フランスの工学および経営大学院のナンバーワン・グループであるインスティテュート・マインズ-テレコムのメンバーです。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M2_1",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "text": "また、それはグランゼコール会議のマネジメント・スクール支部、EFMD（欧州経営開発財団）AACSB（大学ビジネススクール振興協会）のメンバーであり、管理プログラムの修士課程でMBA協会による認定を受けています。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M11_1",
+          "M12_0",
+          "M13_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "ビジネス・スクールは当初、フランス初の通信事業者であり、以前は国営企業だったオレンジ・グループの企業大学として設立されました。",
+        "mention_ids": [
+          "M14_0",
+          "M7_1"
+        ]
+      },
+      "03": {
+        "text": "現在はオレンジから完全に独立していますが、研究、トレーニング、その他のさまざまなプログラムでは多くのパートナーシップが残っています。",
+        "mention_ids": [
+          "M14_1"
+        ]
+      },
+      "04": {
+        "text": "この学校は、学士レベルから博士号まで、フランス語または英語で教えられるプログラムを提供しています。",
+        "mention_ids": [
+          "M15_0",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "text": "その主なプログラムは、マネジメント・プログラム（別名プログラム・グランゼコール）の修士課程です。",
+        "mention_ids": [
+          "M13_1",
+          "M13_2"
+        ]
+      },
+      "06": {
+        "text": "このプログラムの卒業生は、そのエンジニアと協力して働く能力について、フランスおよび海外の採用担当者の間で高く評価されています。",
+        "mention_ids": [
+          "M7_2"
+        ]
+      },
+      "07": {
+        "text": "同校は、フィナンシャル・タイムズによって59位（2017年）にランクされました。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          69
+        ],
+        "text": "INTマネージメント",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          99
+        ],
+        "text": "テレコム・ビジネス・スクール",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          29
+        ],
+        "text": "インスティテュート・マインズ-テレコム・ビジネス・スクール",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          35,
+          43
+        ],
+        "text": "欧州経営開発財団",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          34
+        ],
+        "text": "EFMD",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          64
+        ],
+        "text": "大学ビジネススクール振興協会",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "01",
+        "span": [
+          44,
+          49
+        ],
+        "text": "AACSB",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "01",
+        "span": [
+          87,
+          92
+        ],
+        "text": "MBA協会",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "01",
+        "span": [
+          74,
+          81
+        ],
+        "text": "管理プログラム",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "05",
+        "span": [
+          26,
+          39
+        ],
+        "text": "プログラム・グランゼコール",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          23
+        ],
+        "text": "マネジメント・プログラム",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          47
+        ],
+        "text": "オレンジ・グループ",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          7
+        ],
+        "text": "オレンジ",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          29
+        ],
+        "text": "英語",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          29
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          16
+        ],
+        "text": "フィナンシャル・タイムズ",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          39
+        ],
+        "text": "1979年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          44,
+          49
+        ],
+        "text": "2009年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          75
+        ],
+        "text": "2009年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          77,
+          82
+        ],
+        "text": "2018年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          113,
+          118
+        ],
+        "text": "フランスの",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          24
+        ],
+        "text": "フランス語",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          127,
+          138
+        ],
+        "text": "マネジメント・スクール",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          170,
+          189
+        ],
+        "text": "インスティテュート・マインズ-テレコム",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          140,
+          144
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          17
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          38
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          29
+        ],
+        "text": "マネジメント・スクール支部",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          15
+        ],
+        "text": "グランゼコール会議",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Telecom_Business_School",
+          "wikidata": "http://www.wikidata.org/entity/Q3546588"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Business_school",
+          "wikidata": "http://www.wikidata.org/entity/Q1143635",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Institut_Mines-T%C3%A9l%C3%A9com",
+          "wikidata": "http://www.wikidata.org/entity/Q7885718",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Institut_Mines-Telecom"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Conf%C3%A9rence_des_Grandes_%C3%A9coles",
+          "wikidata": "http://www.wikidata.org/entity/Q2992903",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Conférence_des_grandes_écoles_(CGE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Foundation_for_Management_Development",
+          "wikidata": "http://www.wikidata.org/entity/Q1376622",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/EFMD",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E7%B5%8C%E5%96%B6%E9%96%8B%E7%99%BA%E8%B2%A1%E5%9B%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business",
+          "wikidata": "http://www.wikidata.org/entity/Q744144",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/AACSB",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_of_MBAs",
+          "wikidata": "http://www.wikidata.org/entity/Q392156",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MBA%E5%8D%94%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/English_people",
+          "wikidata": "http://www.wikidata.org/entity/Q42406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Financial_Times",
+          "wikidata": "http://www.wikidata.org/entity/Q183399",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

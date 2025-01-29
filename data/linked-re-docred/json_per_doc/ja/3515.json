@@ -1,0 +1,768 @@
+{
+  "3515": {
+    "doc_info": {
+      "title": "Entreat",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『エントリート』は、イギリスのオルタナティブ・ロック・バンド、ザ・キュアによるライブ・アルバムで、ロンドンのウェンブリー・アリーナで1989年7月に録音されました。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "彼らが世界祈りツアーに参加中でしたが、それはバンドの1989年のレコード『ディスインテグレーション』からの曲で構成されています。",
+        "mention_ids": [
+          "M5_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "『エントリート』はプロモーション・ツールとしてフランスで独占的に配布されました。",
+        "mention_ids": [
+          "M0_2",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "しかし、海賊版が表面化し始めると、このアルバムはヨーロッパ限定でリリースされました。",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "『エントリート』は、英国とアイルランドのHMV店舗でもバンドのバック・カタログから2枚のCDを購入した顧客に無料で配布されました。",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "05": {
+        "text": "最後の2トラックは、『子守唄』の米国バージョンのB面として1989年にリリースされました。",
+        "mention_ids": [
+          "M13_1",
+          "M14_0",
+          "M15_0",
+          "M5_2"
+        ]
+      },
+      "06": {
+        "text": "『魅惑の街』、『ラストダンス』、『雨への祈り』、『崩壊』もCDシングル『あなたの写真』のB面として収録されています。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M6_1"
+        ]
+      },
+      "07": {
+        "text": "2010年の『ディスインテグレーション』の再リリースでは、『エントリート・プラス』というタイトルの『エントリート』のリマスターおよびリミックス・バージョンがフィーチャーされていました。それは、オリジナルから除外された『4』を含む、アルバムの12曲すべてをフィーチャーしていたからです。",
+        "mention_ids": [
+          "M0_3",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M6_2"
+        ]
+      },
+      "08": {
+        "text": "それは以前にもCDでリリースされていましたが、そのアルバムが全世界でリリースされるのはこれが初めてでした。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          7
+        ],
+        "text": "エントリート",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          7
+        ],
+        "text": "エントリート",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          1,
+          7
+        ],
+        "text": "エントリート",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "07",
+        "span": [
+          50,
+          56
+        ],
+        "text": "エントリート",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          23
+        ],
+        "text": "HMV",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          12
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          19
+        ],
+        "text": "アイルランド",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          41,
+          43
+        ],
+        "text": "2枚",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          4
+        ],
+        "text": "2",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          18
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "子守唄",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          1,
+          5
+        ],
+        "text": "魅惑の街",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          8,
+          14
+        ],
+        "text": "ラストダンス",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          22
+        ],
+        "text": "雨への祈り",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          36,
+          42
+        ],
+        "text": "あなたの写真",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          14
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2010年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          30,
+          40
+        ],
+        "text": "エントリート・プラス",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          120,
+          122
+        ],
+        "text": "12",
+        "entity_type": "NUM",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          109,
+          110
+        ],
+        "text": "4",
+        "entity_type": "NUM",
+        "entity_id": "E023"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          36
+        ],
+        "text": "ザ・キュア",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          53
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          65
+        ],
+        "text": "ウェンブリー・アリーナ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          73
+        ],
+        "text": "1989年7月",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          31
+        ],
+        "text": "1989年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          34
+        ],
+        "text": "1989年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          49
+        ],
+        "text": "ディスインテグレーション",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "06",
+        "span": [
+          25,
+          27
+        ],
+        "text": "崩壊",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          19
+        ],
+        "text": "ディスインテグレーション",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "祈りツアー",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          27
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          24,
+          29
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Entreat",
+          "wikidata": "http://www.wikidata.org/entity/Q966211"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Cure",
+          "wikidata": "http://www.wikidata.org/entity/Q484427",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wembley_Arena",
+          "wikidata": "http://www.wikidata.org/entity/Q815571",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)",
+          "wikidata": "http://www.wikidata.org/entity/Q939505",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/HMV",
+          "wikidata": "http://www.wikidata.org/entity/Q10854572",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/HMV"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ireland",
+          "wikidata": "http://www.wikidata.org/entity/Q22890",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%B3%B6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lullaby_(The_Cure_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q3047725"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fascination_Street",
+          "wikidata": "http://www.wikidata.org/entity/Q666608"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pictures_of_You_(The_Cure_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q2640103"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "3513": {
+    "doc_info": {
+      "title": "Royal Arsenal",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Royal Arsenal , Woolwich carried out armaments manufacture , ammunition proofing , and explosives research for the British armed forces at a site on the south bank of the River Thames in Woolwich in south - east London , England , United Kingdom .",
+        "text": "The Royal Arsenal , Woolwich carried out armaments manufacture , ammunition proofing , and explosives research for the British armed forces at a site on the south bank of the River Thames in Woolwich in south - east London , England , United Kingdom .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was originally known as the Woolwich Warren , having begun on land previously used as a domestic warren in the grounds of a Tudor house , Tower Place .",
+        "text": "It was originally known as the Woolwich Warren , having begun on land previously used as a domestic warren in the grounds of a Tudor house , Tower Place .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Much of the initial history of the site is linked with that of the Board of Ordnance , which purchased the Warren in the late 17th century in order to expand an earlier base at Gun Wharf in Woolwich Dockyard .",
+        "text": "Much of the initial history of the site is linked with that of the Board of Ordnance , which purchased the Warren in the late 17th century in order to expand an earlier base at Gun Wharf in Woolwich Dockyard .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Over the next two centuries , as operations grew and innovations were pursued , the site expanded massively ; at the time of the First World War the Arsenal covered and employed close to 80,000 people .",
+        "text": "Over the next two centuries , as operations grew and innovations were pursued , the site expanded massively ; at the time of the First World War the Arsenal covered and employed close to 80,000 people .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M7_1"
+        ]
+      },
+      "04": {
+        "orig_text": "Thereafter its operations were scaled down ; it finally closed as a factory in 1967 and the Ministry of Defence moved out in 1994 .",
+        "text": "Thereafter its operations were scaled down ; it finally closed as a factory in 1967 and the Ministry of Defence moved out in 1994 .",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Today the area , so long a secret enclave , is open to the public and is being redeveloped for housing and community use .",
+        "text": "Today the area , so long a secret enclave , is open to the public and is being redeveloped for housing and community use .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          17
+        ],
+        "text": "Royal Arsenal",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          84
+        ],
+        "text": "Board of Ordnance",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          107,
+          113
+        ],
+        "text": "Warren",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          126,
+          138
+        ],
+        "text": "17th century",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          177,
+          186
+        ],
+        "text": "Gun Wharf",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          190,
+          207
+        ],
+        "text": "Woolwich Dockyard",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          27
+        ],
+        "text": "two centuries",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          129,
+          144
+        ],
+        "text": "First World War",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          187,
+          193
+        ],
+        "text": "80,000",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          79,
+          83
+        ],
+        "text": "1967",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          92,
+          111
+        ],
+        "text": "Ministry of Defence",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          28
+        ],
+        "text": "Woolwich",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          191,
+          199
+        ],
+        "text": "Woolwich",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          125,
+          129
+        ],
+        "text": "1994",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          119,
+          126
+        ],
+        "text": "British",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          175,
+          187
+        ],
+        "text": "River Thames",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          216,
+          222
+        ],
+        "text": "London",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          225,
+          232
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          235,
+          249
+        ],
+        "text": "United Kingdom",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          46
+        ],
+        "text": "Woolwich Warren",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          149,
+          156
+        ],
+        "text": "Arsenal",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          127,
+          132
+        ],
+        "text": "Tudor",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          141,
+          152
+        ],
+        "text": "Tower Place",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Arsenal",
+          "wikidata": "http://www.wikidata.org/entity/Q2170996"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Woolwich",
+          "wikidata": "http://www.wikidata.org/entity/Q1006232",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/River_Thames",
+          "wikidata": "http://www.wikidata.org/entity/Q19686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%A0%E3%82%BA%E5%B7%9D"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tudor_architecture",
+          "wikidata": "http://www.wikidata.org/entity/Q509364",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%80%E3%83%BC%E6%A7%98%E5%BC%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Board_of_Ordnance",
+          "wikidata": "http://www.wikidata.org/entity/Q887539"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Woolwich_Dockyard",
+          "wikidata": "http://www.wikidata.org/entity/Q2593294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AA%E3%83%83%E3%82%B8%E5%B7%A5%E5%BB%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_I",
+          "wikidata": "http://www.wikidata.org/entity/Q361",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Defence_(United_Kingdom)",
+          "wikidata": "http://www.wikidata.org/entity/Q1143261",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%98%B2%E7%9C%81_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

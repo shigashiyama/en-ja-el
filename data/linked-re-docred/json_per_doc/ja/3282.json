@@ -1,0 +1,414 @@
+{
+  "3282": {
+    "doc_info": {
+      "title": "Abdullah I Al-Sabah",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "アブドゥッラー1世ビン・サバーハ・アッ＝サバーハ（アブドゥッラー1世；1740年～1814年5月3日）は、1763年から1814年5月3日まで治めたクウェートの2番目の統治者でした。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M2_1",
+          "M3_3",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "彼はサバーハ・ビン・ジャービルの末息子で、その死後に継ぎました。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "彼はその末息子としての地位にもかかわらず、首長や名士によってその地位に選出されました。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "彼は彼の後継者であるジャービル1世アッ＝サバーハの父親でもあります。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "ビン・サバーハは、クウェートに最初の防御壁を建設したとされています。",
+        "mention_ids": [
+          "M0_2",
+          "M3_0"
+        ]
+      },
+      "05": {
+        "text": "彼の治世中、クウェートは現在のインド、イエメン、イラクにも商業的接触を広げました。",
+        "mention_ids": [
+          "M3_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "またこの期間中に、クウェートはイギリス東インド会社との関係を確立しました。",
+        "mention_ids": [
+          "M10_0",
+          "M3_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          24
+        ],
+        "text": "アブドゥッラー1世ビン・サバーハ・アッ＝サバーハ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          25,
+          34
+        ],
+        "text": "アブドゥッラー1世",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ビン・サバーハ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          15,
+          25
+        ],
+        "text": "イギリス東インド会社",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          40
+        ],
+        "text": "1740年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          60,
+          69
+        ],
+        "text": "1814年5月3日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          50
+        ],
+        "text": "1814年5月3日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          9,
+          14
+        ],
+        "text": "クウェート",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          11
+        ],
+        "text": "クウェート",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          14
+        ],
+        "text": "クウェート",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          79
+        ],
+        "text": "クウェート",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          53,
+          58
+        ],
+        "text": "1763年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          2,
+          15
+        ],
+        "text": "サバーハ・ビン・ジャービル",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          24
+        ],
+        "text": "ジャービル1世アッ＝サバーハ",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          18
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          23
+        ],
+        "text": "イエメン",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          27
+        ],
+        "text": "イラク",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abdullah_I_Al-Sabah",
+          "wikidata": "http://www.wikidata.org/entity/Q3269513",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%89%E3%82%A5%E3%83%83%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%90%E3%83%BC%E3%83%8F%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%83%EF%BC%9D%E3%82%B5%E3%83%90%E3%83%BC%E3%83%8F"
+        },
+        "date_of_death": "1814-05-03T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kuwait",
+          "wikidata": "http://www.wikidata.org/entity/Q817",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sabah_I_bin_Jaber",
+          "wikidata": "http://www.wikidata.org/entity/Q26922",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sabah_bin_Jaber",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%BC%E3%83%8F%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%93%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%83%EF%BC%9D%E3%82%B5%E3%83%90%E3%83%BC%E3%83%8F"
+        },
+        "date_of_death": "1762-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jaber_I_Al-Sabah",
+          "wikidata": "http://www.wikidata.org/entity/Q888268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%93%E3%83%AB1%E4%B8%96%E3%83%BB%E3%82%A2%E3%83%83%EF%BC%9D%E3%82%B5%E3%83%90%E3%83%BC%E3%83%8F"
+        },
+        "date_of_death": "1859-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yemen",
+          "wikidata": "http://www.wikidata.org/entity/Q805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iraq",
+          "wikidata": "http://www.wikidata.org/entity/Q796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_India_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q83164",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%9D%B1%E3%82%A4%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

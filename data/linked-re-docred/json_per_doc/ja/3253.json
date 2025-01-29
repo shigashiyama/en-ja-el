@@ -1,0 +1,456 @@
+{
+  "3253": {
+    "doc_info": {
+      "title": "Mistborn",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『ミストボーン』は、アメリカ人作家■■■■■■■■■■■■によって書かれ、トール・ブックスから出版された一連の壮大なファンタジー小説です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "最初の三部作は2006年と2008年の間に発行され、『霧の落とし子』、『霧のうつし身』、そして『霧の羽衣』で構成されています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "読者に2番目の三部作に対して心の準備をさせるために、■■■■■■は過渡的な続編を書き、その後、それは300年後を舞台にした4冊の『ワックスとウェイン』シリーズの第1作になりました。",
+        "mention_ids": [
+          "M2_2",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "『ワックスとウェイン』の本のタイトルは次のとおりです。2011年11月8日に出版された『法の合金』、2015年10月6日に出版された『自身の影』、2016年1月26日に出版された『哀悼の帯』、そして現在製作中の『失われた金属』です。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M7_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "■■■■■■は、2016年1月26日に、『シークレット・ヒストリー』というタイトルの元の3部作の姉妹編を出版しました。",
+        "mention_ids": [
+          "M12_1",
+          "M2_1"
+        ]
+      },
+      "05": {
+        "text": "他に2つの計画された3部作がありますが、それらには完了予定日がありません。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          7
+        ],
+        "text": "ミストボーン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          37
+        ],
+        "text": "2011年11月8日",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          50,
+          60
+        ],
+        "text": "2015年10月6日",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          73,
+          83
+        ],
+        "text": "2016年1月26日",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          18
+        ],
+        "text": "2016年1月26日",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          106,
+          112
+        ],
+        "text": "失われた金属",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          2,
+          4
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          15
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          29
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          32
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          45
+        ],
+        "text": "トール・ブックス",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          12
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          18
+        ],
+        "text": "2008年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          62
+        ],
+        "text": "4",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          74
+        ],
+        "text": "ワックスとウェイン",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          1,
+          10
+        ],
+        "text": "ワックスとウェイン",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          50,
+          54
+        ],
+        "text": "300年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          48
+        ],
+        "text": "法の合金",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mistborn",
+          "wikidata": "http://www.wikidata.org/entity/Q268100",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B9%E3%83%88%E3%83%9C%E3%83%BC%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+          "wikidata": "http://www.wikidata.org/entity/Q457608",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tor_Books",
+          "wikidata": "http://www.wikidata.org/entity/Q2647037",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%A2%E3%83%BB%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mistborn:_The_Alloy_of_Law",
+          "wikidata": "http://www.wikidata.org/entity/Q6880077"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mistborn:_The_Lost_Metal",
+          "wikidata": "http://www.wikidata.org/entity/Q115349143"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

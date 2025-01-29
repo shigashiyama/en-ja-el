@@ -1,0 +1,838 @@
+{
+  "3214": {
+    "doc_info": {
+      "title": "Bill Frist",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■■■■ Sr . ( born February 22 , 1952 ) is an American physician , businessman , and politician .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "He began his career as a heart and lung transplant surgeon .",
+        "text": "He began his career as a heart and lung transplant surgeon .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "He later served two terms as a Republican United States Senator representing Tennessee .",
+        "text": "He later served two terms as a Republican United States Senator representing Tennessee .",
+        "mention_ids": [
+          "M3_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "orig_text": "He was the Senate Majority Leader from 2003 to 2007 .",
+        "text": "He was the Senate Majority Leader from 2003 to 2007 .",
+        "mention_ids": [
+          "M6_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "Born in Nashville , Tennessee , ■■■■■ studied health care policy at Princeton University and interned for Congressman Joe L. Evins .",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M11_0",
+          "M5_1",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "Rather than going directly into politics , ■■■■■ earned a Doctor of Medicine degree from Harvard Medical School , becoming a surgeon at Massachusetts General Hospital and several other hospitals .",
+        "mention_ids": [
+          "M0_2",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In 1994 , he defeated incumbent Democratic Senator Jim Sasser , and pledged to only serve two terms .",
+        "text": "In 1994 , he defeated incumbent Democratic Senator Jim Sasser , and pledged to only serve two terms .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M3_0"
+        ]
+      },
+      "07": {
+        "text": "After serving as Chairman of the National Republican Senatorial Committee , ■■■■■ succeeded ■■■■■■■■■■■ as the Senate Majority Leader .",
+        "mention_ids": [
+          "M0_1",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "08": {
+        "text": "■■■■■ helped pass several parts of President ■■■■■■■■■■■■■■ 's domestic agenda , including the Jobs and Growth Tax Relief Reconciliation Act of 2003 and PEPFAR .",
+        "mention_ids": [
+          "M0_4",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M7_1"
+        ]
+      },
+      "09": {
+        "orig_text": "He was also a strong proponent of the Partial - Birth Abortion Ban Act and a prominent advocate of tort reform .",
+        "text": "He was also a strong proponent of the Partial - Birth Abortion Ban Act and a prominent advocate of tort reform .",
+        "mention_ids": [
+          "M22_0"
+        ]
+      },
+      "10": {
+        "text": "■■■■■ left the Senate in 2007 , honoring his commitment to serve no more than two terms .",
+        "mention_ids": [
+          "M0_5",
+          "M3_2",
+          "M6_0",
+          "M8_1"
+        ]
+      },
+      "11": {
+        "orig_text": "Since leaving Congress , he has remained active in public life and has taught at several universities .",
+        "text": "Since leaving Congress , he has remained active in public life and has taught at several universities .",
+        "mention_ids": [
+          "M23_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          22
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          76,
+          81
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          43,
+          48
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          37
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          68,
+          88
+        ],
+        "text": "Princeton University",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          118,
+          130
+        ],
+        "text": "Joe L. Evins",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          89,
+          111
+        ],
+        "text": "Harvard Medical School",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          136,
+          166
+        ],
+        "text": "Massachusetts General Hospital",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1994",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          32,
+          50
+        ],
+        "text": "Democratic Senator",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          51,
+          61
+        ],
+        "text": "Jim Sasser",
+        "entity_type": "PER",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          73
+        ],
+        "text": "National Republican Senatorial Committee",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          92,
+          103
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          45,
+          59
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          53
+        ],
+        "text": "February 22 , 1952",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          95,
+          140
+        ],
+        "text": "Jobs and Growth Tax Relief Reconciliation Act",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          153,
+          159
+        ],
+        "text": "PEPFAR",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "09",
+        "span": [
+          38,
+          70
+        ],
+        "text": "Partial - Birth Abortion Ban Act",
+        "entity_type": "MISC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "11",
+        "span": [
+          14,
+          22
+        ],
+        "text": "Congress",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          70
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          90,
+          93
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          19
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "10",
+        "span": [
+          78,
+          81
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          63
+        ],
+        "text": "Republican United States Senator",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          86
+        ],
+        "text": "Tennessee",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          29
+        ],
+        "text": "Tennessee",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "10",
+        "span": [
+          15,
+          21
+        ],
+        "text": "Senate",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          17
+        ],
+        "text": "Senate",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          43
+        ],
+        "text": "2003",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "08",
+        "span": [
+          144,
+          148
+        ],
+        "text": "2003",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          47,
+          51
+        ],
+        "text": "2007",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "10",
+        "span": [
+          25,
+          29
+        ],
+        "text": "2007",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          17
+        ],
+        "text": "Nashville",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bill_Frist",
+          "wikidata": "http://www.wikidata.org/entity/Q31112",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%95%E3%83%AA%E3%82%B9%E3%83%88"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tennessee",
+          "wikidata": "http://www.wikidata.org/entity/Q1509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Party_leaders_of_the_United_States_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q1813203",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%A2%E5%86%85%E7%B7%8F%E5%8B%99_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "wikidata": "http://www.wikidata.org/entity/Q23197",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%83%E3%82%B7%E3%83%A5%E3%83%93%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Princeton_University",
+          "wikidata": "http://www.wikidata.org/entity/Q21578",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%88%E3%83%B3%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joe_L._Evins",
+          "wikidata": "http://www.wikidata.org/entity/Q1554733"
+        },
+        "date_of_death": "1984-03-31T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Harvard_Medical_School",
+          "wikidata": "http://www.wikidata.org/entity/Q49121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts_General_Hospital",
+          "wikidata": "http://www.wikidata.org/entity/Q126412",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E7%B7%8F%E5%90%88%E7%97%85%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jim_Sasser",
+          "wikidata": "http://www.wikidata.org/entity/Q1807209"
+        },
+        "date_of_death": "2024-09-10T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Republican_Senatorial_Committee",
+          "wikidata": "http://www.wikidata.org/entity/Q6978038"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tom_Daschle",
+          "wikidata": "http://www.wikidata.org/entity/Q443640",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A0%E3%83%BB%E3%83%80%E3%82%B7%E3%83%A5%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/George_W._Bush",
+          "wikidata": "http://www.wikidata.org/entity/Q207",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BBW%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003",
+          "wikidata": "http://www.wikidata.org/entity/Q6206846"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/President%27s_Emergency_Plan_for_AIDS_Relief",
+          "wikidata": "http://www.wikidata.org/entity/Q3402412",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/President's_Emergency_Plan_for_AIDS_Relief"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Partial-Birth_Abortion_Ban_Act",
+          "wikidata": "http://www.wikidata.org/entity/Q2054483"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q11268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

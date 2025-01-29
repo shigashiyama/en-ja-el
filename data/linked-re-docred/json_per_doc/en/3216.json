@@ -1,0 +1,478 @@
+{
+  "3216": {
+    "doc_info": {
+      "title": "Malolos",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "' , officially the ' , ( ) , or simply known as City , is a   in the province of , .",
+        "text": "Malolos, officially the City of Malolos (Filipino: Lungsod ng Malolos), is a 3rd class component city in the province of Bulacan, Philippines.",
+        "mention_ids": []
+      },
+      "01": {
+        "orig_text": "According to the , it has a population of people .",
+        "text": "According to the 2020 census, it has a population of 261,189 people.",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "It is the capital city of the province of Bulacan as the seat of the provincial government .",
+        "text": "It is the capital city of the province of Bulacan as the seat of the provincial government .",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The city is north of Manila , the capital city of the Philippines .",
+        "text": "The city is north of Manila , the capital city of the Philippines .",
+        "mention_ids": [
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It is one of the major suburbs conurbated to Metro Manila , situated in the southwestern part of Bulacan , in the Central Luzon Region ( Region 3 ) in the island of Luzon and part of the Metro Luzon Urban Beltway Super Region .",
+        "text": "It is one of the major suburbs conurbated to Metro Manila , situated in the southwestern part of Bulacan , in the Central Luzon Region ( Region 3 ) in the island of Luzon and part of the Metro Luzon Urban Beltway Super Region .",
+        "mention_ids": [
+          "M0_1",
+          "M3_0",
+          "M4_0",
+          "M4_1",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Malolos was the site of the constitutional convention of 1898 , known as the Malolos Convention , that led to the establishment of the First Philippine Republic , at the sanctuary of the Barasoain Church .",
+        "text": "Malolos was the site of the constitutional convention of 1898 , known as the Malolos Convention , that led to the establishment of the First Philippine Republic , at the sanctuary of the Barasoain Church .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The convent of the Malolos Cathedral served as the presidential palace at that time .",
+        "text": "The convent of the Malolos Cathedral served as the presidential palace at that time .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "07": {
+        "orig_text": "Malolos gave birth to the first constitutional republic in Asia .",
+        "text": "Malolos gave birth to the first constitutional republic in Asia .",
+        "mention_ids": [
+          "M13_0",
+          "M7_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          49
+        ],
+        "text": "Bulacan",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          97,
+          104
+        ],
+        "text": "Bulacan",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          135,
+          160
+        ],
+        "text": "First Philippine Republic",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          187,
+          203
+        ],
+        "text": "Barasoain Church",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          19,
+          36
+        ],
+        "text": "Malolos Cathedral",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          59,
+          63
+        ],
+        "text": "Asia",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          27
+        ],
+        "text": "Manila",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          65
+        ],
+        "text": "Philippines",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          57
+        ],
+        "text": "Metro Manila",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "04",
+        "span": [
+          137,
+          145
+        ],
+        "text": "Region 3",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          114,
+          134
+        ],
+        "text": "Central Luzon Region",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          165,
+          170
+        ],
+        "text": "Luzon",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          187,
+          225
+        ],
+        "text": "Metro Luzon Urban Beltway Super Region",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Malolos",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Malolos",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          57,
+          61
+        ],
+        "text": "1898",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          77,
+          95
+        ],
+        "text": "Malolos Convention",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bulacan",
+          "wikidata": "http://www.wikidata.org/entity/Q13755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%AB%E3%83%B3%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q1461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spanish_colonial_fortifications_in_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q2306728",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Spanish_Colonial_Fortifications_of_the_Philippines"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Metro_Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q13580",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9%E9%A6%96%E9%83%BD%E5%9C%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Luzon",
+          "wikidata": "http://www.wikidata.org/entity/Q13617",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E3%83%AB%E3%82%BD%E3%83%B3%E5%9C%B0%E6%96%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luzon",
+          "wikidata": "http://www.wikidata.org/entity/Q125384",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%BD%E3%83%B3%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Super_regions_of_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q7642962"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malolos",
+          "wikidata": "http://www.wikidata.org/entity/Q2180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AD%E3%83%AD%E3%82%B9"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_Government_of_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q53553879"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/First_Philippine_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q1361989",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E7%AC%AC%E4%B8%80%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barasoain_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q4858463"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malolos_Cathedral",
+          "wikidata": "http://www.wikidata.org/entity/Q1659761"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asia",
+          "wikidata": "http://www.wikidata.org/entity/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

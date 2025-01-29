@@ -1,0 +1,532 @@
+{
+  "3300": {
+    "doc_info": {
+      "title": "Le Dep",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Le Dep is a 2015 Canadian psychological drama film directed by ■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "The film tells the story of a young Innu woman ( played by ■■■■■■■■■■■■■ ) who is held at gunpoint one night while working at a convenience store in a small First - Nations community in rural Quebec .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Set in a fictional Innu community , the film 's dialogue is mostly in French , with some Innu - aimun .",
+        "text": "Set in a fictional Innu community , the film 's dialogue is mostly in French , with some Innu - aimun .",
+        "mention_ids": [
+          "M4_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Le Dep is the first First Nations production of Telefilm Canada 's Micro - Budget program .",
+        "text": "Le Dep is the first First Nations production of Telefilm Canada 's Micro - Budget program .",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M6_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The film 's world premiere was at the 2015 Karlovy Vary International Film Festival , following which the film played various festivals in Canada , the United States , and United Kingdom and had a theatrical run in Montreal .",
+        "text": "The film 's world premiere was at the 2015 Karlovy Vary International Film Festival , following which the film played various festivals in Canada , the United States , and United Kingdom and had a theatrical run in Montreal .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M1_1",
+          "M2_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Le Dep",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Le Dep",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          63
+        ],
+        "text": "Telefilm Canada",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          67,
+          89
+        ],
+        "text": "Micro - Budget program",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          43,
+          83
+        ],
+        "text": "Karlovy Vary International Film Festival",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          148,
+          165
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          172,
+          186
+        ],
+        "text": "United Kingdom",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          215,
+          223
+        ],
+        "text": "Montreal",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          16
+        ],
+        "text": "2015",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "04",
+        "span": [
+          38,
+          42
+        ],
+        "text": "2015",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "04",
+        "span": [
+          139,
+          145
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          25
+        ],
+        "text": "Canadian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          76
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          40
+        ],
+        "text": "Innu",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          23
+        ],
+        "text": "Innu",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          59,
+          72
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          157,
+          172
+        ],
+        "text": "First - Nations",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          33
+        ],
+        "text": "First Nations",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          192,
+          198
+        ],
+        "text": "Quebec",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          70,
+          76
+        ],
+        "text": "French",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          89,
+          101
+        ],
+        "text": "Innu - aimun",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Le_Dep",
+          "wikidata": "http://www.wikidata.org/entity/Q22000119"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sonia_Bonspille_Boileau",
+          "wikidata": "http://www.wikidata.org/entity/Q20711004",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sonia_Boileau"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Innu",
+          "wikidata": "http://www.wikidata.org/entity/Q497568"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ève_Ringuette",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Ève_Ringuette"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/First_Nations",
+          "wikidata": "http://www.wikidata.org/entity/Q110760486"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quebec",
+          "wikidata": "http://www.wikidata.org/entity/Q176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/French_people",
+          "wikidata": "http://www.wikidata.org/entity/Q121842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Innu_language",
+          "wikidata": "http://www.wikidata.org/entity/Q13351"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Telefilm_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q3546604"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Karlovy_Vary_International_Film_Festival",
+          "wikidata": "http://www.wikidata.org/entity/Q332869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AA%E5%9B%BD%E9%9A%9B%E6%98%A0%E7%94%BB%E7%A5%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Montreal",
+          "wikidata": "http://www.wikidata.org/entity/Q340",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

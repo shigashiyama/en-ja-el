@@ -1,0 +1,773 @@
+{
+  "3181": {
+    "doc_info": {
+      "title": "Ålgård Line",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Ålgård Line ( ) is a closed , but not abandoned , railway line between Ganddal and Ålgård in Rogaland , Norway .",
+        "text": "The Ålgård Line ( ) is a closed , but not abandoned , railway line between Ganddal and Ålgård in Rogaland , Norway .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The line was built as a narrow gauge branch line of the Jæren Line by the Norwegian State Railways ( NSB ) and opened in 1924 .",
+        "text": "The line was built as a narrow gauge branch line of the Jæren Line by the Norwegian State Railways ( NSB ) and opened in 1924 .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M6_1",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It runs through the villages of Foss - Eikeland and Figgjo in Sandnes to Ålgård in Gjesdal .",
+        "text": "It runs through the villages of Foss - Eikeland and Figgjo in Sandnes to Ålgård in Gjesdal .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Several proposals were made for the Ålgård Line to become the first part of the main line from Stavanger to Oslo , but instead the Sørlandet Line was connected to the Jæren Line in 1944 .",
+        "text": "Several proposals were made for the Ålgård Line to become the first part of the main line from Stavanger to Oslo , but instead the Sørlandet Line was connected to the Jæren Line in 1944 .",
+        "mention_ids": [
+          "M0_2",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M5_1"
+        ]
+      },
+      "04": {
+        "orig_text": "At the same time , the Ålgård Line was upgraded to standard gauge .",
+        "text": "At the same time , the Ålgård Line was upgraded to standard gauge .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "05": {
+        "orig_text": "The line had up to ten daily round trips with diesel multiple units , until passenger traffic was terminated in 1955 .",
+        "text": "The line had up to ten daily round trips with diesel multiple units , until passenger traffic was terminated in 1955 .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Freight traffic remained until 1988 , when most of the line was abandoned in 1988 , although was used until 2001 .",
+        "text": "Freight traffic remained until 1988 , when most of the line was abandoned in 1988 , although was used until 2001 .",
+        "mention_ids": [
+          "M18_0",
+          "M18_1",
+          "M19_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The line is owned by the Norwegian National Rail Administration .",
+        "text": "The line is owned by the Norwegian National Rail Administration .",
+        "mention_ids": [
+          "M20_0"
+        ]
+      },
+      "08": {
+        "orig_text": "The station at Figgjo has been converted to a museum , and the section from there to Ålgård is used for recreational draisines .",
+        "text": "The station at Figgjo has been converted to a museum , and the section from there to Ålgård is used for recreational draisines .",
+        "mention_ids": [
+          "M2_2",
+          "M9_1"
+        ]
+      },
+      "09": {
+        "orig_text": "There have been proposals to reopen the line either as part of the Jæren Commuter Rail or the planned light rail for Greater Stavanger .",
+        "text": "There have been proposals to reopen the line either as part of the Jæren Commuter Rail or the planned light rail for Greater Stavanger .",
+        "mention_ids": [
+          "M21_0",
+          "M22_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          15
+        ],
+        "text": "Ålgård Line",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          34
+        ],
+        "text": "Ålgård Line",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          47
+        ],
+        "text": "Ålgård Line",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          62,
+          69
+        ],
+        "text": "Sandnes",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          83,
+          90
+        ],
+        "text": "Gjesdal",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          95,
+          104
+        ],
+        "text": "Stavanger",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          108,
+          112
+        ],
+        "text": "Oslo",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          131,
+          145
+        ],
+        "text": "Sørlandet Line",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          181,
+          185
+        ],
+        "text": "1944",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          22
+        ],
+        "text": "ten",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          112,
+          116
+        ],
+        "text": "1955",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          31,
+          35
+        ],
+        "text": "1988",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "06",
+        "span": [
+          77,
+          81
+        ],
+        "text": "1988",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          108,
+          112
+        ],
+        "text": "2001",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          75,
+          82
+        ],
+        "text": "Ganddal",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          25,
+          63
+        ],
+        "text": "Norwegian National Rail Administration",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "09",
+        "span": [
+          67,
+          86
+        ],
+        "text": "Jæren Commuter Rail",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "09",
+        "span": [
+          117,
+          134
+        ],
+        "text": "Greater Stavanger",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          87,
+          93
+        ],
+        "text": "Ålgård",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          73,
+          79
+        ],
+        "text": "Ålgård",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "08",
+        "span": [
+          85,
+          91
+        ],
+        "text": "Ålgård",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          97,
+          105
+        ],
+        "text": "Rogaland",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          108,
+          114
+        ],
+        "text": "Norway",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          66
+        ],
+        "text": "Jæren Line",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          167,
+          177
+        ],
+        "text": "Jæren Line",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          74,
+          98
+        ],
+        "text": "Norwegian State Railways",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          104
+        ],
+        "text": "NSB",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          121,
+          125
+        ],
+        "text": "1924",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          47
+        ],
+        "text": "Foss - Eikeland",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          58
+        ],
+        "text": "Figgjo",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          21
+        ],
+        "text": "Figgjo",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/%C3%85lg%C3%A5rd_Line",
+          "wikidata": "http://www.wikidata.org/entity/Q3700570",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ålgård_Line"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ganddal",
+          "wikidata": "http://www.wikidata.org/entity/Q1778450"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/%C3%85lg%C3%A5rd",
+          "wikidata": "http://www.wikidata.org/entity/Q3357643",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ålgård"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rogaland",
+          "wikidata": "http://www.wikidata.org/entity/Q50624",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%AC%E3%83%A9%E3%83%B3%E7%9C%8C"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norway",
+          "wikidata": "http://www.wikidata.org/entity/Q20",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/J%C3%A6ren_Line",
+          "wikidata": "http://www.wikidata.org/entity/Q165305",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Jæren_Line"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norwegian_State_Railways_(1883%E2%80%931996)",
+          "wikidata": "http://www.wikidata.org/entity/Q7061278",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Norwegian_State_Railways_(1883–1996)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Foss-Eikeland",
+          "wikidata": "http://www.wikidata.org/entity/Q5473372"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Figgjo",
+          "wikidata": "http://www.wikidata.org/entity/Q5447711"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sandnes",
+          "wikidata": "http://www.wikidata.org/entity/Q27587",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gjesdal",
+          "wikidata": "http://www.wikidata.org/entity/Q255148"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stavanger",
+          "wikidata": "http://www.wikidata.org/entity/Q25416",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oslo",
+          "wikidata": "http://www.wikidata.org/entity/Q585",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S%C3%B8rlandet_Line",
+          "wikidata": "http://www.wikidata.org/entity/Q1577458",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sørlandet_Line"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jernbaneverket",
+          "wikidata": "http://www.wikidata.org/entity/Q1687698",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Norwegian_National_Rail_Administration"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/J%C3%A6ren_Commuter_Rail",
+          "wikidata": "http://www.wikidata.org/entity/Q6320063",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Jæren_Commuter_Rail"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greater_Stavanger",
+          "wikidata": "http://www.wikidata.org/entity/Q5600764"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

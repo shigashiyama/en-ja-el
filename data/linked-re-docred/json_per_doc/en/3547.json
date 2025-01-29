@@ -1,0 +1,317 @@
+{
+  "3547": {
+    "doc_info": {
+      "title": "Motijheel Thana",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Motijheel ( ) is a thana ( administrative division ) of Dhaka , Bangladesh .",
+        "text": "Motijheel ( ) is a thana ( administrative division ) of Dhaka , Bangladesh .",
+        "mention_ids": [
+          "M0_0",
+          "M1_2",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is at the heart of the city ( the General Post Office is considered the zero point of Dhaka ) .",
+        "text": "It is at the heart of the city ( the General Post Office is considered the zero point of Dhaka ) .",
+        "mention_ids": [
+          "M1_1",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Motijheel is the major business and commercial hub of Dhaka city and has more offices and business institutions than any other part of the city .",
+        "text": "Motijheel is the major business and commercial hub of Dhaka city and has more offices and business institutions than any other part of the city .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0"
+        ]
+      },
+      "03": {
+        "orig_text": "It is the home to largest number of corporate headquarters in the nation .",
+        "text": "It is the home to largest number of corporate headquarters in the nation .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "Many news , magazines , print and other media publishers are based here .",
+        "text": "Many news , magazines , print and other media publishers are based here .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Motijheel is close to Kamalapur Railway Station , Dhaka 's main station .",
+        "text": "Motijheel is close to Kamalapur Railway Station , Dhaka 's main station .",
+        "mention_ids": [
+          "M0_2",
+          "M1_3",
+          "M4_0"
+        ]
+      },
+      "06": {
+        "orig_text": "One of the highest skyscrapers of the megacity are in this area .",
+        "text": "One of the highest skyscrapers of the megacity are in this area .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "It is the central business district .",
+        "text": "It is the central business district .",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "City Centre Bangladesh and Bangladesh Bank Building are in this area .",
+        "text": "City Centre Bangladesh and Bangladesh Bank Building are in this area .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Motijheel",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Motijheel",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Motijheel",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          59
+        ],
+        "text": "Dhaka",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          89,
+          94
+        ],
+        "text": "Dhaka",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "00",
+        "span": [
+          56,
+          61
+        ],
+        "text": "Dhaka",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          55
+        ],
+        "text": "Dhaka",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          74
+        ],
+        "text": "Bangladesh",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          56
+        ],
+        "text": "General Post Office",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          47
+        ],
+        "text": "Kamalapur Railway Station",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          22
+        ],
+        "text": "City Centre Bangladesh",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "08",
+        "span": [
+          27,
+          51
+        ],
+        "text": "Bangladesh Bank Building",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Motijheel_(disambiguation)",
+          "wikidata": "http://www.wikidata.org/entity/Q6917693"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dhaka",
+          "wikidata": "http://www.wikidata.org/entity/Q1354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bangladesh",
+          "wikidata": "http://www.wikidata.org/entity/Q902",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Post_Office",
+          "wikidata": "http://www.wikidata.org/entity/Q1325334"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kamalapur_railway_station",
+          "wikidata": "http://www.wikidata.org/entity/Q6355669",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Kamalapur_Railway_Station"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_Centre_Dhaka",
+          "wikidata": "http://www.wikidata.org/entity/Q5123077",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/City_Centre_Bangladesh"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Bank_Building",
+          "wikidata": "http://www.wikidata.org/entity/Q4855276"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

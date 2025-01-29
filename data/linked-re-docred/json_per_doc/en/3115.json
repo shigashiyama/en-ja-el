@@ -1,0 +1,965 @@
+{
+  "3115": {
+    "doc_info": {
+      "title": "Zamoyski Palace",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Zamoyski Palace ( Polish : Pałac Zamoyskich ) - a historical building , located by Nowy Świat Street in Warsaw , Poland .",
+        "text": "Zamoyski Palace ( Polish : Pałac Zamoyskich ) - a historical building , located by Nowy Świat Street in Warsaw , Poland .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "From 1667 the owner of the plot was Jan Wielopolski .",
+        "text": "From 1667 the owner of the plot was Jan Wielopolski .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "Between 1744 and 1745 the inheritors of Wielopolski 's possessions reconstructed the palace following designs of architect ■■■■■■■■■ .",
+        "mention_ids": [
+          "M10_0",
+          "M7_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The owner of the building soon became Franciszek Ksawery Branicki , who commissioned renovation work under Szymon Bogumił Zug .",
+        "text": "The owner of the building soon became Franciszek Ksawery Branicki , who commissioned renovation work under Szymon Bogumił Zug .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "04": {
+        "text": "In 1802 the palace was bought by ■■■■■■■■■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Stanisław Staszic would live in the palace until he died there in 1826 .",
+        "text": "Stanisław Staszic would live in the palace until he died there in 1826 .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In 1839 the palace became property of Andrzej Artur Zamoyski .",
+        "text": "In 1839 the palace became property of Andrzej Artur Zamoyski .",
+        "mention_ids": [
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The new owner commissioned reconstruction works headed by architect Enrico Marconi which gave the building 's present nature .",
+        "text": "The new owner commissioned reconstruction works headed by architect Enrico Marconi which gave the building 's present nature .",
+        "mention_ids": [
+          "M19_0"
+        ]
+      },
+      "08": {
+        "orig_text": "During the January Uprising of 1863 , the house was plundered by the Imperial Army .",
+        "text": "During the January Uprising of 1863 , the house was plundered by the Imperial Army .",
+        "mention_ids": [
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "09": {
+        "orig_text": "During the interwar period the building housed the Ministry of Interior and Administration ( Poland ) .",
+        "text": "During the interwar period the building housed the Ministry of Interior and Administration ( Poland ) .",
+        "mention_ids": [
+          "M23_0",
+          "M5_1"
+        ]
+      },
+      "10": {
+        "orig_text": "The palace was damaged during the Warsaw Uprising and rebuilt between 1948 and 1950 without modifying its architectural design .",
+        "text": "The palace was damaged during the Warsaw Uprising and rebuilt between 1948 and 1950 without modifying its architectural design .",
+        "mention_ids": [
+          "M24_0",
+          "M25_0",
+          "M26_0"
+        ]
+      },
+      "11": {
+        "orig_text": "Presently , the palace houses the Faculty of Journalism and Politics of the University of Warsaw , the Institute of Applied Social Sciences , \" Artes - Liberales \" Faculty , Institute for Scientific Information and Bibliographic Studies of the Historical Faculty of the University of Warsaw .",
+        "text": "Presently , the palace houses the Faculty of Journalism and Politics of the University of Warsaw , the Institute of Applied Social Sciences , \" Artes - Liberales \" Faculty , Institute for Scientific Information and Bibliographic Studies of the Historical Faculty of the University of Warsaw .",
+        "mention_ids": [
+          "M27_0",
+          "M28_0",
+          "M29_0",
+          "M30_0",
+          "M31_0",
+          "M32_0",
+          "M33_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Zamoyski Palace",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          123,
+          132
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          65
+        ],
+        "text": "Franciszek Ksawery Branicki",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          107,
+          125
+        ],
+        "text": "Szymon Bogumił Zug",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1802",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          33,
+          55
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          17
+        ],
+        "text": "Stanisław Staszic",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          66,
+          70
+        ],
+        "text": "1826",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1839",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          38,
+          60
+        ],
+        "text": "Andrzej Artur Zamoyski",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          68,
+          82
+        ],
+        "text": "Enrico Marconi",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          24
+        ],
+        "text": "Polish",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          11,
+          27
+        ],
+        "text": "January Uprising",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          31,
+          35
+        ],
+        "text": "1863",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          69,
+          82
+        ],
+        "text": "Imperial Army",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "09",
+        "span": [
+          51,
+          90
+        ],
+        "text": "Ministry of Interior and Administration",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "10",
+        "span": [
+          34,
+          49
+        ],
+        "text": "Warsaw Uprising",
+        "entity_type": "MISC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "10",
+        "span": [
+          70,
+          74
+        ],
+        "text": "1948",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "10",
+        "span": [
+          79,
+          83
+        ],
+        "text": "1950",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "11",
+        "span": [
+          34,
+          68
+        ],
+        "text": "Faculty of Journalism and Politics",
+        "entity_type": "ORG",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "11",
+        "span": [
+          76,
+          96
+        ],
+        "text": "University of Warsaw",
+        "entity_type": "ORG",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "11",
+        "span": [
+          103,
+          139
+        ],
+        "text": "Institute of Applied Social Sciences",
+        "entity_type": "ORG",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          43
+        ],
+        "text": "Pałac Zamoyskich",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "11",
+        "span": [
+          142,
+          171
+        ],
+        "text": "\" Artes - Liberales \" Faculty",
+        "entity_type": "ORG",
+        "entity_id": "E030"
+      },
+      "M31_0": {
+        "sentence_id": "11",
+        "span": [
+          174,
+          210
+        ],
+        "text": "Institute for Scientific Information",
+        "entity_type": "ORG",
+        "entity_id": "E031"
+      },
+      "M32_0": {
+        "sentence_id": "11",
+        "span": [
+          215,
+          236
+        ],
+        "text": "Bibliographic Studies",
+        "entity_type": "ORG",
+        "entity_id": "E032"
+      },
+      "M33_0": {
+        "sentence_id": "11",
+        "span": [
+          244,
+          290
+        ],
+        "text": "Historical Faculty of the University of Warsaw",
+        "entity_type": "ORG",
+        "entity_id": "E033"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          100
+        ],
+        "text": "Nowy Świat Street",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          104,
+          110
+        ],
+        "text": "Warsaw",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          113,
+          119
+        ],
+        "text": "Poland",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "09",
+        "span": [
+          93,
+          99
+        ],
+        "text": "Poland",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          9
+        ],
+        "text": "1667",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          51
+        ],
+        "text": "Jan Wielopolski",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          51
+        ],
+        "text": "Wielopolski",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          12
+        ],
+        "text": "1744",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          21
+        ],
+        "text": "1745",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zamoyski_Palace,_Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q145920",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Zamoyski_Palace"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Polish_language",
+          "wikidata": "http://www.wikidata.org/entity/Q809",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zamoyski_Palace,_Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q145920",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Zamoyski_Palace"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_World_Street,_Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q1109610",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Nowy_Świat_Street"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q270",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poland",
+          "wikidata": "http://www.wikidata.org/entity/Q36",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jan_Wielopolski_the_elder",
+          "wikidata": "http://www.wikidata.org/entity/Q6150188"
+        },
+        "date_of_death": "1668-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Franciszek_Ksawery_Branicki",
+          "wikidata": "http://www.wikidata.org/entity/Q1349049",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%B7%E3%82%A7%E3%82%AF%E3%83%BB%E3%82%AF%E3%82%B5%E3%83%B4%E3%82%A7%E3%83%AA%E3%83%BB%E3%83%96%E3%83%A9%E3%83%8B%E3%83%84%E3%82%AD"
+        },
+        "date_of_death": "1819-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Szymon_Bogumi%C5%82_Zug",
+          "wikidata": "http://www.wikidata.org/entity/Q86122",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Szymon_Bogumił_Zug"
+        },
+        "date_of_death": "1807-08-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Staszic",
+          "wikidata": "http://www.wikidata.org/entity/Q708435",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Stanisław_Staszic"
+        },
+        "date_of_death": "1826-01-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrzej_Artur_Zamoyski",
+          "wikidata": "http://www.wikidata.org/entity/Q514713"
+        },
+        "date_of_death": "1874-10-29T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Enrico_Marconi",
+          "wikidata": "http://www.wikidata.org/entity/Q1343848"
+        },
+        "date_of_death": "1863-02-21T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/January_Uprising",
+          "wikidata": "http://www.wikidata.org/entity/Q473670",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1%E6%9C%88%E8%9C%82%E8%B5%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q34266",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "removed_mention_ids": [
+          "M23_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_the_Interior_and_Administration",
+          "wikidata": "http://www.wikidata.org/entity/Q4294318",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ministry_of_Interior_and_Administration_(Poland)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%8B%99%E3%83%BB%E8%A1%8C%E6%94%BF%E7%9C%81_(%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warsaw_Uprising",
+          "wikidata": "http://www.wikidata.org/entity/Q1402078",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%AF%E8%9C%82%E8%B5%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/University_of_Warsaw",
+          "wikidata": "http://www.wikidata.org/entity/Q144488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%AF%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M31_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M32_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M33_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "3087": {
+    "doc_info": {
+      "title": "Northern Territory Force",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Northern Territory Force was an Australian Army force responsible for protecting the Northern Territory during World War II .",
+        "text": "Northern Territory Force was an Australian Army force responsible for protecting the Northern Territory during World War II .",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Most units assigned to the Northern Territory Force were based near Darwin and were responsible for defending the important naval and air bases in and around the town against a feared Japanese invasion .",
+        "text": "Most units assigned to the Northern Territory Force were based near Darwin and were responsible for defending the important naval and air bases in and around the town against a feared Japanese invasion .",
+        "mention_ids": [
+          "M0_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Northern Territory Force was briefly re - named the 12th Division in late 1942 but this was short - lived .",
+        "text": "Northern Territory Force was briefly re - named the 12th Division in late 1942 but this was short - lived .",
+        "mention_ids": [
+          "M0_2",
+          "M0_4",
+          "M6_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Australian Army units were rotated through northern Australia during the war and six infantry brigades served as part of Northern Territory Force between 1942 and 1945 .",
+        "text": "Australian Army units were rotated through northern Australia during the war and six infantry brigades served as part of Northern Territory Force between 1942 and 1945 .",
+        "mention_ids": [
+          "M0_3",
+          "M1_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The formation was reduced over the course of the war as the strategic situation in the Pacific turned in the Allies ' favour , although remnants remained until the end of the war .",
+        "text": "The formation was reduced over the course of the war as the strategic situation in the Pacific turned in the Allies ' favour , although remnants remained until the end of the war .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "05": {
+        "orig_text": "In early 1946 , it was converted back to the 7th Military District .",
+        "text": "In early 1946 , it was converted back to the 7th Military District .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          24
+        ],
+        "text": "Northern Territory Force",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          51
+        ],
+        "text": "Northern Territory Force",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          24
+        ],
+        "text": "Northern Territory Force",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          121,
+          145
+        ],
+        "text": "Northern Territory Force",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          65
+        ],
+        "text": "12th Division",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          87,
+          94
+        ],
+        "text": "Pacific",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          109,
+          115
+        ],
+        "text": "Allies",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          13
+        ],
+        "text": "1946",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          66
+        ],
+        "text": "7th Military District",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Australian Army",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          47
+        ],
+        "text": "Australian Army",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          103
+        ],
+        "text": "Northern Territory",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          111,
+          123
+        ],
+        "text": "World War II",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          68,
+          74
+        ],
+        "text": "Darwin",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          184,
+          192
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          154,
+          158
+        ],
+        "text": "1942",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          78
+        ],
+        "text": "1942",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          52,
+          61
+        ],
+        "text": "Australia",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          81,
+          84
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          163,
+          167
+        ],
+        "text": "1945",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northern_Territory_Force",
+          "wikidata": "http://www.wikidata.org/entity/Q17012802"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australian_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q781360",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E9%99%B8%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northern_Territory",
+          "wikidata": "http://www.wikidata.org/entity/Q3235",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
+          "wikidata": "http://www.wikidata.org/entity/Q11568",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3_(%E3%83%8E%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%86%E3%83%AA%E3%83%88%E3%83%AA%E3%83%BC)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "removed_mention_ids": [
+          "M6_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q329888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD_(%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/7th_Military_District_(Australia)",
+          "wikidata": "http://www.wikidata.org/entity/Q4644112"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

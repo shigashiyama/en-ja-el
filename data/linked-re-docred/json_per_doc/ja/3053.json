@@ -1,0 +1,498 @@
+{
+  "3053": {
+    "doc_info": {
+      "title": "Loud Tour",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ラウド・ツアーは、バルバドスのレコーディング・アーティストである■■■■による全体で4回目、3回目の世界コンサートツアーでした。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_3"
+        ]
+      },
+      "01": {
+        "text": "アメリカとヨーロッパの20を超える国で公演するこのツアーは、■■■■の5枚目のスタジオアルバムである『Loud』(2010)をサポートするために開始されました。",
+        "mention_ids": [
+          "M0_0",
+          "M2_2",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "批評家は、■■■■の以前のツアーと比較して、ショーの活気と質の高さを高く評価しました。",
+        "mention_ids": [
+          "M2_1"
+        ]
+      },
+      "03": {
+        "text": "ラウドツアーは商業的に大成功となり、人気のためイギリスでも公演延長の需要がありました。",
+        "mention_ids": [
+          "M0_3",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "ロンドンでは、■■■■はO2アリーナでの記録破りの10公演を行いました。",
+        "mention_ids": [
+          "M10_0",
+          "M2_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "このツアーは、報告された98公演から最終的に9,000万米ドルの推定収益を上げ、総観客数は1,200,800人を獲得しました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "06": {
+        "text": "ラウドツアーは、2011年の7番目に高い収益を上げたツアーになりました。",
+        "mention_ids": [
+          "M0_1",
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          56
+        ],
+        "text": "『Loud』",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ラウドツアー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ラウド・ツアー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ラウドツアー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          18
+        ],
+        "text": "O2アリーナ",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          31
+        ],
+        "text": "9,000万米ドル",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          14
+        ],
+        "text": "98",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          55
+        ],
+        "text": "1,200,800人",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          8,
+          13
+        ],
+        "text": "2011年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          14
+        ],
+        "text": "バルバドス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          11
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          9
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          34
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          36
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          13
+        ],
+        "text": "20",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "アメリカ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          61
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          27
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          27
+        ],
+        "text": "10",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Loud_Tour",
+          "wikidata": "http://www.wikidata.org/entity/Q520329"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barbadians",
+          "wikidata": "http://www.wikidata.org/entity/Q4858580",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Barbadian_people"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rihanna",
+          "wikidata": "http://www.wikidata.org/entity/Q36844",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Americas",
+          "wikidata": "http://www.wikidata.org/entity/Q828",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_O2_Arena",
+          "wikidata": "http://www.wikidata.org/entity/Q5364202",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/O2%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A_(%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

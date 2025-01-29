@@ -1,0 +1,698 @@
+{
+  "3313": {
+    "doc_info": {
+      "title": "David Swinford",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "David Anthony Swinford ( born June 28 , 1941 ) is an agricultural consultant and lobbyist who served as a Republican member of the Texas House of Representatives from 1991 until his resignation on August 31 , 2010 .",
+        "text": "David Anthony Swinford ( born June 28 , 1941 ) is an agricultural consultant and lobbyist who served as a Republican member of the Texas House of Representatives from 1991 until his resignation on August 31 , 2010 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_2",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Swinford represented District 88 from 1991 to 1993 and then District 88 , which included Carson , Moore , and Sherman , and Potter counties .",
+        "text": "Swinford represented District 88 from 1991 to 1993 and then District 88 , which included Carson , Moore , and Sherman , and Potter counties .",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M4_1",
+          "M6_0",
+          "M6_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Swinford did not seek an eleventh term in the state House in the Republican primary election held on March 2 , 2010 .",
+        "text": "Swinford did not seek an eleventh term in the state House in the Republican primary election held on March 2 , 2010 .",
+        "mention_ids": [
+          "M0_2",
+          "M12_0",
+          "M2_0",
+          "M5_1"
+        ]
+      },
+      "03": {
+        "text": "His successor , fellow Republican ■■■■■■■■■■■■■■■■■■■■■■■■■■ known as Four Price , is an attorney from Amarillo .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M2_1"
+        ]
+      },
+      "04": {
+        "text": "Before winning the general election held on November 2 , 2010 , ■■■■■ had defeated an intraparty rival , ■■■■■■■■■■■ , an Amarillo restaurateur and the former mayor of ■■■■■■■■ in Bailey County , Texas .",
+        "mention_ids": [
+          "M15_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M5_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          22
+        ],
+        "text": "David Anthony Swinford",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Swinford",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Swinford",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          110,
+          117
+        ],
+        "text": "Sherman",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          124,
+          130
+        ],
+        "text": "Potter",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          57
+        ],
+        "text": "House",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          60
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          70,
+          80
+        ],
+        "text": "Four Price",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          103,
+          111
+        ],
+        "text": "Amarillo",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "04",
+        "span": [
+          122,
+          130
+        ],
+        "text": "Amarillo",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          64,
+          69
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          105,
+          116
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          168,
+          176
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          180,
+          193
+        ],
+        "text": "Bailey County",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          30,
+          44
+        ],
+        "text": "June 28 , 1941",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          196,
+          201
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          75
+        ],
+        "text": "Republican",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          33
+        ],
+        "text": "Republican",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "00",
+        "span": [
+          106,
+          116
+        ],
+        "text": "Republican",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          131,
+          161
+        ],
+        "text": "Texas House of Representatives",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          167,
+          171
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          38,
+          42
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          197,
+          213
+        ],
+        "text": "August 31 , 2010",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          101,
+          115
+        ],
+        "text": "March 2 , 2010",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          61
+        ],
+        "text": "November 2 , 2010",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          32
+        ],
+        "text": "District 88",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "01",
+        "span": [
+          60,
+          71
+        ],
+        "text": "District 88",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          50
+        ],
+        "text": "1993",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          89,
+          95
+        ],
+        "text": "Carson",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          98,
+          103
+        ],
+        "text": "Moore",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "wikidata": "http://www.wikidata.org/entity/Q5240209",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Swinford"
+        },
+        "date_of_death": "2022-01-01T00:00:00Z",
+        "method": "manual",
+        "confidence": "C"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+          "wikidata": "http://www.wikidata.org/entity/Q29468",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%B1%E5%92%8C%E5%85%9A_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q827550",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E%E8%AD%B0%E4%BC%9A%E4%BB%A3%E8%AD%B0%E9%99%A2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Carson_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q109155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%BD%E3%83%B3%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moore_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q156464",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%BC%E3%82%A2%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sherman_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q114423",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Potter_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q113293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q827550",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E%E8%AD%B0%E4%BC%9A%E4%BB%A3%E8%AD%B0%E9%99%A2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Four_Price",
+          "wikidata": "http://www.wikidata.org/entity/Q5475443"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Four_Price",
+          "wikidata": "http://www.wikidata.org/entity/Q5475443"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amarillo,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q51691",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%AD_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Four_Price",
+          "wikidata": "http://www.wikidata.org/entity/Q5475443"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Muleshoe,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q982501"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bailey_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q107973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

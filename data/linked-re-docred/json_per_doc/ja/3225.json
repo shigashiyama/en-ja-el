@@ -1,0 +1,344 @@
+{
+  "3225": {
+    "doc_info": {
+      "title": "The Fortunate Pilgrim",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『幸運な巡礼者』は、マリオ・プーゾによる1965年の小説です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "マリオ・プーゾは死ぬまで、この小説を彼の最高級で最も詩的で文学的な作品だと考えていました。",
+        "mention_ids": [
+          "M2_1"
+        ]
+      },
+      "02": {
+        "text": "彼の最後のインタビューの1つで、彼は、彼が決して好きではなかったフィクションであるゴッドファーザーが、1965年の『幸運な巡礼者』に描かれた、アメリカでの立派な社会的地位のための彼の母親の誠実な移民闘争、彼女の勇気と親に対する子の愛を描いた小説よりも勝ったという事実に悲しんでいると述べました。",
+        "mention_ids": [
+          "M0_1",
+          "M1_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "text": "『幸運な巡礼者』は、ゴッドファーザーの本当の発祥の地です。",
+        "mention_ids": [
+          "M0_2",
+          "M3_2"
+        ]
+      },
+      "04": {
+        "text": "プーゾが言うように、この本の主人公である■■■■■■■は彼の母親をモデルにしています：「■■■■■■■■がその口を開くたびに、私は自身の心の中で母の声を聞きました。",
+        "mention_ids": [
+          "M2_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "05": {
+        "text": "私は、彼女の知恵、彼女の冷酷さ、家族と人生そのものに対する抑えられない彼女の愛を聞きました。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "…■■の勇気と忠誠心は彼女から来たものです。彼の人間性は彼女から来たもので…ですから、私は、■■■■■■■なしでは、私がゴッドファーザーを書くことはできなかったことを今はわかっています。」",
+        "mention_ids": [
+          "M3_1",
+          "M5_1",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          7
+        ],
+        "text": "幸運な巡礼者",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          58,
+          64
+        ],
+        "text": "幸運な巡礼者",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          1,
+          7
+        ],
+        "text": "幸運な巡礼者",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          25
+        ],
+        "text": "1965年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          56
+        ],
+        "text": "1965年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          17
+        ],
+        "text": "マリオ・プーゾ",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "マリオ・プーゾ",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "プーゾ",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          49
+        ],
+        "text": "ゴッドファーザー",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          60,
+          68
+        ],
+        "text": "ゴッドファーザー",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          18
+        ],
+        "text": "ゴッドファーザー",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          75
+        ],
+        "text": "アメリカ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          27
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          46,
+          53
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          52
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          1,
+          3
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Fortunate_Pilgrim",
+          "wikidata": "http://www.wikidata.org/entity/Q768647"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mario_Puzo",
+          "wikidata": "http://www.wikidata.org/entity/Q182870",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%97%E3%83%BC%E3%82%BE"
+        },
+        "date_of_death": "1999-07-02T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
+          "wikidata": "http://www.wikidata.org/entity/Q243556",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B6%E3%83%BC_(%E5%B0%8F%E8%AA%AC)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

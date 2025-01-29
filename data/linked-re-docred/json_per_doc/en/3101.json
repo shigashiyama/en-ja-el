@@ -1,0 +1,471 @@
+{
+  "3101": {
+    "doc_info": {
+      "title": "The Game (dice game)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "The Game is a dice game designed by ■■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was first published in Germany in 1979 , without rules and under the German name Das Spiel .",
+        "text": "It was first published in Germany in 1979 , without rules and under the German name Das Spiel .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It contains a triangular base plate and 281 dice of four different colours , and a rule book that gives rules for some 50 + games .",
+        "text": "It contains a triangular base plate and 281 dice of four different colours , and a rule book that gives rules for some 50 + games .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Most of the games are centered on building or demolishing pyramids of dice , but there are also racing games and games of skill .",
+        "text": "Most of the games are centered on building or demolishing pyramids of dice , but there are also racing games and games of skill .",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "The game has been originally published by ■■■■■■■■■■■■■■■ ( ■■■■■■■■■■■■■■■ ) , Göttingen , in 1979 .",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M3_1",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The Game won the 1980 Spiel des Jahres special award for \" most beautiful game \" .",
+        "text": "The Game won the 1980 Spiel des Jahres special award for \" most beautiful game \" .",
+        "mention_ids": [
+          "M0_1",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "06": {
+        "text": "In his preface ■■■■■■ writes :",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "07": {
+        "orig_text": "I 've often been asked how you go about it to invent a game .",
+        "text": "I 've often been asked how you go about it to invent a game .",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "I want to add one answer now .",
+        "text": "I want to add one answer now .",
+        "mention_ids": []
+      },
+      "09": {
+        "orig_text": "Is perhaps the best answer possible to show the many different ways of designing a game .",
+        "text": "Is perhaps the best answer possible to show the many different ways of designing a game .",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "The answer is also a challenge : Invent rules of your own to my dice pyramid .",
+        "text": "The answer is also a challenge : Invent rules of your own to my dice pyramid .",
+        "mention_ids": []
+      },
+      "11": {
+        "orig_text": "The first edition of the game was a small version of the dice pyramid , without any rules .",
+        "text": "The first edition of the game was a small version of the dice pyramid , without any rules .",
+        "mention_ids": []
+      },
+      "12": {
+        "orig_text": "Over time , players contributed their own rules to a collection .",
+        "text": "Over time , players contributed their own rules to a collection .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "The Game",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "The Game",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          80,
+          89
+        ],
+        "text": "Göttingen",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          21
+        ],
+        "text": "1980",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          38
+        ],
+        "text": "Spiel des Jahres",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          15,
+          21
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          51
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "04",
+        "span": [
+          60,
+          75
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          33
+        ],
+        "text": "Germany",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          41
+        ],
+        "text": "1979",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          95,
+          99
+        ],
+        "text": "1979",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          72,
+          78
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          84,
+          93
+        ],
+        "text": "Das Spiel",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          43
+        ],
+        "text": "281",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          56
+        ],
+        "text": "four",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          119,
+          121
+        ],
+        "text": "50",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          57
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Game_(dice_game)",
+          "wikidata": "http://www.wikidata.org/entity/Q1170403"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Wittig",
+          "wikidata": "http://www.wikidata.org/entity/Q101273"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/German_language",
+          "wikidata": "http://www.wikidata.org/entity/Q188",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Game_(dice_game)",
+          "wikidata": "http://www.wikidata.org/entity/Q1170403"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/G%C3%B6ttingen",
+          "wikidata": "http://www.wikidata.org/entity/Q3033",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Göttingen",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B2%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spiel_des_Jahres",
+          "wikidata": "http://www.wikidata.org/entity/Q1128609",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E5%B9%B4%E9%96%93%E3%82%B2%E3%83%BC%E3%83%A0%E5%A4%A7%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reinhold_Wittig",
+          "wikidata": "http://www.wikidata.org/entity/Q101273"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "3362": {
+    "doc_info": {
+      "title": "Virtus Pallacanestro Bologna",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ヴィルトゥス・パラカネストロ・ボローニャは、スポンサーシップ上の理由からヴィルトゥス・セガフレード・ボローニャとして知られ、ボローニャ、エミリア-ロマーニャを拠点とするイタリアのプロ・バスケットボール・クラブです。",
+        "mention_ids": [
+          "M0_0",
+          "M0_2",
+          "M1_4",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "このクラブは1929年に設立され、イタリアで最も古いクラブであり、ヨーロッパでも最も古いクラブの1つです。",
+        "mention_ids": [
+          "M1_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "ヴィルトゥスは、イタリアでオリンピア・ミラノに次いで2番目にタイトルの多いバスケットボール・クラブであり、15回のイタリアの国内選手権、8回のイタリアン・ナショナル・カップ、1回のイタリア・スーパーカップで優勝しました。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "それは、さらに、ヨーロッパで最も成功したチームの1つであり、2回のユーロリーグ・チャンピオンシップとカップ・ウィナーズ・カップで優勝しています。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M5_1"
+        ]
+      },
+      "04": {
+        "text": "それは、現在はイタリアの1部LBAとバスケットボール・チャンピオンズ・リーグでプレーしています。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M1_5"
+        ]
+      },
+      "05": {
+        "text": "長年にわたるクラブのスター選手には、■■■■■■■■、ジム・マクミリアン、クレシミール・チョシッチ、■■■■■■■■■■■■■■■、■■■■■■■■■■■■、■■■■■■■■■■■■、■■■■■■■■、■■■■■■■■■■■■■■、■■■■■■■■■■■■、■■■■■■、■■■■■■■■■■■が含まれます。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M27_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          20
+        ],
+        "text": "ヴィルトゥス・パラカネストロ・ボローニャ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ヴィルトゥス",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          55
+        ],
+        "text": "ヴィルトゥス・セガフレード・ボローニャ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          87,
+          89
+        ],
+        "text": "1回",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          90,
+          102
+        ],
+        "text": "イタリア・スーパーカップ",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          32
+        ],
+        "text": "2回",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          49
+        ],
+        "text": "ユーロリーグ・チャンピオンシップ",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          50,
+          63
+        ],
+        "text": "カップ・ウィナーズ・カップ",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          17
+        ],
+        "text": "LBA",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          18,
+          38
+        ],
+        "text": "バスケットボール・チャンピオンズ・リーグ",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          26
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          27,
+          36
+        ],
+        "text": "ジム・マクミリアン",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          49
+        ],
+        "text": "クレシミール・チョシッチ",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          21
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          12
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          76
+        ],
+        "text": "イタリアン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          62
+        ],
+        "text": "イタリアの",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "00",
+        "span": [
+          84,
+          89
+        ],
+        "text": "イタリアの",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_5": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          12
+        ],
+        "text": "イタリアの",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          65
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          66,
+          78
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          79,
+          91
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          100
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "05",
+        "span": [
+          101,
+          115
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "05",
+        "span": [
+          116,
+          128
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "05",
+        "span": [
+          129,
+          135
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "05",
+        "span": [
+          136,
+          147
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E027"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          67
+        ],
+        "text": "ボローニャ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          68,
+          78
+        ],
+        "text": "エミリア-ロマーニャ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          11
+        ],
+        "text": "1929年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          38
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          13
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          22
+        ],
+        "text": "オリンピア・ミラノ",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          56
+        ],
+        "text": "15回",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          68,
+          70
+        ],
+        "text": "8回",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          86
+        ],
+        "text": "ナショナル・カップ",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Virtus_Bologna",
+          "wikidata": "http://www.wikidata.org/entity/Q36264",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Virtus_Pallacanestro_Bologna",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%88%E3%82%A5%E3%82%B9%E3%83%BB%E3%83%9C%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M1_4",
+          "M1_5"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bologna",
+          "wikidata": "http://www.wikidata.org/entity/Q1891",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Emilia-Romagna",
+          "wikidata": "http://www.wikidata.org/entity/Q1263",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2%EF%BC%9D%E3%83%AD%E3%83%9E%E3%83%BC%E3%83%8B%E3%83%A3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olimpia_Milano",
+          "wikidata": "http://www.wikidata.org/entity/Q36362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%8E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italian_Basketball_Cup",
+          "wikidata": "http://www.wikidata.org/entity/Q1675148"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italian_Basketball_Supercup",
+          "wikidata": "http://www.wikidata.org/entity/Q1059904"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/EuroLeague",
+          "wikidata": "http://www.wikidata.org/entity/Q185982",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UEFA_Cup_Winners%27_Cup",
+          "wikidata": "http://www.wikidata.org/entity/Q40241",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Cup_Winners'_Cup",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/UEFA%E3%82%AB%E3%83%83%E3%83%97%E3%82%A6%E3%82%A3%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AB%E3%83%83%E3%83%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lega_Basket_Serie_A",
+          "wikidata": "http://www.wikidata.org/entity/Q929124",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AC%E3%83%BB%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%BB%E3%83%AA%E3%82%A8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Basketball_Champions_League",
+          "wikidata": "http://www.wikidata.org/entity/Q22340390",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Renato_Villalta",
+          "wikidata": "http://www.wikidata.org/entity/Q2256753"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jim_McMillian",
+          "wikidata": "http://www.wikidata.org/entity/Q2571293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%B3"
+        },
+        "date_of_death": "2016-05-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kre%C5%A1imir_%C4%86osi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q435875",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Krešimir_Ćosić"
+        },
+        "date_of_death": "1995-03-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Micheal_Ray_Richardson",
+          "wikidata": "http://www.wikidata.org/entity/Q969401",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%82%BD%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Roberto_Brunamonti",
+          "wikidata": "http://www.wikidata.org/entity/Q2246215"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Predrag_Danilovi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q460507",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Predrag_Danilović"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zoran_Savi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q2292016",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Zoran_Savić"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rasho_Nesterovi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q359370",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Radoslav_Nesterovič",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%89%E3%82%B9%E3%83%A9%E3%83%95%E3%83%BB%E3%83%8D%E3%82%B9%E3%83%86%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antoine_Rigaudeau",
+          "wikidata": "http://www.wikidata.org/entity/Q586957",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%AA%E3%82%B4%E3%83%89%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manu_Gin%C3%B3bili",
+          "wikidata": "http://www.wikidata.org/entity/Q213132",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Manu_Ginóbili",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8C%E3%83%BB%E3%82%B8%E3%83%8E%E3%83%93%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matja%C5%BE_Smodi%C5%A1",
+          "wikidata": "http://www.wikidata.org/entity/Q523769",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Matjaž_Smodiš"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

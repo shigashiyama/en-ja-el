@@ -1,0 +1,606 @@
+{
+  "3260": {
+    "doc_info": {
+      "title": "Delphi Greenlaw",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■■は、ニュージーランドのメロドラマ『ショートランド・ストリート』に登場する架空の人物で、2002年から2004年まで、■■■■■■■■■が演じました。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_2"
+        ]
+      },
+      "01": {
+        "text": "このキャラクターは、■■■（■■■■■■■■■■）と彼の養妹である■■■■■■■■■（■■■■■■■■■■）の十代の妹として2002年の初めに登場しました。",
+        "mention_ids": [
+          "M4_1",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "お転婆な登場人物たちは、彼女がファッションよりもラグビーを好むと見なし、その結果、彼女は仲間から孤立していました。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "このキャラクターは、2003年の非常に注目を集めたストーリーラインに参加し、そこで彼女は、その後■■■を殺害した、はるかに年上の男性の■■（■■■■■■■■■）に恋をしました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M6_1"
+        ]
+      },
+      "04": {
+        "text": "このキャラクターは、兄弟の死と■■からの脅迫を受けて、2004年に旅立ちました。",
+        "mention_ids": [
+          "M11_1",
+          "M5_0"
+        ]
+      },
+      "05": {
+        "text": "■■■■■は彼女の2年間の活動を通じて高く評価され、■■■■■は数多くの賞にノミネートされ、2004年のTVガイドベストのボックス・ピープルズ・チョイス・アワードの「ライジング・スター」賞を受賞しました。",
+        "mention_ids": [
+          "M0_1",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M3_1",
+          "M5_1"
+        ]
+      },
+      "06": {
+        "text": "■■と恋愛し拒食症との闘うキャラクターたちは、彼女が去って以来、このキャラクターのストーリー展開は象徴的なものになっています。",
+        "mention_ids": [
+          "M11_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          20
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          15
+        ],
+        "text": "2003年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          67,
+          69
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          17
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M11_2": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          2
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          70,
+          79
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          12
+        ],
+        "text": "2年間",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          83,
+          92
+        ],
+        "text": "ライジング・スター",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          52,
+          60
+        ],
+        "text": "TVガイドベスト",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          65
+        ],
+        "text": "ボックス",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          66,
+          81
+        ],
+        "text": "ピープルズ・チョイス・アワード",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          30
+        ],
+        "text": "ニュージーランド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          50
+        ],
+        "text": "ショートランド・ストリート",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          78,
+          87
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          26,
+          31
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          68
+        ],
+        "text": "2002年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          62,
+          67
+        ],
+        "text": "2002年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          32
+        ],
+        "text": "2004年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          46,
+          51
+        ],
+        "text": "2004年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          75
+        ],
+        "text": "2004年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          13
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          51
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          24
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          42
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          53
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delphi_Greenlaw",
+          "wikidata": "http://www.wikidata.org/entity/Q5254401"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Zealand",
+          "wikidata": "http://www.wikidata.org/entity/Q664",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shortland_Street",
+          "wikidata": "http://www.wikidata.org/entity/Q494202",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anna_Hutchison",
+          "wikidata": "http://www.wikidata.org/entity/Q2464295",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%BB%E3%83%8F%E3%83%83%E3%83%81%E3%82%BD%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Shortland_Street_characters",
+          "wikidata": "http://www.wikidata.org/entity/Q6596893"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrew_Laing",
+          "wikidata": "http://www.wikidata.org/entity/Q4757675"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Shortland_Street_characters",
+          "wikidata": "http://www.wikidata.org/entity/Q6596893"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Emmeline_Hawthorne",
+          "wikidata": "http://www.wikidata.org/entity/Q16220952"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1",
+          "M11_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dominic_Thompson_(Shortland_Street)",
+          "wikidata": "http://www.wikidata.org/entity/Q5290662",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dominic_Thompson"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shane_Cortese",
+          "wikidata": "http://www.wikidata.org/entity/Q7488026"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rising_Star_(American_TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q18341042"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/People%27s_Choice_Awards",
+          "wikidata": "http://www.wikidata.org/entity/Q501058",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/People's_Choice_Awards",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%97%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%81%E3%83%A7%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

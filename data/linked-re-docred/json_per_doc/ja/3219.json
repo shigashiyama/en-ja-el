@@ -1,0 +1,543 @@
+{
+  "3219": {
+    "doc_info": {
+      "title": "William César de Oliveira",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■（1968年10月17日生まれ）は、元ブラジル代表のサッカー選手です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "彼は、バスコ・エスポルテ・クラブ、フラメンゴ、フルミネンセFC、クラブ・アトレチコ・ミネイロなどの、ブラジルのいくつかの国内クラブチームでプレーしました。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "■■■■■■■■■■■■■■■■■■は、FIFA U-16世界選手権（現在はFIFA U17ワールドカップ）として知られる）の1985年の第1回大会で、ブラジルU17サッカーチームの一員でした。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "彼は、第1回ユースFIFAワールドカップで、トーナメント全体で5ゴールを決め、ブラジルの3位フィニッシュに重要な役割を果たしました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M3_1"
+        ]
+      },
+      "04": {
+        "text": "1985年ワールドカップでは、ドイツの■■■■■■■■■■■のすぐ後につけて2番目の得点王となり、ゴールデンボールを受賞しました。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          18
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          53
+        ],
+        "text": "FIFA U17ワールドカップ",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          63,
+          68
+        ],
+        "text": "1985年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          20
+        ],
+        "text": "ユースFIFAワールドカップ",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          32
+        ],
+        "text": "5",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          57
+        ],
+        "text": "ゴールデンボール",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          12
+        ],
+        "text": "1985年ワールドカップ",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          30
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          18
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          30
+        ],
+        "text": "1968年10月17日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          41
+        ],
+        "text": "ブラジル",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          54
+        ],
+        "text": "ブラジル",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          43
+        ],
+        "text": "ブラジル",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          16
+        ],
+        "text": "バスコ・エスポルテ・クラブ",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          22
+        ],
+        "text": "フラメンゴ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          31
+        ],
+        "text": "フルミネンセFC",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          32,
+          46
+        ],
+        "text": "クラブ・アトレチコ・ミネイロ",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          76,
+          83
+        ],
+        "text": "ブラジルU17",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          34
+        ],
+        "text": "FIFA U-16世界選手権",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_(footballer,_born_1968)",
+          "wikidata": "http://www.wikidata.org/entity/Q10393683"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portal:Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q6062964"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vasco_Esporte_Clube",
+          "wikidata": "http://www.wikidata.org/entity/Q7916412"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/CR_Flamengo",
+          "wikidata": "http://www.wikidata.org/entity/Q17479",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Flamengo",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/CR%E3%83%95%E3%83%A9%E3%83%A1%E3%83%B3%E3%82%B4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fluminense_FC",
+          "wikidata": "http://www.wikidata.org/entity/Q80987",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%B3%E3%82%BBFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro",
+          "wikidata": "http://www.wikidata.org/entity/Q270995",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Clube_Atlético_Mineiro",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%AC%E3%83%81%E3%82%B3%E3%83%BB%E3%83%9F%E3%83%8D%E3%82%A4%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil_national_under-17_football_team",
+          "wikidata": "http://www.wikidata.org/entity/Q2402747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/U-17%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BB%A3%E8%A1%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FIFA_U-17_World_Cup",
+          "wikidata": "http://www.wikidata.org/entity/Q245286",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FIFA_U-17%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FIFA_U-17_World_Cup",
+          "wikidata": "http://www.wikidata.org/entity/Q245286",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FIFA_U-17%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ballon_d%27Or",
+          "wikidata": "http://www.wikidata.org/entity/Q166177",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ballon_d'Or",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AD%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+          "wikidata": "http://www.wikidata.org/entity/Q19317",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marcel_Witeczek",
+          "wikidata": "http://www.wikidata.org/entity/Q547405",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BB%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%86%E3%83%81%E3%82%A7%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

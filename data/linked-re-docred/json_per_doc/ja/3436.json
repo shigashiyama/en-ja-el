@@ -1,0 +1,694 @@
+{
+  "3436": {
+    "doc_info": {
+      "title": "A Bridge Too Far (book)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "コーネリアス・ライアンの遠すぎた橋は、第二次世界大戦中に占領されたオランダのアーネムでドイツの戦線を突破しようとした連合軍試みが失敗したマーケット・ガーデン作戦について説明しています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "text": "この本のタイトルは、作戦の前に陸軍元帥バーナード・モンゴメリーに「我々は橋を渡りすぎているのではないかと思う」と言った連合軍第一空挺軍副司令官英国人中将フレデリック・ブラウニングのコメントに由来しています。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "ライアンはまた、様々な情報源を利用して、1944年の戦闘についての彼の記述を写真と地図で記録し、生存者に関するセクション「兵士と民間人-彼らは今日何をしているのか」を含めました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "03": {
+        "text": "特に焦点となったのは、作戦計画時に犯した戦術的ミスでした。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "ライアンの本が出版されるまで、マーケット・ガーデンは歴史を書く勝者の典型的な例でした。",
+        "mention_ids": [
+          "M12_1",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "text": "第二次世界大戦に関する人気の記事は通常、この戦いについてまったく言及しないか、モンゴメリの解釈を「部分的な成功」として扱う傾向がありました。",
+        "mention_ids": [
+          "M16_0",
+          "M7_1"
+        ]
+      },
+      "06": {
+        "text": "1974年、この本は、ニューヨークでサイモン&シュスターによって、ロンドンでハミッシュ・ハミルトンによって出版されました。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "07": {
+        "text": "その後も版が頻繁に出版され、それに基づいた映画が1977年に公開されました。",
+        "mention_ids": [
+          "M22_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "コーネリアス・ライアン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          59,
+          67
+        ],
+        "text": "連合軍第一空挺軍",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          31
+        ],
+        "text": "バーナード・モンゴメリー",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ライアン",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ライアン",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          25
+        ],
+        "text": "1944年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          81
+        ],
+        "text": "兵士と民間人-彼らは今日何をしているのか",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          25
+        ],
+        "text": "マーケット・ガーデン",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          44
+        ],
+        "text": "モンゴメリ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1974年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          28
+        ],
+        "text": "サイモン&シュスター",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          17
+        ],
+        "text": "ニューヨーク",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          17
+        ],
+        "text": "遠すぎた橋",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          38,
+          49
+        ],
+        "text": "ハミッシュ・ハミルトン",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          33,
+          37
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          29
+        ],
+        "text": "1977年",
+        "entity_type": "TIME",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          68,
+          80
+        ],
+        "text": "マーケット・ガーデン作戦",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          61
+        ],
+        "text": "連合軍",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          47
+        ],
+        "text": "ドイツの",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          42
+        ],
+        "text": "アーネム",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          37
+        ],
+        "text": "オランダ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          26
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          7
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          71,
+          74
+        ],
+        "text": "英国人",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          76,
+          89
+        ],
+        "text": "フレデリック・ブラウニング",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cornelius_Ryan",
+          "wikidata": "http://www.wikidata.org/entity/Q463975",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3"
+        },
+        "date_of_death": "1974-11-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/A_Bridge_Too_Far_(book)",
+          "wikidata": "http://www.wikidata.org/entity/Q3622150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%81%A5%E3%81%8B%E3%81%AA%E3%82%8B%E6%A9%8B"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Operation_Market_Garden",
+          "wikidata": "http://www.wikidata.org/entity/Q189930",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E4%BD%9C%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q329888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD_(%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arnhem",
+          "wikidata": "http://www.wikidata.org/entity/Q1310",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8D%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Netherlands",
+          "wikidata": "http://www.wikidata.org/entity/Q55",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Frederick_Browning",
+          "wikidata": "http://www.wikidata.org/entity/Q719369"
+        },
+        "date_of_death": "1965-03-14T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/First_Allied_Airborne_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q161693"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bernard_Montgomery",
+          "wikidata": "http://www.wikidata.org/entity/Q152025",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%88%E3%82%B4%E3%83%A1%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1976-03-24T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cornelius_Ryan",
+          "wikidata": "http://www.wikidata.org/entity/Q463975",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3"
+        },
+        "date_of_death": "1974-11-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bernard_Montgomery",
+          "wikidata": "http://www.wikidata.org/entity/Q152025",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%88%E3%82%B4%E3%83%A1%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1976-03-24T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Simon_%26_Schuster",
+          "wikidata": "http://www.wikidata.org/entity/Q1756332",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Simon_&_Schuster",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%26%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%BF%E3%83%BC"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hamish_Hamilton",
+          "wikidata": "http://www.wikidata.org/entity/Q197707"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

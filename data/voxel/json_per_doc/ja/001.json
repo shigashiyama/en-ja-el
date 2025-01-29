@@ -1,0 +1,488 @@
+{
+  "001": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/2017/social-issues-5121271"
+    },
+    "sentences": {
+      "00": {
+        "text": "EUの失業率は2008年以来の最低水準。",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "text": "ユーロスタットの最新の統計によると、6月の失業率は2か月連続で2008年12月以来の最低水準となりました。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "02": {
+        "text": "最新のユーロスタットの調査結果によると、EUの2017年6月の失業率は5月と同じ7.7パーセントで、2016年6月の8.6パーセントから低下しました。",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "03": {
+        "text": "現在の失業率は、2008年12月以来、EUで記録された最低水準です。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "04": {
+        "text": "ユーロ圏の季節調整後の失業率は2017年6月に9.1パーセントとなり、2017年5月の9.2パーセント、2016年6月の10.1パーセントから低下しました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "これはユーロ圏で2009年2月以来の最低失業率です。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "ユーロ統計は、2017年6月時点でEU28カ国の男女1,872万5,000人、そのうちユーロ圏の1,471万8,000人が失業していると推定しています。",
+        "mention_ids": [
+          "M006",
+          "M007"
+        ]
+      },
+      "07": {
+        "text": "加盟国の中で、2017年6月の失業率が最も低かったのはチェコ共和国(2.9パーセント)、ドイツ(3.8パーセント)、マルタ(4.1パーセント)でした。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "08": {
+        "text": "失業率が最も高かったのはギリシャ(2017年4月21.7パーセント)とスペイン(17.1パーセント)でした。",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "09": {
+        "text": "1年前と比較して、失業率は、増加を示したエストニア(2016年5月の6.5パーセントから2017年5月の6.9パーセントへ)を除き、長期にわたるデータが比較できるすべての加盟国で低下しました。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "10": {
+        "text": "最も大きな減少が記録されたのは、スペイン(19.9パーセントから17.1パーセント)とクロアチア(13.3パーセントから10.6パーセント)でした。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "11": {
+        "text": "比較として、2017年6月の米国の失業率は4.4パーセントで、2017年5月の4.3パーセントから上昇しましたが、2016年6月の4.9パーセントからは低下しました。",
+        "mention_ids": [
+          "M016"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          2
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E001"
+      },
+      "M002": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ユーロスタット",
+        "entity_type": null,
+        "entity_id": "E002"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          10
+        ],
+        "text": "ユーロスタット",
+        "entity_type": null,
+        "entity_id": "E003"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          22
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E004"
+      },
+      "M005": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          21
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E005"
+      },
+      "M006": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ユーロ統計",
+        "entity_type": null,
+        "entity_id": "E006"
+      },
+      "M007": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          23
+        ],
+        "text": "EU28カ国",
+        "entity_type": null,
+        "entity_id": "E007"
+      },
+      "M008": {
+        "sentence_id": "07",
+        "span": [
+          27,
+          33
+        ],
+        "text": "チェコ共和国",
+        "entity_type": null,
+        "entity_id": "E008"
+      },
+      "M009": {
+        "sentence_id": "07",
+        "span": [
+          44,
+          47
+        ],
+        "text": "ドイツ",
+        "entity_type": null,
+        "entity_id": "E009"
+      },
+      "M010": {
+        "sentence_id": "07",
+        "span": [
+          58,
+          61
+        ],
+        "text": "マルタ",
+        "entity_type": null,
+        "entity_id": "E010"
+      },
+      "M011": {
+        "sentence_id": "08",
+        "span": [
+          12,
+          16
+        ],
+        "text": "ギリシャ",
+        "entity_type": null,
+        "entity_id": "E011"
+      },
+      "M012": {
+        "sentence_id": "08",
+        "span": [
+          35,
+          39
+        ],
+        "text": "スペイン",
+        "entity_type": null,
+        "entity_id": "E012"
+      },
+      "M013": {
+        "sentence_id": "09",
+        "span": [
+          20,
+          25
+        ],
+        "text": "エストニア",
+        "entity_type": null,
+        "entity_id": "E013"
+      },
+      "M014": {
+        "sentence_id": "10",
+        "span": [
+          16,
+          20
+        ],
+        "text": "スペイン",
+        "entity_type": null,
+        "entity_id": "E014"
+      },
+      "M015": {
+        "sentence_id": "10",
+        "span": [
+          43,
+          48
+        ],
+        "text": "クロアチア",
+        "entity_type": null,
+        "entity_id": "E015"
+      },
+      "M016": {
+        "sentence_id": "11",
+        "span": [
+          14,
+          16
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E016"
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurostat",
+          "wikidata": "http://www.wikidata.org/entity/Q217659",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurostat",
+          "wikidata": "http://www.wikidata.org/entity/Q217659",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurostat",
+          "wikidata": "http://www.wikidata.org/entity/Q217659",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Czech_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q213",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malta",
+          "wikidata": "http://www.wikidata.org/entity/Q233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Estonia",
+          "wikidata": "http://www.wikidata.org/entity/Q191",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%88%E3%83%8B%E3%82%A2"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Croatia",
+          "wikidata": "http://www.wikidata.org/entity/Q224",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      }
+    }
+  }
+}

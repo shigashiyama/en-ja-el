@@ -1,0 +1,508 @@
+{
+  "3394": {
+    "doc_info": {
+      "title": "Mount Garibaldi",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Mount Garibaldi is a potentially active stratovolcano in the Sea to Sky Country of British Columbia , north of Vancouver , British Columbia , Canada .",
+        "text": "Mount Garibaldi is a potentially active stratovolcano in the Sea to Sky Country of British Columbia , north of Vancouver , British Columbia , Canada .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Located in the southernmost Coast Mountains , it is one of the most recognized peaks in the South Coast region , as well as British Columbia 's best known volcano .",
+        "text": "Located in the southernmost Coast Mountains , it is one of the most recognized peaks in the South Coast region , as well as British Columbia 's best known volcano .",
+        "mention_ids": [
+          "M2_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It lies within the Garibaldi Ranges of the Pacific Ranges .",
+        "text": "It lies within the Garibaldi Ranges of the Pacific Ranges .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "This heavily eroded dome complex occupies the southwest corner of Garibaldi Provincial Park overlooking the town of Squamish .",
+        "text": "This heavily eroded dome complex occupies the southwest corner of Garibaldi Provincial Park overlooking the town of Squamish .",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It is the only major Pleistocene age volcano in North America known to have formed upon a glacier .",
+        "text": "It is the only major Pleistocene age volcano in North America known to have formed upon a glacier .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Although part of the Garibaldi Volcanic Belt within the Cascade Volcanic Arc , it is not considered part of the Cascade Range .",
+        "text": "Although part of the Garibaldi Volcanic Belt within the Cascade Volcanic Arc , it is not considered part of the Cascade Range .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Mount Garibaldi",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          116,
+          124
+        ],
+        "text": "Squamish",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          21,
+          32
+        ],
+        "text": "Pleistocene",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          48,
+          61
+        ],
+        "text": "North America",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          44
+        ],
+        "text": "Garibaldi Volcanic Belt",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          76
+        ],
+        "text": "Cascade Volcanic Arc",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          112,
+          125
+        ],
+        "text": "Cascade Range",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          79
+        ],
+        "text": "Sea to Sky Country",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          99
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          123,
+          139
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          124,
+          140
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          111,
+          120
+        ],
+        "text": "Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          142,
+          148
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          43
+        ],
+        "text": "Coast Mountains",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          92,
+          103
+        ],
+        "text": "South Coast",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          35
+        ],
+        "text": "Garibaldi Ranges",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          57
+        ],
+        "text": "Pacific Ranges",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          66,
+          91
+        ],
+        "text": "Garibaldi Provincial Park",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mount_Garibaldi",
+          "wikidata": "http://www.wikidata.org/entity/Q183027"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sea-to-Sky_Corridor",
+          "wikidata": "http://www.wikidata.org/entity/Q7439799",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sea_to_Sky_Country"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q24639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Coast_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q920070"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia_Coast",
+          "wikidata": "http://www.wikidata.org/entity/Q3010627"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Garibaldi_Ranges",
+          "wikidata": "http://www.wikidata.org/entity/Q5523296"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pacific_Ranges",
+          "wikidata": "http://www.wikidata.org/entity/Q1285418"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Garibaldi_Provincial_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q1143621"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Squamish,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1342280"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_America",
+          "wikidata": "http://www.wikidata.org/entity/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Garibaldi_Volcanic_Belt",
+          "wikidata": "http://www.wikidata.org/entity/Q5523303"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cascade_Volcanoes",
+          "wikidata": "http://www.wikidata.org/entity/Q769008",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Cascade_Volcanic_Arc"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cascade_Range",
+          "wikidata": "http://www.wikidata.org/entity/Q4558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%89%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

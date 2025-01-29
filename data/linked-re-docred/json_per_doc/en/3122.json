@@ -1,0 +1,326 @@
+{
+  "3122": {
+    "doc_info": {
+      "title": "The Answer Is Never",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Answer is Never is the second full - length album recorded by the band Howards Alias .",
+        "text": "The Answer is Never is the second full - length album recorded by the band Howards Alias .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The album was released by Household Name Records on June 7 , 2004 on compact disc .",
+        "text": "The album was released by Household Name Records on June 7 , 2004 on compact disc .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A huge leap in terms of quality of both songwriting and production in comparison to debut The Chameleon Script , this was the sound of a much more mature and less ska punk - influenced Howards Alias .",
+        "text": "A huge leap in terms of quality of both songwriting and production in comparison to debut The Chameleon Script , this was the sound of a much more mature and less ska punk - influenced Howards Alias .",
+        "mention_ids": [
+          "M1_1",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "text": "As the band had become a quartet by this point , it was up to the multi - talented ■■■■■■■■■■■■■■ to play both trumpet and trombone during the recording process .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "04": {
+        "orig_text": "This added a subtle irony to the fact that the album was touted as being ' closer to the live sound of Howards Alias ' , as did the inclusion of a string instrument section on certain songs .",
+        "text": "This added a subtle irony to the fact that the album was touted as being ' closer to the live sound of Howards Alias ' , as did the inclusion of a string instrument section on certain songs .",
+        "mention_ids": [
+          "M1_2"
+        ]
+      },
+      "05": {
+        "orig_text": "Clocking in at just over an hour in length , The Answer is Never is commonly regarded as Howards Alias ' best altogether album .",
+        "text": "Clocking in at just over an hour in length , The Answer is Never is commonly regarded as Howards Alias ' best altogether album .",
+        "mention_ids": [
+          "M0_1",
+          "M1_3",
+          "M6_0"
+        ]
+      },
+      "06": {
+        "text": "The album artwork was provided by UK comic book artist , ■■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          19
+        ],
+        "text": "The Answer is Never",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          64
+        ],
+        "text": "The Answer is Never",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          75,
+          88
+        ],
+        "text": "Howards Alias",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          185,
+          198
+        ],
+        "text": "Howards Alias",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "04",
+        "span": [
+          103,
+          116
+        ],
+        "text": "Howards Alias",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "05",
+        "span": [
+          89,
+          102
+        ],
+        "text": "Howards Alias",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          48
+        ],
+        "text": "Household Name Records",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          52,
+          65
+        ],
+        "text": "June 7 , 2004",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          90,
+          110
+        ],
+        "text": "The Chameleon Script",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          83,
+          97
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          32
+        ],
+        "text": "an hour",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          36
+        ],
+        "text": "UK",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          57,
+          72
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Answer_Is_Never",
+          "wikidata": "http://www.wikidata.org/entity/Q7713898"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Howards_Alias",
+          "wikidata": "http://www.wikidata.org/entity/Q5921351"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Household_Name_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q1491729"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Chameleon_Script",
+          "wikidata": "http://www.wikidata.org/entity/Q7722036"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "3373": {
+    "doc_info": {
+      "title": "Music of the American Civil War",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "During the American Civil War , music played a prominent role on both sides of the conflict : Union and Confederate .",
+        "text": "During the American Civil War , music played a prominent role on both sides of the conflict : Union and Confederate .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "On the American Civil War battlefield , different instruments including bugles , drums , and fifes were played to issue marching orders or sometimes simply to boost the morale of one 's fellow soldiers .",
+        "text": "On the American Civil War battlefield , different instruments including bugles , drums , and fifes were played to issue marching orders or sometimes simply to boost the morale of one 's fellow soldiers .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "02": {
+        "orig_text": "Singing was also employed as a recreational activity but as a release from the inevitable tensions that come with fighting in a war , particularly a war in which the issue of freedom of a race is to be decided .",
+        "text": "Singing was also employed as a recreational activity but as a release from the inevitable tensions that come with fighting in a war , particularly a war in which the issue of freedom of a race is to be decided .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "In camp , music was a diversion away from the bloodshed , helping the soldiers deal with homesickness and boredom .",
+        "text": "In camp , music was a diversion away from the bloodshed , helping the soldiers deal with homesickness and boredom .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "Soldiers of both sides often engaged in recreation with musical instruments , and when the opposing armies were near each other , sometimes the bands from both sides of the conflict played against each other on the night before a battle .",
+        "text": "Soldiers of both sides often engaged in recreation with musical instruments , and when the opposing armies were near each other , sometimes the bands from both sides of the conflict played against each other on the night before a battle .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Each side had its particular favorite tunes , while some music was enjoyed by Northerners and Southerners alike , as exemplified by United States President Abraham Lincoln 's love of Dixie , the unofficial anthem of the Confederacy .",
+        "text": "Each side had its particular favorite tunes , while some music was enjoyed by Northerners and Southerners alike , as exemplified by United States President Abraham Lincoln 's love of Dixie , the unofficial anthem of the Confederacy .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "To this day , many of the songs are sung when a patriotic piece is required .",
+        "text": "To this day , many of the songs are sung when a patriotic piece is required .",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "The war 's music also inspired music artists such as ■■■■■■■■■■■■■■ and Elvis Presley .",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          29
+        ],
+        "text": "American Civil War",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          25
+        ],
+        "text": "American Civil War",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          72,
+          85
+        ],
+        "text": "Elvis Presley",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          94,
+          99
+        ],
+        "text": "Union",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          104,
+          115
+        ],
+        "text": "Confederate",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "05",
+        "span": [
+          78,
+          89
+        ],
+        "text": "Northerners",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "05",
+        "span": [
+          94,
+          105
+        ],
+        "text": "Southerners",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "05",
+        "span": [
+          132,
+          145
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "05",
+        "span": [
+          156,
+          171
+        ],
+        "text": "Abraham Lincoln",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          183,
+          188
+        ],
+        "text": "Dixie",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          220,
+          231
+        ],
+        "text": "Confederacy",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "07",
+        "span": [
+          53,
+          67
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_Civil_War",
+          "wikidata": "http://www.wikidata.org/entity/Q8676",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%8C%97%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Union_(American_Civil_War)",
+          "wikidata": "http://www.wikidata.org/entity/Q214102"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q81931",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%80%A3%E5%90%88%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northern_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q1357541",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%8C%97%E9%83%A8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Southern_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q49042",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%8D%97%E9%83%A8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q11696",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/United_States_President",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%A4%A7%E7%B5%B1%E9%A0%98"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+          "wikidata": "http://www.wikidata.org/entity/Q91",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%B3"
+        },
+        "date_of_death": "1865-04-15T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dixie_(song)",
+          "wikidata": "http://www.wikidata.org/entity/Q1231722",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%AD%E3%82%B7%E3%83%BC_(%E6%9B%B2)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q81931",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%80%A3%E5%90%88%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+          "wikidata": "http://www.wikidata.org/entity/Q158462",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B9%E3%82%AD%E3%83%8A%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
+          "wikidata": "http://www.wikidata.org/entity/Q303",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%B4%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1977-08-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "3531": {
+    "doc_info": {
+      "title": "American Airlines Group",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth , Texas .",
+        "text": "American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth , Texas .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was formed December 9 , 2013 , in the merger of AMR Corporation , the parent company of American Airlines , and US Airways Group , the parent company of US Airways .",
+        "text": "It was formed December 9 , 2013 , in the merger of AMR Corporation , the parent company of American Airlines , and US Airways Group , the parent company of US Airways .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M6_2"
+        ]
+      },
+      "02": {
+        "orig_text": "The airline groups together form the largest airline in the world , with more than 6,700 daily flights to 350 locations in 56 countries worldwide , about $ 40 billion in operating revenue , over 100,000 employees , and plans to take delivery of 607 new aircraft , including 517 narrowbody aircraft and 90 widebody international aircraft .",
+        "text": "The airline groups together form the largest airline in the world , with more than 6,700 daily flights to 350 locations in 56 countries worldwide , about $ 40 billion in operating revenue , over 100,000 employees , and plans to take delivery of 607 new aircraft , including 517 narrowbody aircraft and 90 widebody international aircraft .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The integration of American Airlines and US Airways was completed when the Federal Aviation Administration granted a single operating certificate for both carriers on April 8 , 2015 .",
+        "text": "The integration of American Airlines and US Airways was completed when the Federal Aviation Administration granted a single operating certificate for both carriers on April 8 , 2015 .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M5_2",
+          "M6_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          28
+        ],
+        "text": "American Airlines Group Inc.",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          148,
+          166
+        ],
+        "text": "about $ 40 billion",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          195,
+          202
+        ],
+        "text": "100,000",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          245,
+          248
+        ],
+        "text": "607",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          274,
+          277
+        ],
+        "text": "517",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          302,
+          304
+        ],
+        "text": "90",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          75,
+          106
+        ],
+        "text": "Federal Aviation Administration",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          167,
+          181
+        ],
+        "text": "April 8 , 2015",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          43
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          101,
+          111
+        ],
+        "text": "Fort Worth",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          114,
+          119
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          31
+        ],
+        "text": "December 9 , 2013",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          51,
+          66
+        ],
+        "text": "AMR Corporation",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          91,
+          108
+        ],
+        "text": "American Airlines",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          36
+        ],
+        "text": "American Airlines",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          115,
+          131
+        ],
+        "text": "US Airways Group",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          51
+        ],
+        "text": "US Airways",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "01",
+        "span": [
+          156,
+          166
+        ],
+        "text": "US Airways",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          83,
+          88
+        ],
+        "text": "6,700",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          106,
+          109
+        ],
+        "text": "350",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          123,
+          125
+        ],
+        "text": "56",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_Airlines_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q4742937"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q16558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/AMR_Corporation",
+          "wikidata": "http://www.wikidata.org/entity/Q295280"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/US_Airways_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q7875835"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Aviation_Administration",
+          "wikidata": "http://www.wikidata.org/entity/Q335357",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E8%88%AA%E7%A9%BA%E5%B1%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

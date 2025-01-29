@@ -1,0 +1,886 @@
+{
+  "3274": {
+    "doc_info": {
+      "title": "Andy Cole",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■（1971年10月15日生まれ）は、イングランドの元プロサッカー選手です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1"
+        ]
+      },
+      "01": {
+        "text": "ストライカーとしてプレーし、彼のキャリアは1988年から2008年まで続きました。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "彼はマンチェスター・ユナイテッドにいたプレミアリーグでの時間が最もよく記憶されており、そこで彼はキャリアの6年間を過ごし、過程で数々のトロフィーを獲得しました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "彼は、イングランドサッカーのトップ・ディビジョンのアーセナル、ニューカッスル・ユナイテッド、ブラックバーン・ローバーズ、フラム、マンチェスター・シティ、ポーツマス、サンダーランド、さらに、ブリストル・シティ、バーミンガム・シティ、バーンリー、ノッティンガムフォレストのフットボール・リーグでもプレーしました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M2_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "彼は187ゴールで、プレミアリーグ史上3番目に高い得点者です。",
+        "mention_ids": [
+          "M20_0",
+          "M5_1"
+        ]
+      },
+      "05": {
+        "text": "■■■は、PFA年間最優秀若手選手賞と待望のUEFAチャンピオンズ・リーグのタイトルを含むイングランドの試合で、あらゆる栄誉を総なめにしたイングランドの数少ない選手の1人であるという名誉があります。",
+        "mention_ids": [
+          "M0_2",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M2_2"
+        ]
+      },
+      "06": {
+        "text": "■■■は、1995年から2001年の間にイングランド代表チームとしても15回選ばれ、2002年のFIFAワールドカップ予選のアルバニア戦で1得点しました。",
+        "mention_ids": [
+          "M0_1",
+          "M21_1",
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M27_0",
+          "M28_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          3
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          59
+        ],
+        "text": "ブラックバーン・ローバーズ",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          60,
+          63
+        ],
+        "text": "フラム",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          64,
+          75
+        ],
+        "text": "マンチェスター・シティ",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          76,
+          81
+        ],
+        "text": "ポーツマス",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          82,
+          89
+        ],
+        "text": "サンダーランド",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          134,
+          144
+        ],
+        "text": "フットボール・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          94,
+          103
+        ],
+        "text": "ブリストル・シティ",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          104,
+          114
+        ],
+        "text": "バーミンガム・シティ",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          115,
+          120
+        ],
+        "text": "バーンリー",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "03",
+        "span": [
+          121,
+          133
+        ],
+        "text": "ノッティンガムフォレスト",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          30
+        ],
+        "text": "1971年10月15日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          2,
+          5
+        ],
+        "text": "187",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          69,
+          75
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M21_1": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          26
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          18
+        ],
+        "text": "PFA年間最優秀若手選手賞",
+        "entity_type": "MISC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          37
+        ],
+        "text": "UEFAチャンピオンズ・リーグ",
+        "entity_type": "MISC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          37
+        ],
+        "text": "15",
+        "entity_type": "NUM",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          10
+        ],
+        "text": "1995年",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "06",
+        "span": [
+          12,
+          17
+        ],
+        "text": "2001年",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "06",
+        "span": [
+          62,
+          67
+        ],
+        "text": "アルバニア",
+        "entity_type": "LOC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          59
+        ],
+        "text": "2002年のFIFAワールドカップ",
+        "entity_type": "MISC",
+        "entity_id": "E028"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          9
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          43
+        ],
+        "text": "イングランドの",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          51
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          26
+        ],
+        "text": "1988年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          33
+        ],
+        "text": "2008年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          26
+        ],
+        "text": "プレミアリーグ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          17
+        ],
+        "text": "プレミアリーグ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          2,
+          16
+        ],
+        "text": "マンチェスター・ユナイテッド",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          56
+        ],
+        "text": "6年間",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          30
+        ],
+        "text": "アーセナル",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          45
+        ],
+        "text": "ニューカッスル・ユナイテッド",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andy_Cole",
+          "wikidata": "http://www.wikidata.org/entity/Q216928",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Premier_League",
+          "wikidata": "http://www.wikidata.org/entity/Q9448",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manchester_United_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q18656",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arsenal_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q9617",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%ABFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Newcastle_United_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q18716",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%83%E3%82%B9%E3%83%AB%E3%83%BB%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19446",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%BAFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fulham_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q18708",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%A0FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q50602",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portsmouth_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%84%E3%83%9E%E3%82%B9FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sunderland_A.F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q18739",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89AFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/English_Football_League",
+          "wikidata": "http://www.wikidata.org/entity/Q213347",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Football_League",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bristol_City_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Birmingham_City_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19444",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%AC%E3%83%A0%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Burnley_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%B3%E3%83%AA%E3%83%BCFC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q19490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88FC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0",
+          "M21_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England_national_football_team",
+          "wikidata": "http://www.wikidata.org/entity/Q47762",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BB%A3%E8%A1%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/PFA_Young_Player_of_the_Year",
+          "wikidata": "http://www.wikidata.org/entity/Q2009646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/PFA%E5%B9%B4%E9%96%93%E6%9C%80%E5%84%AA%E7%A7%80%E8%8B%A5%E6%89%8B%E9%81%B8%E6%89%8B%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UEFA_Champions_League",
+          "wikidata": "http://www.wikidata.org/entity/Q18756",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/UEFA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Albania_national_football_team",
+          "wikidata": "http://www.wikidata.org/entity/Q186262",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E4%BB%A3%E8%A1%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_qualification_(UEFA)",
+          "wikidata": "http://www.wikidata.org/entity/Q482656",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2002_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%E3%83%BB%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E4%BA%88%E9%81%B8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

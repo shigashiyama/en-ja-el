@@ -1,0 +1,705 @@
+{
+  "3501": {
+    "doc_info": {
+      "title": "Hvidovre Municipality",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ヴィドヴィア・コムーネは、デンマーク東部のジーランド島(シェランド)のコペンハーゲン近くのホーヴェドスタデン地方にある自治体（デンマーク語、コムーネ）です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M4_2",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "この自治体の面積は22 km²で、総人口は52,027(2014年4月1日)です。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "市長は■■■■■■■■■■■■■■■■で、社会民主党(スウェーデン社会民主労働者党)の議員です。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "主要な町であり市議会の所在地はフヴィドウレの町です。",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "04": {
+        "text": "この自治体の他の町には、アヴェドーレとフリーヘデンがあります。",
+        "mention_ids": [
+          "M13_2",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "text": "隣接する自治体は、東にコペンハーゲン、北にロドブレ、西にブレンビーです。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M3_1"
+        ]
+      },
+      "06": {
+        "text": "東の境界線の一部はカルヴェボーデルネの海域であり、南にはコーゲ湾(コーゲ・ブクト)があります。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M18_2"
+        ]
+      },
+      "07": {
+        "text": "アヴェドエレ・ホルムと呼ばれる自治体の最南部は、コーゲ湾に突き出ており、カルヴェボーデルネへの入り口の一部となっており、ゼーランド島と隣接するアマガー島を隔てています。",
+        "mention_ids": [
+          "M13_0",
+          "M17_1",
+          "M18_1",
+          "M19_0",
+          "M4_1"
+        ]
+      },
+      "08": {
+        "text": "アヴェドエレ・ホルムには2つの港があります。",
+        "mention_ids": [
+          "M13_1",
+          "M20_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "ヴィドヴィア・コムーネ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          26
+        ],
+        "text": "社会民主党",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          27,
+          41
+        ],
+        "text": "スウェーデン社会民主労働者党",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          21
+        ],
+        "text": "フヴィドウレ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          10
+        ],
+        "text": "アヴェドエレ・ホルム",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          10
+        ],
+        "text": "アヴェドエレ・ホルム",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          18
+        ],
+        "text": "アヴェドーレ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          25
+        ],
+        "text": "フリーヘデン",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          25
+        ],
+        "text": "ロドブレ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          33
+        ],
+        "text": "ブレンビー",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          18
+        ],
+        "text": "カルヴェボーデルネ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          45
+        ],
+        "text": "カルヴェボーデルネ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          33,
+          40
+        ],
+        "text": "コーゲ・ブクト",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          28
+        ],
+        "text": "コーゲ湾",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M18_2": {
+        "sentence_id": "06",
+        "span": [
+          28,
+          32
+        ],
+        "text": "コーゲ湾",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          71,
+          76
+        ],
+        "text": "アマガー島",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          69
+        ],
+        "text": "デンマーク語",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          12,
+          15
+        ],
+        "text": "2つの",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          45,
+          56
+        ],
+        "text": "ホーヴェドスタデン地方",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          42
+        ],
+        "text": "コペンハーゲン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          18
+        ],
+        "text": "コペンハーゲン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          27
+        ],
+        "text": "ジーランド島",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "07",
+        "span": [
+          60,
+          66
+        ],
+        "text": "ゼーランド島",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          33
+        ],
+        "text": "シェランド",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          20
+        ],
+        "text": "デンマーク東部",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          9,
+          15
+        ],
+        "text": "22 km²",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          27
+        ],
+        "text": "52,027",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          37
+        ],
+        "text": "2014年4月1日",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          19
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hvidovre_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q512562"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Danish_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Capital_Region_of_Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q26073",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Region_Hovedstaden",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E9%A6%96%E9%83%BD%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Copenhagen",
+          "wikidata": "http://www.wikidata.org/entity/Q1748",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9A%E3%83%B3%E3%83%8F%E3%83%BC%E3%82%B2%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Region_Zealand",
+          "wikidata": "http://www.wikidata.org/entity/Q26589",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%A9%E3%83%B3%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q14329915"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)",
+          "wikidata": "http://www.wikidata.org/entity/Q212101",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)",
+          "wikidata": "http://www.wikidata.org/entity/Q212101",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A_(%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hvidovre",
+          "wikidata": "http://www.wikidata.org/entity/Q3590079",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%BA%E3%82%AA%E3%82%A6%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aved%C3%B8re",
+          "wikidata": "http://www.wikidata.org/entity/Q4827976",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Avedøre"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Friheden",
+          "wikidata": "http://www.wikidata.org/entity/Q5504541"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/R%C3%B8dovre",
+          "wikidata": "http://www.wikidata.org/entity/Q28230",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rødovre"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Br%C3%B8ndby_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q484038",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Brøndby"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1",
+          "M18_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/K%C3%B8ge_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q1638096",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Køge_Bay"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amager",
+          "wikidata": "http://www.wikidata.org/entity/Q210396",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%BC%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

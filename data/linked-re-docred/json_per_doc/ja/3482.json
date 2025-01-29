@@ -1,0 +1,480 @@
+{
+  "3482": {
+    "doc_info": {
+      "title": "Waterloo Moraine",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ウォータールー・モレーンは、カナダのオンタリオのウォータールー地方自治体でモレーンとして作成された地形および堆積物です。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "それは、ウォータールーとキッチナーの都市の大部分とウィルモットの町、そしてウェルズリーとノース・ダンフリースの町の一部をカバーしています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "ウォータールー地方自治体の水供給の約90%は、ウォータールーモレーン帯水層システムの地下水から供給されています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "1989年後半から1990年前半にかけて、エルマイラの地下水汚染により、地域は一部の井戸田の閉鎖を余儀なくされました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "04": {
+        "text": "その結果、新しい土地利用管理ガイドラインと水保護対策が制定されました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "ウォータールー・モレーンは、この地域にある14個のモレーンの中で最大で、その面積は約400平方キロメートルです。",
+        "mention_ids": [
+          "M0_2",
+          "M13_0"
+        ]
+      },
+      "06": {
+        "text": "これは間葉状のモレーンであり、主に砂と砂利で構成されています。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ここには大きな帯水層があり、グランド川とその支流に流出し、そのシステムへの基本水流量を維持しています。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          34
+        ],
+        "text": "ウォータールーモレーン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ウォータールー・モレーン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ウォータールー・モレーン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1989年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          14
+        ],
+        "text": "1990年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          26
+        ],
+        "text": "エルマイラ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          42,
+          53
+        ],
+        "text": "400平方キロメートル",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          19
+        ],
+        "text": "グランド川",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          36
+        ],
+        "text": "ウォータールー地方自治体",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ウォータールー地方自治体",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          23
+        ],
+        "text": "オンタリオ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          17
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          11
+        ],
+        "text": "ウォータールー",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          12,
+          17
+        ],
+        "text": "キッチナー",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          31
+        ],
+        "text": "ウィルモット",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          43
+        ],
+        "text": "ウェルズリー",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          44,
+          54
+        ],
+        "text": "ノース・ダンフリース",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          21
+        ],
+        "text": "90%",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Waterloo_Moraine",
+          "wikidata": "http://www.wikidata.org/entity/Q7974260"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Regional_Municipality_of_Waterloo",
+          "wikidata": "http://www.wikidata.org/entity/Q175735",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Regional_Municipality_of_Waterloo,_Ontario",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%AB%E3%83%BC%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q1904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Waterloo,_Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q639408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%AB%E3%83%BC_(%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kitchener,_Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q200166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%83%81%E3%83%8A%E3%83%BC_(%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wilmot,_Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q4116651"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wellesley,_Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q7981233"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Dumfries",
+          "wikidata": "http://www.wikidata.org/entity/Q252504",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/North_Dumfries,_Ontario"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elmira,_Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q5366792"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Grand_River_(Ontario)",
+          "wikidata": "http://www.wikidata.org/entity/Q1542855"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

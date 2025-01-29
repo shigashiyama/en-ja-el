@@ -1,0 +1,490 @@
+{
+  "3222": {
+    "doc_info": {
+      "title": "Dalma (island)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Dalma is an Emirati island located in the Persian Gulf approximately off the coast of Abu Dhabi and from Doha .",
+        "text": "Dalma is an Emirati island located in the Persian Gulf approximately off the coast of Abu Dhabi and from Doha .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_1",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The Abu Dhabi Islands Archaeological Survey ADIAS carried out an initial archaeological survey of Dalma island in 1992 .",
+        "text": "The Abu Dhabi Islands Archaeological Survey ADIAS carried out an initial archaeological survey of Dalma island in 1992 .",
+        "mention_ids": [
+          "M0_0",
+          "M5_0",
+          "M5_1",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A total of more than 20 archaeological sites were identified on the island , ranging in time from the Neolithic ( Late Stone Age ) .",
+        "text": "A total of more than 20 archaeological sites were identified on the island , ranging in time from the Neolithic ( Late Stone Age ) .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The population consists of about 10,000 inhabitants , most of whom are Qatari who have been granted United Arab Emirates ( UAE ) nationality .",
+        "text": "The population consists of about 10,000 inhabitants , most of whom are Qatari who have been granted United Arab Emirates ( UAE ) nationality .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M12_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The island has many private farms for the ruling family of Abu Dhabi .",
+        "text": "The island has many private farms for the ruling family of Abu Dhabi .",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "05": {
+        "text": "The late ruler ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ had a palace here .",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "06": {
+        "orig_text": "There are many oil field workers working on the island , some of them who fly in from the major cities .",
+        "text": "There are many oil field workers working on the island , some of them who fly in from the major cities .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The island is served by the Dalma Airport and since recent times , by the mainland ferry .",
+        "text": "The island is served by the Dalma Airport and since recent times , by the mainland ferry .",
+        "mention_ids": [
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          98,
+          103
+        ],
+        "text": "Dalma",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Dalma",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          39
+        ],
+        "text": "10,000",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          71,
+          77
+        ],
+        "text": "Qatari",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          100,
+          120
+        ],
+        "text": "United Arab Emirates",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "03",
+        "span": [
+          123,
+          126
+        ],
+        "text": "UAE",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          49
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          41
+        ],
+        "text": "Dalma Airport",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          19
+        ],
+        "text": "Emirati",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          54
+        ],
+        "text": "Persian Gulf",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          59,
+          68
+        ],
+        "text": "Abu Dhabi",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          95
+        ],
+        "text": "Abu Dhabi",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          105,
+          109
+        ],
+        "text": "Doha",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          43
+        ],
+        "text": "Abu Dhabi Islands Archaeological Survey",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          44,
+          49
+        ],
+        "text": "ADIAS",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          114,
+          118
+        ],
+        "text": "1992",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          23
+        ],
+        "text": "20",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          102,
+          111
+        ],
+        "text": "Neolithic",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          114,
+          128
+        ],
+        "text": "Late Stone Age",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dalma_(island)",
+          "wikidata": "http://www.wikidata.org/entity/Q1184496"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "wikidata": "http://www.wikidata.org/entity/Q878",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%96%E9%A6%96%E9%95%B7%E5%9B%BD%E9%80%A3%E9%82%A6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Persian_Gulf",
+          "wikidata": "http://www.wikidata.org/entity/Q34675",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E6%B9%BE"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+          "wikidata": "http://www.wikidata.org/entity/Q1519",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%80%E3%83%93%E5%B8%82"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Doha",
+          "wikidata": "http://www.wikidata.org/entity/Q3861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi_Islands_Archaeological_Survey",
+          "wikidata": "http://www.wikidata.org/entity/Q16001477"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Qatar",
+          "wikidata": "http://www.wikidata.org/entity/Q846",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Qatari",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "wikidata": "http://www.wikidata.org/entity/Q878",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%96%E9%A6%96%E9%95%B7%E5%9B%BD%E9%80%A3%E9%82%A6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dalma_Airport",
+          "wikidata": "http://www.wikidata.org/entity/Q5211510"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

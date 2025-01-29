@@ -1,0 +1,376 @@
+{
+  "3155": {
+    "doc_info": {
+      "title": "Piracy on Falcon Lake",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ファルコン湖の海賊行為とは、ファルコン湖の米国とメキシコの国境での犯罪の増加を指します。。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_1"
+        ]
+      },
+      "01": {
+        "text": "この湖は1954年に建設されたリオ・グランデの長い貯水池であり、麻薬密輸ルートとして知られています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "湖の支配権を巡る敵対する麻薬カルテル間の縄張り争いは2010年3月に始まり、一連の武装強盗や銃撃事件につながりました。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "攻撃はすべてロス・セタスカルテルによるもので、主に貯水池のメキシコ側で発生しましたが、テキサス海岸からも見える範囲内で行われました。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "いわゆる海賊は、漁師を捕まえたり麻薬を密輸したりするために設計された小型ボートの「船団」を運営しています。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "これらの出来事は口語的に海賊行為と呼ばれているが、ファルコン湖のすべての海域は米国またはメキシコの領海とみなされており、したがって国連海洋法条約第101条に基づく厳密な海賊行為ではありません。",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M3_0",
+          "M8_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "ファルコン湖の海賊行為",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          65,
+          72
+        ],
+        "text": "国連海洋法条約",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          23
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          41
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          28
+        ],
+        "text": "メキシコ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          31
+        ],
+        "text": "ファルコン湖",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          20
+        ],
+        "text": "ファルコン湖",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          22
+        ],
+        "text": "リオ・グランデ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "1954年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          33
+        ],
+        "text": "2010年3月",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          12
+        ],
+        "text": "ロス・セタス",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          33
+        ],
+        "text": "メキシコ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          44,
+          48
+        ],
+        "text": "メキシコ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          47
+        ],
+        "text": "テキサス",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Piracy_on_Falcon_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q7197664"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q96",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Falcon_International_Reservoir",
+          "wikidata": "http://www.wikidata.org/entity/Q4967120"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rio_Grande",
+          "wikidata": "http://www.wikidata.org/entity/Q160636",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Zetas",
+          "wikidata": "http://www.wikidata.org/entity/Q248337",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%BB%E3%82%BF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q96",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "removed_mention_ids": [
+          "M10_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q216996",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B4%8B%E6%B3%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E6%9D%A1%E7%B4%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

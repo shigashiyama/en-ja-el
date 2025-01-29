@@ -1,0 +1,429 @@
+{
+  "3549": {
+    "doc_info": {
+      "title": "Pinal Peak",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Pinal Peak , located in southern Gila County , Arizona , is the highest point in the Pinal Mountains , with an elevation of .",
+        "text": "Pinal Peak , located in southern Gila County , Arizona , is the highest point in the Pinal Mountains , with an elevation of .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is the highest point of land located in between the Salt and Gila rivers in Arizona before they merge , making it visible from miles away on a clear day .",
+        "text": "It is the highest point of land located in between the Salt and Gila rivers in Arizona before they merge , making it visible from miles away on a clear day .",
+        "mention_ids": [
+          "M2_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The peak ranks as the 11th most prominent in Arizona and has an topographic isolation of , with the nearest point of land of equal or greater elevation being to the southeast in the Santa Teresa Mountains .",
+        "text": "The peak ranks as the 11th most prominent in Arizona and has an topographic isolation of , with the nearest point of land of equal or greater elevation being to the southeast in the Santa Teresa Mountains .",
+        "mention_ids": [
+          "M2_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Pinal Peak is slightly east of the approximate center of the Pinal Mountains .",
+        "text": "Pinal Peak is slightly east of the approximate center of the Pinal Mountains .",
+        "mention_ids": [
+          "M0_1",
+          "M3_1"
+        ]
+      },
+      "04": {
+        "orig_text": "Despite being the most prominent peak in Gila County , it is not the highest point in the county .",
+        "text": "Despite being the most prominent peak in Gila County , it is not the highest point in the county .",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "05": {
+        "orig_text": "That title goes to Myrtle Point with an elevation between , which lies atop the edge of the Mogollon Rim which forms the county line with Coconino County .",
+        "text": "That title goes to Myrtle Point with an elevation between , which lies atop the edge of the Mogollon Rim which forms the county line with Coconino County .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The nearest population is in the Globe / Miami , Arizona area , just a few miles north of the range and peak .",
+        "text": "The nearest population is in the Globe / Miami , Arizona area , just a few miles north of the range and peak .",
+        "mention_ids": [
+          "M10_0",
+          "M2_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Pinal Peak",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Pinal Peak",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          33,
+          46
+        ],
+        "text": "Globe / Miami",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          44
+        ],
+        "text": "Gila County",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "04",
+        "span": [
+          41,
+          52
+        ],
+        "text": "Gila County",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          54
+        ],
+        "text": "Arizona",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          79,
+          86
+        ],
+        "text": "Arizona",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          45,
+          52
+        ],
+        "text": "Arizona",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "06",
+        "span": [
+          49,
+          56
+        ],
+        "text": "Arizona",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          100
+        ],
+        "text": "Pinal Mountains",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          61,
+          76
+        ],
+        "text": "Pinal Mountains",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          55,
+          59
+        ],
+        "text": "Salt",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          64,
+          68
+        ],
+        "text": "Gila",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          182,
+          204
+        ],
+        "text": "Santa Teresa Mountains",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          31
+        ],
+        "text": "Myrtle Point",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          104
+        ],
+        "text": "Mogollon Rim",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          138,
+          153
+        ],
+        "text": "Coconino County",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pinal_Peak",
+          "wikidata": "http://www.wikidata.org/entity/Q24192831"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gila_County,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q58686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A9%E9%83%A1_(%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pinal_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q24192718"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Salt_River_(Arizona)",
+          "wikidata": "http://www.wikidata.org/entity/Q1341271"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gila_River",
+          "wikidata": "http://www.wikidata.org/entity/Q838143",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A9%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Santa_Teresa_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q7419959"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Myrtle_Point,_Arizona",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Myrtle_Point,_Arizona"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mogollon_Rim",
+          "wikidata": "http://www.wikidata.org/entity/Q186910"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Coconino_County,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q58684",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%83%8B%E3%83%8E%E9%83%A1_(%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Globe,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q79823"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "0040203": {
+    "doc_info": {
+      "title": "40203_Apple_Corps_loses",
+      "url": "http://en.wikinews.org/wiki/Apple_Corps_loses_court_case_against_Apple_Computer"
+    },
+    "sentences": {
+      "00": {
+        "text": "Apple CorpsがApple Computerに対する訴訟で敗訴",
+        "mention_ids": [
+          "M013",
+          "M015"
+        ]
+      },
+      "01": {
+        "text": "2006 年 5 月 8 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ビートルズのレーベルApple Corpsは本日、高等裁判所でApple Computerに対するその訴訟で敗訴しました。",
+        "mention_ids": [
+          "M008",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "03": {
+        "text": "Apple Corpsは、iTunes Music Storeは1991年に両当事者間で合意された和解に違反していると主張しました。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "04": {
+        "text": "1991年の合意では、 Apple Computer はリンゴ・ブランドの音楽を販売しないというものでした。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "05": {
+        "text": "アンソニー・マン判事は、 iTunes Music Store はブランド化されているが、それが販売している音楽はブランド化されていないというApple Computerの弁護に同意し、「私はAppleのロゴの使用は…創造的な作品との関連を示唆するものではないと結論する」と述べました。",
+        "mention_ids": [
+          "M007",
+          "M011",
+          "M014",
+          "M021",
+          "M022",
+          "M027"
+        ]
+      },
+      "06": {
+        "text": "訴訟中、Apple Corpsは法廷で、通常のダウンロード中にApple Computerのロゴが何回表示されたかを示しました。",
+        "mention_ids": [
+          "M137"
+        ]
+      },
+      "07": {
+        "text": "デモ中に購入した曲はシックの『Le Freak』でした。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "訴訟が終結した後Apple ComputerのCEOであるスティーブ・ジョブズは、レコード会社を招待し、「我々は常にビートルズを愛してきたし、できるなら、これからiTunes Music Storeに彼らの曲を入れるために協力することができる」と述べました。",
+        "mention_ids": [
+          "M141",
+          "M143",
+          "M144"
+        ]
+      },
+      "09": {
+        "text": "Apple Corpsは、この件を控訴院に持ち込むことを決定しました。",
+        "mention_ids": [
+          "M139"
+        ]
+      },
+      "10": {
+        "text": "Apple Corpsを代表してマネージャーのニール・アスピナル氏は、「裁判官に多大な敬意を表しつつ、私たちは彼が間違った結論に達したと考えています」と述べました。",
+        "mention_ids": [
+          "M140",
+          "M142"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          27
+        ],
+        "text": " Apple Computer ",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M003": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          39
+        ],
+        "text": "リンゴ・ブランドの音楽",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M007": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          10
+        ],
+        "text": "アンソニー・マン判事",
+        "entity_type": null,
+        "entity_id": "E131"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          21
+        ],
+        "text": "ビートルズのレーベルApple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M011": {
+        "sentence_id": "05",
+        "span": [
+          71,
+          88
+        ],
+        "text": "Apple Computerの弁護",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M013": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Apple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M014": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          32
+        ],
+        "text": " iTunes Music Store ",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M015": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          26
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M016": {
+        "sentence_id": "02",
+        "span": [
+          49,
+          51
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M017": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          45
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M018": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          30
+        ],
+        "text": "高等裁判所",
+        "entity_type": null,
+        "entity_id": "E132"
+      },
+      "M021": {
+        "sentence_id": "05",
+        "span": [
+          94,
+          96
+        ],
+        "text": "私は",
+        "entity_type": null,
+        "entity_id": "E131"
+      },
+      "M022": {
+        "sentence_id": "05",
+        "span": [
+          96,
+          104
+        ],
+        "text": "Appleのロゴ",
+        "entity_type": null,
+        "entity_id": "E126"
+      },
+      "M024": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Apple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M025": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          31
+        ],
+        "text": "iTunes Music Store",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M026": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          42
+        ],
+        "text": "両当事者",
+        "entity_type": null,
+        "entity_id": "E127"
+      },
+      "M027": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          56
+        ],
+        "text": "それが販売している音楽",
+        "entity_type": null,
+        "entity_id": "E130"
+      },
+      "M137": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          15
+        ],
+        "text": "Apple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M139": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Apple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M140": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Apple Corps",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M141": {
+        "sentence_id": "08",
+        "span": [
+          41,
+          47
+        ],
+        "text": "レコード会社",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M142": {
+        "sentence_id": "10",
+        "span": [
+          51,
+          54
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M143": {
+        "sentence_id": "08",
+        "span": [
+          81,
+          99
+        ],
+        "text": "iTunes Music Store",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M144": {
+        "sentence_id": "08",
+        "span": [
+          8,
+          39
+        ],
+        "text": "Apple ComputerのCEOであるスティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E146"
+      }
+    },
+    "entities": {
+      "E122": {
+        "member_mention_ids": [
+          "M014",
+          "M025",
+          "M143"
+        ],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M013",
+          "M016",
+          "M024",
+          "M137",
+          "M139",
+          "M140",
+          "M141",
+          "M142"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M001",
+          "M010"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Corps",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q621231",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%BB%E3%82%B3%E3%82%A2"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E127": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E129": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "removed_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E130": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E131": {
+        "member_mention_ids": [
+          "M007",
+          "M021"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M006"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/George_Mann_(judge)",
+          "dbpedia:orig": "http://dbpedia.org/resource/George_Mann_(judge)",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anthony_Mann_(judge)",
+          "wikidata": "http://www.wikidata.org/entity/Q18207368"
+        }
+      },
+      "E132": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/High_Court_of_Justice",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/High_Court_of_Justice",
+          "wikidata": "http://www.wikidata.org/entity/Q1617747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%AD%89%E6%B3%95%E9%99%A2_(%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA)"
+        }
+      },
+      "E133": {
+        "member_mention_ids": [
+          "M002",
+          "M015",
+          "M017"
+        ],
+        "removed_mention_ids": [
+          "M009",
+          "M023"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E134": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/The_Beatles",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Beatles",
+          "wikidata": "http://www.wikidata.org/entity/Q1299",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB%E3%82%BA"
+        }
+      },
+      "E146": {
+        "member_mention_ids": [
+          "M144"
+        ],
+        "removed_mention_ids": [
+          "M145",
+          "M138"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      }
+    }
+  }
+}

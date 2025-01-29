@@ -1,0 +1,565 @@
+{
+  "3231": {
+    "doc_info": {
+      "title": "Marselisborg Gymnasium",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Marselisborg Gymnasium is a school of secondary education in Aarhus , Denmark .",
+        "text": "Marselisborg Gymnasium is a school of secondary education in Aarhus , Denmark .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The school is a financially independent self - owning educational institution under the Danish state .",
+        "text": "The school is a financially independent self - owning educational institution under the Danish state .",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "02": {
+        "orig_text": "The school offers the 3-year Matriculation examination ( STX ) programme within five main branches ; natural sciences , social sciences , language , music and , since 2006 , sports through a partnership with Team Danmark .",
+        "text": "The school offers the 3-year Matriculation examination ( STX ) programme within five main branches ; natural sciences , social sciences , language , music and , since 2006 , sports through a partnership with Team Danmark .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "Marselisborg Gymnasium was founded in 1898 by ■■■■■■■■■■ under the name Marselisborg Boarding and Learned School .",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The school became a popular alternative to Aarhus Katedralskole and was first expanded in 1904 .",
+        "text": "The school became a popular alternative to Aarhus Katedralskole and was first expanded in 1904 .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "05": {
+        "orig_text": "From 1916 the school became owned by Aarhus Municipality and in 1973 by Aarhus County .",
+        "text": "From 1916 the school became owned by Aarhus Municipality and in 1973 by Aarhus County .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In the Danish Municipal Reform of 2007 the Danish counties were abolished and Marselisborg Gymnasium became independent and self - owning like most other Danish educational institutions .",
+        "text": "In the Danish Municipal Reform of 2007 the Danish counties were abolished and Marselisborg Gymnasium became independent and self - owning like most other Danish educational institutions .",
+        "mention_ids": [
+          "M0_2",
+          "M18_0",
+          "M3_0",
+          "M3_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          22
+        ],
+        "text": "Marselisborg Gymnasium",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          22
+        ],
+        "text": "Marselisborg Gymnasium",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          78,
+          100
+        ],
+        "text": "Marselisborg Gymnasium",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          56
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          72,
+          112
+        ],
+        "text": "Marselisborg Boarding and Learned School",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          43,
+          63
+        ],
+        "text": "Aarhus Katedralskole",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          90,
+          94
+        ],
+        "text": "1904",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          9
+        ],
+        "text": "1916",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          56
+        ],
+        "text": "Aarhus Municipality",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          64,
+          68
+        ],
+        "text": "1973",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          72,
+          85
+        ],
+        "text": "Aarhus County",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          38
+        ],
+        "text": "Danish Municipal Reform of 2007",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          67
+        ],
+        "text": "Aarhus",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          77
+        ],
+        "text": "Denmark",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          43,
+          49
+        ],
+        "text": "Danish",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          88,
+          94
+        ],
+        "text": "Danish",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "06",
+        "span": [
+          154,
+          160
+        ],
+        "text": "Danish",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          28
+        ],
+        "text": "3-year",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          60
+        ],
+        "text": "STX",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          80,
+          84
+        ],
+        "text": "five",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          167,
+          171
+        ],
+        "text": "2006",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          208,
+          220
+        ],
+        "text": "Team Danmark",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          42
+        ],
+        "text": "1898",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marselisborg_Gymnasium",
+          "wikidata": "http://www.wikidata.org/entity/Q12326199"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aarhus",
+          "wikidata": "http://www.wikidata.org/entity/Q25319",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%95%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q35",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q35",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Team_Danmark",
+          "wikidata": "http://www.wikidata.org/entity/Q1286613"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aarhus_Katedralskole",
+          "wikidata": "http://www.wikidata.org/entity/Q12300325"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aarhus_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q240262"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aarhus_County",
+          "wikidata": "http://www.wikidata.org/entity/Q271176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%95%E3%82%B9%E7%9C%8C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

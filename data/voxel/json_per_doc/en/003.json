@@ -1,0 +1,247 @@
+{
+  "003": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/431181-muzzled-voice-cuba"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Muzzled voice of Cuba.",
+        "text": "Muzzled voice of Cuba.",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "01": {
+        "orig_text": " “Empty chair for Fariñas,” headlines Gazeta Wyborcza the day after the ceremony for the 2010 Sakharov Prize in the European Parliament.",
+        "text": " “Empty chair for Fariñas,” headlines Gazeta Wyborcza the day after the ceremony for the 2010 Sakharov Prize in the European Parliament.",
+        "mention_ids": [
+          "M047",
+          "M048",
+          "M049",
+          "M050"
+        ]
+      },
+      "02": {
+        "orig_text": "The award was given to the Cuban dissident Guillermo Fariñas, who was banned by Cuban authorities from travelling to Strasbourg.",
+        "text": "The award was given to the Cuban dissident Guillermo Fariñas, who was banned by Cuban authorities from travelling to Strasbourg.",
+        "mention_ids": [
+          "M051",
+          "M052"
+        ]
+      },
+      "03": {
+        "orig_text": "Hence, his chair covered with the Cuban flag stood empty during the ceremony.",
+        "text": "Hence, his chair covered with the Cuban flag stood empty during the ceremony.",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "He also vowed to continue his struggle, last January, Fariñas went on a 135 day hunger strike to obtain the release from jail of 42 Cuban opposition members.",
+        "text": "He also vowed to continue his struggle, last January, Fariñas went on a 135 day hunger strike to obtain the release from jail of 42 Cuban opposition members.",
+        "mention_ids": [
+          "M053"
+        ]
+      }
+    },
+    "mentions": {
+      "M046": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          21
+        ],
+        "text": "Cuba",
+        "entity_type": null,
+        "entity_id": "E046"
+      },
+      "M047": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          25
+        ],
+        "text": "Fariñas",
+        "entity_type": null,
+        "entity_id": "E047"
+      },
+      "M048": {
+        "sentence_id": "01",
+        "span": [
+          38,
+          53
+        ],
+        "text": "Gazeta Wyborcza",
+        "entity_type": null,
+        "entity_id": "E048"
+      },
+      "M049": {
+        "sentence_id": "01",
+        "span": [
+          94,
+          108
+        ],
+        "text": "Sakharov Prize",
+        "entity_type": null,
+        "entity_id": "E049"
+      },
+      "M050": {
+        "sentence_id": "01",
+        "span": [
+          116,
+          135
+        ],
+        "text": "European Parliament",
+        "entity_type": null,
+        "entity_id": "E050"
+      },
+      "M051": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          60
+        ],
+        "text": "Guillermo Fariñas",
+        "entity_type": null,
+        "entity_id": "E051"
+      },
+      "M052": {
+        "sentence_id": "02",
+        "span": [
+          117,
+          127
+        ],
+        "text": "Strasbourg",
+        "entity_type": null,
+        "entity_id": "E052"
+      },
+      "M053": {
+        "sentence_id": "04",
+        "span": [
+          54,
+          61
+        ],
+        "text": "Fariñas",
+        "entity_type": null,
+        "entity_id": "E053"
+      }
+    },
+    "entities": {
+      "E046": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cuba",
+          "wikidata": "http://www.wikidata.org/entity/Q241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+        }
+      },
+      "E047": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      },
+      "E048": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+          "wikidata": "http://www.wikidata.org/entity/Q741296"
+        }
+      },
+      "E049": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sakharov_Prize",
+          "wikidata": "http://www.wikidata.org/entity/Q48786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8F%E3%83%AD%E3%83%95%E8%B3%9E"
+        }
+      },
+      "E050": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Parliament",
+          "wikidata": "http://www.wikidata.org/entity/Q8889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E8%AD%B0%E4%BC%9A"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      },
+      "E052": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Strasbourg",
+          "wikidata": "http://www.wikidata.org/entity/Q6602",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%B9%E3%83%96%E3%83%BC%E3%83%AB"
+        }
+      },
+      "E053": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      }
+    }
+  }
+}

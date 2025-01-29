@@ -1,0 +1,543 @@
+{
+  "3103": {
+    "doc_info": {
+      "title": "Museum of Army Flying",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Museum of Army Flying is a British military aviation museum about the history of flying in the British Army .",
+        "text": "The Museum of Army Flying is a British military aviation museum about the history of flying in the British Army .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is located beside the Army Air Corps Centre in Middle Wallop , close to Andover in Hampshire , England .",
+        "text": "It is located beside the Army Air Corps Centre in Middle Wallop , close to Andover in Hampshire , England .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The Museum covers the history of Army aviation from the Balloon sections of the Royal Engineers , through the establishment of the Royal Flying Corps in 1912 and Air Observation Post ( AOP)Squadrons .",
+        "text": "The Museum covers the history of Army aviation from the Balloon sections of the Royal Engineers , through the establishment of the Royal Flying Corps in 1912 and Air Observation Post ( AOP)Squadrons .",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M12_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "It brings the story up to date with the establishment of the Army Air Corps in 1957 , from the merger of the Glider Pilot Regiment and the AOP Squadrons .",
+        "text": "It brings the story up to date with the establishment of the Army Air Corps in 1957 , from the merger of the Glider Pilot Regiment and the AOP Squadrons .",
+        "mention_ids": [
+          "M12_2",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The Museum also contains multiple flight simulators that anyone can use for a small fee .",
+        "text": "The Museum also contains multiple flight simulators that anyone can use for a small fee .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Outside the museum is a play park featuring aviation themed play pieces that kids can climb on , including a control tower based on the Middle Wallop control tower .",
+        "text": "Outside the museum is a play park featuring aviation themed play pieces that kids can climb on , including a control tower based on the Middle Wallop control tower .",
+        "mention_ids": [
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          25
+        ],
+        "text": "Museum of Army Flying",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          10
+        ],
+        "text": "Museum",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          10
+        ],
+        "text": "Museum",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          131,
+          149
+        ],
+        "text": "Royal Flying Corps",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          153,
+          157
+        ],
+        "text": "1912",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          162,
+          182
+        ],
+        "text": "Air Observation Post",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "02",
+        "span": [
+          183,
+          198
+        ],
+        "text": "( AOP)Squadrons",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M12_2": {
+        "sentence_id": "03",
+        "span": [
+          139,
+          152
+        ],
+        "text": "AOP Squadrons",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          61,
+          75
+        ],
+        "text": "Army Air Corps",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          79,
+          83
+        ],
+        "text": "1957",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          109,
+          130
+        ],
+        "text": "Glider Pilot Regiment",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          38
+        ],
+        "text": "British",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          111
+        ],
+        "text": "British Army",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          46
+        ],
+        "text": "Army Air Corps Centre",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          63
+        ],
+        "text": "Middle Wallop",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "05",
+        "span": [
+          136,
+          149
+        ],
+        "text": "Middle Wallop",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          75,
+          82
+        ],
+        "text": "Andover",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          86,
+          95
+        ],
+        "text": "Hampshire",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          98,
+          105
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          33,
+          46
+        ],
+        "text": "Army aviation",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          80,
+          95
+        ],
+        "text": "Royal Engineers",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Army_Flying_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q6940754"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q222595",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E9%99%B8%E8%BB%8D"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_Wallop_Flying_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q2900811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/AAC_Middle_Wallop"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_Wallop_Flying_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q2900811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Army_Air_Corps_Middle_Wallop"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andover,_Hampshire",
+          "wikidata": "http://www.wikidata.org/entity/Q492805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC_(%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hampshire",
+          "wikidata": "http://www.wikidata.org/entity/Q23204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%97%E3%82%B7%E3%83%A3%E3%83%BC"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Air_Force",
+          "wikidata": "http://www.wikidata.org/entity/Q165862",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E7%A9%BA%E8%BB%8D"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Engineers",
+          "wikidata": "http://www.wikidata.org/entity/Q3098650"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Flying_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q943118",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E9%99%B8%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%9A%8A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M12_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Air_observation_post",
+          "wikidata": "http://www.wikidata.org/entity/Q4698120",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Air_Observation_Post"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)",
+          "wikidata": "http://www.wikidata.org/entity/Q555871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%9A%8A_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Glider_Pilot_Regiment",
+          "wikidata": "http://www.wikidata.org/entity/Q5569586"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

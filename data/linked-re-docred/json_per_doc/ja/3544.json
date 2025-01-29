@@ -1,0 +1,516 @@
+{
+  "3544": {
+    "doc_info": {
+      "title": "Phyllonorycter issikii",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ライムハモグリガ(Phyllonorycter issikii)は、ホソガ科の蛾です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "この種は日本、韓国、およびロシア東部が原産ですが、おそらく1970年頃にヨーロッパ東部に取り込まれました。",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "これは現在、チェコ共和国と■■■■■で広まっており、ハンガリーとドイツでもその範囲を拡大しています。",
+        "mention_ids": [
+          "M10_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "2009年にはバルト三国やベネルクスでも記録されてきました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "04": {
+        "text": "翼幅は7 - 7.5mmです。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "05": {
+        "text": "成虫は6月下旬から7月中旬と7月下旬から8月下旬に2世代で飛び回ります。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "幼虫は、ティリアアメリカーナ、ティリアコルダータ、およびティリアプラティフィロスを食べます。",
+        "mention_ids": [
+          "M15_0",
+          "M15_1",
+          "M15_2"
+        ]
+      },
+      "07": {
+        "text": "これら幼虫は宿主植物の葉で潜孔を作ります。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "それら幼虫は、下面にやや収縮したテント状の潜孔を形成します。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "多くの場合、1つの葉に複数の潜孔が存在します。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "粉くずは潜孔の隅に集中していて、上から見ると黒い斑点で認識できます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          31
+        ],
+        "text": "Phyllonorycter issikii",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          35
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          10
+        ],
+        "text": "バルト",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          18
+        ],
+        "text": "ベネルクス",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2009年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          10
+        ],
+        "text": "7 - 7.5",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          15,
+          19
+        ],
+        "text": "ティリア",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          8
+        ],
+        "text": "ティリア",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M15_2": {
+        "sentence_id": "06",
+        "span": [
+          28,
+          32
+        ],
+        "text": "ティリア",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          37
+        ],
+        "text": "ホソガ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          6
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          9
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          16
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          41
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          34
+        ],
+        "text": "1970年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          12
+        ],
+        "text": "チェコ共和国",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          18
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          31
+        ],
+        "text": "ハンガリー",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Phyllonorycter_issikii",
+          "wikidata": "http://www.wikidata.org/entity/Q1057171"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gracillariidae",
+          "wikidata": "http://www.wikidata.org/entity/Q721100"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q18097",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Czech_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q213",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Slovakia",
+          "wikidata": "http://www.wikidata.org/entity/Q214",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%90%E3%82%AD%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hungary",
+          "wikidata": "http://www.wikidata.org/entity/Q28",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltic_states",
+          "wikidata": "http://www.wikidata.org/entity/Q39731",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%88%E4%B8%89%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Benelux",
+          "wikidata": "http://www.wikidata.org/entity/Q13116",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%AB%E3%82%AF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1",
+          "M15_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tilia_cordata",
+          "wikidata": "http://www.wikidata.org/entity/Q158746",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A6%E3%83%9C%E3%83%80%E3%82%A4%E3%82%B8%E3%83%A5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

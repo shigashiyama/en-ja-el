@@ -1,0 +1,542 @@
+{
+  "3448": {
+    "doc_info": {
+      "title": "Mountain railways of India",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "インドの山岳鉄道は、インドの山中に建設された鉄道路線を指します。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "このうち、ダージリン・ヒマラヤ鉄道、ニルギリ・マウンテン鉄道、カルカ・シムラー鉄道の3つは、インド山岳鉄道の名称でユネスコ世界遺産に指定されています。",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "4番目の鉄道であるマテラン丘陵鉄道は、ユネスコ世界遺産の暫定リストに登録されています。",
+        "mention_ids": [
+          "M6_1",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "これらはすべて狭軌の鉄道です。ニルギリ登山鉄道は、インドで唯一のラック鉄道でもあります。",
+        "mention_ids": [
+          "M1_1",
+          "M4_1"
+        ]
+      },
+      "04": {
+        "text": "ルンディン～バダルプール区間などの一部の登山鉄道は全国規格である広軌に転換されていますが、カングラ渓谷鉄道などの一部の鉄道は広軌に変換中です。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "ジャンムー・バラムラ線のようないくつかの山岳鉄道は現在建設中であり、ビラスパー・マナリ・レー線、ジャンムー・プーンチ線、シュリーナガル・カーギル・レー線、チョタ・チャー・ダム鉄道などの他の鉄道は計画段階にあります。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "06": {
+        "text": "最近建設された登山鉄道はすべて広軌を使用しています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "インドの山岳鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          12
+        ],
+        "text": "バダルプール",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          53
+        ],
+        "text": "カングラ渓谷鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          11
+        ],
+        "text": "ジャンムー・バラムラ線",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          47
+        ],
+        "text": "ビラスパー・マナリ・レー線",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          48,
+          59
+        ],
+        "text": "ジャンムー・プーンチ線",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          60,
+          76
+        ],
+        "text": "シュリーナガル・カーギル・レー線",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          77,
+          89
+        ],
+        "text": "チョタ・チャー・ダム鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          13
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          28
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          42,
+          44
+        ],
+        "text": "3つ",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          17
+        ],
+        "text": "ダージリン・ヒマラヤ鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          30
+        ],
+        "text": "ニルギリ・マウンテン鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          23
+        ],
+        "text": "ニルギリ登山鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          41
+        ],
+        "text": "カルカ・シムラー鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          65
+        ],
+        "text": "ユネスコ世界遺産",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          27
+        ],
+        "text": "ユネスコ世界遺産",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          53
+        ],
+        "text": "インド山岳鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          17
+        ],
+        "text": "マテラン丘陵鉄道",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ルンディン",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mountain_railways_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q4528",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%B1%B1%E5%B2%B3%E9%89%84%E9%81%93%E7%BE%A4"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Darjeeling_Himalayan_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q463874",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B8%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E9%89%84%E9%81%93"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nilgiri_Mountain_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q463735",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%AB%E3%82%AE%E3%83%AA%E5%B1%B1%E5%B2%B3%E9%89%84%E9%81%93"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kalka%E2%80%93Shimla_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q7171560",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Kalka–Shimla_Railway",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%EF%BC%9D%E3%82%B7%E3%83%A0%E3%83%A9%E3%83%BC%E9%89%84%E9%81%93"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_Heritage_Site",
+          "wikidata": "http://www.wikidata.org/entity/Q9259",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_Site",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mountain_railways_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q4528",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%B1%B1%E5%B2%B3%E9%89%84%E9%81%93%E7%BE%A4"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matheran_Hill_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q463662",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%83%A9%E3%83%B3%E7%99%BB%E5%B1%B1%E9%89%84%E9%81%93"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lumding%E2%80%93Sabroom_section",
+          "wikidata": "http://www.wikidata.org/entity/Q17068406",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Lumding–Badarpur_section"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Badarpur,_Delhi",
+          "wikidata": "http://www.wikidata.org/entity/Q4840627"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kangra_Valley_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q744580"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jammu%E2%80%93Baramulla_line",
+          "wikidata": "http://www.wikidata.org/entity/Q387255",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Jammu–Baramulla_line"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bhanupli%E2%80%93Leh_line",
+          "wikidata": "http://www.wikidata.org/entity/Q4907567",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Bilaspur–Leh_line"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Char_Dham_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q30639691",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%83%80%E3%83%BC%E3%83%A0%E9%89%84%E9%81%93"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

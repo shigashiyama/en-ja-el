@@ -1,0 +1,786 @@
+{
+  "3139": {
+    "doc_info": {
+      "title": "Blue River (Colorado)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ブルー川は、米国のコロラド州にある、かなり長いコロラド川の支流です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "サミット郡の南部、テンマイル山脈の大陸分水界の西側、クワンダリーピークの近くにあります。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "ブルー・リバーとブリッケンリッジを北に流れ、ディロン近くのディロン貯水池を通過します。",
+        "mention_ids": [
+          "M0_1",
+          "M7_0",
+          "M8_1",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "「ロバーツトンネル」の西側の入り口は、ディロン貯水池の底部にあります。",
+        "mention_ids": [
+          "M10_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "ロバーツ・トンネルは、1962年にデンバー・ウォーターによって建設された盆地横断分水路で、コロラド川流域からサウス・プレート川流域に大陸分水界の下に水を分水します。",
+        "mention_ids": [
+          "M10_1",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M1_1"
+        ]
+      },
+      "05": {
+        "text": "東側入り口は、コロラドのグランツから約1マイル上流にあります。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M3_1"
+        ]
+      },
+      "06": {
+        "text": "ディロンの北では、川はゴア山脈の東斜面に沿ってNNWを流れ、クレムリングでコロラド川に合流します。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M1_2",
+          "M9_1"
+        ]
+      },
+      "07": {
+        "text": "クレムリングの上流にあるグリーン・マウンテン・ダムはグリーン・マウンテン貯水池を形成し、コロラド-ビッグ・トンプソン・プロジェクトの一環として水力発電と灌漑用の陽動用水を供給しています。",
+        "mention_ids": [
+          "M19_1",
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "08": {
+        "text": "このダムは米国開拓局のプロジェクトです。",
+        "mention_ids": [
+          "M23_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ブルー川",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ブルー・リバー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          1,
+          9
+        ],
+        "text": "ロバーツトンネル",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ロバーツ・トンネル",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          27
+        ],
+        "text": "デンバー・ウォーター",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "1962年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          71
+        ],
+        "text": "大陸分水界",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          54,
+          65
+        ],
+        "text": "サウス・プレート川流域",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          23
+        ],
+        "text": "1マイル",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          16
+        ],
+        "text": "グランツ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          26
+        ],
+        "text": "NNW",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          15
+        ],
+        "text": "ゴア山脈",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          30,
+          36
+        ],
+        "text": "クレムリング",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M19_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          6
+        ],
+        "text": "クレムリング",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          28
+        ],
+        "text": "コロラド川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          50
+        ],
+        "text": "コロラド川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "06",
+        "span": [
+          37,
+          42
+        ],
+        "text": "コロラド川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          12,
+          25
+        ],
+        "text": "グリーン・マウンテン・ダム",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          26,
+          39
+        ],
+        "text": "グリーン・マウンテン貯水池",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          44,
+          65
+        ],
+        "text": "コロラド-ビッグ・トンプソン・プロジェクト",
+        "entity_type": "MISC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "08",
+        "span": [
+          5,
+          10
+        ],
+        "text": "米国開拓局",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          8
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          13
+        ],
+        "text": "コロラド",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          11
+        ],
+        "text": "コロラド",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "サミット郡",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          9,
+          16
+        ],
+        "text": "テンマイル山脈",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          35
+        ],
+        "text": "クワンダリーピーク",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          16
+        ],
+        "text": "ブリッケンリッジ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          26
+        ],
+        "text": "ディロン貯水池",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          36
+        ],
+        "text": "ディロン貯水池",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          26
+        ],
+        "text": "ディロン",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ディロン",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Blue_River,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q2264851"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Colorado_River",
+          "wikidata": "http://www.wikidata.org/entity/Q1265",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9D"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._state",
+          "wikidata": "http://www.wikidata.org/entity/Q35657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q1261",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Summit_County,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q312453",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88%E9%83%A1_(%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tenmile_Range",
+          "wikidata": "http://www.wikidata.org/entity/Q7699945"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quandary_Peak",
+          "wikidata": "http://www.wikidata.org/entity/Q2122147"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Breckenridge,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q904354"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dillon_Reservoir",
+          "wikidata": "http://www.wikidata.org/entity/Q5276944"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dillon,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q1225611"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denver_Water",
+          "wikidata": "http://www.wikidata.org/entity/Q5259799"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Continental_divide",
+          "wikidata": "http://www.wikidata.org/entity/Q604673",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E5%88%86%E6%B0%B4%E5%B6%BA"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Grant,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q3115380"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gore_Range",
+          "wikidata": "http://www.wikidata.org/entity/Q5586126"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0",
+          "M19_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kremmling,_Colorado",
+          "wikidata": "http://www.wikidata.org/entity/Q579678"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Green_Mountain_Reservoir",
+          "wikidata": "http://www.wikidata.org/entity/Q5602905",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Green_Mountain_Dam"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Green_Mountain_Reservoir",
+          "wikidata": "http://www.wikidata.org/entity/Q5602905"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Colorado%E2%80%93Big_Thompson_Project",
+          "wikidata": "http://www.wikidata.org/entity/Q1111199",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Colorado-Big_Thompson_Project"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Bureau_of_Reclamation",
+          "wikidata": "http://www.wikidata.org/entity/Q1010548",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%96%8B%E6%8B%93%E5%B1%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

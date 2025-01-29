@@ -1,0 +1,604 @@
+{
+  "3432": {
+    "doc_info": {
+      "title": "Ire Works",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『アイア・ワークス』は、アメリカ人のマスコアバンドザ・ディリンジャー・エスケイプ・プランによる3枚目のスタジオ・アルバムです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "このアルバムは、2007年11月5日にイギリスで、2007年11月13日に米国でリラプス・レコードからリリースされ、これが彼らのレーベル最後のアルバムとなりました。",
+        "mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "このアルバムは、■■■■■■■■がバンドとともに参加した最初で最後のアルバムであり、創設ドラマーである■■■■■■■が参加していない初めてのアルバムです。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "リードギタリストの■■■■■■■■は、■■■■■■■■■の怪我のため、このレコードでは一人でギターを弾いています。",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "このアルバムには電子音楽の影響が組み込まれています。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "『Terrorizer』誌のインタビューによると、これはリラプス・レコード・レーベルからの最後のアルバムです。",
+        "mention_ids": [
+          "M11_0",
+          "M5_1"
+        ]
+      },
+      "06": {
+        "text": "このアルバムは非常に成功し、ビルボード200で7,000枚をスキャンして142位でデビューしたが、その後、Relapseがリリース前のアルバム販売をスキャンするのをなぜか忘れていたことが明らかになり、最初の1週間の合計が実際には11,000前後になったことが明らかになり、修正されました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "07": {
+        "text": "このアルバムには、バンドの元ボーカル■■■■■■■■■■■（『Fix Your Face』で）とマストドンの■■■■■■■■■（『Horse Hunter』で）がゲストボーカルとして収録されています。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          9
+        ],
+        "text": "アイア・ワークス",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          28
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          1,
+          11
+        ],
+        "text": "Terrorizer",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          22
+        ],
+        "text": "ビルボード200",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          28
+        ],
+        "text": "7,000",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          114,
+          120
+        ],
+        "text": "11,000",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          18,
+          29
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          31,
+          44
+        ],
+        "text": "Fix Your Face",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          48,
+          53
+        ],
+        "text": "マストドン",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          54,
+          63
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          65,
+          77
+        ],
+        "text": "Horse Hunter",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          17
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          25,
+          44
+        ],
+        "text": "ザ・ディリンジャー・エスケイプ・プラン",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          18
+        ],
+        "text": "2007年11月5日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          36
+        ],
+        "text": "2007年11月13日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          23
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          49
+        ],
+        "text": "リラプス・レコード",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          37
+        ],
+        "text": "リラプス・レコード",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          39
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          16
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          58
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          17
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ire_Works",
+          "wikidata": "http://www.wikidata.org/entity/Q2549070"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Dillinger_Escape_Plan",
+          "wikidata": "http://www.wikidata.org/entity/Q1307025",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%87%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%A4%E3%83%97%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Relapse_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q657558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A9%E3%83%97%E3%82%B9%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gil_Sharone",
+          "wikidata": "http://www.wikidata.org/entity/Q1523853"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chris_Pennie",
+          "wikidata": "http://www.wikidata.org/entity/Q375294"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ben_Weinman",
+          "wikidata": "http://www.wikidata.org/entity/Q3068012"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brian_Benoit",
+          "wikidata": "http://www.wikidata.org/entity/Q4963101"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Terrorizer_(magazine)",
+          "wikidata": "http://www.wikidata.org/entity/Q1774859"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Billboard_(magazine)",
+          "wikidata": "http://www.wikidata.org/entity/Q485240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dimitri_Minakakis",
+          "wikidata": "http://www.wikidata.org/entity/Q5277505"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fix_Your_Face",
+          "wikidata": "http://www.wikidata.org/entity/Q5456304"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mastodon_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q548844",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3_(%E3%83%90%E3%83%B3%E3%83%89)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brent_Hinds",
+          "wikidata": "http://www.wikidata.org/entity/Q909746"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

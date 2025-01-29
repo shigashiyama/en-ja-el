@@ -1,0 +1,388 @@
+{
+  "008": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/4982288-map-asylum-seekers-europe"
+    },
+    "sentences": {
+      "00": {
+        "text": "国別の難民申請者の地図。",
+        "mention_ids": []
+      },
+      "01": {
+        "text": "今年の最初の6か月間で合計400,000人以上がヨーロッパに亡命を申請しました。",
+        "mention_ids": [
+          "M098"
+        ]
+      },
+      "02": {
+        "text": "その小さな地図には、人口に比例して国が示されています。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "通常よりも規模が大きいように見える州は、特に多くの難民申請者を受け入れています。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "これらのほとんどの国はヨーロッパの中心にあり、ドイツがリストのトップですが、スイス、オーストリア、ハンガリー、ベネルクス、およびスウェーデンです。",
+        "mention_ids": [
+          "M099",
+          "M100",
+          "M101",
+          "M102",
+          "M103",
+          "M104",
+          "M105"
+        ]
+      },
+      "05": {
+        "text": "マルタとイタリアを除けば、ヨーロッパのすべての「国」は、比較的少数の難民申請者を受け入れています - 彼らは事実上地図から消えてしまうほど少数です。",
+        "mention_ids": [
+          "M106",
+          "M107",
+          "M108"
+        ]
+      },
+      "06": {
+        "text": "この地図は地理学者ベンジャミン・へニングによって彼のサイトで公開されており、今年は2014年の地図も入手できます。",
+        "mention_ids": [
+          "M109"
+        ]
+      },
+      "07": {
+        "text": "使用されるデータはユーロスタットからのものです。",
+        "mention_ids": [
+          "M110"
+        ]
+      }
+    },
+    "mentions": {
+      "M098": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          29
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M099": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M100": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          26
+        ],
+        "text": "ドイツ",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M101": {
+        "sentence_id": "04",
+        "span": [
+          38,
+          41
+        ],
+        "text": "スイス",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M102": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          48
+        ],
+        "text": "オーストリア",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M103": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          54
+        ],
+        "text": "ハンガリー",
+        "entity_type": null,
+        "entity_id": "E103"
+      },
+      "M104": {
+        "sentence_id": "04",
+        "span": [
+          55,
+          60
+        ],
+        "text": "ベネルクス",
+        "entity_type": null,
+        "entity_id": "E104"
+      },
+      "M105": {
+        "sentence_id": "04",
+        "span": [
+          64,
+          70
+        ],
+        "text": "スウェーデン",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M106": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "マルタ",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M107": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          8
+        ],
+        "text": "イタリア",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M108": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          18
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M109": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          20
+        ],
+        "text": "ベンジャミン・へニング",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M110": {
+        "sentence_id": "07",
+        "span": [
+          9,
+          16
+        ],
+        "text": "ユーロスタット",
+        "entity_type": null,
+        "entity_id": "E110"
+      }
+    },
+    "entities": {
+      "E098": {
+        "member_mention_ids": [
+          "M098"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E099": {
+        "member_mention_ids": [
+          "M099"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E100": {
+        "member_mention_ids": [
+          "M100"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      },
+      "E101": {
+        "member_mention_ids": [
+          "M101"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [
+          "M102"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Austria",
+          "wikidata": "http://www.wikidata.org/entity/Q40",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E103": {
+        "member_mention_ids": [
+          "M103"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hungary",
+          "wikidata": "http://www.wikidata.org/entity/Q28",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC"
+        }
+      },
+      "E104": {
+        "member_mention_ids": [
+          "M104"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Benelux",
+          "wikidata": "http://www.wikidata.org/entity/Q13116",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%AB%E3%82%AF%E3%82%B9"
+        }
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M105"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sweden",
+          "wikidata": "http://www.wikidata.org/entity/Q34",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
+        }
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M106"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malta",
+          "wikidata": "http://www.wikidata.org/entity/Q233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF"
+        }
+      },
+      "E107": {
+        "member_mention_ids": [
+          "M107"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M108"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M109"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NotInLexico",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/NotInLexico"
+        }
+      },
+      "E110": {
+        "member_mention_ids": [
+          "M110"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurostat",
+          "wikidata": "http://www.wikidata.org/entity/Q217659",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
+        }
+      }
+    }
+  }
+}

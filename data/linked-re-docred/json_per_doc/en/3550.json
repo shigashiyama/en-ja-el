@@ -1,0 +1,679 @@
+{
+  "3550": {
+    "doc_info": {
+      "title": "Gwarn Music",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Gwarn Music is an independent record label which was created in Manchester , England in 1991 .",
+        "text": "Gwarn Music is an independent record label which was created in Manchester , England in 1991 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "It was founded by former 52nd Street guitarist ■■■■■■■■■■ to release his then new music project FR’ Mystery ( lead vocalist ■■■■■■■■■■■■ ) after talks to sign the act to WEA in London broke down .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "The label was initially independently distributed by local city record shop Manchester Underground , before New Order manager ■■■■■■■■■■■ invited ■■■■■ to bring the label under the wing of his then new imprint Rob ’s Records in late 1994 .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M5_1"
+        ]
+      },
+      "03": {
+        "text": "This was the second time in ten years that ■■■■■ and ■■■■■■■ had worked together .",
+        "mention_ids": [
+          "M12_1",
+          "M5_2"
+        ]
+      },
+      "04": {
+        "text": "■■■■■■■ was 52nd Street ’s A&R ; Manager at Factory Records .",
+        "mention_ids": [
+          "M12_2",
+          "M15_0",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Gwarn Music is now the sole owner of all 52nd Street 's master copyrights released through Factory , A&M ; ( US ) and Profile Records ( US ) in the 1980s .",
+        "text": "Gwarn Music is now the sole owner of all 52nd Street 's master copyrights released through Factory , A&M ; ( US ) and Profile Records ( US ) in the 1980s .",
+        "mention_ids": [
+          "M0_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M18_1",
+          "M19_0",
+          "M20_0",
+          "M4_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Gwarn Music",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Gwarn Music",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          76,
+          98
+        ],
+        "text": "Manchester Underground",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          108,
+          117
+        ],
+        "text": "New Order",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          126,
+          137
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          60
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M12_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          210,
+          224
+        ],
+        "text": "Rob ’s Records",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          233,
+          237
+        ],
+        "text": "1994",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          59
+        ],
+        "text": "Factory Records",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          91,
+          98
+        ],
+        "text": "Factory",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          101,
+          104
+        ],
+        "text": "A&M",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          109,
+          111
+        ],
+        "text": "US",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "05",
+        "span": [
+          136,
+          138
+        ],
+        "text": "US",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          118,
+          133
+        ],
+        "text": "Profile Records",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          74
+        ],
+        "text": "Manchester",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          144,
+          153
+        ],
+        "text": "the 1980s",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          77,
+          84
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          88,
+          92
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          36
+        ],
+        "text": "52nd Street",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          23
+        ],
+        "text": "52nd Street",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          52
+        ],
+        "text": "52nd Street",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          47,
+          57
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          146,
+          151
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          48
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          96,
+          107
+        ],
+        "text": "FR’ Mystery",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          124,
+          136
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          170,
+          173
+        ],
+        "text": "WEA",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          177,
+          183
+        ],
+        "text": "London",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manchester",
+          "wikidata": "http://www.wikidata.org/entity/Q18125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/52nd_Street_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q4640280"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tony_Henry_(singer)",
+          "wikidata": "http://www.wikidata.org/entity/Q2442590"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lorna_Bailey",
+          "wikidata": "http://www.wikidata.org/entity/Q6681330"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Order_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q214990",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M12_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rob%27s_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q7339921",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rob's_Records"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Factory_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q578943",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Factory_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q578943",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/A%26M_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q277626",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/A&M_Records",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/A%26M%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Profile_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q3922628"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

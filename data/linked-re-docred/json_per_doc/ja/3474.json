@@ -1,0 +1,536 @@
+{
+  "3474": {
+    "doc_info": {
+      "title": "Vadasserikara",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ヴァダセリカラは、インディアのケララ州のパタナムティッタ地区にある村です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ランニにある11の村の一つで、パンバ川とカラール川の合流点にあります。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "この村は主要幹線道路であるサバリマラ - パタナムティッタ - パンパ・ハイウェイ沿いにあり、サバリマラへの巡礼者が立ち寄る場所で、■■■■神の住まいであり、何百万人もの■■■■信者が集まる巡礼の中心地です。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "それはクンプランポイカから、そしてランニからの中間にあります。",
+        "mention_ids": [
+          "M11_0",
+          "M5_1"
+        ]
+      },
+      "04": {
+        "text": "パタナムティッタ - シータホードゥ道路もヴァダセリッカラを通過します。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M9_1"
+        ]
+      },
+      "05": {
+        "text": "マルソマのキリスト教徒が人口の大多数を占めています。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "06": {
+        "text": "この村は1990年代以来、大きな発展を遂げてきました。",
+        "mention_ids": [
+          "M15_0"
+        ]
+      },
+      "07": {
+        "text": "この地区で最大の橋の1つはベングラフカダヴにあります。",
+        "mention_ids": [
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ヴァダセリカラ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          85,
+          89
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          70
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          11
+        ],
+        "text": "クンプランポイカ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          18
+        ],
+        "text": "シータホードゥ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          21,
+          29
+        ],
+        "text": "ヴァダセリッカラ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          11
+        ],
+        "text": "マルソマのキリスト教徒",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          10
+        ],
+        "text": "1990年代",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          13,
+          21
+        ],
+        "text": "ベングラフカダヴ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          30
+        ],
+        "text": "パタナムティッタ地区",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          18
+        ],
+        "text": "ケララ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          14
+        ],
+        "text": "インディア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          8
+        ],
+        "text": "11",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ランニ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          20
+        ],
+        "text": "ランニ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          19
+        ],
+        "text": "パンバ川",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          25
+        ],
+        "text": "カラール川",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          47,
+          52
+        ],
+        "text": "サバリマラ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          41
+        ],
+        "text": "サバリマラ - パタナムティッタ - パンパ・ハイウェイ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          8
+        ],
+        "text": "パタナムティッタ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vadasserikara",
+          "wikidata": "http://www.wikidata.org/entity/Q7908170"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pathanamthitta_district",
+          "wikidata": "http://www.wikidata.org/entity/Q634935"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kerala",
+          "wikidata": "http://www.wikidata.org/entity/Q1186",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%A9%E3%83%A9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ranni",
+          "wikidata": "http://www.wikidata.org/entity/Q29440852"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pamba_River",
+          "wikidata": "http://www.wikidata.org/entity/Q2641922"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kallar_River",
+          "wikidata": "http://www.wikidata.org/entity/Q6353583"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "removed_mention_ids": [
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+          "wikidata": "http://www.wikidata.org/entity/Q1520207",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sabarimala",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%90%E3%83%AA%E3%83%9E%E3%83%A9%E5%AF%BA%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ayyappan",
+          "wikidata": "http://www.wikidata.org/entity/Q2477202"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kumplampoika",
+          "wikidata": "http://www.wikidata.org/entity/Q6444024"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Seethathodu",
+          "wikidata": "http://www.wikidata.org/entity/Q7445983"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vadasserikara",
+          "wikidata": "http://www.wikidata.org/entity/Q7908170"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mar_Thoma_Syrian_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q1827463"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

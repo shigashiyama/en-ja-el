@@ -1,0 +1,386 @@
+{
+  "0116834": {
+    "doc_info": {
+      "title": "116834_Japan_enters_recession",
+      "url": "http://en.wikinews.org/wiki/Japan_enters_recession"
+    },
+    "sentences": {
+      "00": {
+        "text": "日本は不況に突入",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "text": "2008年11月18日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "世界生産量の7%を占める日本は、2四半期連続のマイナス成長を記録した後、景気後退に入りました。",
+        "mention_ids": [
+          "M005",
+          "M053"
+        ],
+        "untranslated_mention_ids": [
+          "M006"
+        ]
+      },
+      "03": {
+        "text": "日本経済は、4月から6月にかけて0.9%縮小し、9月以降さらに0.1%縮小しました。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "04": {
+        "text": "日本の与謝野馨財政政策担当大臣は述べました。「世界の成長鈍化に伴い、経済の下降傾向は当面続くでしょう。",
+        "mention_ids": [
+          "M023",
+          "M029"
+        ]
+      },
+      "05": {
+        "text": "私たちは、米国と欧州の金融危機が深刻化し、景気の悪化懸念が高まり、株式市場と外国為替市場が大きく変動すれば、経済状況がさらに悪化しうることを心に留めておく必要があります。」",
+        "mention_ids": [
+          "M034",
+          "M041",
+          "M046",
+          "M090"
+        ]
+      },
+      "06": {
+        "text": "日経225株価指数は年初から40%下落し、今月中にその価値の4分の1を失いました。",
+        "mention_ids": [
+          "M091"
+        ]
+      },
+      "07": {
+        "text": "このニュースが発表された後、同指数は下落しましたが、その後0.7%上昇して終了しました。",
+        "mention_ids": [
+          "M110"
+        ]
+      },
+      "08": {
+        "text": "円の価値が急騰するたびに、日本企業は多額の損失を被ります。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "金融混乱の中でも円は比較的安定しているとみられ、対米ドルの価値は大幅に上昇しました。",
+        "mention_ids": [
+          "M109"
+        ]
+      },
+      "10": {
+        "text": "JPモルガン・チェースのエコノミスト、足立正道は語りました。「状況はさらに悪化するばかりです。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "世界的な金融危機が需要を弱める中で、日本はここ10年で最も深刻な不況に突入する可能性があります」",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "日本は2001年以降、不況に陥っていません。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          14
+        ],
+        "text": "日本",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "日本経済",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M023": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          15
+        ],
+        "text": "日本の与謝野馨財政政策担当大臣",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M029": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          36
+        ],
+        "text": "経済",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M034": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M041": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          11
+        ],
+        "text": "欧州の",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M046": {
+        "sentence_id": "05",
+        "span": [
+          33,
+          44
+        ],
+        "text": "株式市場と外国為替市場",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M053": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "世界",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M090": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          7
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M091": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          9
+        ],
+        "text": "日経225株価指数",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M109": {
+        "sentence_id": "09",
+        "span": [
+          25,
+          28
+        ],
+        "text": "米ドル",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M110": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          17
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E123"
+      }
+    },
+    "entities": {
+      "E112": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M040"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "removed_mention_ids": [
+          "M024",
+          "M025"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Kaoru_Yosano",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kaoru_Yosano",
+          "wikidata": "http://www.wikidata.org/entity/Q1156675",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8E%E8%AC%9D%E9%87%8E%E9%A6%A8"
+        },
+        "date_of_death": "2017-05-21T00:00:00Z"
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Earth",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M109"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_dollar",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_dollar",
+          "wikidata": "http://www.wikidata.org/entity/Q4917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%83%89%E3%83%AB"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy_of_Japan",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q319831",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B5%8C%E6%B8%88"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Europe",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "removed_mention_ids": [
+          "M026",
+          "M015",
+          "M006",
+          "M005"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Japan",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M091",
+          "M110"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nikkei_225",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikkei_225",
+          "wikidata": "http://www.wikidata.org/entity/Q507338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      }
+    }
+  }
+}

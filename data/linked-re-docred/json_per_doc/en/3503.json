@@ -1,0 +1,862 @@
+{
+  "3503": {
+    "doc_info": {
+      "title": "LATAM Brasil",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "LATAM Airlines Brasil , formerly TAM Airlines ( ) , is the Brazilian brand of LATAM Airlines Group .",
+        "text": "LATAM Airlines Brasil , formerly TAM Airlines ( ) , is the Brazilian brand of LATAM Airlines Group .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The merger of TAM with LAN Airlines was completed on June 22 , 2012 .",
+        "text": "The merger of TAM with LAN Airlines was completed on June 22 , 2012 .",
+        "mention_ids": [
+          "M0_4",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "According to the National Civil Aviation Agency of Brazil ( ANAC ) , between January and December 2017 , LATAM had 32.6 % of the domestic , and 74.9 % of the international market share in terms of passenger - kilometers flown , making it the second largest domestic and largest international airline in Brazil .",
+        "text": "According to the National Civil Aviation Agency of Brazil ( ANAC ) , between January and December 2017 , LATAM had 32.6 % of the domestic , and 74.9 % of the international market share in terms of passenger - kilometers flown , making it the second largest domestic and largest international airline in Brazil .",
+        "mention_ids": [
+          "M10_0",
+          "M2_1",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M6_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Before the takeover , TAM was Brazil 's and Latin America 's largest airline .",
+        "text": "Before the takeover , TAM was Brazil 's and Latin America 's largest airline .",
+        "mention_ids": [
+          "M0_3",
+          "M11_0",
+          "M6_2"
+        ]
+      },
+      "04": {
+        "orig_text": "Its headquarters are in São Paulo , operating scheduled services to destinations within Brazil , as well as international flights to Europe and other parts of North and South America .",
+        "text": "Its headquarters are in São Paulo , operating scheduled services to destinations within Brazil , as well as international flights to Europe and other parts of North and South America .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M6_3"
+        ]
+      },
+      "05": {
+        "orig_text": "Shares in the company were traded on the São Paulo Exchange ( BM&F ; Bovespa ) and New York Stock Exchange as \" TAM \" .",
+        "text": "Shares in the company were traded on the São Paulo Exchange ( BM&F ; Bovespa ) and New York Stock Exchange as \" TAM \" .",
+        "mention_ids": [
+          "M0_2",
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Prior to the merger with LAN , the company closed its capital , transferring its shares to LATAM Airlines Group .",
+        "text": "Prior to the merger with LAN , the company closed its capital , transferring its shares to LATAM Airlines Group .",
+        "mention_ids": [
+          "M2_2",
+          "M3_1"
+        ]
+      },
+      "07": {
+        "orig_text": "However , in August 2015 , it was announced that the two airlines would fully rebrand as LATAM , with one livery to be applied on all aircraft by 2018 .",
+        "text": "However , in August 2015 , it was announced that the two airlines would fully rebrand as LATAM , with one livery to be applied on all aircraft by 2018 .",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M2_3"
+        ]
+      },
+      "08": {
+        "orig_text": "The airline withdrew from the Star Alliance , and joined Oneworld , effective 31 March 2014 .",
+        "text": "The airline withdrew from the Star Alliance , and joined Oneworld , effective 31 March 2014 .",
+        "mention_ids": [
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          45
+        ],
+        "text": "TAM Airlines",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "LATAM Airlines",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          112,
+          115
+        ],
+        "text": "TAM",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          25
+        ],
+        "text": "TAM",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          17
+        ],
+        "text": "TAM",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          144,
+          150
+        ],
+        "text": "74.9 %",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          57
+        ],
+        "text": "Latin America",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          33
+        ],
+        "text": "São Paulo",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          133,
+          139
+        ],
+        "text": "Europe",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          159,
+          164
+        ],
+        "text": "North",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          169,
+          182
+        ],
+        "text": "South America",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          59
+        ],
+        "text": "São Paulo Exchange",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          62,
+          76
+        ],
+        "text": "BM&F ; Bovespa",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          83,
+          106
+        ],
+        "text": "New York Stock Exchange",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          13,
+          24
+        ],
+        "text": "August 2015",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          68
+        ],
+        "text": "Brazilian",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          53,
+          56
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          146,
+          150
+        ],
+        "text": "2018",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          30,
+          43
+        ],
+        "text": "Star Alliance",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "08",
+        "span": [
+          57,
+          65
+        ],
+        "text": "Oneworld",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "08",
+        "span": [
+          78,
+          91
+        ],
+        "text": "31 March 2014",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          78,
+          98
+        ],
+        "text": "LATAM Airlines Group",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          105,
+          110
+        ],
+        "text": "LATAM",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "06",
+        "span": [
+          91,
+          111
+        ],
+        "text": "LATAM Airlines Group",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "07",
+        "span": [
+          89,
+          94
+        ],
+        "text": "LATAM",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          35
+        ],
+        "text": "LAN Airlines",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          25,
+          28
+        ],
+        "text": "LAN",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          53,
+          67
+        ],
+        "text": "June 22 , 2012",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          64
+        ],
+        "text": "ANAC",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          47
+        ],
+        "text": "National Civil Aviation Agency",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          57
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          303,
+          309
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          36
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_3": {
+        "sentence_id": "04",
+        "span": [
+          88,
+          94
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          84
+        ],
+        "text": "January",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          89,
+          102
+        ],
+        "text": "December 2017",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          115,
+          121
+        ],
+        "text": "32.6 %",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/LATAM_Airlines_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1321868",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/LATAM_Airlines",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/LATAM%E8%88%AA%E7%A9%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/LATAM_Airlines_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1321868",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/LATAM%E8%88%AA%E7%A9%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/LATAM_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q649178",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/LAN_Airlines",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/LATAM_%E3%83%81%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Civil_Aviation_Agency_of_Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q4314917"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2",
+          "M6_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Latin_America",
+          "wikidata": "http://www.wikidata.org/entity/Q12585",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "wikidata": "http://www.wikidata.org/entity/Q174",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/São_Paulo",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%91%E3%82%A6%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_America",
+          "wikidata": "http://www.wikidata.org/entity/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_America",
+          "wikidata": "http://www.wikidata.org/entity/Q18",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/B3_(stock_exchange)",
+          "wikidata": "http://www.wikidata.org/entity/Q796297",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/BM&F_Bovespa",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%91%E3%82%A6%E3%83%AD%E8%A8%BC%E5%88%B8%E3%83%BB%E5%95%86%E5%93%81%E3%83%BB%E5%85%88%E7%89%A9%E5%8F%96%E5%BC%95%E6%89%80"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/B3_(stock_exchange)",
+          "wikidata": "http://www.wikidata.org/entity/Q796297",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/BM&F_Bovespa",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%91%E3%82%A6%E3%83%AD%E8%A8%BC%E5%88%B8%E3%83%BB%E5%95%86%E5%93%81%E3%83%BB%E5%85%88%E7%89%A9%E5%8F%96%E5%BC%95%E6%89%80"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange",
+          "wikidata": "http://www.wikidata.org/entity/Q13677",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Star_Alliance",
+          "wikidata": "http://www.wikidata.org/entity/Q189709",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oneworld",
+          "wikidata": "http://www.wikidata.org/entity/Q8787",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

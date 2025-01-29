@@ -1,0 +1,406 @@
+{
+  "0051682": {
+    "doc_info": {
+      "title": "51682_Singapore_Airlines_to_be_compensated_for_A380_delays",
+      "url": "http://en.wikinews.org/wiki/Singapore_Airlines_to_be_compensated_for_A380_delays"
+    },
+    "sentences": {
+      "00": {
+        "text": "A380遅延に対して補償されるシンガポール航空",
+        "mention_ids": [
+          "M003",
+          "M021"
+        ]
+      },
+      "01": {
+        "text": "2006 年 10 月 5 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "シンガポール航空は、同社は、新型スーパージャンボA380の納入の追加遅延について、エアバスから補償されると述べています。",
+        "mention_ids": [
+          "M006",
+          "M008",
+          "M010",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "二階建て民間航空機の納入は、当初今年後半に予定されていましたが、2007年10月まで延期される予定です。",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "04": {
+        "text": "主な障害は、航空機の500kmにわたる配線に問題があることが判明しました。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "05": {
+        "text": "エアバスのウェブサイトに掲載された声明の中で、同社は「問題の根本的な原因は、電気ハーネスの取り付け設計を容易にする3Dデジタルモックアップの実装が遅れたこと、およびそれに取り組んでいた人々が学習途上にあったこと」と述べています。",
+        "mention_ids": [
+          "M002",
+          "M017",
+          "M018",
+          "M019"
+        ],
+        "untranslated_mention_ids": [
+          "M005"
+        ]
+      },
+      "06": {
+        "text": "エアバスは現在、予定より2年遅れています。",
+        "mention_ids": [
+          "M092"
+        ]
+      },
+      "07": {
+        "text": "SIAは声明で、「遅延は残念です。飛行試験と認証プログラムは順調に進んでおり、遅延は生産上の問題によるものであるため、なおさらだ」と述べました。",
+        "mention_ids": [
+          "M111"
+        ]
+      },
+      "08": {
+        "text": "アナリストらは、賠償額は数億ドルに達する可能性があると予想しています。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "SIAは、補償の詳細については極秘にすると述べています。シンガポール航空は、A380を最初に飛ばす航空会社であり、最初の4機の航空機を受領する予定です。",
+        "mention_ids": [
+          "M081",
+          "M083",
+          "M088",
+          "M091"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "05",
+        "span": [
+          82,
+          94
+        ],
+        "text": "それに取り組んでいた人々",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M003": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "A380",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M004": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "二階建て民間航空機",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "シンガポール航空",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          12
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          45
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          28
+        ],
+        "text": "新型スーパージャンボA380",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M015": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          21
+        ],
+        "text": "航空機の500kmにわたる配線",
+        "entity_type": null,
+        "entity_id": "E052"
+      },
+      "M017": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          11
+        ],
+        "text": "エアバスのウェブサイト",
+        "entity_type": null,
+        "entity_id": "E051"
+      },
+      "M018": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          25
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M019": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          69
+        ],
+        "text": "電気ハーネスの取り付け設計を容易にする3Dデジタルモックアップ",
+        "entity_type": null,
+        "entity_id": "E127"
+      },
+      "M021": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          23
+        ],
+        "text": "シンガポール航空",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M081": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          3
+        ],
+        "text": "SIA",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M083": {
+        "sentence_id": "09",
+        "span": [
+          28,
+          36
+        ],
+        "text": "シンガポール航空",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M088": {
+        "sentence_id": "09",
+        "span": [
+          38,
+          42
+        ],
+        "text": "A380",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M091": {
+        "sentence_id": "09",
+        "span": [
+          63,
+          66
+        ],
+        "text": "航空機",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M092": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M111": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          3
+        ],
+        "text": "SIA",
+        "entity_type": null,
+        "entity_id": "E120"
+      }
+    },
+    "entities": {
+      "E051": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E052": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E071": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M070"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M010",
+          "M018",
+          "M092"
+        ],
+        "removed_mention_ids": [
+          "M009",
+          "M014"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M006",
+          "M021",
+          "M081",
+          "M083",
+          "M111"
+        ],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Singapore_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q32245",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M012",
+          "M088",
+          "M091"
+        ],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_A380",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus_A380",
+          "wikidata": "http://www.wikidata.org/entity/Q5830",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9A380"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E127": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M019",
+          "M020",
+          "M013",
+          "M016"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E129": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

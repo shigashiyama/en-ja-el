@@ -1,0 +1,445 @@
+{
+  "0122475": {
+    "doc_info": {
+      "title": "122475_US_stock_markets_have_their_best_week_since_November",
+      "url": "http://en.wikinews.org/wiki/US_stock_markets_have_their_best_week_since_November"
+    },
+    "sentences": {
+      "00": {
+        "text": "米国株式市場は11月以来のその最高の週となりました",
+        "mention_ids": [
+          "M001",
+          "M003"
+        ]
+      },
+      "01": {
+        "text": "2009年3月13日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ウォール街は4日間の上昇の後、2008年11月以来その最高の成績を収め、株式市場の指数は約5カ月ぶりにそれらの最大の週次増加を経験しました。",
+        "mention_ids": [
+          "M007",
+          "M009",
+          "M010",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "NYSEの主要指標は約10%上昇しました。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "04": {
+        "text": "これは主に、銀行株が反発し、経済に対する懸念が軽減されたことによるものです。",
+        "mention_ids": [
+          "M015",
+          "M016"
+        ]
+      },
+      "05": {
+        "text": "ダウ・ジョーンズ工業平均(INDU)は、2009年3月12日から54ポイント上昇し、7223.98で終了しました。",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "06": {
+        "text": "S&P 500指数は6ポイント上昇の756.55で終了し、ナスダック総合も5.40ポイント上昇して1431.50で引けました。",
+        "mention_ids": [
+          "M085",
+          "M088"
+        ]
+      },
+      "07": {
+        "text": "上昇相場は、シティグループからの今年最初の2カ月の利益管理についてのニュースを受けて、今週初めに始まりました。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "このニュースは、9月のリーマン・ブラザーズ破綻後に国内の大手金融機関が破綻するのではないかとの懸念を和らげました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "それらが今年利益が出たことを発表したバンク・オブ・アメリカ・コーポレーションとJPモルガン・チェース&カンパニーからの朗報がありました。",
+        "mention_ids": [
+          "M078"
+        ]
+      },
+      "10": {
+        "text": "今日は金融セクターにとってまちまちの日で、製薬会社が若干上昇し、ゼネラルモーターズとバークシャー・ハサウェイも上昇し、指数上昇に貢献しました。",
+        "mention_ids": [
+          "M072"
+        ]
+      },
+      "11": {
+        "text": "米ドルの価値は他の世界通貨に対して下落しましたが、金価格は上昇しました。",
+        "mention_ids": [
+          "M087"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "米国株式市場",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M003": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          15
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ウォール街",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          27
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          43
+        ],
+        "text": "株式市場の指数",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          55
+        ],
+        "text": "それらの",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "NYSEの主要指標",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M015": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          9
+        ],
+        "text": "銀行株",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M016": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          16
+        ],
+        "text": "経済",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M017": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ダウ・ジョーンズ工業平均",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M018": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          17
+        ],
+        "text": "INDU",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M072": {
+        "sentence_id": "10",
+        "span": [
+          32,
+          41
+        ],
+        "text": "ゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M078": {
+        "sentence_id": "09",
+        "span": [
+          18,
+          38
+        ],
+        "text": "バンク・オブ・アメリカ・コーポレーション",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M085": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          36
+        ],
+        "text": "ナスダック総合",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M087": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          3
+        ],
+        "text": "米ドル",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M088": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          9
+        ],
+        "text": "S&P 500指数",
+        "entity_type": null,
+        "entity_id": "E115"
+      }
+    },
+    "entities": {
+      "E098": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M046"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [
+          "M078"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Bank_of_America",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bank_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q487907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        }
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_dollar",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_dollar",
+          "wikidata": "http://www.wikidata.org/entity/Q4917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%83%89%E3%83%AB"
+        }
+      },
+      "E107": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E109": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange",
+          "wikidata": "http://www.wikidata.org/entity/Q13677",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80"
+        }
+      },
+      "E110": {
+        "member_mention_ids": [
+          "M010",
+          "M012"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M085"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M072"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M017",
+          "M018"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M088"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M007",
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M093"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy_of_the_United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q188540",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E7%B5%8C%E6%B8%88"
+        }
+      }
+    }
+  }
+}

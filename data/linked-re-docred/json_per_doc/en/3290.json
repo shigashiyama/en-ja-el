@@ -1,0 +1,348 @@
+{
+  "3290": {
+    "doc_info": {
+      "title": "Tonie Marshall",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Tonie Marshall ( born 29 November 1951 ) is a French American actress , screenwriter , and film director .",
+        "text": "Tonie Marshall ( born 29 November 1951 ) is a French American actress , screenwriter , and film director .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "After acting in several of Jacques Demy ’s films , including A Slightly Pregnant Man and La Naissance du Jour , Marshall cites to have taken influence from his direction in the sense of creating whimsical atmospheres and rooting the stories with more of a female - centric narrative .",
+        "text": "After acting in several of Jacques Demy ’s films , including A Slightly Pregnant Man and La Naissance du Jour , Marshall cites to have taken influence from his direction in the sense of creating whimsical atmospheres and rooting the stories with more of a female - centric narrative .",
+        "mention_ids": [
+          "M0_2",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "In her most notable film , Venus Beauty Institute , Marshall ’s touched on the theme of finding love from a female perspective , and how it can fundamentally be more difficult because of how it strays from the traditional dynamic of courtship .",
+        "text": "In her most notable film , Venus Beauty Institute , Marshall ’s touched on the theme of finding love from a female perspective , and how it can fundamentally be more difficult because of how it strays from the traditional dynamic of courtship .",
+        "mention_ids": [
+          "M0_1",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "She explains how “ in a practical sense , it ’s complicated to have abandon [ oneself ] into a man ’s arms and , at the same time , stay very tough because you have to work … ” .",
+        "text": "She explains how “ in a practical sense , it ’s complicated to have abandon [ oneself ] into a man ’s arms and , at the same time , stay very tough because you have to work … ” .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "This carefully expresses the vulnerabilities women endure when heavily committing to relationships , similar to much of Demy ’s work , including The Umbrellas of Cherbourg and The Young Girls of Rochefort .",
+        "text": "This carefully expresses the vulnerabilities women endure when heavily committing to relationships , similar to much of Demy ’s work , including The Umbrellas of Cherbourg and The Young Girls of Rochefort .",
+        "mention_ids": [
+          "M4_1",
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Tonie Marshall",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          60
+        ],
+        "text": "Marshall",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          112,
+          120
+        ],
+        "text": "Marshall",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          38
+        ],
+        "text": "29 November 1951",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          52
+        ],
+        "text": "French",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          53,
+          61
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          39
+        ],
+        "text": "Jacques Demy",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          120,
+          124
+        ],
+        "text": "Demy",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          61,
+          84
+        ],
+        "text": "A Slightly Pregnant Man",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          89,
+          109
+        ],
+        "text": "La Naissance du Jour",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          27,
+          49
+        ],
+        "text": "Venus Beauty Institute",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          145,
+          171
+        ],
+        "text": "The Umbrellas of Cherbourg",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          176,
+          204
+        ],
+        "text": "The Young Girls of Rochefort",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tonie_Marshall",
+          "wikidata": "http://www.wikidata.org/entity/Q2555171",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB"
+        },
+        "date_of_death": "2020-03-12T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jacques_Demy",
+          "wikidata": "http://www.wikidata.org/entity/Q312258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%89%E3%82%A5%E3%83%9F"
+        },
+        "date_of_death": "1990-10-27T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/A_Slightly_Pregnant_Man",
+          "wikidata": "http://www.wikidata.org/entity/Q1143361",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%91%E3%83%AA_(1973%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Venus_Beauty_Institute",
+          "wikidata": "http://www.wikidata.org/entity/Q240765"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Umbrellas_of_Cherbourg",
+          "wikidata": "http://www.wikidata.org/entity/Q163868",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%96%E3%83%BC%E3%83%AB%E3%81%AE%E9%9B%A8%E5%82%98"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Young_Girls_of_Rochefort",
+          "wikidata": "http://www.wikidata.org/entity/Q1214975",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%83%A5%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%AE%E6%81%8B%E4%BA%BA%E3%81%9F%E3%81%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

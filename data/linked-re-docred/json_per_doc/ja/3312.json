@@ -1,0 +1,565 @@
+{
+  "3312": {
+    "doc_info": {
+      "title": "Olesno County",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "オレスノ郡( )は、ポーランドの南西部、オポーレ県の領土行政および地方自治体（地区）の単位です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "1998年に可決されたポーランドの地方政府改革の結果、1999年1月1日に誕生しました。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "その行政所在地であり最大の町はオレスノで、州都オポーレの北東に位置します。",
+        "mention_ids": [
+          "M0_1",
+          "M1_1"
+        ]
+      },
+      "03": {
+        "text": "この郡には他に3の町が含まれています：オレスノの北にあるプラーシュカ、オレスノの南にあるドブロジエン、オレノの北にあるゴルツォフ・シレジア。",
+        "mention_ids": [
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M6_0",
+          "M7_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "この郡の面積は973.62平方キロメートル(375.9平方マイル)です。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "2006年の時点で、その総人口は68,269人で、そのうちオレノの人口は10,106人、プラーシュカのそれは8,230人、ドブロジエンのそれは4,168人、ゴジュフ・シロンスキのそれは2,606人、地方の人口は43,159人です。",
+        "mention_ids": [
+          "M0_5",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M7_0",
+          "M8_1",
+          "M9_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "オレスノ郡",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          19
+        ],
+        "text": "オレスノ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          23
+        ],
+        "text": "オレスノ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          35,
+          39
+        ],
+        "text": "オレスノ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          54
+        ],
+        "text": "オレノ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          32
+        ],
+        "text": "オレノ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          23
+        ],
+        "text": "68,269人",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          43
+        ],
+        "text": "10,106人",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          54,
+          60
+        ],
+        "text": "8,230人",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          71,
+          77
+        ],
+        "text": "4,168人",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          98
+        ],
+        "text": "2,606人",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          105,
+          112
+        ],
+        "text": "43,159人",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          25
+        ],
+        "text": "オポーレ県",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          27
+        ],
+        "text": "オポーレ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          15
+        ],
+        "text": "ポーランド",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          36
+        ],
+        "text": "1999年1月1日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          17
+        ],
+        "text": "ポーランドの",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1998年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          8
+        ],
+        "text": "3",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          44,
+          50
+        ],
+        "text": "プラーシュカ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          34
+        ],
+        "text": "プラーシュカ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          50
+        ],
+        "text": "ドブロジエン",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          67
+        ],
+        "text": "ドブロジエン",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          59,
+          69
+        ],
+        "text": "ゴルツォフ・シレジア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "05",
+        "span": [
+          78,
+          88
+        ],
+        "text": "ゴジュフ・シロンスキ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olesno_County",
+          "wikidata": "http://www.wikidata.org/entity/Q462006"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Opole_County,_Opole_Voivodeship",
+          "wikidata": "http://www.wikidata.org/entity/Q462066",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Opole_County"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poland",
+          "wikidata": "http://www.wikidata.org/entity/Q36",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poland",
+          "wikidata": "http://www.wikidata.org/entity/Q36",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Praszka",
+          "wikidata": "http://www.wikidata.org/entity/Q569938"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dobrodzie%C5%84",
+          "wikidata": "http://www.wikidata.org/entity/Q1780345",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dobrodzień"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gorz%C3%B3w_%C5%9Al%C4%85ski",
+          "wikidata": "http://www.wikidata.org/entity/Q995828",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Gorzów_Śląski"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "3446": {
+    "doc_info": {
+      "title": "Shire of Murray",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Shire of Murray is a local government area of Western Australia .",
+        "text": "The Shire of Murray is a local government area of Western Australia .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It has an area of and is located in the Peel Region about south of the Perth central business district .",
+        "text": "It has an area of and is located in the Peel Region about south of the Perth central business district .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The Shire extends across the Peel Inlet and the Swan Coastal Plain into the Darling Scarp , including about of State forests .",
+        "text": "The Shire extends across the Peel Inlet and the Swan Coastal Plain into the Darling Scarp , including about of State forests .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Timber logging and agriculture were the traditional enterprises of the district .",
+        "text": "Timber logging and agriculture were the traditional enterprises of the district .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "However , in recent decades , bauxite mining and a significant equine and tourism industry have emerged .",
+        "text": "However , in recent decades , bauxite mining and a significant equine and tourism industry have emerged .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "The Murray River flows all year throughout the district .",
+        "text": "The Murray River flows all year throughout the district .",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "It offers premier country racing and trotting facilities , a golf course and an array of festivals and events .",
+        "text": "It offers premier country racing and trotting facilities , a golf course and an array of festivals and events .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The Shire is centred on the town of Pinjarra , one of the oldest towns in Western Australia where a number of 19th - century mud brick buildings are still in use today .",
+        "text": "The Shire is centred on the town of Pinjarra , one of the oldest towns in Western Australia where a number of 19th - century mud brick buildings are still in use today .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M1_1",
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          19
+        ],
+        "text": "Shire of Murray",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          44
+        ],
+        "text": "Pinjarra",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          110,
+          124
+        ],
+        "text": "19th - century",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          67
+        ],
+        "text": "Western Australia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          74,
+          91
+        ],
+        "text": "Western Australia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          51
+        ],
+        "text": "Peel Region",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          71,
+          76
+        ],
+        "text": "Perth",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          9
+        ],
+        "text": "Shire",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          9
+        ],
+        "text": "Shire",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          39
+        ],
+        "text": "Peel Inlet",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          66
+        ],
+        "text": "Swan Coastal Plain",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          76,
+          89
+        ],
+        "text": "Darling Scarp",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          111,
+          124
+        ],
+        "text": "State forests",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          16
+        ],
+        "text": "Murray River",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shire_of_Murray",
+          "wikidata": "http://www.wikidata.org/entity/Q1647630"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Western_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q3206",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Regional_Municipality_of_Peel",
+          "wikidata": "http://www.wikidata.org/entity/Q50811",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%AB%E5%9C%B0%E5%9F%9F_(%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_of_Perth",
+          "wikidata": "http://www.wikidata.org/entity/Q1855330"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shire_of_Murray",
+          "wikidata": "http://www.wikidata.org/entity/Q1647630"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swan_Coastal_Plain",
+          "wikidata": "http://www.wikidata.org/entity/Q1516670"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Darling_Scarp",
+          "wikidata": "http://www.wikidata.org/entity/Q1166369",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E5%B4%96"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/State_forest",
+          "wikidata": "http://www.wikidata.org/entity/Q2324919"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Murray_River_(Western_Australia)",
+          "wikidata": "http://www.wikidata.org/entity/Q1225655"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pinjarra,_Western_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q1004830"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

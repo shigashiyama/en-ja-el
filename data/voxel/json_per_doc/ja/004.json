@@ -1,0 +1,320 @@
+{
+  "004": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/cartoon/5047038-comfortably-numb"
+    },
+    "sentences": {
+      "00": {
+        "text": "2月2日、デヴィッド・キャメロンと欧州理事会議長ドナルド・トゥスクは、英国首相が今年後半に実施される国民投票で英国をEUに残留させるためのキャンペーンを行うことを可能にするプロジェクト和解に合意しました。",
+        "mention_ids": [
+          "M054",
+          "M055",
+          "M056",
+          "M057"
+        ]
+      },
+      "01": {
+        "text": "この計画はキャメロンの要求に応えるもので、すでにEU条約からいくつかの例外を享受している英国に対し、EU労働者に対する社会保障の段階的なブレーキおよび英国国外に住むEU労働者の子供のための削減を提案するものです。",
+        "mention_ids": [
+          "M058",
+          "M059",
+          "M060",
+          "M061",
+          "M062"
+        ]
+      },
+      "02": {
+        "text": "この協定はまた、「ますます緊密な連合」に関する条約の言及は「政治的統合の目的と同等ではない」とも述べています。",
+        "mention_ids": [
+          "M063"
+        ]
+      },
+      "03": {
+        "text": "この協定は、2月18日に始まるEU首脳会議で合意される必要があります。",
+        "mention_ids": [
+          "M064"
+        ]
+      }
+    },
+    "mentions": {
+      "M054": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          16
+        ],
+        "text": "デヴィッド・キャメロン",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M055": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          33
+        ],
+        "text": "ドナルド・トゥスク",
+        "entity_type": null,
+        "entity_id": "E055"
+      },
+      "M056": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          57
+        ],
+        "text": "英国",
+        "entity_type": null,
+        "entity_id": "E056"
+      },
+      "M057": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          60
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E057"
+      },
+      "M058": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "キャメロン",
+        "entity_type": null,
+        "entity_id": "E058"
+      },
+      "M059": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          26
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E059"
+      },
+      "M060": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          52
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E060"
+      },
+      "M061": {
+        "sentence_id": "01",
+        "span": [
+          82,
+          84
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E061"
+      },
+      "M062": {
+        "sentence_id": "01",
+        "span": [
+          75,
+          77
+        ],
+        "text": "英国",
+        "entity_type": null,
+        "entity_id": "E062"
+      },
+      "M063": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          18
+        ],
+        "text": "連合",
+        "entity_type": null,
+        "entity_id": "E063"
+      },
+      "M064": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          17
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E064"
+      }
+    },
+    "entities": {
+      "E054": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Cameron",
+          "wikidata": "http://www.wikidata.org/entity/Q192",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3"
+        }
+      },
+      "E055": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk",
+          "wikidata": "http://www.wikidata.org/entity/Q946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%82%A5%E3%82%B9%E3%82%AF"
+        }
+      },
+      "E056": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E057": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E058": {
+        "member_mention_ids": [
+          "M058"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Cameron",
+          "wikidata": "http://www.wikidata.org/entity/Q192",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3"
+        }
+      },
+      "E059": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E060": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E061": {
+        "member_mention_ids": [
+          "M061"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E062": {
+        "member_mention_ids": [
+          "M062"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Great_Britain",
+          "wikidata": "http://www.wikidata.org/entity/Q23666",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%96%E3%83%AA%E3%83%86%E3%83%B3%E5%B3%B6"
+        }
+      },
+      "E063": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Union",
+          "wikidata": "http://www.wikidata.org/entity/Q227388",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF)"
+        }
+      },
+      "E064": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      }
+    }
+  }
+}

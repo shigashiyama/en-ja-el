@@ -1,0 +1,592 @@
+{
+  "3409": {
+    "doc_info": {
+      "title": "Word to the Mutha!",
+      "url": null
+    },
+    "sentences": {
+      "00-01": {
+        "orig_text": "\" Word to the Mutha ! \" is a song co - written and performed by American contemporary R&B ; group Bell Biv DeVoe .",
+        "text": "\" Word to the Mutha ! \" is a song co - written and performed by American contemporary R&B ; group Bell Biv DeVoe .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02-03": {
+        "text": "It originally appeared on their debut studio album Poison under the title \" Ronnie , Bobby , Ricky , Mike , Ralph and Johnny ( Word to the Mutha ) !\" , but the title was shortened and a remixed version of the song was issued as the only official single from the group \\'s remix album. The song features vocals from ■■■■■■■■■■■ , ■■■■■■■■■■■■■■ and ■■■■■■■■■■■ ; and it was the first recorded song to feature all six members of New Edition ; although ■■■■■ , ■■■■■■■■ and ■■■■ are credited separately on the single rather than collectively as New Edition .",
+        "mention_ids": [
+          "M0_0",
+          "M0_2",
+          "M4_0",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M6_1",
+          "M7_0",
+          "M7_2",
+          "M8_0",
+          "M9_0",
+          "M9_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The song samples \" A Star in the Ghetto \" by Average White Band and \" The Jam \" by Graham Central Station .",
+        "text": "The song samples \" A Star in the Ghetto \" by Average White Band and \" The Jam \" by Graham Central Station .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "05": {
+        "text": "A music video was filmed in and around the Roxbury Housing Projects in Boston , where five of the six ( excluding ■■■■■■■■■■■ ) New Edition members grew up .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M7_1",
+          "M8_1",
+          "M9_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02-03",
+        "span": [
+          127,
+          144
+        ],
+        "text": "Word to the Mutha",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00-01",
+        "span": [
+          2,
+          21
+        ],
+        "text": "Word to the Mutha !",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02-03",
+        "span": [
+          76,
+          124
+        ],
+        "text": "Ronnie , Bobby , Ricky , Mike , Ralph and Johnny",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          39
+        ],
+        "text": "A Star in the Ghetto",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          63
+        ],
+        "text": "Average White Band",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          70,
+          77
+        ],
+        "text": "The Jam",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          83,
+          105
+        ],
+        "text": "Graham Central Station",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          43,
+          67
+        ],
+        "text": "Roxbury Housing Projects",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          71,
+          77
+        ],
+        "text": "Boston",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          86,
+          90
+        ],
+        "text": "five",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00-01",
+        "span": [
+          64,
+          72
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00-01",
+        "span": [
+          86,
+          89
+        ],
+        "text": "R&B",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00-01",
+        "span": [
+          98,
+          112
+        ],
+        "text": "Bell Biv DeVoe",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02-03",
+        "span": [
+          51,
+          57
+        ],
+        "text": "Poison",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02-03",
+        "span": [
+          315,
+          326
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02-03",
+        "span": [
+          450,
+          455
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02-03",
+        "span": [
+          329,
+          343
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02-03",
+        "span": [
+          458,
+          466
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02-03",
+        "span": [
+          348,
+          359
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "05",
+        "span": [
+          114,
+          125
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "02-03",
+        "span": [
+          471,
+          475
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02-03",
+        "span": [
+          412,
+          415
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          98,
+          101
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02-03",
+        "span": [
+          542,
+          553
+        ],
+        "text": "New Edition",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "02-03",
+        "span": [
+          427,
+          438
+        ],
+        "text": "New Edition",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      },
+      "M9_2": {
+        "sentence_id": "05",
+        "span": [
+          128,
+          139
+        ],
+        "text": "New Edition",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Word_to_the_Mutha!",
+          "wikidata": "http://www.wikidata.org/entity/Q19881908"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+          "wikidata": "http://www.wikidata.org/entity/Q45981",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bell_Biv_DeVoe",
+          "wikidata": "http://www.wikidata.org/entity/Q2894589",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%BB%E3%83%93%E3%83%B4%E3%83%BB%E3%83%87%E3%83%B4%E3%82%A9%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poison_(Bell_Biv_DeVoe_album)",
+          "wikidata": "http://www.wikidata.org/entity/Q7208441"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bobby_Brown",
+          "wikidata": "http://www.wikidata.org/entity/Q311241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%93%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ralph_Tresvant",
+          "wikidata": "http://www.wikidata.org/entity/Q3242577"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Johnny_Gill",
+          "wikidata": "http://www.wikidata.org/entity/Q2393563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AE%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1",
+          "M9_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Edition",
+          "wikidata": "http://www.wikidata.org/entity/Q1370588",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Average_White_Band",
+          "wikidata": "http://www.wikidata.org/entity/Q583556",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A7%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%90%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Graham_Central_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q3296741",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%BB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boston_Housing_Authority",
+          "wikidata": "http://www.wikidata.org/entity/Q4947938"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boston",
+          "wikidata": "http://www.wikidata.org/entity/Q100",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

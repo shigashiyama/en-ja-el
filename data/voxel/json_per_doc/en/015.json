@@ -1,0 +1,218 @@
+{
+  "015": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/4853915-silent-revolution-ttip"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The silent revolution of the TTIP.",
+        "text": "The silent revolution of the TTIP.",
+        "mention_ids": []
+      },
+      "01": {
+        "orig_text": " “Organizations are attacking the European Commission, which they accuse of stifling the voices, and protesting the agreement with the United States,” reports i.",
+        "text": "“Organizations are attacking the European Commission, which they accuse of stifling the voices, and protesting the agreement with the United States,” reports i.",
+        "mention_ids": [
+          "M198",
+          "M199",
+          "M200"
+        ]
+      },
+      "02": {
+        "orig_text": "The Transatlantic Trade and Investment Partnership (TTIP in English) is a commercial agreement under negotiation between the EU and the US would “harmonise laws on both sides of the Atlantic ocean to allow major European and American companies to invest and increase their profits on a larger market”, writes the paper.",
+        "text": "The Transatlantic Trade and Investment Partnership (TTIP in English) is a commercial agreement under negotiation between the EU and the US, and it would “harmonise laws on both sides of the Atlantic ocean to allow major European and American companies to invest and increase their profits on a larger market”, writes the paper.",
+        "mention_ids": [
+          "M201",
+          "M202",
+          "M203"
+        ]
+      },
+      "03": {
+        "orig_text": "Against the Brussels blockade, launched a petition that has racked up more than 850,000 signatures against TTIP in less than a month.",
+        "text": "Against the Brussels blockade, launched a petition that has racked up more than 850,000 signatures against TTIP in less than a month.",
+        "mention_ids": [
+          "M204"
+        ]
+      }
+    },
+    "mentions": {
+      "M198": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          52
+        ],
+        "text": "European Commission",
+        "entity_type": null,
+        "entity_id": "E198"
+      },
+      "M199": {
+        "sentence_id": "01",
+        "span": [
+          134,
+          147
+        ],
+        "text": "United States",
+        "entity_type": null,
+        "entity_id": "E199"
+      },
+      "M200": {
+        "sentence_id": "01",
+        "span": [
+          158,
+          159
+        ],
+        "text": "i",
+        "entity_type": null,
+        "entity_id": "E200"
+      },
+      "M201": {
+        "sentence_id": "02",
+        "span": [
+          125,
+          127
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E201"
+      },
+      "M202": {
+        "sentence_id": "02",
+        "span": [
+          136,
+          138
+        ],
+        "text": "US",
+        "entity_type": null,
+        "entity_id": "E202"
+      },
+      "M203": {
+        "sentence_id": "02",
+        "span": [
+          190,
+          204
+        ],
+        "text": "Atlantic ocean",
+        "entity_type": null,
+        "entity_id": "E203"
+      },
+      "M204": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          20
+        ],
+        "text": "Brussels",
+        "entity_type": null,
+        "entity_id": "E204"
+      }
+    },
+    "entities": {
+      "E198": {
+        "member_mention_ids": [
+          "M198"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://es.wikipedia.org/wiki/Comisi%C3%B3n_Europea",
+          "en.wikipedia:orig_invalid": "https://es.wikipedia.org/wiki/Comisi%C3%B3n_Europea"
+        }
+      },
+      "E199": {
+        "member_mention_ids": [
+          "M199"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E200": {
+        "member_mention_ids": [
+          "M200"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_i_Paper",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/I_(newspaper)",
+          "wikidata": "http://www.wikidata.org/entity/Q1943651"
+        }
+      },
+      "E201": {
+        "member_mention_ids": [
+          "M201"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E202": {
+        "member_mention_ids": [
+          "M202"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E203": {
+        "member_mention_ids": [
+          "M203"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q97",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B"
+        }
+      },
+      "E204": {
+        "member_mention_ids": [
+          "M204"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brussels",
+          "wikidata": "http://www.wikidata.org/entity/Q240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
+        }
+      }
+    }
+  }
+}

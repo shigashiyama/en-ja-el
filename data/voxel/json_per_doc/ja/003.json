@@ -1,0 +1,242 @@
+{
+  "003": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/431181-muzzled-voice-cuba"
+    },
+    "sentences": {
+      "00": {
+        "text": "キューバのくぐもった声。",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "01": {
+        "text": "欧州議会での2010年サハロフ賞授賞式の翌日、ガゼタ・ヴィボルツァは『ファリーニャスのための空の椅子』と見出しを付けました。",
+        "mention_ids": [
+          "M047",
+          "M048",
+          "M049",
+          "M050"
+        ]
+      },
+      "02": {
+        "text": "この賞はキューバ当局によってストラスブールへの渡航を禁止されたキューバの反体制派ギレルモ・ファリーニャスに贈られました。",
+        "mention_ids": [
+          "M051",
+          "M052"
+        ]
+      },
+      "03": {
+        "text": "そのため、キューバ国旗で覆われた彼の椅子は式典中空席のままでした。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "彼はまた闘争を継続すると誓約し、昨年1月、ファリーニャスは42人のキューバ野党議員の釈放を得るために135日間のハンガーストライキを行いました。",
+        "mention_ids": [
+          "M053"
+        ]
+      }
+    },
+    "mentions": {
+      "M046": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "キューバ",
+        "entity_type": null,
+        "entity_id": "E046"
+      },
+      "M047": {
+        "sentence_id": "01",
+        "span": [
+          35,
+          42
+        ],
+        "text": "ファリーニャス",
+        "entity_type": null,
+        "entity_id": "E047"
+      },
+      "M048": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          33
+        ],
+        "text": "ガゼタ・ヴィボルツァ",
+        "entity_type": null,
+        "entity_id": "E048"
+      },
+      "M049": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          16
+        ],
+        "text": "サハロフ賞",
+        "entity_type": null,
+        "entity_id": "E049"
+      },
+      "M050": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "欧州議会",
+        "entity_type": null,
+        "entity_id": "E050"
+      },
+      "M051": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          52
+        ],
+        "text": "ギレルモ・ファリーニャス",
+        "entity_type": null,
+        "entity_id": "E051"
+      },
+      "M052": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          21
+        ],
+        "text": "ストラスブール",
+        "entity_type": null,
+        "entity_id": "E052"
+      },
+      "M053": {
+        "sentence_id": "04",
+        "span": [
+          21,
+          28
+        ],
+        "text": "ファリーニャス",
+        "entity_type": null,
+        "entity_id": "E053"
+      }
+    },
+    "entities": {
+      "E046": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cuba",
+          "wikidata": "http://www.wikidata.org/entity/Q241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+        }
+      },
+      "E047": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      },
+      "E048": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gazeta_Wyborcza",
+          "wikidata": "http://www.wikidata.org/entity/Q741296"
+        }
+      },
+      "E049": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sakharov_Prize",
+          "wikidata": "http://www.wikidata.org/entity/Q48786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8F%E3%83%AD%E3%83%95%E8%B3%9E"
+        }
+      },
+      "E050": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Parliament",
+          "wikidata": "http://www.wikidata.org/entity/Q8889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E8%AD%B0%E4%BC%9A"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      },
+      "E052": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Strasbourg",
+          "wikidata": "http://www.wikidata.org/entity/Q6602",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%B9%E3%83%96%E3%83%BC%E3%83%AB"
+        }
+      },
+      "E053": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guillermo_Fari%C3%B1as",
+          "wikidata": "http://www.wikidata.org/entity/Q362274"
+        }
+      }
+    }
+  }
+}

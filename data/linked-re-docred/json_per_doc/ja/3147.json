@@ -1,0 +1,804 @@
+{
+  "3147": {
+    "doc_info": {
+      "title": "Elias Brown",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "イライアス・ブラウン(1793年5月9日-1857年7月7日)は、メリーランド州の米国下院議員でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "ボルチモア、メリーランドの近くで生まれたブラウンは、普通学校に通いました。",
+        "mention_ids": [
+          "M0_2",
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "彼は、1820年にはジェームズ・モンローとダニエル・トンプキンズの応援で、1828年にはジョン・クインシー・アダムズとリチャード・ラッシュの応援で大統領選挙人を務めました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ブラウンは、1829年3月4日から1831年3月3日まで務めた第21回議会のジャクソン派として選出されました。",
+        "mention_ids": [
+          "M0_1",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "text": "彼はまた、1834年と1835年にメリーランド州下院議員を務め、1836年から1838年までメリーランド州上院議員を務めました。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "05": {
+        "text": "1836年、彼はウィリアム・ハリソンとジョン・タイラーの応援で大統領選挙人を務め、同年の国家憲法制定会議の代議員を務めました。",
+        "mention_ids": [
+          "M20_1",
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "06": {
+        "text": "彼はメリーランド州のボルチモア近くで死亡し、メリーランド州のエルダーバーグ近くの個人墓地に埋葬されています。",
+        "mention_ids": [
+          "M25_0",
+          "M4_2",
+          "M4_3",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "イライアス・ブラウン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ブラウン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          24
+        ],
+        "text": "ブラウン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          59,
+          69
+        ],
+        "text": "リチャード・ラッシュ",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          42
+        ],
+        "text": "1828年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          44
+        ],
+        "text": "ジャクソン派",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          37
+        ],
+        "text": "第21回議会",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          15
+        ],
+        "text": "1829年3月4日",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          26
+        ],
+        "text": "1831年3月3日",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          26
+        ],
+        "text": "メリーランド州下院",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          10
+        ],
+        "text": "1834年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "1835年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          46,
+          55
+        ],
+        "text": "メリーランド州上院",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          20
+        ],
+        "text": "1793年5月9日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          37
+        ],
+        "text": "1836年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1836年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          44
+        ],
+        "text": "1838年",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          18
+        ],
+        "text": "ウィリアム・ハリソン",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          27
+        ],
+        "text": "ジョン・タイラー",
+        "entity_type": "PER",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "05",
+        "span": [
+          44,
+          46
+        ],
+        "text": "国家",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          30,
+          37
+        ],
+        "text": "エルダーバーグ",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          30
+        ],
+        "text": "1857年7月7日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          43
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          40
+        ],
+        "text": "メリーランド州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          12
+        ],
+        "text": "メリーランド",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          9
+        ],
+        "text": "メリーランド州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          29
+        ],
+        "text": "メリーランド州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボルチモア",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          15
+        ],
+        "text": "ボルチモア",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          20
+        ],
+        "text": "ジェームズ・モンロー",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          32
+        ],
+        "text": "ダニエル・トンプキンズ",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          8
+        ],
+        "text": "1820年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          58
+        ],
+        "text": "ジョン・クインシー・アダムズ",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elias_Brown",
+          "wikidata": "http://www.wikidata.org/entity/Q1726909"
+        },
+        "date_of_death": "1857-07-07T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q11701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8B%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland",
+          "wikidata": "http://www.wikidata.org/entity/Q1391",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltimore",
+          "wikidata": "http://www.wikidata.org/entity/Q5092",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Baltimore,_Maryland",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%81%E3%83%A2%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
+          "wikidata": "http://www.wikidata.org/entity/Q11815",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%AD%E3%83%BC"
+        },
+        "date_of_death": "1831-07-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Daniel_D._Tompkins",
+          "wikidata": "http://www.wikidata.org/entity/Q223545",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%BA"
+        },
+        "date_of_death": "1825-06-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+          "wikidata": "http://www.wikidata.org/entity/Q11816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%AF%E3%82%A3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
+        },
+        "date_of_death": "1848-02-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Richard_Rush",
+          "wikidata": "http://www.wikidata.org/entity/Q942844",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5_(%E6%94%BF%E6%B2%BB%E5%AE%B6)"
+        },
+        "date_of_death": "1859-07-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jacksonian_democracy",
+          "wikidata": "http://www.wikidata.org/entity/Q1040924",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E6%B5%81%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/21st_United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q4631174"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland_House_of_Delegates",
+          "wikidata": "http://www.wikidata.org/entity/Q165752"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q1494656"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+          "wikidata": "http://www.wikidata.org/entity/Q11869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3"
+        },
+        "date_of_death": "1841-04-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Tyler",
+          "wikidata": "http://www.wikidata.org/entity/Q11881",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC"
+        },
+        "date_of_death": "1862-01-18T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/State_(polity)",
+          "wikidata": "http://www.wikidata.org/entity/Q7275",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eldersburg,_Maryland",
+          "wikidata": "http://www.wikidata.org/entity/Q754876"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

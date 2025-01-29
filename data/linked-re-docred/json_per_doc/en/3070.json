@@ -1,0 +1,468 @@
+{
+  "3070": {
+    "doc_info": {
+      "title": "Low Pass, Oregon",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Low Pass is an unincorporated community in Lane County , Oregon , United States , on the Long Tom River , east of Blachly and west of Cheshire .",
+        "text": "Low Pass is an unincorporated community in Lane County , Oregon , United States , on the Long Tom River , east of Blachly and west of Cheshire .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The settlement is centered on a small pullout on Oregon Route 36 with a gas station / convenience store and a diner that serves as an unofficial community center for rural residents .",
+        "text": "The settlement is centered on a small pullout on Oregon Route 36 with a gas station / convenience store and a diner that serves as an unofficial community center for rural residents .",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The nearest recycling & waste facility is the Low Pass Transfer Station",
+        "text": "The nearest recycling & waste facility is the Low Pass Transfer Station",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The settlement is named for its location on a slight rise approaching the foothills of the Coast Range mountains , in contrast to the nearby mountain pass High Pass .",
+        "text": "The settlement is named for its location on a slight rise approaching the foothills of the Coast Range mountains , in contrast to the nearby mountain pass High Pass .",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Much of the land west of Low Pass consists of old - growth forest owned by the Bureau of Land Management .",
+        "text": "Much of the land west of Low Pass consists of old - growth forest owned by the Bureau of Land Management .",
+        "mention_ids": [
+          "M0_0",
+          "M11_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The community has also been known as \" Long Tom Station \" after the nearby river ; the name Low Pass was made official by a United States Board on Geographic Names decision of 1985 .",
+        "text": "The community has also been known as \" Long Tom Station \" after the nearby river ; the name Low Pass was made official by a United States Board on Geographic Names decision of 1985 .",
+        "mention_ids": [
+          "M0_2",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          33
+        ],
+        "text": "Low Pass",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Low Pass",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          100
+        ],
+        "text": "Low Pass",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          155,
+          164
+        ],
+        "text": "High Pass",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          79,
+          104
+        ],
+        "text": "Bureau of Land Management",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          55
+        ],
+        "text": "Long Tom Station",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          124,
+          163
+        ],
+        "text": "United States Board on Geographic Names",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          176,
+          180
+        ],
+        "text": "1985",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          54
+        ],
+        "text": "Lane County",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          63
+        ],
+        "text": "Oregon",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          79
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          89,
+          103
+        ],
+        "text": "Long Tom River",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          114,
+          121
+        ],
+        "text": "Blachly",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          134,
+          142
+        ],
+        "text": "Cheshire",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          64
+        ],
+        "text": "Oregon Route 36",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          71
+        ],
+        "text": "Low Pass Transfer Station",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          91,
+          102
+        ],
+        "text": "Coast Range",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Low_Pass,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q11034239"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lane_County,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q495409",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%83%B3%E9%83%A1_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Tom_River",
+          "wikidata": "http://www.wikidata.org/entity/Q14709049"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Blachly,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q10981444"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cheshire,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q3478112"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon_Route_36",
+          "wikidata": "http://www.wikidata.org/entity/Q2494416"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Oregon_Coast_Range",
+          "wikidata": "http://www.wikidata.org/entity/Q5061556"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/High_Pass_(Oregon)",
+          "wikidata": "http://www.wikidata.org/entity/Q14708897"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bureau_of_Land_Management",
+          "wikidata": "http://www.wikidata.org/entity/Q1010556"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Board_on_Geographic_Names",
+          "wikidata": "http://www.wikidata.org/entity/Q1148422",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%9C%B0%E5%90%8D%E5%A7%94%E5%93%A1%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

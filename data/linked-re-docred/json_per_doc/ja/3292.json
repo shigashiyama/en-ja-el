@@ -1,0 +1,552 @@
+{
+  "3292": {
+    "doc_info": {
+      "title": "Joh Keun-shik",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■（1968年生まれ）は、韓国の映画監督、脚本家です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "■■は、創造的で興味深いコメディであり、興行的にもヒットした『品行ゼロ』（2002年）でデビューしました。",
+        "mention_ids": [
+          "M0_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "彼の2番目の長編『夏物語』（2006年）は、彼のノスタルジーと監督することに対する温かいアプローチを示しており、2007年の第15回春史映画芸術賞で、最優秀作品賞、最優秀監督賞、助演男優賞（■■■■■が受賞）を獲得しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "彼の最新作は、韓国-中国のロマンティック・コメディ『もっと猟奇的な彼女』（2016年）で、これは『猟奇的な彼女』（2001年）の続編で、■■■■■■■も男性主人公として主演しました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M2_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          95,
+          100
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          62,
+          73
+        ],
+        "text": "第15回春史映画芸術賞",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          56,
+          61
+        ],
+        "text": "2007年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          12
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          35
+        ],
+        "text": "もっと猟奇的な彼女",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          42
+        ],
+        "text": "2016年",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          49,
+          55
+        ],
+        "text": "猟奇的な彼女",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          57,
+          62
+        ],
+        "text": "2001年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          75
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          13
+        ],
+        "text": "1968年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          21
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          9
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          35
+        ],
+        "text": "品行ゼロ",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          42
+        ],
+        "text": "2002年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          12
+        ],
+        "text": "夏物語",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          19
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          81
+        ],
+        "text": "最優秀作品賞",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          88
+        ],
+        "text": "最優秀監督賞",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          89,
+          94
+        ],
+        "text": "助演男優賞",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joh_Keun-shik",
+          "wikidata": "http://www.wikidata.org/entity/Q28031232"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Conduct_Zero",
+          "wikidata": "http://www.wikidata.org/entity/Q625207"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Once_in_a_Summer",
+          "wikidata": "http://www.wikidata.org/entity/Q7091940",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E7%89%A9%E8%AA%9E_(2006%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture",
+          "wikidata": "http://www.wikidata.org/entity/Q102427",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E4%BD%9C%E5%93%81%E8%B3%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Director",
+          "wikidata": "http://www.wikidata.org/entity/Q103360",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E7%9B%A3%E7%9D%A3%E8%B3%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor",
+          "wikidata": "http://www.wikidata.org/entity/Q106291",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E5%8A%A9%E6%BC%94%E7%94%B7%E5%84%AA%E8%B3%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oh_Dal-su",
+          "wikidata": "http://www.wikidata.org/entity/Q483575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BB%E3%83%80%E3%83%AB%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chunsa_Film_Art_Awards",
+          "wikidata": "http://www.wikidata.org/entity/Q5116459",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%8F%B2%E5%A4%A7%E8%B3%9E%E6%98%A0%E7%94%BB%E7%A5%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/My_New_Sassy_Girl",
+          "wikidata": "http://www.wikidata.org/entity/Q18589013",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A3%E3%81%A8%E7%8C%9F%E5%A5%87%E7%9A%84%E3%81%AA%E5%BD%BC%E5%A5%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/My_Sassy_Girl",
+          "wikidata": "http://www.wikidata.org/entity/Q483166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%8C%9F%E5%A5%87%E7%9A%84%E3%81%AA%E5%BD%BC%E5%A5%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cha_Tae-hyun",
+          "wikidata": "http://www.wikidata.org/entity/Q483704",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BB%E3%83%86%E3%83%92%E3%83%A7%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

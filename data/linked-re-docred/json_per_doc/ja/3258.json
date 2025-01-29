@@ -1,0 +1,550 @@
+{
+  "3258": {
+    "doc_info": {
+      "title": "John Eudes",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "聖ヨハネ・ユード(1601年11月14日-1680年8月19日)は、フランス人のローマカトリックの司祭であり、ユード会と愛徳の聖母修道会の両方の創設者でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "ユーデスは聖なる心の熱心な支持者であり、その推進と祝賀に尽力しました。彼が両方の聖なる心のために編纂したミサ曲は、後に両方とも彼の生涯で初めて唱えられました。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M10_1",
+          "M11_0"
+        ]
+      },
+      "03": {
+        "text": "彼は、パリやベルサイユを含むフランス全土で宣教を行い、同時に人気の伝道者として、また求められた告白者、説教者としても知られるようになりました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "04": {
+        "text": "ユーデス神父も多作の作家であり、聖心について執筆する一方、■■への全面的な支援を支持してヤンセニストを非難しました。",
+        "mention_ids": [
+          "M0_2",
+          "M10_2",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "text": "ユーデスは1925年半ばに聖人として列聖され、現在、彼を教会博士に任命する動きがあります。",
+        "mention_ids": [
+          "M0_3",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "聖ヨハネ・ユード",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ユーデス",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ユーデス",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ユーデス",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          9
+        ],
+        "text": "聖なる心",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          44
+        ],
+        "text": "聖なる心",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M10_2": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          18
+        ],
+        "text": "聖心",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          55
+        ],
+        "text": "ミサ曲",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          18
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          5
+        ],
+        "text": "パリ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "ベルサイユ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          50
+        ],
+        "text": "ヤンセニスト",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          29,
+          31
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          12
+        ],
+        "text": "1925年半ば",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          20
+        ],
+        "text": "1601年11月14日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          31
+        ],
+        "text": "1680年8月19日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          39
+        ],
+        "text": "フランス人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          40,
+          48
+        ],
+        "text": "ローマカトリック",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          59
+        ],
+        "text": "ユード会",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          60,
+          68
+        ],
+        "text": "愛徳の聖母修道会",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Eudes",
+          "wikidata": "http://www.wikidata.org/entity/Q441714"
+        },
+        "date_of_death": "1680-08-19T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/French_people",
+          "wikidata": "http://www.wikidata.org/entity/Q121842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E4%BA%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Catholic_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q9592",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Roman_Catholic_Church",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%95%99%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Congregation_of_Jesus_and_Mary",
+          "wikidata": "http://www.wikidata.org/entity/Q915642"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Order_of_Our_Lady_of_Charity",
+          "wikidata": "http://www.wikidata.org/entity/Q1136067"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oratory_of_Jesus",
+          "wikidata": "http://www.wikidata.org/entity/Q2278654"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary",
+          "wikidata": "http://www.wikidata.org/entity/Q748124",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%81%96%E6%AF%8D%E3%83%9E%E3%83%AA%E3%82%A2%E3%81%AE%E6%B1%9A%E3%82%8C%E3%81%AA%E3%81%8D%E3%81%BF%E5%BF%83"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M10_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sacred_Heart",
+          "wikidata": "http://www.wikidata.org/entity/Q408284",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%81%96%E5%BF%83"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mass_in_the_Catholic_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q132612",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Mass_(liturgy)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B5"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+          "wikidata": "http://www.wikidata.org/entity/Q2946",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Versailles",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A7%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%A6%E5%AE%AE%E6%AE%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jansenism",
+          "wikidata": "http://www.wikidata.org/entity/Q1287",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Jansenists",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%8B%E3%82%B9%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pope",
+          "wikidata": "http://www.wikidata.org/entity/Q19546",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%95%99%E7%9A%87"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

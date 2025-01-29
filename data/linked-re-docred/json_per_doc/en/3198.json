@@ -1,0 +1,432 @@
+{
+  "3198": {
+    "doc_info": {
+      "title": "The Murders in the Rue Morgue",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "\" The Murders in the Rue Morgue \" is a short story by Edgar Allan Poe published in Graham 's Magazine in 1841 .",
+        "text": "\" The Murders in the Rue Morgue \" is a short story by Edgar Allan Poe published in Graham 's Magazine in 1841 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It has been recognized as the first modern detective story ; Poe referred to it as one of his \" tales of ratiocination \" .",
+        "text": "It has been recognized as the first modern detective story ; Poe referred to it as one of his \" tales of ratiocination \" .",
+        "mention_ids": [
+          "M1_3"
+        ]
+      },
+      "02": {
+        "orig_text": "C. Auguste Dupin is a man in Paris who solves the mystery of the brutal murder of two women .",
+        "text": "C. Auguste Dupin is a man in Paris who solves the mystery of the brutal murder of two women .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Numerous witnesses heard a suspect , though no one agrees on what language was spoken .",
+        "text": "Numerous witnesses heard a suspect , though no one agrees on what language was spoken .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "At the murder scene , Dupin finds a hair that does not appear to be human .",
+        "text": "At the murder scene , Dupin finds a hair that does not appear to be human .",
+        "mention_ids": [
+          "M4_1"
+        ]
+      },
+      "05": {
+        "orig_text": "As the first fictional detective , Poe 's Dupin displays many traits which became literary conventions in subsequent fictional detectives , including Sherlock Holmes and Hercule Poirot .",
+        "text": "As the first fictional detective , Poe 's Dupin displays many traits which became literary conventions in subsequent fictional detectives , including Sherlock Holmes and Hercule Poirot .",
+        "mention_ids": [
+          "M1_2",
+          "M4_2",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Many later characters , for example , follow Poe 's model of the brilliant detective , his personal friend who serves as narrator , and the final revelation being presented before the reasoning that leads up to it .",
+        "text": "Many later characters , for example , follow Poe 's model of the brilliant detective , his personal friend who serves as narrator , and the final revelation being presented before the reasoning that leads up to it .",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "07": {
+        "orig_text": "Dupin himself reappears in \" The Mystery of Marie Rogêt \" and \" The Purloined Letter \" .",
+        "text": "Dupin himself reappears in \" The Mystery of Marie Rogêt \" and \" The Purloined Letter \" .",
+        "mention_ids": [
+          "M10_0",
+          "M4_3",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          31
+        ],
+        "text": "The Murders in the Rue Morgue",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          64,
+          84
+        ],
+        "text": "The Purloined Letter",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          69
+        ],
+        "text": "Edgar Allan Poe",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "06",
+        "span": [
+          45,
+          48
+        ],
+        "text": "Poe",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          38
+        ],
+        "text": "Poe",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "01",
+        "span": [
+          61,
+          64
+        ],
+        "text": "Poe",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          101
+        ],
+        "text": "Graham 's Magazine",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          105,
+          109
+        ],
+        "text": "1841",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          16
+        ],
+        "text": "C. Auguste Dupin",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          27
+        ],
+        "text": "Dupin",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "05",
+        "span": [
+          42,
+          47
+        ],
+        "text": "Dupin",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Dupin",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          34
+        ],
+        "text": "Paris",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          85
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          150,
+          165
+        ],
+        "text": "Sherlock Holmes",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          170,
+          184
+        ],
+        "text": "Hercule Poirot",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "07",
+        "span": [
+          29,
+          55
+        ],
+        "text": "The Mystery of Marie Rogêt",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Murders_in_the_Rue_Morgue",
+          "wikidata": "http://www.wikidata.org/entity/Q459667",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%82%B0%E8%A1%97%E3%81%AE%E6%AE%BA%E4%BA%BA"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+          "wikidata": "http://www.wikidata.org/entity/Q16867",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%BC"
+        },
+        "date_of_death": "1849-10-07T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Graham%27s_Magazine",
+          "wikidata": "http://www.wikidata.org/entity/Q7879167",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Graham's_Magazine"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/C._Auguste_Dupin",
+          "wikidata": "http://www.wikidata.org/entity/Q549047",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/C%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%AE%E3%83%A5%E3%82%B9%E3%83%88%E3%83%BB%E3%83%87%E3%83%A5%E3%83%91%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+          "wikidata": "http://www.wikidata.org/entity/Q4653",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hercule_Poirot",
+          "wikidata": "http://www.wikidata.org/entity/Q170534",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9D%E3%82%A2%E3%83%AD"
+        },
+        "date_of_death": "1949-10-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Mystery_of_Marie_Rog%C3%AAt",
+          "wikidata": "http://www.wikidata.org/entity/Q1167993",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/The_Mystery_of_Marie_Rogêt",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AD%E3%82%B8%E3%82%A7%E3%81%AE%E8%AC%8E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Purloined_Letter",
+          "wikidata": "http://www.wikidata.org/entity/Q733448",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%97%E3%81%BE%E3%82%8C%E3%81%9F%E6%89%8B%E7%B4%99"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

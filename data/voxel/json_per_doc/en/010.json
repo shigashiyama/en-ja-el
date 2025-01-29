@@ -1,0 +1,352 @@
+{
+  "010": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/cartoon/4899427-claws-terror"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The claws.",
+        "text": "The claws.",
+        "mention_ids": []
+      },
+      "01": {
+        "orig_text": "Islamic State (ISIS) organization plans to take over Libya and use the country as a gate to attack Europe, British newspaper Daily Telegraph reported after consulting propaganda documents found by anti-extremist Quilliam.",
+        "text": "Islamic State (ISIS) organization plans to take over Libya and use the country as a gate to attack Europe, British newspaper Daily Telegraph reported after consulting propaganda documents found by anti-extremist Quilliam.",
+        "mention_ids": [
+          "M131",
+          "M132",
+          "M133",
+          "M134",
+          "M135",
+          "M136"
+        ]
+      },
+      "02": {
+        "orig_text": "The newspaper says that the documents lay out ISIS’s plans to “flood African country with combatants from Syria and Iraq, who will then sail across the Mediterranean posing as migrants”.",
+        "text": "The newspaper says that the documents lay out ISIS’s plans to “flood African country with combatants from Syria and Iraq, who will then sail across the Mediterranean posing as migrants”.",
+        "mention_ids": [
+          "M137",
+          "M138",
+          "M139",
+          "M140"
+        ]
+      },
+      "03": {
+        "orig_text": "The jihadist wishes to take advantage of the disorder that reigns in the country following the toppling of Muammar Gaddafi in 2011, writes Daily Telegraph, recalling it has shown its presence in the country by posting a video of a mass beheading of 21 Egyptian Christians on 15 February.",
+        "text": "The jihadist wishes to take advantage of the disorder that reigns in the country following the toppling of Muammar Gaddafi in 2011, writes Daily Telegraph, recalling it has shown its presence in the country by posting a video of a mass beheading of 21 Egyptian Christians on 15 February.",
+        "mention_ids": [
+          "M141",
+          "M142"
+        ]
+      }
+    },
+    "mentions": {
+      "M131": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Islamic State",
+        "entity_type": null,
+        "entity_id": "E131"
+      },
+      "M132": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          19
+        ],
+        "text": "ISIS",
+        "entity_type": null,
+        "entity_id": "E132"
+      },
+      "M133": {
+        "sentence_id": "01",
+        "span": [
+          53,
+          58
+        ],
+        "text": "Libya",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M134": {
+        "sentence_id": "01",
+        "span": [
+          99,
+          105
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E134"
+      },
+      "M135": {
+        "sentence_id": "01",
+        "span": [
+          125,
+          140
+        ],
+        "text": "Daily Telegraph",
+        "entity_type": null,
+        "entity_id": "E135"
+      },
+      "M136": {
+        "sentence_id": "01",
+        "span": [
+          212,
+          220
+        ],
+        "text": "Quilliam",
+        "entity_type": null,
+        "entity_id": "E136"
+      },
+      "M137": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          50
+        ],
+        "text": "ISIS",
+        "entity_type": null,
+        "entity_id": "E137"
+      },
+      "M138": {
+        "sentence_id": "02",
+        "span": [
+          106,
+          111
+        ],
+        "text": "Syria",
+        "entity_type": null,
+        "entity_id": "E138"
+      },
+      "M139": {
+        "sentence_id": "02",
+        "span": [
+          116,
+          120
+        ],
+        "text": "Iraq",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M140": {
+        "sentence_id": "02",
+        "span": [
+          152,
+          165
+        ],
+        "text": "Mediterranean",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M141": {
+        "sentence_id": "03",
+        "span": [
+          107,
+          122
+        ],
+        "text": "Muammar Gaddafi",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M142": {
+        "sentence_id": "03",
+        "span": [
+          139,
+          154
+        ],
+        "text": "Daily Telegraph",
+        "entity_type": null,
+        "entity_id": "E142"
+      }
+    },
+    "entities": {
+      "E131": {
+        "member_mention_ids": [
+          "M131"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Islamic_State",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+          "wikidata": "http://www.wikidata.org/entity/Q2429253",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ISIL"
+        }
+      },
+      "E132": {
+        "member_mention_ids": [
+          "M132"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Islamic_State",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+          "wikidata": "http://www.wikidata.org/entity/Q2429253",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ISIL"
+        }
+      },
+      "E133": {
+        "member_mention_ids": [
+          "M133"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Libya",
+          "wikidata": "http://www.wikidata.org/entity/Q1016",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%82%A2"
+        }
+      },
+      "E134": {
+        "member_mention_ids": [
+          "M134"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E135": {
+        "member_mention_ids": [
+          "M135"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+          "wikidata": "http://www.wikidata.org/entity/Q192621",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B0%E3%83%A9%E3%83%95"
+        }
+      },
+      "E136": {
+        "member_mention_ids": [
+          "M136"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quilliam_(think_tank)",
+          "wikidata": "http://www.wikidata.org/entity/Q2123150"
+        }
+      },
+      "E137": {
+        "member_mention_ids": [
+          "M137"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Islamic_State",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant",
+          "wikidata": "http://www.wikidata.org/entity/Q2429253",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ISIL"
+        }
+      },
+      "E138": {
+        "member_mention_ids": [
+          "M138"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Syria",
+          "wikidata": "http://www.wikidata.org/entity/Q858",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E139": {
+        "member_mention_ids": [
+          "M139"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iraq",
+          "wikidata": "http://www.wikidata.org/entity/Q796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+        }
+      },
+      "E140": {
+        "member_mention_ids": [
+          "M140"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q4918",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E4%B8%AD%E6%B5%B7"
+        }
+      },
+      "E141": {
+        "member_mention_ids": [
+          "M141"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+          "wikidata": "http://www.wikidata.org/entity/Q19878",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%9E%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%EF%BC%9D%E3%82%AB%E3%83%83%E3%82%B6%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC"
+        },
+        "date_of_death": "2011-10-20T00:00:00Z"
+      },
+      "E142": {
+        "member_mention_ids": [
+          "M142"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+          "wikidata": "http://www.wikidata.org/entity/Q192621",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B0%E3%83%A9%E3%83%95"
+        }
+      }
+    }
+  }
+}

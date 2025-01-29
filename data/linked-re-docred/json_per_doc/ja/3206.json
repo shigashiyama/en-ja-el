@@ -1,0 +1,451 @@
+{
+  "3206": {
+    "doc_info": {
+      "title": "Gary Anderson (placekicker)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■（1959年7月16日生まれ）は、元ナショナル・フットボール・リーグ（NFL）のプレースキッカーです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M2_1"
+        ]
+      },
+      "01": {
+        "text": "NFLのレギュラー・シーズンの試合に出場した最初の南アフリカ人である■■■■■■は、同リーグで23シーズンに6チームでプレーしました。",
+        "mention_ids": [
+          "M0_1",
+          "M2_2",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "彼はキャリアの大部分をピッツバーグ・スティーラーズで過ごしましたが、ミネソタ・バイキングスでの在籍でも知られています。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "1998年のバイキングスのメンバーとして、レギュラーシーズンのプレーで、タッチダウン後のすべてのフィールド・ゴールとポイントを成功させ、■■■■■■は、完全なレギュラー・シーズンを達成した最初のNFLキッカーになりました。",
+        "mention_ids": [
+          "M0_2",
+          "M2_3",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "しかし、■■■■■■の功績は、その年のアトランタ・ファルコンズ戦でのフィールドゴールの失敗で影が薄くなり、これがバイキングスのその後の敗因とみなされています。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "text": "■■■■■■は、引退するまでさらに6シーズンにわたってNFLでプレーし続けました。",
+        "mention_ids": [
+          "M0_4",
+          "M2_4",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          34,
+          40
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          74
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          10
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          31
+        ],
+        "text": "アトランタ・ファルコンズ",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          26
+        ],
+        "text": "1959年7月16日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          49
+        ],
+        "text": "ナショナル・フットボール・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          53
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "03",
+        "span": [
+          97,
+          100
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "05",
+        "span": [
+          27,
+          30
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          31
+        ],
+        "text": "南アフリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          47,
+          49
+        ],
+        "text": "23",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          54,
+          55
+        ],
+        "text": "6",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          18
+        ],
+        "text": "6",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          25
+        ],
+        "text": "ピッツバーグ・スティーラーズ",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          45
+        ],
+        "text": "ミネソタ・バイキングス",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          12
+        ],
+        "text": "バイキングス",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          56,
+          62
+        ],
+        "text": "バイキングス",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1998年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gary_Anderson_(placekicker)",
+          "wikidata": "http://www.wikidata.org/entity/Q726841"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Football_League",
+          "wikidata": "http://www.wikidata.org/entity/Q1215884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NFL"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "removed_mention_ids": [
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Demographics_of_South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q1185967",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_Africans"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pittsburgh_Steelers",
+          "wikidata": "http://www.wikidata.org/entity/Q191477",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%84%E3%83%90%E3%83%BC%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minnesota_Vikings",
+          "wikidata": "http://www.wikidata.org/entity/Q221150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minnesota_Vikings",
+          "wikidata": "http://www.wikidata.org/entity/Q221150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlanta_Falcons",
+          "wikidata": "http://www.wikidata.org/entity/Q272059",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%BA"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

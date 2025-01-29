@@ -1,0 +1,617 @@
+{
+  "3413": {
+    "doc_info": {
+      "title": "Burns Verkaufen der Kraftwerk",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "\" Burns Verkaufen der Kraftwerk \" ( ) is the eleventh episode of The Simpsons ' third season .",
+        "text": "\" Burns Verkaufen der Kraftwerk \" ( ) is the eleventh episode of The Simpsons ' third season .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It first aired on the Fox network in the United States on December 5 , 1991 .",
+        "text": "It first aired on the Fox network in the United States on December 5 , 1991 .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "In the episode , Mr. ■■■■■ wishes to pursue other interests and therefore decides to sell his power plant to two German investors for $ 100 million .",
+        "mention_ids": [
+          "M5_2",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "Safety inspector ■■■■■ is immediately fired by the Germans because of his incompetence .",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "Later , ■■■■■ realizes that he has lost all his respectability because he can no longer control anyone .",
+        "mention_ids": [
+          "M5_1"
+        ]
+      },
+      "05": {
+        "text": "The episode was written by ■■■■■■■■■ and directed by ■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "06": {
+        "text": "Originally , the writers wanted to have ■■■■■ sell the plant to the Japanese , but they decided that it would have been too clichéd ; the plot , however , remained the same with the Germans .",
+        "mention_ids": [
+          "M10_1",
+          "M13_0",
+          "M5_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The title is an inaccurate German translation of \" Burns sells the power plant \" , the correct version being Burns verkauft das Kraftwerk .",
+        "text": "The title is an inaccurate German translation of \" Burns sells the power plant \" , the correct version being Burns verkauft das Kraftwerk .",
+        "mention_ids": [
+          "M0_2",
+          "M14_0",
+          "M7_1"
+        ]
+      },
+      "08": {
+        "orig_text": "In its original airing on the Fox network , the episode had a 12.6 Nielsen rating , finishing the week ranked 38th .",
+        "text": "In its original airing on the Fox network , the episode had a 12.6 Nielsen rating , finishing the week ranked 38th .",
+        "mention_ids": [
+          "M2_1"
+        ]
+      },
+      "09": {
+        "text": "\" Burns Verkaufen der Kraftwerk \" received generally positive reviews from critics and was praised for several scenes , particularly the \" Land of Chocolate \" sequence in which ■■■■■ dances around in an imaginary land made entirely out of chocolate .",
+        "mention_ids": [
+          "M0_1",
+          "M15_0",
+          "M9_1"
+        ]
+      },
+      "10": {
+        "orig_text": "The sequence was also remade in cutscenes from the episode in The Simpsons Game .",
+        "text": "The sequence was also remade in cutscenes from the episode in The Simpsons Game .",
+        "mention_ids": [
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          31
+        ],
+        "text": "Burns Verkaufen der Kraftwerk",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "09",
+        "span": [
+          2,
+          31
+        ],
+        "text": "Burns Verkaufen der Kraftwerk",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "07",
+        "span": [
+          109,
+          137
+        ],
+        "text": "Burns verkauft das Kraftwerk",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          58
+        ],
+        "text": "Germans",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "06",
+        "span": [
+          182,
+          189
+        ],
+        "text": "Germans",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          27,
+          36
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          53,
+          66
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          68,
+          76
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          51,
+          78
+        ],
+        "text": "Burns sells the power plant",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          139,
+          156
+        ],
+        "text": "Land of Chocolate",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "10",
+        "span": [
+          62,
+          79
+        ],
+        "text": "The Simpsons Game",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          79
+        ],
+        "text": "The Simpsons '",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          25
+        ],
+        "text": "Fox",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "08",
+        "span": [
+          30,
+          33
+        ],
+        "text": "Fox",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          54
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          58,
+          75
+        ],
+        "text": "December 5 , 1991",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "06",
+        "span": [
+          40,
+          45
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          13
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          26
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          109,
+          112
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          113,
+          119
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "07",
+        "span": [
+          27,
+          33
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          134,
+          147
+        ],
+        "text": "$ 100 million",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          22
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "09",
+        "span": [
+          177,
+          182
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Burns_Verkaufen_der_Kraftwerk",
+          "wikidata": "http://www.wikidata.org/entity/Q1388973"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Simpsons",
+          "wikidata": "http://www.wikidata.org/entity/Q886",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fox_Broadcasting_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q166419",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E6%94%BE%E9%80%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mr._Burns",
+          "wikidata": "http://www.wikidata.org/entity/Q716636"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Homer_Simpson",
+          "wikidata": "http://www.wikidata.org/entity/Q7810",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jon_Vitti",
+          "wikidata": "http://www.wikidata.org/entity/Q3177566"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mark_Kirkland",
+          "wikidata": "http://www.wikidata.org/entity/Q2748620"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Burns_Verkaufen_der_Kraftwerk",
+          "wikidata": "http://www.wikidata.org/entity/Q1388973"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Simpsons_Game",
+          "wikidata": "http://www.wikidata.org/entity/Q1139044",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

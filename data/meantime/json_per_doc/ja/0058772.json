@@ -1,0 +1,252 @@
+{
+  "0058772": {
+    "doc_info": {
+      "title": "58772_Apple_Inc_doubled",
+      "url": "http://en.wikinews.org/wiki/Apple_Inc._doubled_its_profits"
+    },
+    "sentences": {
+      "00": {
+        "text": "Apple Inc.は利益を2倍にしました",
+        "mention_ids": [
+          "M007",
+          "M009"
+        ]
+      },
+      "01": {
+        "text": "2007 年 1 月 18 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "アメリカのコンピュータ会社Appleは、2006年12月30日に終了した前四半期の利益が78%の増加に達しました。",
+        "mention_ids": [
+          "M006",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "この事実は、クリスマスと新年の販売期間中にAppleのiPodデジタル音楽プレーヤーに大きな需要があったことで説明されます。",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "04": {
+        "text": "クリスマス商戦に成功した結果、会計年度初めのAppleの売上高は、前年同期に得た5億6,500万ドルの利益と比較すると、2倍に増加しました。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "05": {
+        "text": "同社は記録的な10億ドルを獲得しました。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "06": {
+        "text": "同社の年間収益全体は2006年に71億ドルとなり、2005年の58億ドルから増加しました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "同社の収益の伸びは、Appleが製造したノートパソコンもベストセラーに含まれているという事実によって部分的に説明されます。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "ウォール街の専門家でさえ、Appleコンピュータ会社のこれほど驚くべき成果を公表していません。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "Appleの決算は市場予想を大きく上回りました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "純利益は1株当たり1.14ドルとなっていますが、ウォール街の予想はわずか77セントでした。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "会計年度の第1四半期中、Apple Inc.は2,100万台を超えるiPodプレーヤーと約160万台のコンピュータを販売しました。これは、それぞれ前年比で28%と50%の成長を示しています。",
+        "mention_ids": [
+          "M078"
+        ]
+      },
+      "12": {
+        "text": "ニューヨーク証券取引所で決算が発表されるとすぐに、このアメリカのコンピュータ会社の株価は5パーセント上昇しました。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "Apple Incの株式資本は2004年に3倍、2005年には2倍、2006年には16%増加したことに言及する必要があります。",
+        "mention_ids": []
+      },
+      "14": {
+        "text": "着実な成長は、iPodとコンピュータの大幅な売上によるものでもあります。",
+        "mention_ids": [
+          "M077"
+        ]
+      },
+      "15": {
+        "text": "先週、同社はiPhoneを発表しました。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M003": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          42
+        ],
+        "text": "AppleのiPodデジタル音楽プレーヤー",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M004": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          27
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M005": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          53
+        ],
+        "text": "5億6,500万ドルの利益",
+        "entity_type": null,
+        "entity_id": "E072"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          18
+        ],
+        "text": "アメリカのコンピュータ会社Apple",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M007": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Apple Inc.",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M009": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          13
+        ],
+        "text": "利益",
+        "entity_type": null,
+        "entity_id": "E072"
+      },
+      "M010": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          2
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          43
+        ],
+        "text": "利益",
+        "entity_type": null,
+        "entity_id": "E072"
+      },
+      "M077": {
+        "sentence_id": "14",
+        "span": [
+          7,
+          11
+        ],
+        "text": "iPod",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M078": {
+        "sentence_id": "11",
+        "span": [
+          23,
+          43
+        ],
+        "text": "2,100万台を超えるiPodプレーヤー",
+        "entity_type": null,
+        "entity_id": "E073"
+      }
+    },
+    "entities": {
+      "E072": {
+        "member_mention_ids": [
+          "M009",
+          "M012"
+        ],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E073": {
+        "member_mention_ids": [
+          "M003",
+          "M077",
+          "M078"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod",
+          "wikidata": "http://www.wikidata.org/entity/Q9479",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod"
+        }
+      },
+      "E074": {
+        "member_mention_ids": [
+          "M004",
+          "M006",
+          "M007",
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M002",
+          "M008",
+          "M011"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      }
+    }
+  }
+}

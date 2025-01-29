@@ -1,0 +1,452 @@
+{
+  "3206": {
+    "doc_info": {
+      "title": "Gary Anderson (placekicker)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■ ( born 16 July 1959 ) is a former National Football League ( NFL ) placekicker .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M2_1"
+        ]
+      },
+      "01": {
+        "text": "The first South African to appear in an NFL regular season game , ■■■■■■■■ played in the league for 23 seasons with six teams .",
+        "mention_ids": [
+          "M0_1",
+          "M2_2",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "He spent the majority of his career with the Pittsburgh Steelers , but is also known for his tenure with the Minnesota Vikings .",
+        "text": "He spent the majority of his career with the Pittsburgh Steelers , but is also known for his tenure with the Minnesota Vikings .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "As a member of the Vikings in 1998 , ■■■■■■■■ became the first NFL kicker to have a perfect regular season , successfully making every field goal and point after touchdown during regular season play .",
+        "mention_ids": [
+          "M0_2",
+          "M2_3",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "However , ■■■■■■■■ 's accomplishment was overshadowed by a missed field goal in that year 's against the Atlanta Falcons , which is regarded as a primary factor in the Vikings ' subsequent defeat .",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "text": "■■■■■■■■ continued to play in the NFL for six more seasons before retiring .",
+        "mention_ids": [
+          "M0_4",
+          "M2_4",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          19
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          66,
+          74
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          45
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          18
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          105,
+          120
+        ],
+        "text": "Atlanta Falcons",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          39
+        ],
+        "text": "16 July 1959",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          78
+        ],
+        "text": "National Football League",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          81,
+          84
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          43
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "03",
+        "span": [
+          63,
+          66
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          37
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          23
+        ],
+        "text": "South African",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          100,
+          102
+        ],
+        "text": "23",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          116,
+          119
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          42,
+          45
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          45,
+          64
+        ],
+        "text": "Pittsburgh Steelers",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          109,
+          126
+        ],
+        "text": "Minnesota Vikings",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          26
+        ],
+        "text": "Vikings",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          168,
+          175
+        ],
+        "text": "Vikings",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          34
+        ],
+        "text": "1998",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gary_Anderson_(placekicker)",
+          "wikidata": "http://www.wikidata.org/entity/Q726841"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Football_League",
+          "wikidata": "http://www.wikidata.org/entity/Q1215884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NFL"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "removed_mention_ids": [
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Demographics_of_South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q1185967",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/South_Africans"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pittsburgh_Steelers",
+          "wikidata": "http://www.wikidata.org/entity/Q191477",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%84%E3%83%90%E3%83%BC%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minnesota_Vikings",
+          "wikidata": "http://www.wikidata.org/entity/Q221150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minnesota_Vikings",
+          "wikidata": "http://www.wikidata.org/entity/Q221150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E3%83%BB%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlanta_Falcons",
+          "wikidata": "http://www.wikidata.org/entity/Q272059",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%BA"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

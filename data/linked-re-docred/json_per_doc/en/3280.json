@@ -1,0 +1,571 @@
+{
+  "3280": {
+    "doc_info": {
+      "title": "Holmenkollen Ski Museum",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Holmenkollen Ski Museum ( ) is located at the base of the Holmenkollen ski jump in Oslo , Norway .",
+        "text": "Holmenkollen Ski Museum ( ) is located at the base of the Holmenkollen ski jump in Oslo , Norway .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The Ski Museum was founded in 1923 and is the world 's oldest ski museum .",
+        "text": "The Ski Museum was founded in 1923 and is the world 's oldest ski museum .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The initiator of the museum was the architect Hjalmar Welhaven .",
+        "text": "The initiator of the museum was the architect Hjalmar Welhaven .",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "His private collection formed the foundation of the antique and historic skis on display at the museum .",
+        "text": "His private collection formed the foundation of the antique and historic skis on display at the museum .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "Until 1951 , the collection was housed in a building in the Oslo neighborhood of Frognerseteren .",
+        "text": "Until 1951 , the collection was housed in a building in the Oslo neighborhood of Frognerseteren .",
+        "mention_ids": [
+          "M2_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "05": {
+        "orig_text": "In connection with the rebuilding of Holmenkollbakken in 1951 , the museum collection was moved to new premises at Holmenkollbakken .",
+        "text": "In connection with the rebuilding of Holmenkollbakken in 1951 , the museum collection was moved to new premises at Holmenkollbakken .",
+        "mention_ids": [
+          "M7_1",
+          "M9_0",
+          "M9_1"
+        ]
+      },
+      "06": {
+        "orig_text": "The museum contains 4,000 years of skiing history , starting with rock carvings dating from the Stone Age .",
+        "text": "The museum contains 4,000 years of skiing history , starting with rock carvings dating from the Stone Age .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "07": {
+        "orig_text": "It also displays skiers and skis from the Viking Age .",
+        "text": "It also displays skiers and skis from the Viking Age .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "08": {
+        "orig_text": "Additionally it displays equipment used in the polar expeditions of both Fridtjof Nansen and Roald Amundsen .",
+        "text": "Additionally it displays equipment used in the polar expeditions of both Fridtjof Nansen and Roald Amundsen .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "09": {
+        "orig_text": "The Ski Museum is owned and operated by Skiforeningen .",
+        "text": "The Ski Museum is owned and operated by Skiforeningen .",
+        "mention_ids": [
+          "M15_0",
+          "M4_1"
+        ]
+      },
+      "10": {
+        "orig_text": "This association is responsible for the organization of sports , activities and events in Holmenkollen National Park .",
+        "text": "This association is responsible for the organization of sports , activities and events in Holmenkollen National Park .",
+        "mention_ids": [
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          23
+        ],
+        "text": "Holmenkollen Ski Museum",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          31
+        ],
+        "text": "4,000 years",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          96,
+          105
+        ],
+        "text": "Stone Age",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          42,
+          52
+        ],
+        "text": "Viking Age",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "08",
+        "span": [
+          73,
+          88
+        ],
+        "text": "Fridtjof Nansen",
+        "entity_type": "PER",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "08",
+        "span": [
+          93,
+          107
+        ],
+        "text": "Roald Amundsen",
+        "entity_type": "PER",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          40,
+          53
+        ],
+        "text": "Skiforeningen",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "10",
+        "span": [
+          90,
+          116
+        ],
+        "text": "Holmenkollen National Park",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          70
+        ],
+        "text": "Holmenkollen",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          87
+        ],
+        "text": "Oslo",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          60,
+          64
+        ],
+        "text": "Oslo",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          90,
+          96
+        ],
+        "text": "Norway",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          14
+        ],
+        "text": "Ski Museum",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "09",
+        "span": [
+          4,
+          14
+        ],
+        "text": "Ski Museum",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          34
+        ],
+        "text": "1923",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          62
+        ],
+        "text": "Hjalmar Welhaven",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          10
+        ],
+        "text": "1951",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "05",
+        "span": [
+          57,
+          61
+        ],
+        "text": "1951",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          81,
+          95
+        ],
+        "text": "Frognerseteren",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          53
+        ],
+        "text": "Holmenkollbakken",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "05",
+        "span": [
+          115,
+          131
+        ],
+        "text": "Holmenkollbakken",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Holmenkollen_Ski_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q1633217"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Holmenkollbakken",
+          "wikidata": "http://www.wikidata.org/entity/Q33572",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Holmenkollen_ski_jump",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A1%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%AB%B6%E6%8A%80%E5%A0%B4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oslo",
+          "wikidata": "http://www.wikidata.org/entity/Q585",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norway",
+          "wikidata": "http://www.wikidata.org/entity/Q20",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Holmenkollen_Ski_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q1633217"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hjalmar_Welhaven",
+          "wikidata": "http://www.wikidata.org/entity/Q5873195"
+        },
+        "date_of_death": "1922-04-18T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Frognerseteren",
+          "wikidata": "http://www.wikidata.org/entity/Q3088227"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Holmenkollbakken",
+          "wikidata": "http://www.wikidata.org/entity/Q33572",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A1%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E7%AB%B6%E6%8A%80%E5%A0%B4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
+          "wikidata": "http://www.wikidata.org/entity/Q72292",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%81%E3%83%A7%E3%83%95%E3%83%BB%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3"
+        },
+        "date_of_death": "1930-05-13T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Roald_Amundsen",
+          "wikidata": "http://www.wikidata.org/entity/Q926",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%A0%E3%83%B3%E3%82%BB%E3%83%B3"
+        },
+        "date_of_death": "1928-06-18T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_for_the_Promotion_of_Skiing",
+          "wikidata": "http://www.wikidata.org/entity/Q1779358"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Holmenkollen_National_Arena",
+          "wikidata": "http://www.wikidata.org/entity/Q3485383"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

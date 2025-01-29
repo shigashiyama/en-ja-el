@@ -1,0 +1,287 @@
+{
+  "3230": {
+    "doc_info": {
+      "title": "Los Alerces National Park",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ロス・アレルセス国立公園（）は、アルゼンチンのパタゴニア地域のチュブ州のアンデスにあります。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "その西側の境界はチリの国境と一致しています。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "相次ぐ氷河作用がこの地域の景観を形成し、氷堆石、氷河圏谷、澄んだ水の湖などの壮観な地形を生み出しました。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "植生は密度の高い温帯林によって占められており、岩の多いアンデス山脈の下の高山草原に取って代わられています。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "非常に独特かつ象徴的な特徴は、そのパタゴニアヒバの森です。世界的に絶滅の危機に瀕しているパタゴニアヒバの木は、世界で2番目に長寿の樹種です（3,600年）。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "公園内のアレセの森は、素晴らしい保全状態にあります。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "この特性は、原始の状態にある連続するパタゴニアの森の最後の部分の一部の保護に不可欠であり、多くの固有種や絶滅危惧種の動植物の生息地です。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ロス・アレルセス国立公園",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          40
+        ],
+        "text": "アンデス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          35
+        ],
+        "text": "チュブ州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          28
+        ],
+        "text": "パタゴニア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          22
+        ],
+        "text": "アルゼンチン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          10
+        ],
+        "text": "チリ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          33
+        ],
+        "text": "アンデス山脈",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          70,
+          76
+        ],
+        "text": "3,600年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          25
+        ],
+        "text": "パタゴニアの森",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Alerces_National_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q828291",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%BB%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andes",
+          "wikidata": "http://www.wikidata.org/entity/Q5456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chubut_Province",
+          "wikidata": "http://www.wikidata.org/entity/Q45007",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%96%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Patagonia",
+          "wikidata": "http://www.wikidata.org/entity/Q1507",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BF%E3%82%B4%E3%83%8B%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Argentina",
+          "wikidata": "http://www.wikidata.org/entity/Q414",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chile",
+          "wikidata": "http://www.wikidata.org/entity/Q298",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andes",
+          "wikidata": "http://www.wikidata.org/entity/Q5456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

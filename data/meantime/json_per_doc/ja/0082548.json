@@ -1,0 +1,396 @@
+{
+  "0082548": {
+    "doc_info": {
+      "title": "82548_First_Airbus_A380_delivered",
+      "url": "http://en.wikinews.org/wiki/First_Airbus_A380_delivered"
+    },
+    "sentences": {
+      "00": {
+        "text": "初のエアバスA380が納入されました",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "01": {
+        "text": "2007年10月15日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "エアバス製の最初のA380スーパージャンボが、本日、予定より18か月遅れてシンガポール航空（SIA）に納入されました。",
+        "mention_ids": [
+          "M006",
+          "M011",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "その飛行機はシンガポールに納入された後、それは約500名のゲストの式典のためにフランスのトゥールーズに飛行しました。",
+        "mention_ids": [
+          "M005",
+          "M007",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "04": {
+        "text": "その飛行機は、ロールスロイス・トレント900・エンジン4基で造られています。",
+        "mention_ids": [
+          "M001",
+          "M004"
+        ]
+      },
+      "05": {
+        "text": "最初の便は「特別チャリティー・フライト」のためにシンガポールから離陸し、10月25日にシドニーに着陸します。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "06": {
+        "text": "特別サービスは10月28日から続きます。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "「これはA380プログラムにとって重要な節目であり、私は関係者全員に深く感謝の意を表したいと思います。",
+        "mention_ids": [
+          "M062"
+        ]
+      },
+      "08": {
+        "text": "私は、私たちのチームと、昼も夜も週末も懸命に働いたすべての人々の献身と責任感に感謝したいと思います」とエアバスの社長兼最高経営責任者のトム・エンダースは述べました。",
+        "mention_ids": [
+          "M074",
+          "M077"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "その飛行機",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M002": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          30
+        ],
+        "text": "シンガポール",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M003": {
+        "sentence_id": "05",
+        "span": [
+          43,
+          47
+        ],
+        "text": "シドニー",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M004": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          29
+        ],
+        "text": "ロールスロイス・トレント900・エンジン4基",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M005": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          32
+        ],
+        "text": "約500名のゲスト",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          49
+        ],
+        "text": "シンガポール航空（SIA",
+        "entity_type": null,
+        "entity_id": "E096"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          50
+        ],
+        "text": "フランスのトゥールーズ",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M008": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "初のエアバスA380",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M011": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          21
+        ],
+        "text": "最初のA380スーパージャンボ",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E089"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "その飛行機",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          12
+        ],
+        "text": "シンガポール",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          22
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M062": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          8
+        ],
+        "text": "A380",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M074": {
+        "sentence_id": "08",
+        "span": [
+          3,
+          6
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E089"
+      },
+      "M077": {
+        "sentence_id": "08",
+        "span": [
+          51,
+          55
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E089"
+      }
+    },
+    "entities": {
+      "E086": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E089": {
+        "member_mention_ids": [
+          "M012",
+          "M074",
+          "M077"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Sydney",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sydney",
+          "wikidata": "http://www.wikidata.org/entity/Q3130",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%89%E3%83%8B%E3%83%BC"
+        }
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M002",
+          "M014"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Singapore",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore",
+          "wikidata": "http://www.wikidata.org/entity/Q334",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+        }
+      },
+      "E096": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "removed_mention_ids": [
+          "M058"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Singapore_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q32245",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Toulouse",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Toulouse",
+          "wikidata": "http://www.wikidata.org/entity/Q7880",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E098": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/France",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      },
+      "E099": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E100": {
+        "member_mention_ids": [
+          "M001",
+          "M013",
+          "M015",
+          "M062"
+        ],
+        "removed_mention_ids": [
+          "M010",
+          "M009"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_A380",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus_A380",
+          "wikidata": "http://www.wikidata.org/entity/Q5830",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9A380"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

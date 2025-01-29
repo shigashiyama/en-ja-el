@@ -1,0 +1,427 @@
+{
+  "0040986": {
+    "doc_info": {
+      "title": "40986_Apple_releases_Macbook",
+      "url": "http://en.wikinews.org/wiki/Apple_releases_Macbook"
+    },
+    "sentences": {
+      "00": {
+        "text": "AppleがMacbookをリリース",
+        "mention_ids": [
+          "M022",
+          "M024"
+        ]
+      },
+      "01": {
+        "text": "2006 年 5 月 17 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "Apple Computerは本日、MacbookとMacbook Proを含む新しいMacBookシリーズを発表しました。",
+        "mention_ids": [
+          "M004",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "それはiBook製品ラインの後継で、Intel Core Duoプロセッサと多数の機能が含まれており、価格は1,099ドルからです。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M011",
+          "M015"
+        ]
+      },
+      "04": {
+        "text": "Macbookは13.3インチ・ワイドスクリーン・ディスプレイを備えていますが、Proは15インチまたは17インチ・ディスプレイで購入できます。",
+        "mention_ids": [
+          "M014",
+          "M021",
+          "M023",
+          "M025"
+        ]
+      },
+      "05": {
+        "text": "それは黒（2 GHzモデルのみ)と白（1.83と2 GHzモデル）の2色があります。",
+        "mention_ids": [
+          "M003",
+          "M005",
+          "M007"
+        ]
+      },
+      "06": {
+        "text": "このリリースにより、インテル・チップに移行していないPowerPCプロセッサ・コンピュータは1台(PowerMac G5)だけになります。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          43
+        ],
+        "text": "Intel Core Duoプロセッサと多数の機能",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M002": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          16
+        ],
+        "text": "iBook製品ラインの後継",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M003": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "それは",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M005": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          13
+        ],
+        "text": "2 GHzモデル",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M007": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          32
+        ],
+        "text": "1.83と2 GHzモデル",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          61
+        ],
+        "text": "価格は1,099ドル",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          54
+        ],
+        "text": "MacbookとMacbook Proを含む新しいMacBookシリーズ",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M014": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          64
+        ],
+        "text": "15インチまたは17インチ・ディスプレイ",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M021": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Macbook",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M022": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M023": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          31
+        ],
+        "text": "13.3インチ・ワイドスクリーン・ディスプレイ",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M024": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          13
+        ],
+        "text": "Macbook",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M025": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          43
+        ],
+        "text": "Pro",
+        "entity_type": null,
+        "entity_id": "E115"
+      }
+    },
+    "entities": {
+      "E115": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/MacBook_Pro",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacBook_Pro",
+          "wikidata": "http://www.wikidata.org/entity/Q214276",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MacBook_Pro"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E118": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E120": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M021",
+          "M024"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M009"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/MacBook",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacBook",
+          "wikidata": "http://www.wikidata.org/entity/Q3065317"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M004",
+          "M022"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016",
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IBook",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IBook",
+          "wikidata": "http://www.wikidata.org/entity/Q305889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IBook"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Intel",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intel",
+          "wikidata": "http://www.wikidata.org/entity/Q248",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M018"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E127": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M012",
+          "M015"
+        ],
+        "removed_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/MacBook_family",
+          "dbpedia:orig": "http://dbpedia.org/resource/MacBook_family",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacBook",
+          "wikidata": "http://www.wikidata.org/entity/Q3065317"
+        }
+      },
+      "E129": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

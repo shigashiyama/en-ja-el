@@ -1,0 +1,830 @@
+{
+  "3086": {
+    "doc_info": {
+      "title": "Derby, Connecticut",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ダービー（'dər-bē）は、米国コネチカット州ニューヘブン郡の都市で、コネチカット州のニューヘブンの西北西約8マイルにあります。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M1_1",
+          "M2_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "ダービーは、コネチカット州の南西部、ヒューサトニック川とノーガタック川の合流点に位置しています。",
+        "mention_ids": [
+          "M0_2",
+          "M2_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "それは、北はアンソニア、南西はシェルトン、南はオレンジの町、北西はシーモア、東はウッドブリッジと接しています。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "2010年の国勢調査では、人口は12,903人でした。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "04": {
+        "text": "それは、面積と人口の点でコネチカット州の最小の統合都市です。",
+        "mention_ids": [
+          "M2_3"
+        ]
+      },
+      "05": {
+        "text": "それは、ダービーは、1642年にパウガセットの名前で、インディアンの交易所として設立されました。",
+        "mention_ids": [
+          "M0_5",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "06": {
+        "text": "それは、1675年のイングランドのダービーにちなんで名付けられました。",
+        "mention_ids": [
+          "M0_3",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "07": {
+        "text": "そこには、現在のアンソニア、シーモア、オックスフォードとビーコン・フォールズの一部が含まれていました。",
+        "mention_ids": [
+          "M10_1",
+          "M19_0",
+          "M20_0",
+          "M7_1"
+        ]
+      },
+      "08": {
+        "text": "ダービーは、ニューイングランド初のトロリーシステムと、米国史上初めて製造されて貨物輸送で商業的に使われることに成功した電気機関車の本拠地です。",
+        "mention_ids": [
+          "M0_4",
+          "M21_0",
+          "M3_1"
+        ]
+      },
+      "09": {
+        "text": "1888年に製造された機関車は、ショア・ライン・トロリー博物館によって、現在も走行可能な状態に保たれています。",
+        "mention_ids": [
+          "M22_0",
+          "M23_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ダービー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          12
+        ],
+        "text": "dər-bē",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ダービー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          21
+        ],
+        "text": "ダービー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ダービー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          8
+        ],
+        "text": "ダービー",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          33,
+          37
+        ],
+        "text": "シーモア",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          18
+        ],
+        "text": "シーモア",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          47
+        ],
+        "text": "ウッドブリッジ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          16,
+          23
+        ],
+        "text": "12,903人",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2010年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          15
+        ],
+        "text": "1642年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          27,
+          33
+        ],
+        "text": "インディアン",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          22
+        ],
+        "text": "パウガセット",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          16
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          9
+        ],
+        "text": "1675年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          19,
+          27
+        ],
+        "text": "オックスフォード",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          31
+        ],
+        "text": "ニューヘブン郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          44,
+          50
+        ],
+        "text": "ニューヘブン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          38
+        ],
+        "text": "ビーコン・フォールズ",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          6,
+          15
+        ],
+        "text": "ニューイングランド",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1888年",
+        "entity_type": "TIME",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "09",
+        "span": [
+          16,
+          31
+        ],
+        "text": "ショア・ライン・トロリー博物館",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          24
+        ],
+        "text": "コネチカット州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          43
+        ],
+        "text": "コネチカット州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          13
+        ],
+        "text": "コネチカット州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          19
+        ],
+        "text": "コネチカット州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          17
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "08",
+        "span": [
+          27,
+          29
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          59
+        ],
+        "text": "8マイル",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          27
+        ],
+        "text": "ヒューサトニック川",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          35
+        ],
+        "text": "ノーガタック川",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          11
+        ],
+        "text": "アンソニア",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "07",
+        "span": [
+          8,
+          13
+        ],
+        "text": "アンソニア",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          20
+        ],
+        "text": "シェルトン",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          27
+        ],
+        "text": "オレンジ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Derby",
+          "wikidata": "http://www.wikidata.org/entity/Q43475",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven_County,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q54234",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3%E9%83%A1_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q779",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Housatonic_River",
+          "wikidata": "http://www.wikidata.org/entity/Q1631368"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Naugatuck_River",
+          "wikidata": "http://www.wikidata.org/entity/Q4576133"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ansonia,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q570044",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%82%A2_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shelton,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q594109",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%88%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q754766"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Seymour,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q2275932"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Woodbridge,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q1898540"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oxford,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q1759458"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beacon_Falls,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q2572361"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_England",
+          "wikidata": "http://www.wikidata.org/entity/Q18389",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shore_Line_Trolley_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q7501308"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

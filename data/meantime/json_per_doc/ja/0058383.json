@@ -1,0 +1,400 @@
+{
+  "0058383": {
+    "doc_info": {
+      "title": "58383_Cisco_sues_Apple",
+      "url": "http://en.wikinews.org/wiki/Cisco_sues_Apple_for_iPhone_trademark"
+    },
+    "sentences": {
+      "00": {
+        "text": "CiscoがiPhoneの商標でAppleを提訴",
+        "mention_ids": [
+          "M007",
+          "M009",
+          "M011"
+        ]
+      },
+      "01": {
+        "text": "2007 年 1 月 12 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "iPhoneはそのプロトタイプとして登場しただけであり、論争が巻き起こっています。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "03": {
+        "text": "この論争は、iPhone（水曜日に初めて反発された）のメーカーであるApple Inc.と、サンノゼに拠点を置くネットワークおよび通信システムのリーダーであるCiscoの間で持ち上がりました。",
+        "mention_ids": [
+          "M075"
+        ]
+      },
+      "04": {
+        "text": "同社はiPhoneの商標を所有していると主張しており、さらに同社はその部門の1つを通じて同じブランドでデバイスを販売しています。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M006",
+          "M008",
+          "M010",
+          "M012"
+        ]
+      },
+      "05": {
+        "text": "これが、CiscoがApple Inc.に対して訴訟を起こし、Apple Inc.がこのデバイスの販売を中止するようにした理由となりました。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "06": {
+        "text": "Ciscoは、同社が1996年にインフォギア・テクノロジー社を追い抜き、2000年に商標を取得したと主張しています。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "同社副社長兼法務顧問のマーク・チャンドラーは、Appleの新デバイスに対する興奮に疑いの余地はないが、Ciscoに属する商標を使用すべきではないと説明しました。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "Ciscoが開発したiPhoneは、ユーザーがボイス・オーバー・インターネット・プロトコル（VoIP）経由で電話をかけることを可能にするデバイスです。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M003": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同社は",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M004": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          12
+        ],
+        "text": "iPhoneの商標",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M006": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          32
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M007": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Cisco",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M008": {
+        "sentence_id": "04",
+        "span": [
+          51,
+          55
+        ],
+        "text": "デバイス",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M009": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          21
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M010": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          50
+        ],
+        "text": "同じブランド",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M011": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          15
+        ],
+        "text": "iPhoneの商標",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M012": {
+        "sentence_id": "04",
+        "span": [
+          33,
+          40
+        ],
+        "text": "その部門の1つ",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M015": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "iPhone",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M016": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          9
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M017": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          15
+        ],
+        "text": "プロトタイプ",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M018": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          9
+        ],
+        "text": "Cisco",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M019": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          20
+        ],
+        "text": "Apple Inc.",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M020": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          41
+        ],
+        "text": "Apple Inc.",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M021": {
+        "sentence_id": "05",
+        "span": [
+          42,
+          48
+        ],
+        "text": "このデバイス",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M075": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          84
+        ],
+        "text": "iPhone（水曜日に初めて反発された）のメーカーであるApple Inc.と、サンノゼに拠点を置くネットワークおよび通信システムのリーダーであるCisco",
+        "entity_type": null,
+        "entity_id": "E116"
+      }
+    },
+    "entities": {
+      "E115": {
+        "member_mention_ids": [
+          "M015",
+          "M016",
+          "M021"
+        ],
+        "removed_mention_ids": [
+          "M029",
+          "M005",
+          "M008",
+          "M014",
+          "M023"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPhone",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPhone",
+          "wikidata": "http://www.wikidata.org/entity/Q2766",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPhone"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M075"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M009",
+          "M020"
+        ],
+        "removed_mention_ids": [
+          "M013",
+          "M019",
+          "M022",
+          "M024"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E118": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M028"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E119": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M076"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M027"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/San_Jose,_California",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Jose,_California",
+          "wikidata": "http://www.wikidata.org/entity/Q16553",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%8E%E3%82%BC"
+        }
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M007",
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M025",
+          "M026"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Cisco",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cisco",
+          "wikidata": "http://www.wikidata.org/entity/Q173395",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M004",
+          "M010",
+          "M011"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

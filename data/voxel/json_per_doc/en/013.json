@@ -1,0 +1,193 @@
+{
+  "013": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/4863679-europeans-reach-historical-agreement-new-ariane-6-launcher"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "‘Europeans reach historical agreement on new Ariane 6 rocket’.",
+        "text": "‘Europeans reach historical agreement on new Ariane 6 rocket’.",
+        "mention_ids": []
+      },
+      "01": {
+        "orig_text": "The representatives of the 20 member countries of the European Space Agency have reached an agreement on the building of a new rocket — Ariane 6 — after the union of Germany in Luxembourg on 2 December, achieving “a progressive evolution of Ariane 5”, writes Le Monde.",
+        "text": "The representatives of the 20 member countries of the European Space Agency have reached an agreement on the building of a new rocket — Ariane 6 — after the union of Germany in Luxembourg on 2 December, achieving “a progressive evolution of Ariane 5”, writes Le Monde.",
+        "mention_ids": [
+          "M172",
+          "M173",
+          "M174",
+          "M175"
+        ]
+      },
+      "02": {
+        "orig_text": "The French daily points out that the programme was “put into orbit” 19 years after the Ariane 5 programme was launched in Rome.",
+        "text": "The French daily points out that the programme was “put into orbit” 19 years after the Ariane 5 programme was launched in Rome.",
+        "mention_ids": [
+          "M176"
+        ]
+      },
+      "03": {
+        "orig_text": "According to Le Monde, Europeans have to react swiftly if they don’t want to “lose their advantage on the market”.",
+        "text": "According to Le Monde, Europeans have to react swiftly if they don’t want to “lose their advantage on the market”.",
+        "mention_ids": [
+          "M177"
+        ]
+      }
+    },
+    "mentions": {
+      "M172": {
+        "sentence_id": "01",
+        "span": [
+          54,
+          75
+        ],
+        "text": "European Space Agency",
+        "entity_type": null,
+        "entity_id": "E172"
+      },
+      "M173": {
+        "sentence_id": "01",
+        "span": [
+          166,
+          173
+        ],
+        "text": "Germany",
+        "entity_type": null,
+        "entity_id": "E173"
+      },
+      "M174": {
+        "sentence_id": "01",
+        "span": [
+          177,
+          187
+        ],
+        "text": "Luxembourg",
+        "entity_type": null,
+        "entity_id": "E174"
+      },
+      "M175": {
+        "sentence_id": "01",
+        "span": [
+          259,
+          267
+        ],
+        "text": "Le Monde",
+        "entity_type": null,
+        "entity_id": "E175"
+      },
+      "M176": {
+        "sentence_id": "02",
+        "span": [
+          122,
+          126
+        ],
+        "text": "Rome",
+        "entity_type": null,
+        "entity_id": "E176"
+      },
+      "M177": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          21
+        ],
+        "text": "Le Monde",
+        "entity_type": null,
+        "entity_id": "E177"
+      }
+    },
+    "entities": {
+      "E172": {
+        "member_mention_ids": [
+          "M172"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Space_Agency",
+          "wikidata": "http://www.wikidata.org/entity/Q42262",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%AE%87%E5%AE%99%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E173": {
+        "member_mention_ids": [
+          "M173"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      },
+      "E174": {
+        "member_mention_ids": [
+          "M174"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luxembourg",
+          "wikidata": "http://www.wikidata.org/entity/Q32",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
+        }
+      },
+      "E175": {
+        "member_mention_ids": [
+          "M175"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Le_Monde",
+          "wikidata": "http://www.wikidata.org/entity/Q12461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%89"
+        }
+      },
+      "E176": {
+        "member_mention_ids": [
+          "M176"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rome",
+          "wikidata": "http://www.wikidata.org/entity/Q220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E"
+        }
+      },
+      "E177": {
+        "member_mention_ids": [
+          "M177"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Le_Monde",
+          "wikidata": "http://www.wikidata.org/entity/Q12461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%89"
+        }
+      }
+    }
+  }
+}

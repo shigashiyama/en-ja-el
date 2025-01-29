@@ -1,0 +1,491 @@
+{
+  "3126": {
+    "doc_info": {
+      "title": "John H. Furse",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "John Houseal Furse ( 20 April 1880 – 30 September 1907 ) was an officer in the United States Navy , whose active service lasted from 1901 until his death at sea in 1907 .",
+        "text": "John Houseal Furse ( 20 April 1880 – 30 September 1907 ) was an officer in the United States Navy , whose active service lasted from 1901 until his death at sea in 1907 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Furse , born 20 April 1880 in South Carolina , was a member of the United States Naval Academy class of 1901 .",
+        "text": "Furse , born 20 April 1880 in South Carolina , was a member of the United States Naval Academy class of 1901 .",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M4_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "His first service was on the Asiatic Station , where he served in Manila during a scientific expedition , as well as in other ships .",
+        "text": "His first service was on the Asiatic Station , where he served in Manila during a scientific expedition , as well as in other ships .",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Returning to the United States , he joined Illinois ( BB-7 ) 29 September 1904 , and in her served in Cuban waters .",
+        "text": "Returning to the United States , he joined Illinois ( BB-7 ) 29 September 1904 , and in her served in Cuban waters .",
+        "mention_ids": [
+          "M10_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Lieutenant Furse died on board Illinois 30 September 1907 , of injuries received fighting a storm which threatened his ship .",
+        "text": "Lieutenant Furse died on board Illinois 30 September 1907 , of injuries received fighting a storm which threatened his ship .",
+        "mention_ids": [
+          "M0_1",
+          "M11_1",
+          "M2_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "John Houseal Furse",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "Furse",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Furse",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          30
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_1": {
+        "sentence_id": "04",
+        "span": [
+          31,
+          39
+        ],
+        "text": "Illinois",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          60
+        ],
+        "text": "Illinois ( BB-7 )",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          61,
+          78
+        ],
+        "text": "29 September 1904",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          102,
+          107
+        ],
+        "text": "Cuban",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          26
+        ],
+        "text": "20 April 1880",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          34
+        ],
+        "text": "20 April 1880",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          54
+        ],
+        "text": "30 September 1907",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          57
+        ],
+        "text": "30 September 1907",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          79,
+          97
+        ],
+        "text": "United States Navy",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          133,
+          137
+        ],
+        "text": "1901",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          104,
+          108
+        ],
+        "text": "1901",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          164,
+          168
+        ],
+        "text": "1907",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          44
+        ],
+        "text": "South Carolina",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          67,
+          94
+        ],
+        "text": "United States Naval Academy",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          44
+        ],
+        "text": "Asiatic Station",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          72
+        ],
+        "text": "Manila",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Navy",
+          "wikidata": "http://www.wikidata.org/entity/Q11220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B5%B7%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q1456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Naval_Academy",
+          "wikidata": "http://www.wikidata.org/entity/Q559549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%85%B5%E5%AD%A6%E6%A0%A1_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asiatic_Squadron",
+          "wikidata": "http://www.wikidata.org/entity/Q1541133",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Asiatic_Station"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q1461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_1"
+        ],
+        "removed_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Illinois_(BB-7)",
+          "wikidata": "http://www.wikidata.org/entity/Q3274031",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4_(BB-7)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Illinois_(BB-7)",
+          "wikidata": "http://www.wikidata.org/entity/Q3274031",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4_(BB-7)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cuba",
+          "wikidata": "http://www.wikidata.org/entity/Q241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "3481": {
+    "doc_info": {
+      "title": "Song Nation",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Song Nation ( originally known as Various Artists Featuring Song Nation ) is a charity compilation album featuring some of the most important Japanese performers from the Avex Trax label .",
+        "text": "Song Nation ( originally known as Various Artists Featuring Song Nation ) is a charity compilation album featuring some of the most important Japanese performers from the Avex Trax label .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The CD was made to raise money for the September 11 , 2001 attacks .",
+        "text": "The CD was made to raise money for the September 11 , 2001 attacks .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "It was produced by two of the most important record producers of Japan : ■■■■■■■■■■■■■■■■■■■■■■■ and Globe 's ■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "A remix album was released titled Song Nation 2 : Trance .",
+        "text": "A remix album was released titled Song Nation 2 : Trance .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It contained an additional disc and additional tracks along with of the original tracks from the first Song Nation .",
+        "text": "It contained an additional disc and additional tracks along with of the original tracks from the first Song Nation .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "05": {
+        "text": "A Song Is Born , the track by ■■■■■■■■■■■■■■ and ■■■■■ was able to peak at # 1 on the Oricon chart .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Upon its release , the album entered the Oricon Albums Chart at number one with first week sales of over 81 100 copies .",
+        "text": "Upon its release , the album entered the Oricon Albums Chart at number one with first week sales of over 81 100 copies .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Song Nation",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          103,
+          114
+        ],
+        "text": "Song Nation",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          56
+        ],
+        "text": "Song Nation 2 : Trance",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          14
+        ],
+        "text": "A Song Is Born",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          30,
+          44
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          49,
+          54
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          86,
+          92
+        ],
+        "text": "Oricon",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          41,
+          60
+        ],
+        "text": "Oricon Albums Chart",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          105,
+          111
+        ],
+        "text": "81 100",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          71
+        ],
+        "text": "Various Artists Featuring Song Nation",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          142,
+          150
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          171,
+          180
+        ],
+        "text": "Avex Trax",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          58
+        ],
+        "text": "September 11 , 2001",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          22
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          70
+        ],
+        "text": "Japan",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          73,
+          96
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          101,
+          106
+        ],
+        "text": "Globe",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          110,
+          124
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Song_Nation",
+          "wikidata": "http://www.wikidata.org/entity/Q7561027",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Songnation"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Song_Nation",
+          "wikidata": "http://www.wikidata.org/entity/Q7561027",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Songnation"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Avex_Trax",
+          "wikidata": "http://www.wikidata.org/entity/Q1988428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Avex_trax"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Max_Matsuura",
+          "wikidata": "http://www.wikidata.org/entity/Q565134",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%B5%A6%E5%8B%9D%E4%BA%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Globe_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q307165",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Globe"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tetsuya_Komuro",
+          "wikidata": "http://www.wikidata.org/entity/Q719205",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%AE%A4%E5%93%B2%E5%93%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/A_Song_Is_Born_(song)",
+          "wikidata": "http://www.wikidata.org/entity/Q2526694",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/A_song_is_born"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ayumi_Hamasaki",
+          "wikidata": "http://www.wikidata.org/entity/Q188111",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Keiko_(musician)",
+          "wikidata": "http://www.wikidata.org/entity/Q266347",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Keiko_Yamada",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/KEIKO"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oricon_Singles_Chart",
+          "wikidata": "http://www.wikidata.org/entity/Q12639005"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oricon_Albums_Chart",
+          "wikidata": "http://www.wikidata.org/entity/Q10852044"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

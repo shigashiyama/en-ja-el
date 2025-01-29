@@ -1,0 +1,537 @@
+{
+  "3103": {
+    "doc_info": {
+      "title": "Museum of Army Flying",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "陸軍飛行博物館は、英国陸軍の飛行の歴史を紹介する英国軍用航空博物館です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "それは、イングランドのハンプシャー州のアンドーバーに近いミドル・ワロップの陸軍航空隊センターの横にあります。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "博物館では、王立工兵隊の気球部門から1912年の王立航空隊の設立、そして航空観測所（AOP）飛行隊までの陸軍航空の歴史を網羅しています。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M12_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "それは、グライダー・パイロット連隊とAOP飛行隊の合併から、1957年の陸軍航空隊の設立までに遡る物語をもたらしています。",
+        "mention_ids": [
+          "M12_2",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "text": "博物館には、少額の料金で誰でも使用できる複数のフライト・シミュレーターもあります。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "05": {
+        "text": "博物館の外には、ミドル・ワロップ管制塔をベースにした管制塔など、子供たちが登ることができる航空をテーマにした遊具を備えたプレイパークがあります。",
+        "mention_ids": [
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "陸軍飛行博物館",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "博物館",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          3
+        ],
+        "text": "博物館",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          29
+        ],
+        "text": "王立航空隊",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          23
+        ],
+        "text": "1912年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          41
+        ],
+        "text": "航空観測所",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          49
+        ],
+        "text": "（AOP）飛行隊",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M12_2": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          24
+        ],
+        "text": "AOP飛行隊",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          41
+        ],
+        "text": "陸軍航空隊",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          35
+        ],
+        "text": "1957年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          17
+        ],
+        "text": "グライダー・パイロット連隊",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          26
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          13
+        ],
+        "text": "英国陸軍",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          46
+        ],
+        "text": "陸軍航空隊センター",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          36
+        ],
+        "text": "ミドル・ワロップ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          16
+        ],
+        "text": "ミドル・ワロップ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          25
+        ],
+        "text": "アンドーバー",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          18
+        ],
+        "text": "ハンプシャー州",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          10
+        ],
+        "text": "イングランド",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          49,
+          56
+        ],
+        "text": "までの陸軍航空",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          11
+        ],
+        "text": "王立工兵隊",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Army_Flying_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q6940754"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q222595",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E9%99%B8%E8%BB%8D"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_Wallop_Flying_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q2900811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/AAC_Middle_Wallop"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_Wallop_Flying_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q2900811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Army_Air_Corps_Middle_Wallop"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andover,_Hampshire",
+          "wikidata": "http://www.wikidata.org/entity/Q492805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC_(%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hampshire",
+          "wikidata": "http://www.wikidata.org/entity/Q23204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%97%E3%82%B7%E3%83%A3%E3%83%BC"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Air_Force",
+          "wikidata": "http://www.wikidata.org/entity/Q165862",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E7%A9%BA%E8%BB%8D"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Engineers",
+          "wikidata": "http://www.wikidata.org/entity/Q3098650"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Flying_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q943118",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E9%99%B8%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%9A%8A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M12_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Air_observation_post",
+          "wikidata": "http://www.wikidata.org/entity/Q4698120",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Air_Observation_Post"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Army_Air_Corps_(United_Kingdom)",
+          "wikidata": "http://www.wikidata.org/entity/Q555871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E8%BB%8D%E8%88%AA%E7%A9%BA%E9%9A%8A_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Glider_Pilot_Regiment",
+          "wikidata": "http://www.wikidata.org/entity/Q5569586"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

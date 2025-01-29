@@ -1,0 +1,478 @@
+{
+  "3293": {
+    "doc_info": {
+      "title": "University of Uyo",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ウヨ大学（UNIUYO）は、ナイジェリアのアクワ・イボム州の州都であるウヨにあります。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "この大学は以前はクロスリバー州立大学（UNICROSS）として知られていました。",
+        "mention_ids": [
+          "M4_1",
+          "M4_2"
+        ]
+      },
+      "02": {
+        "text": "1991年10月1日、ナイジェリア連邦政府はこの大学を連邦大学として設立し、名前はウヨ大学に変更されました。",
+        "mention_ids": [
+          "M0_2",
+          "M3_1",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "この大学は、1983年にクロスリバー州によって設立された、かつてのクロスリバー州立大学の学生、職員、学術プログラム、施設全体を継承しました。",
+        "mention_ids": [
+          "M4_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "学術活動は1991-92年学術セッション中に始まりました。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "05": {
+        "text": "UNIUYOには、約12の学部、大学院、継続教育学部があります。",
+        "mention_ids": [
+          "M0_3",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "副学長は■■■■■■■■■■■■教授です。",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "07": {
+        "text": "2015年、ハデジアの首長である■■■■■■■が学長に任命されました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ウヨ大学",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          11
+        ],
+        "text": "UNIUYO",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          45
+        ],
+        "text": "ウヨ大学",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "UNIUYO",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          16
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2015年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          10
+        ],
+        "text": "ハデジア",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          16,
+          23
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          37
+        ],
+        "text": "ウヨ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          29
+        ],
+        "text": "アクワ・イボム州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          20
+        ],
+        "text": "ナイジェリア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          17
+        ],
+        "text": "ナイジェリア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          43
+        ],
+        "text": "クロスリバー州立大学",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          18
+        ],
+        "text": "クロスリバー州立大学",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          27
+        ],
+        "text": "UNICROSS",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "1991年10月1日",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          19
+        ],
+        "text": "クロスリバー州",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "1983年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          13
+        ],
+        "text": "1991-92年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          12
+        ],
+        "text": "12",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/University_of_Uyo",
+          "wikidata": "http://www.wikidata.org/entity/Q7896523"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Uyo",
+          "wikidata": "http://www.wikidata.org/entity/Q1999000",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A8_(%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Akwa_Ibom_State",
+          "wikidata": "http://www.wikidata.org/entity/Q424388",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AF%E3%83%BB%E3%82%A4%E3%83%9C%E3%83%A0%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nigeria",
+          "wikidata": "http://www.wikidata.org/entity/Q1033",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/University_of_Uyo",
+          "wikidata": "http://www.wikidata.org/entity/Q7896523"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cross_River_State",
+          "wikidata": "http://www.wikidata.org/entity/Q739676",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%AA%E3%83%90%E3%83%BC%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Enefiok_Essien",
+          "wikidata": "http://www.wikidata.org/entity/Q38186869"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hadejia",
+          "wikidata": "http://www.wikidata.org/entity/Q5637733"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

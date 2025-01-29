@@ -1,0 +1,568 @@
+{
+  "3485": {
+    "doc_info": {
+      "title": "Delaware General Assembly",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Delaware General Assembly is the legislature of the U.S. state of Delaware .",
+        "text": "The Delaware General Assembly is the legislature of the U.S. state of Delaware .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is a bicameral legislature composed of the Delaware Senate with 21 Senators and the Delaware House of Representatives with 41 Representatives .",
+        "text": "It is a bicameral legislature composed of the Delaware Senate with 21 Senators and the Delaware House of Representatives with 41 Representatives .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It meets at Legislative Hall in Dover , Delaware , convening on the second Tuesday of January of odd - numbered years , with a second session of the same Assembly convening likewise in even - numbered years .",
+        "text": "It meets at Legislative Hall in Dover , Delaware , convening on the second Tuesday of January of odd - numbered years , with a second session of the same Assembly convening likewise in even - numbered years .",
+        "mention_ids": [
+          "M0_1",
+          "M2_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Normally the sessions are required to adjourn by the last day of June of the same calendar year .",
+        "text": "Normally the sessions are required to adjourn by the last day of June of the same calendar year .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "orig_text": "However the Governor can call a special session of the legislature at any time .",
+        "text": "However the Governor can call a special session of the legislature at any time .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Members are elected from single - member districts , all apportioned to roughly equal populations after each decennial Census .",
+        "text": "Members are elected from single - member districts , all apportioned to roughly equal populations after each decennial Census .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Elections are held on the Tuesday after the first Monday in November and about one - half of the Senate is elected every two years for a four - year term , and the entire House of Representatives is elected every two years for a two - year term .",
+        "text": "Elections are held on the Tuesday after the first Monday in November and about one - half of the Senate is elected every two years for a four - year term , and the entire House of Representatives is elected every two years for a two - year term .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M14_1",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M3_1"
+        ]
+      },
+      "07": {
+        "orig_text": "Vacancies are filled through special elections .",
+        "text": "Vacancies are filled through special elections .",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "There are no term limits for either chamber .",
+        "text": "There are no term limits for either chamber .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          29
+        ],
+        "text": "Delaware General Assembly",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          154,
+          162
+        ],
+        "text": "Assembly",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          49,
+          69
+        ],
+        "text": "the last day of June",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          119,
+          125
+        ],
+        "text": "Census",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          40,
+          68
+        ],
+        "text": "the first Monday in November",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          79,
+          89
+        ],
+        "text": "one - half",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          121,
+          130
+        ],
+        "text": "two years",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "06",
+        "span": [
+          213,
+          222
+        ],
+        "text": "two years",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          137,
+          153
+        ],
+        "text": "four - year term",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          171,
+          195
+        ],
+        "text": "House of Representatives",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          229,
+          244
+        ],
+        "text": "two - year term",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          56,
+          60
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          78
+        ],
+        "text": "Delaware",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          48
+        ],
+        "text": "Delaware",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          61
+        ],
+        "text": "Delaware Senate",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          97,
+          103
+        ],
+        "text": "Senate",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          67,
+          69
+        ],
+        "text": "21",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          87,
+          120
+        ],
+        "text": "Delaware House of Representatives",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          126,
+          128
+        ],
+        "text": "41",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          28
+        ],
+        "text": "Legislative Hall",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          37
+        ],
+        "text": "Dover",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          64,
+          93
+        ],
+        "text": "the second Tuesday of January",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware_General_Assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q5253303",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._state",
+          "wikidata": "http://www.wikidata.org/entity/Q35657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware",
+          "wikidata": "http://www.wikidata.org/entity/Q1393",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q909035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E%E8%AD%B0%E4%BC%9A%E5%85%83%E8%80%81%E9%99%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q473124",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E%E8%AD%B0%E4%BC%9A%E4%BB%A3%E8%AD%B0%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware_Legislative_Hall",
+          "wikidata": "http://www.wikidata.org/entity/Q1183954",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dover,_Delaware",
+          "wikidata": "http://www.wikidata.org/entity/Q33518",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%90%E3%83%BC_(%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_census",
+          "wikidata": "http://www.wikidata.org/entity/Q1345528",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/United_States_Census",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "removed_mention_ids": [
+          "M14_2",
+          "M14_3"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Delaware_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q473124",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A9%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%9E%E8%AD%B0%E4%BC%9A%E4%BB%A3%E8%AD%B0%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

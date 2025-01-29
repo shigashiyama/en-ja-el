@@ -1,0 +1,287 @@
+{
+  "3516": {
+    "doc_info": {
+      "title": "My Red Hot Car",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "\" My Red Hot Car \" is a single by ■■■■■■■■■■■■ , released in 2001 on Warp Records .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The lead track on the single is \" My Red Hot Car ( Girl ) \" , which leaves the pop music aspects of the song intact .",
+        "text": "The lead track on the single is \" My Red Hot Car ( Girl ) \" , which leaves the pop music aspects of the song intact .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "An extended version of \" My Red Hot Car \" is featured on the album Go Plastic .",
+        "text": "An extended version of \" My Red Hot Car \" is featured on the album Go Plastic .",
+        "mention_ids": [
+          "M0_1",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "orig_text": "My Red Hot Car is notable for two different hidden tracks , based on format : the CD version features an ambient piece after 23 minutes of silence , while the vinyl features a percussion - less version of \" I Wish You Obelisk \" presented behind a silent , locked groove , meaning the needle must be lifted halfway through the second side and placed after the locked groove in order to hear it .",
+        "text": "My Red Hot Car is notable for two different hidden tracks , based on format : the CD version features an ambient piece after 23 minutes of silence , while the vinyl features a percussion - less version of \" I Wish You Obelisk \" presented behind a silent , locked groove , meaning the needle must be lifted halfway through the second side and placed after the locked groove in order to hear it .",
+        "mention_ids": [
+          "M0_2",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The single was selected as NME Single of the Week in its week of release .",
+        "text": "The single was selected as NME Single of the Week in its week of release .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          16
+        ],
+        "text": "My Red Hot Car",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          39
+        ],
+        "text": "My Red Hot Car",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          14
+        ],
+        "text": "My Red Hot Car",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          46
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          65
+        ],
+        "text": "2001",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          69,
+          81
+        ],
+        "text": "Warp Records",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          34,
+          57
+        ],
+        "text": "My Red Hot Car ( Girl )",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          77
+        ],
+        "text": "Go Plastic",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          125,
+          135
+        ],
+        "text": "23 minutes",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          207,
+          225
+        ],
+        "text": "I Wish You Obelisk",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          49
+        ],
+        "text": "NME Single of the Week",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/My_Red_Hot_Car",
+          "wikidata": "http://www.wikidata.org/entity/Q3331257"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Squarepusher",
+          "wikidata": "http://www.wikidata.org/entity/Q553861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%83%97%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warp_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q543707",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Go_Plastic",
+          "wikidata": "http://www.wikidata.org/entity/Q5574897"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

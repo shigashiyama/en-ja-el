@@ -1,0 +1,383 @@
+{
+  "3375": {
+    "doc_info": {
+      "title": "Skai TV",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "スカイ・テレビは、ピレウスに拠点を置くギリシャ語の無料放送テレビ・ネットワークです。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "それは、国内最大のメディア・グループの1つであるスカイ・グループの一部です。",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "それは、2006年4月1日に現在の形でアテネ都市圏で再開され、徐々に全国に適用範囲が広がりました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "地上波デジタル伝送のほかに、ノヴァおよびコスモ―テ・テレビのサブスクリプションベースの暗号化サービスでも利用できます。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "スカイ・テレビは、ギリシャで地上波デジタル伝送を導入する民間テレビ・ネットワークのコンソーシアムであるディゲアのメンバーでもあります。",
+        "mention_ids": [
+          "M0_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "スカイ・テレビは開始時に、字幕を使用する代わりに、すべての外国語コンテンツをギリシャ語に吹き替えることを選択しました。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0"
+        ]
+      },
+      "06": {
+        "text": "ギリシャでは、ドキュメンタリー(ナレーション吹き替えを使用)と子供向け番組(口パク吹き替えを使用)を除いて、このようなことは非常にまれであるため、激しい批判の後、同局はほぼすべての外国番組で字幕を使用することに切り替えました。",
+        "mention_ids": [
+          "M9_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "スカイ・テレビ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "スカイ・テレビ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          7
+        ],
+        "text": "スカイ・テレビ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          43
+        ],
+        "text": "ギリシャ語",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          24
+        ],
+        "text": "ギリシャ語",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          13
+        ],
+        "text": "ピレウス",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          32
+        ],
+        "text": "スカイ・グループ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          13
+        ],
+        "text": "2006年4月1日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          22
+        ],
+        "text": "アテネ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          17
+        ],
+        "text": "ノヴァ",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          29
+        ],
+        "text": "コスモ―テ・テレビ",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          51,
+          55
+        ],
+        "text": "ディゲア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          9,
+          13
+        ],
+        "text": "ギリシャ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ギリシャ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Skai_TV",
+          "wikidata": "http://www.wikidata.org/entity/Q2334737"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Piraeus",
+          "wikidata": "http://www.wikidata.org/entity/Q58976",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%AC%E3%82%A6%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Skai_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q7533773"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Athens",
+          "wikidata": "http://www.wikidata.org/entity/Q1524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nova_(Greece)",
+          "wikidata": "http://www.wikidata.org/entity/Q1608689",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/NOVA_Greece"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cosmote_TV",
+          "wikidata": "http://www.wikidata.org/entity/Q7073092"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Digea",
+          "wikidata": "http://www.wikidata.org/entity/Q5275597"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greek_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9129",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

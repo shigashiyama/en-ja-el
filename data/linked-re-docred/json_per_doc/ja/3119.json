@@ -1,0 +1,477 @@
+{
+  "3119": {
+    "doc_info": {
+      "title": "Beaverton, Oregon",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ビーバートンは、米国オレゴン州のワシントン郡にある都市です。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "市の中心部は、ポートランドのダウンタウンの西、テュアラティン川渓谷にあります。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "2010国勢調査の時点で、人口は89,803です。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "これにより、この都市は郡内で2番目に大きな都市となり、オレゴンでは6番目に大きな都市となります。",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "04": {
+        "text": "防火およびEMSサービスは、テュアラティン渓谷消防・救助を通じて提供されます。",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "2010年に、ビーバートンは『マネー』誌により、100の国内の小さな都市で「最も住みやすい場所」の1つとして選ばれました。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M6_1"
+        ]
+      },
+      "06": {
+        "text": "ヒルズボロと並んで、ビーバートンはワシントン郡の経済の中心地の1つであり、ナイキなどのさまざまな業界の多数の企業が拠点を置いています。",
+        "mention_ids": [
+          "M0_0",
+          "M12_0",
+          "M13_0",
+          "M1_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          16
+        ],
+        "text": "ビーバートン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          13
+        ],
+        "text": "ビーバートン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ビーバートン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          18
+        ],
+        "text": "マネー",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          27
+        ],
+        "text": "100",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ヒルズボロ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          37,
+          40
+        ],
+        "text": "ナイキ",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          22
+        ],
+        "text": "ワシントン郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          23
+        ],
+        "text": "ワシントン郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          10
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          14
+        ],
+        "text": "オレゴン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          31
+        ],
+        "text": "オレゴン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          13
+        ],
+        "text": "ポートランド",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          33
+        ],
+        "text": "テュアラティン川渓谷",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2010年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          22
+        ],
+        "text": "89,803",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          8
+        ],
+        "text": "EMS",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          28
+        ],
+        "text": "テュアラティン渓谷消防・救助",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beaverton,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q81856",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington_County,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q484538",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E9%83%A1_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._state",
+          "wikidata": "http://www.wikidata.org/entity/Q35657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portland,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q6106",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Emergency_medical_services",
+          "wikidata": "http://www.wikidata.org/entity/Q860447",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%95%91%E6%80%A5%E9%9A%8A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tualatin_Valley_Fire_and_Rescue",
+          "wikidata": "http://www.wikidata.org/entity/Q16902012"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Money_(financial_website)",
+          "wikidata": "http://www.wikidata.org/entity/Q825316",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Money_(magazine)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%83%BC_(%E9%9B%91%E8%AA%8C)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hillsboro,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q81824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%82%BA%E3%83%9C%E3%83%AD_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q483915",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

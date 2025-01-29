@@ -1,0 +1,482 @@
+{
+  "3414": {
+    "doc_info": {
+      "title": "The Wedding Dance",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Wedding Dance ( sometimes known as The Dance Village ) is a 1566 oil - on - panel painting by Pieter Bruegel the Elder .",
+        "text": "The Wedding Dance ( sometimes known as The Dance Village ) is a 1566 oil - on - panel painting by Pieter Bruegel the Elder .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Owned by the museum of the Detroit Institute of Arts in Detroit , Michigan , the work was discovered by its director in England in 1930 , and brought to Detroit .",
+        "text": "Owned by the museum of the Detroit Institute of Arts in Detroit , Michigan , the work was discovered by its director in England in 1930 , and brought to Detroit .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M4_1",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It is believed to be one of a set of three Bruegel works from around the same time , The Wedding Dance , The Peasant Wedding ( 1567 ) and The Peasant Dance ( 1569 ) .",
+        "text": "It is believed to be one of a set of three Bruegel works from around the same time , The Wedding Dance , The Peasant Wedding ( 1567 ) and The Peasant Dance ( 1569 ) .",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The painting depicts 125 wedding guests .",
+        "text": "The painting depicts 125 wedding guests .",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "04": {
+        "orig_text": "As was customary in the Renaissance period , the brides wore black and men wore codpieces .",
+        "text": "As was customary in the Renaissance period , the brides wore black and men wore codpieces .",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Voyeurism is depicted throughout the entire art work ; dancing was disapproved of by the authorities and the church , and the painting can be seen as both a critique and comic depiction of a stereotypical oversexed , overindulgent , peasant class of the times .",
+        "text": "Voyeurism is depicted throughout the entire art work ; dancing was disapproved of by the authorities and the church , and the painting can be seen as both a critique and comic depiction of a stereotypical oversexed , overindulgent , peasant class of the times .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          17
+        ],
+        "text": "The Wedding Dance",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          56
+        ],
+        "text": "The Dance Village",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          85,
+          102
+        ],
+        "text": "The Wedding Dance",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          127,
+          131
+        ],
+        "text": "1567",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          138,
+          155
+        ],
+        "text": "The Peasant Dance",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          158,
+          162
+        ],
+        "text": "1569",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          24
+        ],
+        "text": "125",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          35
+        ],
+        "text": "Renaissance",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          68
+        ],
+        "text": "1566",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          98,
+          112
+        ],
+        "text": "Pieter Bruegel",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          50
+        ],
+        "text": "Bruegel",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          52
+        ],
+        "text": "Detroit Institute of Arts",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          63
+        ],
+        "text": "Detroit",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          153,
+          160
+        ],
+        "text": "Detroit",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          66,
+          74
+        ],
+        "text": "Michigan",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          120,
+          127
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          131,
+          135
+        ],
+        "text": "1930",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          42
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          105,
+          124
+        ],
+        "text": "The Peasant Wedding",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Wedding_Dance",
+          "wikidata": "http://www.wikidata.org/entity/Q3702434",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%A4%96%E3%81%A7%E3%81%AE%E5%A9%9A%E7%A4%BC%E3%81%AE%E8%B8%8A%E3%82%8A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
+          "wikidata": "http://www.wikidata.org/entity/Q43270",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%86%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B2%E3%83%AB"
+        },
+        "date_of_death": "1569-09-19T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Detroit_Institute_of_Arts",
+          "wikidata": "http://www.wikidata.org/entity/Q1201549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%88%E3%83%AD%E3%82%A4%E3%83%88%E7%BE%8E%E8%A1%93%E9%A4%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Detroit",
+          "wikidata": "http://www.wikidata.org/entity/Q12439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%88%E3%83%AD%E3%82%A4%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q1166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Peasant_Wedding",
+          "wikidata": "http://www.wikidata.org/entity/Q603751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%B0%91%E3%81%AE%E5%A9%9A%E5%AE%B4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Peasant_Dance",
+          "wikidata": "http://www.wikidata.org/entity/Q95562",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%B0%91%E3%81%AE%E8%B8%8A%E3%82%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Renaissance",
+          "wikidata": "http://www.wikidata.org/entity/Q4692",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%8D%E3%82%B5%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

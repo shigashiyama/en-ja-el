@@ -1,0 +1,468 @@
+{
+  "3408": {
+    "doc_info": {
+      "title": "Berlin-Hohenschönhausen Memorial",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ベルリン・ホーエンシェーンハウゼン記念館( )は、ベルリンの北東、リヒテンベルク地区、すなわちホーエンシェーンハウゼンの旧市区の一部であるアルト - ホーエンシェーンハウゼンの区画内の地区にある博物館兼記念館です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "それは1994年に、旧東ドイツ共産党国家保安省、すなわちシュタージの主要な政治刑務所の敷地内に開設されました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "東ドイツの他の多くの政府施設や軍事施設とは異なり、ホーエンシェーンハウゼン刑務所は、ベルリンの壁崩壊後もデモ参加者に襲撃されなかったため、刑務所当局は刑務所の機能と歴史の証拠を破壊することができました。",
+        "mention_ids": [
+          "M4_1",
+          "M8_1",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "このために、刑務所の機能に関する今日の知識は主に目撃者の証言や他の東ドイツの施設から得られた文書によってもたらされています。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "この刑務所は、2006年の映画『善き人のためのソナタ』と2017年のテレビシリーズ『ザ・セイム・スカイ』に表現されました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "05": {
+        "text": "これは、ヨーロッパの記憶と良心のプラットフォームの加盟組織です。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          20
+        ],
+        "text": "ベルリン・ホーエンシェーンハウゼン記念館",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          12
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          26
+        ],
+        "text": "善き人のためのソナタ",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          33
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          51
+        ],
+        "text": "ザ・セイム・スカイ",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          24
+        ],
+        "text": "ヨーロッパの記憶と良心のプラットフォーム",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          25,
+          29
+        ],
+        "text": "ベルリン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          40
+        ],
+        "text": "リヒテンベルク",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          69,
+          87
+        ],
+        "text": "アルト - ホーエンシェーンハウゼン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          59
+        ],
+        "text": "ホーエンシェーンハウゼン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          37
+        ],
+        "text": "ホーエンシェーンハウゼン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          8
+        ],
+        "text": "1994年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          23
+        ],
+        "text": "東ドイツ共産党国家保安省",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          33
+        ],
+        "text": "シュタージ",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          37
+        ],
+        "text": "東ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "東ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          48
+        ],
+        "text": "ベルリンの壁",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berlin-Hohensch%C3%B6nhausen_Memorial",
+          "wikidata": "http://www.wikidata.org/entity/Q390508",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Berlin-Hohenschönhausen_Memorial"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berlin",
+          "wikidata": "http://www.wikidata.org/entity/Q64",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lichtenberg",
+          "wikidata": "http://www.wikidata.org/entity/Q329609",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%8C%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alt-Hohensch%C3%B6nhausen",
+          "wikidata": "http://www.wikidata.org/entity/Q675118",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Alt-Hohenschönhausen"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hohensch%C3%B6nhausen",
+          "wikidata": "http://www.wikidata.org/entity/Q560668",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Hohenschönhausen"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stasi",
+          "wikidata": "http://www.wikidata.org/entity/Q153846",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%BC%E3%82%B8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stasi",
+          "wikidata": "http://www.wikidata.org/entity/Q153846",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%BC%E3%82%B8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q16957",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berlin_Wall",
+          "wikidata": "http://www.wikidata.org/entity/Q5086",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Lives_of_Others",
+          "wikidata": "http://www.wikidata.org/entity/Q153882",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%96%84%E3%81%8D%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Same_Sky_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q28457741"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Platform_of_European_Memory_and_Conscience",
+          "wikidata": "http://www.wikidata.org/entity/Q11202105"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

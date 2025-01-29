@@ -1,0 +1,606 @@
+{
+  "3397": {
+    "doc_info": {
+      "title": "Francisco Asenjo Barbieri",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "フランシスコ・アセンホ・バルビエリ(1823年8月3日–1894年2月19日)は、人気のあるスペインオペラのサルスエラの有名な作曲家でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_3",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "彼の作品には、『ラバピエスの理髪師』、『戯れの代償』、『 Pan y toros』、『ドン・キホーテ』、『Los diamantes de la corona』、および『El Diablo en el poder』などがあります。",
+        "mention_ids": [
+          "M10_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "彼のオペラの登場人物のテーマが明らかにスペイン人とマドリード人であることが多いため、それにふさわしく彼はマドリードで生まれ、亡くなりました。",
+        "mention_ids": [
+          "M11_0",
+          "M11_1",
+          "M3_1"
+        ]
+      },
+      "03": {
+        "text": "バルビエリに登場するキャラクターの中には、闘牛士、マノロス、マノラス、さらには(『 Pan y toros』では)有名なスペイン人画家であるフランシスコ・ゴヤもいます。",
+        "mention_ids": [
+          "M0_3",
+          "M12_0",
+          "M3_4",
+          "M7_2"
+        ]
+      },
+      "04": {
+        "text": "バルビエリの作品の多くは茶番であり、観客を楽しませるために誤った身分や他の仕掛けを使っています。",
+        "mention_ids": [
+          "M0_2"
+        ]
+      },
+      "05": {
+        "text": "彼のテーマは主に、19世紀スペインにおける愛の詳細、および上流階級と下層階級の関係を扱っていますが、彼の作品の多くは独特な政治的性格もあります。",
+        "mention_ids": [
+          "M13_0",
+          "M3_0"
+        ]
+      },
+      "06": {
+        "text": "サルスエラの『ラバピエスの理髪師』と『Pan y toros』には両方とも政府転覆の陰謀が含まれています。",
+        "mention_ids": [
+          "M14_0",
+          "M7_1"
+        ]
+      },
+      "07": {
+        "text": "バルビエリは、作曲に加えて、熟達した音楽家でもありました。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "08": {
+        "text": "彼はラ・エスパーニャ・ミュージカル(スペイン・オペレッタ促進協会)とオーケストラ音楽協会の創設者でした。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M3_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          17
+        ],
+        "text": "フランシスコ・アセンホ・バルビエリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "バルビエリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "バルビエリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "バルビエリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          85,
+          106
+        ],
+        "text": "El Diablo en el poder",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          57
+        ],
+        "text": "マドリード",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          31
+        ],
+        "text": "マドリード人",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          70,
+          79
+        ],
+        "text": "フランシスコ・ゴヤ",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          13
+        ],
+        "text": "19世紀",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          17
+        ],
+        "text": "サルスエラの『ラバピエスの理髪師』",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "08",
+        "span": [
+          2,
+          17
+        ],
+        "text": "ラ・エスパーニャ・ミュージカル",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "08",
+        "span": [
+          34,
+          44
+        ],
+        "text": "オーケストラ音楽協会",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          27
+        ],
+        "text": "1823年8月3日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          38
+        ],
+        "text": "1894年2月19日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          17
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          24
+        ],
+        "text": "スペイン人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "08",
+        "span": [
+          18,
+          22
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          50
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "03",
+        "span": [
+          60,
+          65
+        ],
+        "text": "スペイン人",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          59
+        ],
+        "text": "サルスエラ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          17
+        ],
+        "text": "ラバピエスの理髪師",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          25
+        ],
+        "text": "戯れの代償",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          40
+        ],
+        "text": " Pan y toros",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "06",
+        "span": [
+          19,
+          30
+        ],
+        "text": "Pan y toros",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          53
+        ],
+        "text": " Pan y toros",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          50
+        ],
+        "text": "ドン・キホーテ",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          53,
+          79
+        ],
+        "text": "Los diamantes de la corona",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Francisco_Asenjo_Barbieri",
+          "wikidata": "http://www.wikidata.org/entity/Q1236051"
+        },
+        "date_of_death": "1894-02-17T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zarzuela",
+          "wikidata": "http://www.wikidata.org/entity/Q148163",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%82%B9%E3%82%A8%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/El_barberillo_de_Lavapi%C3%A9s",
+          "wikidata": "http://www.wikidata.org/entity/Q1801658",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/El_barberillo_de_Lavapiés"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jugar_con_fuego",
+          "wikidata": "http://www.wikidata.org/entity/Q9016377"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_diamantes_de_la_corona",
+          "wikidata": "http://www.wikidata.org/entity/Q3259786"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Madrid",
+          "wikidata": "http://www.wikidata.org/entity/Q2807",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Francisco_Goya",
+          "wikidata": "http://www.wikidata.org/entity/Q5432",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B4%E3%83%A4"
+        },
+        "date_of_death": "1828-04-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/El_barberillo_de_Lavapi%C3%A9s",
+          "wikidata": "http://www.wikidata.org/entity/Q1801658",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/El_barberillo_de_Lavapiés"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

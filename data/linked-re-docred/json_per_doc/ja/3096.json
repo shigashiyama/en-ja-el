@@ -1,0 +1,784 @@
+{
+  "3096": {
+    "doc_info": {
+      "title": "ITS launch vehicle",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ITS打上げロケットは、SpaceXが開発を計画していた民間資金による軌道打上げロケット用の、2016年から2017年にかけての設計でした。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_3",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "設計作業は2017年に中止され、開発は現在BFRと呼ばれる小型バージョンに移行しました。",
+        "mention_ids": [
+          "M2_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "ITS打上げロケットの当初の設計目標は、太陽系の地球軌道を超えた部分にある火星や他の目的地への、さまざまなSpaceXの惑星間輸送システムミッションを打上げることでした。",
+        "mention_ids": [
+          "M0_2",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "最初の打上げは、2020年代までには見込まれていませんでした。",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "ITS打上げロケットは、やや珍しい2段式ロケットとして運用される予定でした。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0"
+        ]
+      },
+      "05": {
+        "text": "その1段目は、SpaceXが設計・製造した42ラプター・ロケットエンジンを動力源とし、これまではロケット推進剤としては広く使用されていなかった高密度化された（三重点近くに冷却）メタン/酸素の推進剤で動作するものでした。",
+        "mention_ids": [
+          "M11_0",
+          "M12_2",
+          "M13_2"
+        ]
+      },
+      "06": {
+        "text": "それに先行するファルコン9軌道打上げロケットと同様に、ITS打上げロケットの第1段の設計では、打上げのたびに射場に戻って垂直着陸した後に再利用できることが意図されていました。",
+        "mention_ids": [
+          "M0_4",
+          "M14_0"
+        ]
+      },
+      "07": {
+        "text": "発表時には、SpaceXの打上げロケット用の2段目と軌道宇宙船の完全に再利用という新機能も設計されていました。",
+        "mention_ids": [
+          "M13_3"
+        ]
+      },
+      "08": {
+        "text": "この打上げロケットの大積載量は超重揚力クラスに分類され、再利用可能な構成と使い捨てのモードで、低地球軌道に投入する能力を備えていました。",
+        "mention_ids": [
+          "M7_1"
+        ]
+      },
+      "09": {
+        "text": "この地球打上げロケットの2段目には、2つのバージョンがあり、乗員と貨物用の惑星間宇宙船と、推進剤を地球軌道に輸送するためのITSタンカーが計画されていました。",
+        "mention_ids": [
+          "M0_0",
+          "M15_0",
+          "M7_2",
+          "M7_3"
+        ]
+      },
+      "10": {
+        "text": "どちらも、6基の真空最適化されたラプター・ロケットエンジンと、操縦用の3基の追加海面ノズルラプター・エンジンを搭載する予定でした。",
+        "mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "11": {
+        "text": "したがって、地球からのすべての打上げで軌道速度に2段目の加速を提供する打上げロケットの要素は、軌道上の宇宙船としても使用されることになっていました。",
+        "mention_ids": [
+          "M7_4"
+        ]
+      },
+      "12": {
+        "text": "惑星間宇宙船は、惑星間の目的地への乗客と宇宙貨物の両方を非常に長期間輸送できるように計画され、火星での降下と上昇の両方のビークルとして機能する予定でした。",
+        "mention_ids": [
+          "M6_1"
+        ]
+      },
+      "13": {
+        "text": "このビークルの高レベルな仕様は2016年9月に公表されましたが、2017年7月までにSpaceXは、以前計画したような直径のビークルは製造せず、代わりに「さらに大きい」がはるかに小型の打上げビークルを最初に製造すると述べました。",
+        "mention_ids": [
+          "M13_0",
+          "M18_0",
+          "M2_1"
+        ]
+      },
+      "14": {
+        "text": "その後、それは2017年9月に、既存のすべてのSpaceXの打上げビークルと乗員/貨物宇宙船をコスト効率よく置き換え、後継とすることを目的としたビークルであるBFRであることが明らかになりました。",
+        "mention_ids": [
+          "M13_1",
+          "M2_2",
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "09",
+        "span": [
+          61,
+          64
+        ],
+        "text": "ITS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ITS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ITS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ITS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          30
+        ],
+        "text": "ITS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          20
+        ],
+        "text": "2段式",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          23
+        ],
+        "text": "42",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "10",
+        "span": [
+          16,
+          20
+        ],
+        "text": "ラプター",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "10",
+        "span": [
+          45,
+          49
+        ],
+        "text": "ラプター",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M12_2": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          27
+        ],
+        "text": "ラプター",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "13",
+        "span": [
+          42,
+          48
+        ],
+        "text": "SpaceX",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "14",
+        "span": [
+          23,
+          29
+        ],
+        "text": "SpaceX",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          13
+        ],
+        "text": "SpaceX",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M13_3": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          12
+        ],
+        "text": "SpaceX",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          13
+        ],
+        "text": "ファルコン9",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          18,
+          20
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "10",
+        "span": [
+          5,
+          7
+        ],
+        "text": "6基",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "10",
+        "span": [
+          35,
+          37
+        ],
+        "text": "3基",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "13",
+        "span": [
+          15,
+          22
+        ],
+        "text": "2016年9月",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          52
+        ],
+        "text": "2016年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "13",
+        "span": [
+          32,
+          39
+        ],
+        "text": "2017年7月",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "14",
+        "span": [
+          7,
+          14
+        ],
+        "text": "2017年9月",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          59
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          18
+        ],
+        "text": "SpaceX",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          24
+        ],
+        "text": "BFR",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "14",
+        "span": [
+          79,
+          82
+        ],
+        "text": "BFR",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          69
+        ],
+        "text": "SpaceXの惑星間輸送システム",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          39
+        ],
+        "text": "火星",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "12",
+        "span": [
+          47,
+          49
+        ],
+        "text": "火星",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          26
+        ],
+        "text": "地球",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "08",
+        "span": [
+          48,
+          50
+        ],
+        "text": "地球",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "09",
+        "span": [
+          2,
+          4
+        ],
+        "text": "地球",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_3": {
+        "sentence_id": "09",
+        "span": [
+          49,
+          51
+        ],
+        "text": "地球",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_4": {
+        "sentence_id": "11",
+        "span": [
+          6,
+          8
+        ],
+        "text": "地球",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          23
+        ],
+        "text": "太陽系",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          14
+        ],
+        "text": "2020年代",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Starship_design_history",
+          "wikidata": "http://www.wikidata.org/entity/Q85803246",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/ITS_launch_vehicle"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX",
+          "wikidata": "http://www.wikidata.org/entity/Q193701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Starship_design_history",
+          "wikidata": "http://www.wikidata.org/entity/Q85803246",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/BFR_(rocket)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Starship_design_history",
+          "wikidata": "http://www.wikidata.org/entity/Q85803246",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Interplanetary_Transport_System"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mars",
+          "wikidata": "http://www.wikidata.org/entity/Q111",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%81%AB%E6%98%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2",
+          "M7_3",
+          "M7_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Solar_System",
+          "wikidata": "http://www.wikidata.org/entity/Q544",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E7%B3%BB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M12_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Raptor",
+          "wikidata": "http://www.wikidata.org/entity/Q4135025",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Raptor_(rocket_engine_family)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC_(%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2",
+          "M13_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SpaceX",
+          "wikidata": "http://www.wikidata.org/entity/Q193701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9X"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Falcon_9",
+          "wikidata": "http://www.wikidata.org/entity/Q249091",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B39"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

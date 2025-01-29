@@ -1,0 +1,615 @@
+{
+  "3209": {
+    "doc_info": {
+      "title": "More (The Sisters of Mercy song)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "\" More \" is a song by The Sisters of Mercy , from their album Vision Thing .",
+        "text": "\" More \" is a song by The Sisters of Mercy , from their album Vision Thing .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was the first single from the album , reaching number one on the Billboard Modern Rock Tracks chart for five weeks , starting 15 December 1990 .",
+        "text": "It was the first single from the album , reaching number one on the Billboard Modern Rock Tracks chart for five weeks , starting 15 December 1990 .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "The song was co - written and co - produced by ■■■■■■■■■■■■■■■ and Jim Steinman .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "It was covered by ■■■■■■■ on their album Reason , and Gregorian for their album The Dark Side .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "Steinman produced a cover of the song , by ■■■■■■■■■■ and ■■■■■■■■■■■■■■■■■ , for the soundtrack of the MTV film Wuthering Heights .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "orig_text": "He also used the song 's main guitar riff and the \" I need all the love I can get \" vocal in a song for his musical Batman .",
+        "text": "He also used the song 's main guitar riff and the \" I need all the love I can get \" vocal in a song for his musical Batman .",
+        "mention_ids": [
+          "M17_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The song has also been re - recorded by Meat Loaf for his 2016 album Braver Than We Are .",
+        "text": "The song has also been re - recorded by Meat Loaf for his 2016 album Braver Than We Are .",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M20_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          6
+        ],
+        "text": "More",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          63
+        ],
+        "text": "Gregorian",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          80,
+          93
+        ],
+        "text": "The Dark Side",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Steinman",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          43,
+          53
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          75
+        ],
+        "text": "■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          104,
+          107
+        ],
+        "text": "MTV",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          113,
+          130
+        ],
+        "text": "Wuthering Heights",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          116,
+          122
+        ],
+        "text": "Batman",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          40,
+          49
+        ],
+        "text": "Meat Loaf",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          58,
+          62
+        ],
+        "text": "2016",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          42
+        ],
+        "text": "Sisters of Mercy",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          69,
+          87
+        ],
+        "text": "Braver Than We Are",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          74
+        ],
+        "text": "Vision Thing",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          68,
+          96
+        ],
+        "text": "Billboard Modern Rock Tracks",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          107,
+          117
+        ],
+        "text": "five weeks",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          129,
+          145
+        ],
+        "text": "15 December 1990",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          47,
+          62
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          79
+        ],
+        "text": "Jim Steinman",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          25
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          47
+        ],
+        "text": "Reason",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/More_(The_Sisters_of_Mercy_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q6910883"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Sisters_of_Mercy",
+          "wikidata": "http://www.wikidata.org/entity/Q751814",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vision_Thing_(album)",
+          "wikidata": "http://www.wikidata.org/entity/Q1893045"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alternative_Airplay",
+          "wikidata": "http://www.wikidata.org/entity/Q1025849",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%B4%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrew_Eldritch",
+          "wikidata": "http://www.wikidata.org/entity/Q504600"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jim_Steinman",
+          "wikidata": "http://www.wikidata.org/entity/Q281908",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%B3"
+        },
+        "date_of_death": "2021-04-19T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shaman_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q212481",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Shaaman",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%B3_(%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E3%81%AE%E3%83%90%E3%83%B3%E3%83%89)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reason_(Shaman_album)",
+          "wikidata": "http://www.wikidata.org/entity/Q3281344",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Reason_(Shaaman_album)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gregorian_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q161552",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%A2%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Dark_Side_(Gregorian_album)",
+          "wikidata": "http://www.wikidata.org/entity/Q2546171"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jim_Steinman",
+          "wikidata": "http://www.wikidata.org/entity/Q281908",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%B3"
+        },
+        "date_of_death": "2021-04-19T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mike_Vogel",
+          "wikidata": "http://www.wikidata.org/entity/Q40122",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%B2%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Erika_Christensen",
+          "wikidata": "http://www.wikidata.org/entity/Q234564",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%83%B3%E3%82%BB%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MTV",
+          "wikidata": "http://www.wikidata.org/entity/Q43359",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MTV"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights_(2003_film)",
+          "wikidata": "http://www.wikidata.org/entity/Q4150123"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Meat_Loaf",
+          "wikidata": "http://www.wikidata.org/entity/Q152929",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%95_(%E6%AD%8C%E6%89%8B)"
+        },
+        "date_of_death": "2022-01-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Braver_Than_We_Are",
+          "wikidata": "http://www.wikidata.org/entity/Q24890300"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "3326": {
+    "doc_info": {
+      "title": "Sharpbelly",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The sharpbelly or wild carp , Korean sharpbelly , or common sawbelly ( Hemiculter leucisculus ) , is a tropical freshwater and brackish water fish belonging to the Cultrinae subfamily of the family Cyprinidae .",
+        "text": "The sharpbelly or wild carp , Korean sharpbelly , or common sawbelly ( Hemiculter leucisculus ) , is a tropical freshwater and brackish water fish belonging to the Cultrinae subfamily of the family Cyprinidae .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It originates in large streams and reservoirs in China , Japan , Hong Kong , Korea , and the Amur River basin .",
+        "text": "It originates in large streams and reservoirs in China , Japan , Hong Kong , Korea , and the Amur River basin .",
+        "mention_ids": [
+          "M0_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It has become established as an exotic species in several other countries , including Iran , Afghanistan , and the former Soviet Union , where it has displaced local species .",
+        "text": "It has become established as an exotic species in several other countries , including Iran , Afghanistan , and the former Soviet Union , where it has displaced local species .",
+        "mention_ids": [
+          "M10_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "It was originally described as Culter leucisculus by ■■■■■■■■■■■■■ in 1855 , and has also been referred to as Chanodichthys leucisculus and Hemiculter leucisculus warpachowskii in scientific literature .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M1_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The fish reaches a size up to 23.0  cm ( 9.1  in ) long , and is native to fresh and brackish water habitats with a pH of 7.0 , a hardness of 15 DH , and a temperature of 18 to 22  ° C ( 64 to 72  ° F ) .",
+        "text": "The fish reaches a size up to 23.0 cm ( 9.1 in ) long , and is native to fresh and brackish water habitats with a pH of 7.0 , a hardness of 15 DH , and a temperature of 18 to 22 ° C ( 64 to 72 ° F ) .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "05": {
+        "orig_text": "It is green - gray on the back , and white in the belly .",
+        "text": "It is green - gray on the back , and white in the belly .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The bulk of its diet includes zooplankton , insects , crustaceans , algae , and detritus .",
+        "text": "The bulk of its diet includes zooplankton , insects , crustaceans , algae , and detritus .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "It is of minor commercial importance , primarily in China , where it is canned .",
+        "text": "It is of minor commercial importance , primarily in China , where it is canned .",
+        "mention_ids": [
+          "M4_1"
+        ]
+      },
+      "08": {
+        "orig_text": "In Hong Kong , it is not favored as a table fish because the flesh is unpalatable and very bony .",
+        "text": "In Hong Kong , it is not favored as a table fish because the flesh is unpalatable and very bony .",
+        "mention_ids": [
+          "M6_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          77,
+          82
+        ],
+        "text": "Korea",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          30,
+          36
+        ],
+        "text": "Korean",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          122,
+          134
+        ],
+        "text": "Soviet Union",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          66
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          70,
+          74
+        ],
+        "text": "1855",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          37
+        ],
+        "text": "23.0 cm",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          43
+        ],
+        "text": "9.1",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          169,
+          171
+        ],
+        "text": "18",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          175,
+          181
+        ],
+        "text": "22 ° C",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          184,
+          186
+        ],
+        "text": "64",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          190,
+          196
+        ],
+        "text": "72 ° F",
+        "entity_type": "NUM",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          71,
+          81
+        ],
+        "text": "Hemiculter",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "03",
+        "span": [
+          140,
+          150
+        ],
+        "text": "Hemiculter",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          164,
+          173
+        ],
+        "text": "Cultrinae",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          198,
+          208
+        ],
+        "text": "Cyprinidae",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          54
+        ],
+        "text": "China",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "07",
+        "span": [
+          52,
+          57
+        ],
+        "text": "China",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          62
+        ],
+        "text": "Japan",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          65,
+          74
+        ],
+        "text": "Hong Kong",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "08",
+        "span": [
+          3,
+          12
+        ],
+        "text": "Hong Kong",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          93,
+          103
+        ],
+        "text": "Amur River",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          86,
+          90
+        ],
+        "text": "Iran",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          93,
+          104
+        ],
+        "text": "Afghanistan",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q18097",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hemiculter",
+          "wikidata": "http://www.wikidata.org/entity/Q624979"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cultrinae",
+          "wikidata": "http://www.wikidata.org/entity/Q556986"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cyprinidae",
+          "wikidata": "http://www.wikidata.org/entity/Q35047",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A4%E7%A7%91"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amur",
+          "wikidata": "http://www.wikidata.org/entity/Q6862",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Amur_River",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%BC%E3%83%AB%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iran",
+          "wikidata": "http://www.wikidata.org/entity/Q794",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Afghanistan",
+          "wikidata": "http://www.wikidata.org/entity/Q889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Soviet_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q15180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E9%80%A3%E9%82%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stepan_Ivanovich_Basilewsky",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Stepan_Ivanovich_Basilewsky"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

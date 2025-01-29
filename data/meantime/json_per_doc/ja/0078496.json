@@ -1,0 +1,527 @@
+{
+  "0078496": {
+    "doc_info": {
+      "title": "78496_Airbus_A380_test_flight_delayed_after_accident",
+      "url": "http://en.wikinews.org/wiki/Airbus_A380_test_flight_delayed_after_accident"
+    },
+    "sentences": {
+      "00": {
+        "text": "エアバスA380試験飛行が事故により遅延",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "01": {
+        "text": "2007年9月1日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "世界最大の旅客機、新型エアバスA380スーパージャンボの試験飛行は、タイのバンコクにあるスワンナプーム空港での表面的な事故により、本日延期されました。",
+        "mention_ids": [
+          "M006",
+          "M010"
+        ]
+      },
+      "03": {
+        "text": "その軽微な事故は、その飛行機がチェンマイ国際空港に向かう前に、その飛行機が駐車場から離脱する際のプッシュ・バック中に発生しました。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M017"
+        ]
+      },
+      "04": {
+        "text": "そのジェット機がタイ国際航空のタグボート操縦者によって押し戻されていたとき、左のウィングレットが格納庫の側面に当たり、それを押し潰しました。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M019",
+          "M020"
+        ]
+      },
+      "05": {
+        "text": "燃費向上を目的として設計されたウイングレットは、非致命的な部品です。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "06": {
+        "text": "検査の結果、エアバスは両方のウイングレットを取り外し、ウイングレットなしで飛行を継続することを決定しました。",
+        "mention_ids": [
+          "M085"
+        ]
+      },
+      "07": {
+        "text": "その飛行機は、その出発予定の現地時間午前9時45分の4時間後に150人の乗客を乗せて出発しました。",
+        "mention_ids": [
+          "M083",
+          "M123"
+        ]
+      },
+      "08": {
+        "text": "この飛行は、翼幅79メートルの大型旅客機は大きすぎて（したがって地上作業員にとっては複雑すぎる）、ほとんどの空港で実際には運用できないという批判に対抗することを目的としたものでした。",
+        "mention_ids": [
+          "M122"
+        ],
+        "untranslated_mention_ids": [
+          "M089"
+        ]
+      },
+      "09": {
+        "text": "また、昨年9月の開港以来、さまざまな事件が発生しているスワンナプーム空港では、問題が続いていることも明らかになっており、その中で最も深刻なものは、開港直後の空港誘導路の大きな亀裂の発見でした。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "エアバスは、同社は飛行機のデモを行う同社のアジア・ツアーを続けると述べました。",
+        "mention_ids": [
+          "M087",
+          "M101",
+          "M103",
+          "M104"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "04",
+        "span": [
+          38,
+          47
+        ],
+        "text": "左のウィングレット",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M002": {
+        "sentence_id": "04",
+        "span": [
+          48,
+          54
+        ],
+        "text": "格納庫の側面",
+        "entity_type": null,
+        "entity_id": "E152"
+      },
+      "M003": {
+        "sentence_id": "04",
+        "span": [
+          59,
+          61
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E152"
+      },
+      "M004": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          22
+        ],
+        "text": "ウイングレット",
+        "entity_type": null,
+        "entity_id": "E142"
+      },
+      "M005": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          31
+        ],
+        "text": "非致命的な部品",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          27
+        ],
+        "text": "世界最大の旅客機、新型エアバスA380スーパージャンボ",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          53
+        ],
+        "text": "タイのバンコクにあるスワンナプーム空港",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          36
+        ],
+        "text": "その飛行機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          14
+        ],
+        "text": "その飛行機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          40
+        ],
+        "text": "駐車場",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          24
+        ],
+        "text": "チェンマイ国際空港",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M018": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "エアバスA380",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M019": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "そのジェット機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M020": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          23
+        ],
+        "text": "タイ国際航空のタグボート操縦者",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M083": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "その飛行機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M085": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          10
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M087": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M101": {
+        "sentence_id": "10",
+        "span": [
+          6,
+          8
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M103": {
+        "sentence_id": "10",
+        "span": [
+          18,
+          21
+        ],
+        "text": "同社の",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M104": {
+        "sentence_id": "10",
+        "span": [
+          9,
+          12
+        ],
+        "text": "飛行機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M122": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          20
+        ],
+        "text": "大型旅客機",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M123": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          9
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E150"
+      }
+    },
+    "entities": {
+      "E054": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E073": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M072"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Chiang_Mai_International_Airport",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chiang_Mai_International_Airport",
+          "wikidata": "http://www.wikidata.org/entity/Q1065082",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%9E%E3%82%A4%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Suvarnabhumi_Airport",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Suvarnabhumi_Airport",
+          "wikidata": "http://www.wikidata.org/entity/Q194316",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%83%B3%E3%83%8A%E3%83%97%E3%83%BC%E3%83%A0%E7%A9%BA%E6%B8%AF"
+        }
+      },
+      "E133": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E138": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Thai_Airways",
+          "dbpedia:orig": "http://dbpedia.org/resource/Thai_Airways",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Thai_Airways_International",
+          "wikidata": "http://www.wikidata.org/entity/Q188710",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E140": {
+        "member_mention_ids": [
+          "M085",
+          "M087",
+          "M101",
+          "M103"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E142": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E146": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Thailand",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Thailand",
+          "wikidata": "http://www.wikidata.org/entity/Q869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+        }
+      },
+      "E150": {
+        "member_mention_ids": [
+          "M006",
+          "M013",
+          "M014",
+          "M018",
+          "M083",
+          "M104",
+          "M122",
+          "M123"
+        ],
+        "removed_mention_ids": [
+          "M009",
+          "M089",
+          "M007",
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_A380",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus_A380",
+          "wikidata": "http://www.wikidata.org/entity/Q5830",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9A380"
+        }
+      },
+      "E151": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Bangkok",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bangkok",
+          "wikidata": "http://www.wikidata.org/entity/Q1861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF"
+        }
+      },
+      "E152": {
+        "member_mention_ids": [
+          "M002",
+          "M003"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E153": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

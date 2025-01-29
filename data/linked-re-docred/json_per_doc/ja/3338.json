@@ -1,0 +1,515 @@
+{
+  "3338": {
+    "doc_info": {
+      "title": "Enterprise Objects Framework",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Enterprise Objects Framework、またはより一般的には単にEOFは、先駆的なオブジェクトとして1994年にNeXTによって、NeXTSTEPおよびOpenStepの開発プラットフォーム用のリレーショナル・マッピング製品として導入されました。",
+        "mention_ids": [
+          "M0_0",
+          "M0_3",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "EOFは、データベースの行をJavaまたはObjective-Cのオブジェクトにマッピングすることにより、リレーショナル・データベースと対話するプロセスを抽象化します。",
+        "mention_ids": [
+          "M0_4",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "これにより、開発者は低レベルのSQLのコードを作成する手間が大幅に軽減されます。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "EOFは、1990年代半ばにNeXTのオブジェクト指向のプラットホームによる迅速なアプリケーション開発の利点に惹かれた金融機関の間でニッチな成功を収めました。",
+        "mention_ids": [
+          "M0_2",
+          "M1_1",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "Apple社が1996年にNeXTと合併して以来、EOFは、元はNeXTのアプリケーション・サーバーであるWebObjectsの完全に統合された部分に進化しました。",
+        "mention_ids": [
+          "M0_5",
+          "M10_0",
+          "M11_0",
+          "M1_2",
+          "M1_3",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "Core Dataの一部として再登場したEOFのコア概念の多くは、基礎となるデータ形式をさらに抽象化して非SQLストアに基づくことができるようにします。",
+        "mention_ids": [
+          "M0_1",
+          "M12_0",
+          "M13_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          28
+        ],
+        "text": "Enterprise Objects Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          23
+        ],
+        "text": "EOF",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "EOF",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          44
+        ],
+        "text": "EOF",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "EOF",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          28
+        ],
+        "text": "EOF",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1996年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          53,
+          63
+        ],
+        "text": "WebObjects",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Core Data",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          52,
+          56
+        ],
+        "text": "非SQL",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          69
+        ],
+        "text": "NeXT",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          18
+        ],
+        "text": "NeXT",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          17
+        ],
+        "text": "NeXT",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          36
+        ],
+        "text": "NeXT",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          64
+        ],
+        "text": "1994年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          82
+        ],
+        "text": "NeXTSTEP",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          93
+        ],
+        "text": "OpenStep",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          18
+        ],
+        "text": "Java",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          32
+        ],
+        "text": "Objective-C",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          18
+        ],
+        "text": "SQL",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          13
+        ],
+        "text": "1990年代半ば",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Apple社",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Enterprise_Objects_Framework",
+          "wikidata": "http://www.wikidata.org/entity/Q363764",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Enterprise_Objects_Framework"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NeXT",
+          "wikidata": "http://www.wikidata.org/entity/Q308993",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NeXT"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NeXTSTEP",
+          "wikidata": "http://www.wikidata.org/entity/Q831367",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NEXTSTEP"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/OpenStep",
+          "wikidata": "http://www.wikidata.org/entity/Q1193981",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/OPENSTEP"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+          "wikidata": "http://www.wikidata.org/entity/Q251",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Java"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Objective-C",
+          "wikidata": "http://www.wikidata.org/entity/Q188531",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Objective-C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SQL",
+          "wikidata": "http://www.wikidata.org/entity/Q47607",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/SQL"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Apple_Inc",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/WebObjects",
+          "wikidata": "http://www.wikidata.org/entity/Q1928563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/WebObjects"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Core_Data",
+          "wikidata": "http://www.wikidata.org/entity/Q2146830",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Core_Data"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NoSQL",
+          "wikidata": "http://www.wikidata.org/entity/Q82231",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NoSQL"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

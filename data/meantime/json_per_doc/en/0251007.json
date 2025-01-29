@@ -1,0 +1,338 @@
+{
+  "0251007": {
+    "doc_info": {
+      "title": "251007_Japanese_stocks_continue_to_fall_after_earthquake",
+      "url": "http://en.wikinews.org/wiki/Japanese_stocks_continue_to_fall_after_earthquake"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Japanese stocks continue to fall after earthquake",
+        "text": "Japanese stocks continue to fall after earthquake",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "orig_text": "March 18, 2011",
+        "text": "March 18, 2011",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "The prominent Japanese Nikkei 225 stock market index fell another 1.4% Thursday, over financial turmoil after the massive 9.0 magnitude earthquake and tsunami hit the country a week ago.",
+        "text": "The prominent Japanese Nikkei 225 stock market index fell another 1.4% Thursday, over financial turmoil after the massive 9.0 magnitude earthquake and tsunami hit the country a week ago.",
+        "mention_ids": [
+          "M008",
+          "M009"
+        ]
+      },
+      "03": {
+        "orig_text": "For the past five trading days, stocks have been down by a total of fourteen percent; today, they were down as much as five percent, or 454 points, but rebounded to close at 8,962 points.",
+        "text": "For the past five trading days, stocks have been down by a total of fourteen percent; today, they were down as much as five percent, or 454 points, but rebounded to close at 8,962 points.",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "04": {
+        "orig_text": "US stocks also reacted negatively to the cataclysm; the Standard & Poor's 500 index dropped 1.95% while the Dow Jones Industrial Average lost 2.04%.",
+        "text": "US stocks also reacted negatively to the cataclysm; the Standard & Poor's 500 index dropped 1.95% while the Dow Jones Industrial Average lost 2.04%.",
+        "mention_ids": [
+          "M012",
+          "M014",
+          "M015"
+        ]
+      },
+      "05": {
+        "orig_text": "The British FTSE, however, gained 0.77%, but after a large loss yesterday.",
+        "text": "The British FTSE, however, gained 0.77%, but after a large loss yesterday.",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "06": {
+        "orig_text": "Meanwhile, the Japanese yen reached its highest level ever against the US dollar since the end of World War II, peaking at 76.25 to a dollar before finishing the day at 79.14.",
+        "text": "Meanwhile, the Japanese yen reached its highest level ever against the US dollar since the end of World War II, peaking at 76.25 to a dollar before finishing the day at 79.14.",
+        "mention_ids": [
+          "M091",
+          "M094"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Japanese stocks",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          52
+        ],
+        "text": "The prominent Japanese Nikkei 225 stock market index",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          163,
+          174
+        ],
+        "text": "the country",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          38
+        ],
+        "text": "stocks",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          93,
+          97
+        ],
+        "text": "they",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M012": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "US stocks",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M014": {
+        "sentence_id": "04",
+        "span": [
+          52,
+          83
+        ],
+        "text": "the Standard & Poor's 500 index",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M015": {
+        "sentence_id": "04",
+        "span": [
+          104,
+          136
+        ],
+        "text": "the Dow Jones Industrial Average",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M016": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          16
+        ],
+        "text": "The British FTSE",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M091": {
+        "sentence_id": "06",
+        "span": [
+          67,
+          80
+        ],
+        "text": "the US dollar",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M094": {
+        "sentence_id": "06",
+        "span": [
+          132,
+          140
+        ],
+        "text": "a dollar",
+        "entity_type": null,
+        "entity_id": "E101"
+      }
+    },
+    "entities": {
+      "E099": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/FTSE_100_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q466496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FTSE100%E7%A8%AE%E7%B7%8F%E5%90%88%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E100": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E101": {
+        "member_mention_ids": [
+          "M091",
+          "M094"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_dollar",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_dollar",
+          "wikidata": "http://www.wikidata.org/entity/Q4917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%83%89%E3%83%AB"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [
+          "M001",
+          "M010",
+          "M011"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E104": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M077"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_Kingdom",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M048",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Japan",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        }
+      },
+      "E107": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nikkei_225",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikkei_225",
+          "wikidata": "http://www.wikidata.org/entity/Q507338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      }
+    }
+  }
+}

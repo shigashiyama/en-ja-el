@@ -1,0 +1,509 @@
+{
+  "3512": {
+    "doc_info": {
+      "title": "Alfred and Plantagenet",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "アルフレッド・アンド・プランタジネットは、プレスコットとラッセルの連合郡にあるカナダの東部オンタリオの町です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "オタワのダウンタウンから離れた、オタワ川とサウス・ネーション川のほぼ合流点に位置します。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "この郡区は、1997年1月1日に、アルフレッド郡区、アルフレッド村、ノース・プランタジネット郡区および、プランタジネット村の合併により形成されました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "アルフレッドの町の近くにあるオンタリオ州天然資源省は、アルフレッド湿原を\"地域的に重要な湿地および自然的および科学的関心地域\"に指定しました。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "04": {
+        "text": "興味のある種には、ヤシムシクイ、ノーザン・ピッチャープラント、ピンク・レディーズ・スリッパ、コットングラス、ボグ・エルフィンとボグ・コッパー・バタフライ、エボニー・ボグウンター・トンボなどがあります。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "また、最南端のヘラジカの群れの1つも生息しています。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "この湿原は自然散策用の遊歩道が整備され一般に公開されています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          19
+        ],
+        "text": "アルフレッド・アンド・プランタジネット",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          25
+        ],
+        "text": "アルフレッド郡区",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          33
+        ],
+        "text": "アルフレッド村",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          48
+        ],
+        "text": "ノース・プランタジネット郡区",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          61
+        ],
+        "text": "プランタジネット村",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "アルフレッド",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          25
+        ],
+        "text": "オンタリオ州天然資源省",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          35
+        ],
+        "text": "アルフレッド湿原",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          49,
+          62
+        ],
+        "text": "自然的および科学的関心地域",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          45,
+          50
+        ],
+        "text": "オンタリオ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          42
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          36
+        ],
+        "text": "連合郡",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          27
+        ],
+        "text": "プレスコット",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          32
+        ],
+        "text": "ラッセル",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          3
+        ],
+        "text": "オタワ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          20
+        ],
+        "text": "オタワ川",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          31
+        ],
+        "text": "サウス・ネーション川",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          15
+        ],
+        "text": "1997年1月1日",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_and_Plantagenet",
+          "wikidata": "http://www.wikidata.org/entity/Q2835561"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q1904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa",
+          "wikidata": "http://www.wikidata.org/entity/Q1930",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa_River",
+          "wikidata": "http://www.wikidata.org/entity/Q60974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Nation_River",
+          "wikidata": "http://www.wikidata.org/entity/Q2304550"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_and_Plantagenet",
+          "wikidata": "http://www.wikidata.org/entity/Q2835561"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_Bog",
+          "wikidata": "http://www.wikidata.org/entity/Q20155411"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Area_of_Natural_and_Scientific_Interest",
+          "wikidata": "http://www.wikidata.org/entity/Q4788667"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

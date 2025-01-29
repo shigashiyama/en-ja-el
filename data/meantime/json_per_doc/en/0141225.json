@@ -1,0 +1,320 @@
+{
+  "0141225": {
+    "doc_info": {
+      "title": "141225_British_FTSE_index_reaches_one-year_high,_other_European_markets_rise",
+      "url": "http://en.wikinews.org/wiki/British_FTSE_index_reaches_one-year_high,_other_European_markets_rise"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "British FTSE index reaches one-year high, other European markets rise",
+        "text": "British FTSE index reaches one-year high, other European markets rise",
+        "mention_ids": [
+          "M001",
+          "M006"
+        ]
+      },
+      "01": {
+        "orig_text": "October 12, 2009",
+        "text": "October 12, 2009",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "The British stock index FTSE 100 closed at its highest levels in over a year on Monday, following news of stronger commodity prices.",
+        "text": "The British stock index FTSE 100 closed at its highest levels in over a year on Monday, following news of stronger commodity prices.",
+        "mention_ids": [
+          "M010",
+          "M024",
+          "M030"
+        ]
+      },
+      "03": {
+        "orig_text": "The share index increased by 48.3 points, or 0.9% to finish the day at a level of 5,210.17, a figure not seen since last September.",
+        "text": "The share index increased by 48.3 points, or 0.9% to finish the day at a level of 5,210.17, a figure not seen since last September.",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "04": {
+        "orig_text": "The best performer was the Old Mutual insurance company, reaching a sixteen-month high after gaining 4.6%.",
+        "text": "The best performer was the Old Mutual insurance company, reaching a sixteen-month high after gaining 4.6%.",
+        "mention_ids": [
+          "M061"
+        ]
+      },
+      "05": {
+        "orig_text": "Some economic analysts think that the FTSE index could continue to gain for the remainder of the week.",
+        "text": "Some economic analysts think that the FTSE index could continue to gain for the remainder of the week.",
+        "mention_ids": [
+          "M038",
+          "M039"
+        ]
+      },
+      "06": {
+        "orig_text": "David Jones, the chief market strategist at IG Index, said that ``the next FTSE target traders are eyeing in the short term is the 5,350 high hit in September last year and the way sentiment is going it would not be a surprise to see that hit this week.``",
+        "text": "David Jones, the chief market strategist at IG Index, said that ``the next FTSE target traders are eyeing in the short term is the 5,350 high hit in September last year and the way sentiment is going it would not be a surprise to see that hit this week.``",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "07": {
+        "orig_text": "Other European markets also posted gains on Monday.",
+        "text": "Other European markets also posted gains on Monday.",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "The German DAX index gained 71.35 points to a level of 5,783.23, while the French CAC 40 increased 46.19 points to 3,845.8.",
+        "text": "The German DAX index gained 71.35 points to a level of 5,783.23, while the French CAC 40 increased 46.19 points to 3,845.8.",
+        "mention_ids": [
+          "M087"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "British FTSE index",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M006": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          64
+        ],
+        "text": "other European markets",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          32
+        ],
+        "text": "The British stock index FTSE 100",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M024": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          46
+        ],
+        "text": "its",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M030": {
+        "sentence_id": "02",
+        "span": [
+          106,
+          131
+        ],
+        "text": "stronger commodity prices",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M031": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          15
+        ],
+        "text": "The share index",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M038": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          22
+        ],
+        "text": "Some economic analysts",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M039": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          48
+        ],
+        "text": "FTSE index",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M061": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          55
+        ],
+        "text": "the Old Mutual insurance company",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M073": {
+        "sentence_id": "06",
+        "span": [
+          75,
+          79
+        ],
+        "text": "FTSE",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M087": {
+        "sentence_id": "08",
+        "span": [
+          71,
+          88
+        ],
+        "text": "the French CAC 40",
+        "entity_type": null,
+        "entity_id": "E095"
+      }
+    },
+    "entities": {
+      "E092": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E094": {
+        "member_mention_ids": [
+          "M001",
+          "M010",
+          "M024",
+          "M031",
+          "M039",
+          "M073"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/FTSE_100_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q466496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FTSE100%E7%A8%AE%E7%B7%8F%E5%90%88%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/CAC_40",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/CAC_40",
+          "wikidata": "http://www.wikidata.org/entity/Q648828",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/CAC_40"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Europe",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E099": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M059",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_Kingdom",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E100": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Financial_analyst",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Financial_analyst",
+          "wikidata": "http://www.wikidata.org/entity/Q1416279",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88"
+        }
+      },
+      "E101": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Commodity_price_index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Commodity_price_index",
+          "wikidata": "http://www.wikidata.org/entity/Q2162462",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E4%BE%A1%E6%A0%BC%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M061"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Old_Mutual",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Old_Mutual",
+          "wikidata": "http://www.wikidata.org/entity/Q289704",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AB"
+        }
+      }
+    }
+  }
+}

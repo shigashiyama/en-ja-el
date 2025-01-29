@@ -1,0 +1,443 @@
+{
+  "3153": {
+    "doc_info": {
+      "title": "Atlantic Charter",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "大西洋憲章は、第二次世界大戦中の1941年8月14日に発行された極めて重要な政策声明であり、戦後の世界のために連合国の目標を定義しました。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "英国と米国の指導者がこの草案を起草し、後にすべての第二次世界大戦の同盟国がそれを確認しました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "憲章には、戦争の理想的な目標が次のように記載されています。領土の拡大はありません。人民の意向（自己決定）に反して領土変更を行わないこと。自治を剥奪された人々への自治の回復。貿易制限の緩和。すべての人にとってより良い経済的および社会的条件を確保するための世界的な協力。恐怖と欠乏からの自由。海洋の自由。武力行使の放棄と侵略国の武装解除。",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "03": {
+        "text": "大西洋憲章の支持者は、1942年1月1日に国連による宣言に署名しまし、これが、現代の国連となりました。",
+        "mention_ids": [
+          "M0_1",
+          "M7_0",
+          "M8_0",
+          "M8_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "大西洋憲章は戦後世界の目標を設定し、戦後の多くの国際協定に影響を与えました。",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "05": {
+        "text": "関税および貿易に関する一般協定(GATT)、ヨーロッパ植民地の戦後の独立など、多くのものが大西洋憲章に由来しています。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M10_1",
+          "M11_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "大西洋憲章",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "大西洋憲章",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "大西洋憲章",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          50
+        ],
+        "text": "大西洋憲章",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "憲章",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          15
+        ],
+        "text": "関税および貿易に関する一般協定",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          20
+        ],
+        "text": "GATT",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          27
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          14
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          26
+        ],
+        "text": "1941年8月14日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          58
+        ],
+        "text": "連合国",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          5
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          36
+        ],
+        "text": "第二次世界大戦の同盟国",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          28
+        ],
+        "text": "宣言",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          23
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          44
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          20
+        ],
+        "text": "1942年1月1日",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Charter",
+          "wikidata": "http://www.wikidata.org/entity/Q181978",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%86%B2%E7%AB%A0"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "removed_mention_ids": [
+          "M1_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q329888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD_(%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q329888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD_(%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Declaration_by_United_Nations",
+          "wikidata": "http://www.wikidata.org/entity/Q176930",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD%E5%85%B1%E5%90%8C%E5%AE%A3%E8%A8%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Nations",
+          "wikidata": "http://www.wikidata.org/entity/Q1065",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Agreement_on_Tariffs_and_Trade",
+          "wikidata": "http://www.wikidata.org/entity/Q194284",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E7%A8%8E%E5%8F%8A%E3%81%B3%E8%B2%BF%E6%98%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E8%88%AC%E5%8D%94%E5%AE%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

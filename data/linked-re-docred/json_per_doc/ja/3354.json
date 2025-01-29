@@ -1,0 +1,421 @@
+{
+  "3354": {
+    "doc_info": {
+      "title": "Old Loggers Path",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "オールド・ロガーズ・パス(OLP)は、米国のペンシルベニア州の北部から中央部のライカミング郡にある周回ハイキングコースです。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "インターナショナル・オレンジ・ブレイズでマークされたオールド・ロガー・パスは、全体がロイアルソック州立森林内にあります。",
+        "mention_ids": [
+          "M0_3",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "ほとんどのハイカーはオールド・ロガー・パスを完走するのに2日半から3日と2泊かかり、週末のハイキングに人気があります。",
+        "mention_ids": [
+          "M0_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "トレイルのハイライトには、滝、いくつかの美しい細流や小川(ほとんどには橋がありません)、そしてパノラマの景色が含まれます。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "オールド・ロガーズ・パスがある土地は、当初はユニオン・タンニング・カンパニーが所有し、その後、セントラル・ペンシルバニア木材会社が伐採しました。",
+        "mention_ids": [
+          "M0_4",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "05": {
+        "text": "このトレイルは主に放棄された伐採道と鉄道の勾配をたどっており、その登山口は木材のゴーストタウンであるマステンです。",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "トレイルの一部は、1933年から1941年までこの地域でキャンプを運営していた民間保護隊によって作られました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "オールド・ロガーズ・パス",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          16
+        ],
+        "text": "OLP",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          21
+        ],
+        "text": "オールド・ロガー・パス",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          37
+        ],
+        "text": "オールド・ロガー・パス",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          12
+        ],
+        "text": "オールド・ロガーズ・パス",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          39,
+          44
+        ],
+        "text": "民間保護隊",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          14
+        ],
+        "text": "1933年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          16,
+          21
+        ],
+        "text": "1941年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          46
+        ],
+        "text": "ライカミング郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          30
+        ],
+        "text": "ペンシルベニア州",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          21
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          42,
+          53
+        ],
+        "text": "ロイアルソック州立森林",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          28,
+          35
+        ],
+        "text": "2日半から3日",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          37
+        ],
+        "text": "2",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          38
+        ],
+        "text": "ユニオン・タンニング・カンパニー",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          47,
+          64
+        ],
+        "text": "セントラル・ペンシルバニア木材会社",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          54
+        ],
+        "text": "マステン",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Old_Loggers_Path",
+          "wikidata": "http://www.wikidata.org/entity/Q15263816"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lycoming_County,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q495633",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%9F%E3%83%B3%E3%82%B0%E9%83%A1_(%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q1400",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Loyalsock_State_Forest",
+          "wikidata": "http://www.wikidata.org/entity/Q6694462"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Masten,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q6784905"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Civilian_Conservation_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q1094508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B0%91%E4%BF%9D%E5%85%A8%E9%83%A8%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

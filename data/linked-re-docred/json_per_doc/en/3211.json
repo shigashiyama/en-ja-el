@@ -1,0 +1,600 @@
+{
+  "3211": {
+    "doc_info": {
+      "title": "List of Major League Baseball first-round draft picks",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Major League Baseball ( MLB ) is the highest level of play in North American professional baseball , and is the organization that operates the National League and the American League .",
+        "text": "Major League Baseball ( MLB ) is the highest level of play in North American professional baseball , and is the organization that operates the National League and the American League .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "In 2000 , the two leagues were officially disbanded as separate legal entities , and all of their rights and functions were consolidated in the commissioner 's office .",
+        "text": "In 2000 , the two leagues were officially disbanded as separate legal entities , and all of their rights and functions were consolidated in the commissioner 's office .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Since that time , MLB has operated as a single league , and constitutes one of the major professional sports leagues of the United States .",
+        "text": "Since that time , MLB has operated as a single league , and constitutes one of the major professional sports leagues of the United States .",
+        "mention_ids": [
+          "M0_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "It is composed of 30 teams .",
+        "text": "It is composed of 30 teams .",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The First - Year Player Draft , also known as the Rule 4 Draft , is MLB primary mechanism for assigning amateur baseball players from high schools , colleges , and other amateur baseball clubs to its teams .",
+        "text": "The First - Year Player Draft , also known as the Rule 4 Draft , is MLB primary mechanism for assigning amateur baseball players from high schools , colleges , and other amateur baseball clubs to its teams .",
+        "mention_ids": [
+          "M0_3",
+          "M8_0",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "orig_text": "The first draft took place in 1965 ; it was introduced to prevent richer teams from negotiating wealthier contracts with top - level prospects and therefore , monopolizing the player market .",
+        "text": "The first draft took place in 1965 ; it was introduced to prevent richer teams from negotiating wealthier contracts with top - level prospects and therefore , monopolizing the player market .",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Originally , three drafts were held each year .",
+        "text": "Originally , three drafts were held each year .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The first draft took place in June and involved high - school graduates and college seniors who had just finished their seasons .",
+        "text": "The first draft took place in June and involved high - school graduates and college seniors who had just finished their seasons .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "08": {
+        "orig_text": "The second draft took place in January for high school and college players who had graduated in December .",
+        "text": "The second draft took place in January for high school and college players who had graduated in December .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "09": {
+        "orig_text": "The third draft took place in August and was for players who participated in American amateur summer leagues .",
+        "text": "The third draft took place in August and was for players who participated in American amateur summer leagues .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "10": {
+        "orig_text": "The August draft was eliminated after two years , and the January draft lasted until 1986 .",
+        "text": "The August draft was eliminated after two years , and the January draft lasted until 1986 .",
+        "mention_ids": [
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "11": {
+        "orig_text": "The draft order is determined based on the previous season 's standings , with the team possessing the worst record receiving the first pick .",
+        "text": "The draft order is determined based on the previous season 's standings , with the team possessing the worst record receiving the first pick .",
+        "mention_ids": []
+      },
+      "12": {
+        "orig_text": "In addition , teams that lost free agents in the previous off - season may be awarded \" compensatory \" picks .",
+        "text": "In addition , teams that lost free agents in the previous off - season may be awarded \" compensatory \" picks .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Major League Baseball",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          27
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          21
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          68,
+          71
+        ],
+        "text": "MLB",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          18
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          30,
+          34
+        ],
+        "text": "June",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "08",
+        "span": [
+          31,
+          38
+        ],
+        "text": "January",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "08",
+        "span": [
+          96,
+          104
+        ],
+        "text": "December",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "09",
+        "span": [
+          30,
+          36
+        ],
+        "text": "August",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          77,
+          85
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "09",
+        "span": [
+          86,
+          108
+        ],
+        "text": "amateur summer leagues",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "10",
+        "span": [
+          38,
+          47
+        ],
+        "text": "two years",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "10",
+        "span": [
+          85,
+          89
+        ],
+        "text": "1986",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          76
+        ],
+        "text": "North American",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          143,
+          158
+        ],
+        "text": "National League",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          167,
+          182
+        ],
+        "text": "American League",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          7
+        ],
+        "text": "2000",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          17
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          120,
+          137
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          20
+        ],
+        "text": "30",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          29
+        ],
+        "text": "First - Year Player Draft",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          50,
+          62
+        ],
+        "text": "Rule 4 Draft",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          30,
+          34
+        ],
+        "text": "1965",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+          "wikidata": "http://www.wikidata.org/entity/Q1163715",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%B0%E3%83%99%E3%83%BC%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_America",
+          "wikidata": "http://www.wikidata.org/entity/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_League_(baseball)",
+          "wikidata": "http://www.wikidata.org/entity/Q858082",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/National_League",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_League",
+          "wikidata": "http://www.wikidata.org/entity/Q465469",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Major_League_Baseball_draft",
+          "wikidata": "http://www.wikidata.org/entity/Q953813",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rule_4_Draft",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%95%E3%83%88%E4%BC%9A%E8%AD%B0_(MLB)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

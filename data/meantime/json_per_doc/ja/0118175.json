@@ -1,0 +1,553 @@
+{
+  "0118175": {
+    "doc_info": {
+      "title": "118175_White_House_considering_auto_rescue_plan",
+      "url": "http://en.wikinews.org/wiki/White_House_considering_auto_rescue_plan"
+    },
+    "sentences": {
+      "00": {
+        "text": "ホワイトハウスは自動車救助計画を検討中",
+        "mention_ids": [
+          "M078",
+          "M081"
+        ]
+      },
+      "01": {
+        "text": "2008年12月13日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "アメリカの大手自動車会社3社に財政援助する計画が今週上院を通過できなかったことを受けて、ホワイトハウスは、ホワイトハウスが銀行業界の救済に充当された7,000億米ドルの一部を自動車メーカーの救済に使用することを検討してると述べました。",
+        "mention_ids": [
+          "M001",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "03": {
+        "text": "ホワイトハウスは、自動車メーカーの崩壊は経済を破壊する可能性のある恐ろしい後退になるだろうと述べています。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "04": {
+        "text": "「通常の経済状況では、私たちは市場が民間企業の最終的な運命を決定することを望んでいます。",
+        "mention_ids": [
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "05": {
+        "text": "しかし、米国経済の現在の弱体化状況を考慮すると、私たちは、問題を抱えた自動車メーカーの崩壊を防ぐため、必要に応じて - TARP（不良資産救済プログラム）プログラムの利用を含む - 他の選択肢を検討します」とホワイトハウスのダナ・ペリーノ報道官は述べました。",
+        "mention_ids": [
+          "M034",
+          "M036",
+          "M037",
+          "M040",
+          "M076"
+        ]
+      },
+      "06": {
+        "text": "「この産業の急激な崩壊は我が国の経済に深刻な影響を与えるだろうし、現時点で我が国の経済をさらに弱体化させ、不安定化させるのは無責任です。」",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "今週初め、「ビッグ3」自動車メーカー — フォード、クライスラー、ゼネラルモーターズ — は議会に対し、崩壊を防ぐために140億ドルの資金提供を嘆願しました。",
+        "mention_ids": [
+          "M087",
+          "M090",
+          "M096"
+        ]
+      },
+      "08": {
+        "text": "下院はこの措置を承認しましたが、上院は52対35でこの建議を否決しました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "この法案が可決されなかった原因の一部は、人員削減をめぐる意見の相違によるもので、共和党は来年までに日本の自動車メーカーと同等の水準にすることを主張していました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "ゼネラルモーターズは、同社は「市況の急速な悪化に対応して」その北米生産の30%を停止すると述べました。",
+        "mention_ids": [
+          "M086",
+          "M089",
+          "M108"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          23
+        ],
+        "text": "アメリカの大手自動車会社3社に財政援助する計画",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          28
+        ],
+        "text": "上院",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          51
+        ],
+        "text": "ホワイトハウス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          60
+        ],
+        "text": "ホワイトハウス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          65
+        ],
+        "text": "銀行業界",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          87,
+          94
+        ],
+        "text": "自動車メーカー",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ホワイトハウス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M021": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          16
+        ],
+        "text": "自動車メーカー",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M022": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          22
+        ],
+        "text": "経済",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M031": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          14
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M032": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          17
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E126"
+      },
+      "M033": {
+        "sentence_id": "04",
+        "span": [
+          18,
+          22
+        ],
+        "text": "民間企業",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M034": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          8
+        ],
+        "text": "米国経済",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M036": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          27
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M037": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          42
+        ],
+        "text": "問題を抱えた自動車メーカー",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M040": {
+        "sentence_id": "05",
+        "span": [
+          104,
+          122
+        ],
+        "text": "ホワイトハウスのダナ・ペリーノ報道官",
+        "entity_type": null,
+        "entity_id": "E127"
+      },
+      "M076": {
+        "sentence_id": "05",
+        "span": [
+          60,
+          82
+        ],
+        "text": "TARP（不良資産救済プログラム）プログラム",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M078": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ホワイトハウス",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M081": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          15
+        ],
+        "text": "自動車救助計画",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M086": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M087": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          42
+        ],
+        "text": "ゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M089": {
+        "sentence_id": "10",
+        "span": [
+          29,
+          31
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M090": {
+        "sentence_id": "07",
+        "span": [
+          26,
+          32
+        ],
+        "text": "クライスラー",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M096": {
+        "sentence_id": "07",
+        "span": [
+          21,
+          25
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M108": {
+        "sentence_id": "10",
+        "span": [
+          11,
+          13
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E125"
+      }
+    },
+    "entities": {
+      "E114": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_Senate",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q66096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8A%E9%99%A2"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M004",
+          "M020",
+          "M031",
+          "M036",
+          "M078"
+        ],
+        "removed_mention_ids": [
+          "M082",
+          "M005",
+          "M041",
+          "M035"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M001",
+          "M081"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E120": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M096"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M076"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Troubled_Asset_Relief_Program",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program",
+          "wikidata": "http://www.wikidata.org/entity/Q2097742",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E8%89%AF%E8%B3%87%E7%94%A3%E8%B2%B7%E3%81%84%E5%8F%96%E3%82%8A%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M007",
+          "M021",
+          "M037"
+        ],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Big_Three_(automobile_manufacturers)",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Big_Three_(automobile_manufacturers)",
+          "wikidata": "http://www.wikidata.org/entity/Q859399"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M090"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Chrysler",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chrysler",
+          "wikidata": "http://www.wikidata.org/entity/Q181114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M086",
+          "M087",
+          "M108"
+        ],
+        "removed_mention_ids": [
+          "M089"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E127": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "removed_mention_ids": [
+          "M038",
+          "M039"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dana_Perino",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dana_Perino",
+          "wikidata": "http://www.wikidata.org/entity/Q114322"
+        }
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M022",
+          "M034"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy_of_the_United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q188540",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E7%B5%8C%E6%B8%88"
+        }
+      }
+    }
+  }
+}

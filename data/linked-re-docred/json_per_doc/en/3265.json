@@ -1,0 +1,261 @@
+{
+  "3265": {
+    "doc_info": {
+      "title": "Fatima Jinnah Park",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Fatima Jinnah Park ( , Bagh - e - Fatima Jinnah ) , is a public recreational park situated within the Sector F-9 of Islamabad , Pakistan .",
+        "text": "Fatima Jinnah Park ( , Bagh - e - Fatima Jinnah ) , is a public recreational park situated within the Sector F-9 of Islamabad , Pakistan .",
+        "mention_ids": [
+          "M0_0",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is named after Fatima Jinnah , the younger sister of Muhammad Ali Jinnah , the founder of Pakistan .",
+        "text": "It is named after Fatima Jinnah , the younger sister of Muhammad Ali Jinnah , the founder of Pakistan .",
+        "mention_ids": [
+          "M3_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Fatima Jinnah Park vast acreage is mostly covered by greenery , with a few man - made structures dotting the landscape .",
+        "text": "Fatima Jinnah Park vast acreage is mostly covered by greenery , with a few man - made structures dotting the landscape .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Most of the park area is effectively a wildlife sanctuary , except for a few areas of the park that are close to residential districts .",
+        "text": "Most of the park area is effectively a wildlife sanctuary , except for a few areas of the park that are close to residential districts .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "The park is bounded by a steel fence with entrance doors placed at regular intervals , although only a few are routinely open and used .",
+        "text": "The park is bounded by a steel fence with entrance doors placed at regular intervals , although only a few are routinely open and used .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "A further strip of land outside of the fence is lined with a footpath .",
+        "text": "A further strip of land outside of the fence is lined with a footpath .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "A well laid network of footpaths lies inside the park , with neat grass and a few statues .",
+        "text": "A well laid network of footpaths lies inside the park , with neat grass and a few statues .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The park is known for its wildlife , and the question of further development there divides people in the surrounding communities , many of whom worry that development would jeopardize its untamed feel .",
+        "text": "The park is known for its wildlife , and the question of further development there divides people in the surrounding communities , many of whom worry that development would jeopardize its untamed feel .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "Fatima Jinnah Park",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          18
+        ],
+        "text": "Fatima Jinnah Park",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          47
+        ],
+        "text": "Bagh - e - Fatima Jinnah",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          102,
+          112
+        ],
+        "text": "Sector F-9",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          116,
+          125
+        ],
+        "text": "Islamabad",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          128,
+          136
+        ],
+        "text": "Pakistan",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          93,
+          101
+        ],
+        "text": "Pakistan",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          31
+        ],
+        "text": "Fatima Jinnah",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          75
+        ],
+        "text": "Muhammad Ali Jinnah",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fatima_Jinnah_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q3305506"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fatima_Jinnah_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q3305506",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/F-9,_Islamabad"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Islamabad",
+          "wikidata": "http://www.wikidata.org/entity/Q1362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%9E%E3%83%90%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pakistan",
+          "wikidata": "http://www.wikidata.org/entity/Q843",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fatima_Jinnah",
+          "wikidata": "http://www.wikidata.org/entity/Q464947"
+        },
+        "date_of_death": "1967-07-09T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
+          "wikidata": "http://www.wikidata.org/entity/Q160554",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%B3%E3%83%8A%E3%83%BC"
+        },
+        "date_of_death": "1948-09-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "0127576": {
+    "doc_info": {
+      "title": "127576_Apple_launches_new",
+      "url": "http://en.wikinews.org/wiki/Apple_launches_new,_faster_iPhone"
+    },
+    "sentences": {
+      "00": {
+        "text": "アップルが新しい、より高速なiPhoneを発売",
+        "mention_ids": [
+          "M011",
+          "M013"
+        ]
+      },
+      "01": {
+        "text": "2009年6月9日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "Apple Computerは本日、同社の人気のiPhoneの最新版であるiPhone 3GSを発表しました。",
+        "mention_ids": [
+          "M023",
+          "M030"
+        ]
+      },
+      "03": {
+        "text": "同社の年次世界開発者会議で発表された新しいハードウェアは、メディアとiPhone所有者の両方から注目を集めました。",
+        "mention_ids": [
+          "M006",
+          "M033"
+        ]
+      },
+      "04": {
+        "text": "iPhoneの新機能には、ユーザーがビデオや音声を録画できるようにもするアップグレードされたカメラや、ユーザーが自分の声でiPhoneのほとんどの機能を制御できるようにする「音声コントロール」が含まれます。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M024",
+          "M028",
+          "M032",
+          "M034"
+        ],
+        "untranslated_mention_ids": [
+          "M020"
+        ]
+      },
+      "05": {
+        "text": "その新しい携帯電話には、その携帯電話の発売の2日前である6月17日に入手可能になる新しいiPhone 3.0ソフトウェアもプリインストールされます。",
+        "mention_ids": [
+          "M008",
+          "M036"
+        ]
+      },
+      "06": {
+        "text": "新しいiPhoneハードウェアに加えて、Appleは新しいデスクトップ・オペレーティング・システムのSnow Leopardの機能の一部をデモし、新しいSafari 4.0ウェブブラウザを強調しました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "iPhone 3GSは、16GBモデルと32GBモデルが入手可能で、小売価格はそれぞれ199米ドルと299米ドルです。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M006": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          43
+        ],
+        "text": "メディアとiPhone所有者",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M008": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          60
+        ],
+        "text": "その携帯電話の発売の2日前である6月17日に入手可能になる新しいiPhone 3.0ソフトウェア",
+        "entity_type": null,
+        "entity_id": "E135"
+      },
+      "M011": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "アップル",
+        "entity_type": null,
+        "entity_id": "E145"
+      },
+      "M013": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          20
+        ],
+        "text": "新しい、より高速なiPhone",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M017": {
+        "sentence_id": "04",
+        "span": [
+          51,
+          55
+        ],
+        "text": "ユーザー",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          61,
+          75
+        ],
+        "text": "iPhoneのほとんどの機能",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M023": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E145"
+      },
+      "M024": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          10
+        ],
+        "text": "iPhoneの新機能",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M028": {
+        "sentence_id": "04",
+        "span": [
+          87,
+          95
+        ],
+        "text": "音声コントロール",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M030": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          47
+        ],
+        "text": "同社の人気のiPhoneの最新版であるiPhone 3GS",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M032": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          49
+        ],
+        "text": "ユーザーがビデオや音声を録画できるようにもするアップグレードされたカメラ",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M033": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          27
+        ],
+        "text": "同社の年次世界開発者会議で発表された新しいハードウェア",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M034": {
+        "sentence_id": "04",
+        "span": [
+          56,
+          59
+        ],
+        "text": "自分の",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M036": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "その新しい携帯電話",
+        "entity_type": null,
+        "entity_id": "E139"
+      }
+    },
+    "entities": {
+      "E135": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004",
+          "M005",
+          "M008"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E136": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E137": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Media",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Media",
+          "wikidata": "http://www.wikidata.org/entity/Q1727518",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+        }
+      },
+      "E138": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M031"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E139": {
+        "member_mention_ids": [
+          "M013",
+          "M030",
+          "M033",
+          "M036"
+        ],
+        "removed_mention_ids": [
+          "M029",
+          "M003",
+          "M007",
+          "M009",
+          "M019",
+          "M022",
+          "M026"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E140": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "removed_mention_ids": [
+          "M010",
+          "M012"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E141": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E142": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E143": {
+        "member_mention_ids": [
+          "M017",
+          "M034"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E144": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E145": {
+        "member_mention_ids": [
+          "M011",
+          "M023"
+        ],
+        "removed_mention_ids": [
+          "M035",
+          "M025",
+          "M027"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E146": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M018",
+          "M024"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

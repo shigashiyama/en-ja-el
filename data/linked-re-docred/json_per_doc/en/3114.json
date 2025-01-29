@@ -1,0 +1,561 @@
+{
+  "3114": {
+    "doc_info": {
+      "title": "Uhuru Gardens",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Uhuru Gardens Memorial Park is a commemorative park in Nairobi , Kenya that celebrates independence from the British Empire in 12 December 1963 .",
+        "text": "Uhuru Gardens Memorial Park is a commemorative park in Nairobi , Kenya that celebrates independence from the British Empire in 12 December 1963 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The word \" uhuru \" is Swahili for \" freedom \" .",
+        "text": "The word \" uhuru \" is Swahili for \" freedom \" .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It contains three points of significance :",
+        "text": "It contains three points of significance :",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The Mũgumo tree ( Ficus sycomorus ) , purportedly planted in the exact location the Union Jack , or more likely the former Flag of the Colony of Kenya , was removed and the Flag of Kenya was placed .",
+        "text": "The Mũgumo tree ( Ficus sycomorus ) , purportedly planted in the exact location the Union Jack , or more likely the former Flag of the Colony of Kenya , was removed and the Flag of Kenya was placed .",
+        "mention_ids": [
+          "M10_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The tree is also of significance to the Kikuyu people .",
+        "text": "The tree is also of significance to the Kikuyu people .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The independence commemorative monument , built in 1973 , is a twenty - four meter high column , supporting a pair of clasped hands and a dove of peace .",
+        "text": "The independence commemorative monument , built in 1973 , is a twenty - four meter high column , supporting a pair of clasped hands and a dove of peace .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "06": {
+        "orig_text": "This point celebrates the declaration of independence at midnight , 12 December 1963 .",
+        "text": "This point celebrates the declaration of independence at midnight , 12 December 1963 .",
+        "mention_ids": [
+          "M14_0",
+          "M4_1"
+        ]
+      },
+      "07": {
+        "orig_text": "It also celebrates the inauguration of Kenya 's first president , Jomo Kenyatta , in the same night .",
+        "text": "It also celebrates the inauguration of Kenya 's first president , Jomo Kenyatta , in the same night .",
+        "mention_ids": [
+          "M15_0",
+          "M2_1"
+        ]
+      },
+      "08": {
+        "orig_text": "On one side of this monument is a statue of soldiers raising the Kenyan flag .",
+        "text": "On one side of this monument is a statue of soldiers raising the Kenyan flag .",
+        "mention_ids": [
+          "M2_2"
+        ]
+      },
+      "09": {
+        "orig_text": "A fountain celebrating \" Twenty - Five years of Uhuru – peace , love and unity monument \" .",
+        "text": "A fountain celebrating \" Twenty - Five years of Uhuru – peace , love and unity monument \" .",
+        "mention_ids": [
+          "M0_1",
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          27
+        ],
+        "text": "Uhuru Gardens Memorial Park",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "09",
+        "span": [
+          48,
+          53
+        ],
+        "text": "Uhuru",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          173,
+          186
+        ],
+        "text": "Flag of Kenya",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          46
+        ],
+        "text": "Kikuyu",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          55
+        ],
+        "text": "1973",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          63,
+          82
+        ],
+        "text": "twenty - four meter",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          57,
+          65
+        ],
+        "text": "midnight",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          66,
+          79
+        ],
+        "text": "Jomo Kenyatta",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "09",
+        "span": [
+          25,
+          44
+        ],
+        "text": "Twenty - Five years",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          62
+        ],
+        "text": "Nairobi",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          70
+        ],
+        "text": "Kenya",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "07",
+        "span": [
+          39,
+          44
+        ],
+        "text": "Kenya",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "08",
+        "span": [
+          65,
+          71
+        ],
+        "text": "Kenyan",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          109,
+          123
+        ],
+        "text": "British Empire",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          127,
+          143
+        ],
+        "text": "12 December 1963",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "06",
+        "span": [
+          68,
+          84
+        ],
+        "text": "12 December 1963",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          29
+        ],
+        "text": "Swahili",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          17
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          33
+        ],
+        "text": "Ficus sycomorus",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          84,
+          94
+        ],
+        "text": "Union Jack",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          123,
+          150
+        ],
+        "text": "Flag of the Colony of Kenya",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Uhuru_Gardens",
+          "wikidata": "http://www.wikidata.org/entity/Q7878033"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nairobi",
+          "wikidata": "http://www.wikidata.org/entity/Q3870",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%93"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kenya",
+          "wikidata": "http://www.wikidata.org/entity/Q114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q8680",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swahili_language",
+          "wikidata": "http://www.wikidata.org/entity/Q7838",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%83%92%E3%83%AA%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ficus_sycomorus",
+          "wikidata": "http://www.wikidata.org/entity/Q750217",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88%E3%82%A4%E3%83%81%E3%82%B8%E3%82%AF"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Union_Jack",
+          "wikidata": "http://www.wikidata.org/entity/Q3173323"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kenya_Colony",
+          "wikidata": "http://www.wikidata.org/entity/Q2538511",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%82%A2%E6%A4%8D%E6%B0%91%E5%9C%B0"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Flag_of_Kenya",
+          "wikidata": "http://www.wikidata.org/entity/Q165905",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%82%A2%E3%81%AE%E5%9B%BD%E6%97%97"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kikuyu_people",
+          "wikidata": "http://www.wikidata.org/entity/Q203178",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AF%E3%83%A6%E6%97%8F"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jomo_Kenyatta",
+          "wikidata": "http://www.wikidata.org/entity/Q173563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%A2%E3%83%BB%E3%82%B1%E3%83%8B%E3%83%A4%E3%83%83%E3%82%BF"
+        },
+        "date_of_death": "1978-08-22T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

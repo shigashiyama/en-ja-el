@@ -1,0 +1,512 @@
+{
+  "0096770": {
+    "doc_info": {
+      "title": "96770_World_stocks_plunge_on_fears_on_US_recession",
+      "url": "http://en.wikinews.org/wiki/World_stocks_plunge_on_fears_on_US_recession"
+    },
+    "sentences": {
+      "00": {
+        "text": "世界株は米国の景気後退への懸念で急落",
+        "mention_ids": [
+          "M077",
+          "M081"
+        ]
+      },
+      "01": {
+        "text": "2008年1月21日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "月曜日、株価はヨーロッパとアジアで急落し、米国の経済問題への懸念から、ここ数年で1日の最大規模の損失が発生しました。",
+        "mention_ids": [
+          "M002",
+          "M006",
+          "M009"
+        ]
+      },
+      "03": {
+        "text": "香港では、ハンセン指数が5.5%下落しました — 2001年9月11日のテロ攻撃以来のその最大の下落。",
+        "mention_ids": [
+          "M013",
+          "M016",
+          "M055"
+        ]
+      },
+      "04": {
+        "text": "インド、中国、イギリス、フランス、ドイツ、そしてカナダでは3～7%の損失が記録されました。",
+        "mention_ids": [
+          "M023"
+        ]
+      },
+      "05": {
+        "text": "国家の経済に関連する要因は数多くありますが、アナリストは、最近の損失は米国の不況懸念によるものだとしています。",
+        "mention_ids": [
+          "M033",
+          "M041",
+          "M042"
+        ]
+      },
+      "06": {
+        "text": "米国は多くの海外の企業にとって主要な輸出市場です。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "外国人投資家も米国企業の株を大量に購入しています。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "2007年後半に米国の住宅ローン会社が多数のローンの焦付きを報告し始めたとき、損失は他の金融機関に広がり、信用市場が逼迫し、米国人の高水準の債務に対する懸念が引き起こされました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "ブッシュ大統領は先週、消費者支出の促進するために1450億ドルの刺激策を提案しました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "しかしアナリストらは、この措置では、少なくとも6カ月にわたる国家経済の大幅な落ち込みと定義される、景気後退を防ぐことはできないかもしれないと述べています。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "アメリカ市場は、キング牧師の記念日のため月曜日は休場です。",
+        "mention_ids": [
+          "M106"
+        ]
+      },
+      "12": {
+        "text": "この日は祝日ですが、株式先物取引、市場が火曜日に再開されると、さらなる損失が予想されることを示しています。",
+        "mention_ids": [
+          "M103"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          6
+        ],
+        "text": "株価",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          16
+        ],
+        "text": "ヨーロッパとアジア",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          23
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          11
+        ],
+        "text": "ハンセン指数",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          45
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M023": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          27
+        ],
+        "text": "インド、中国、イギリス、フランス、ドイツ、そしてカナダ",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M033": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          27
+        ],
+        "text": "アナリスト",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M041": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          37
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M042": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国家の経済",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M055": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "香港",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M077": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "世界株",
+        "entity_type": null,
+        "entity_id": "E126"
+      },
+      "M081": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          6
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M103": {
+        "sentence_id": "12",
+        "span": [
+          17,
+          19
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M106": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          6
+        ],
+        "text": "アメリカ市場",
+        "entity_type": null,
+        "entity_id": "E124"
+      }
+    },
+    "entities": {
+      "E108": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M028"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Germany",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M024"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/India",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        }
+      },
+      "E110": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M029"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Canada",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M009",
+          "M041",
+          "M081"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M013",
+          "M016"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Hang_Seng_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hang_Seng_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q424846",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%83%8F%E3%83%B3%E3%82%BB%E3%83%B3%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M044"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Stock",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stock",
+          "wikidata": "http://www.wikidata.org/entity/Q1196314"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Share_price",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Share_price",
+          "wikidata": "http://www.wikidata.org/entity/Q1020013",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Europe",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Financial_analyst",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Financial_analyst",
+          "wikidata": "http://www.wikidata.org/entity/Q1416279",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88"
+        }
+      },
+      "E118": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M026"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_Kingdom",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M027"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/France",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Hong_Kong",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        }
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E123": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Asia",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asia",
+          "wikidata": "http://www.wikidata.org/entity/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M103",
+          "M106"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy",
+          "wikidata": "http://www.wikidata.org/entity/Q159810",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

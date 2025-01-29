@@ -1,0 +1,470 @@
+{
+  "3216": {
+    "doc_info": {
+      "title": "Malolos",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "マロロス、正式にはマロロス市(フィリピン語でLungsod ng Malolos)は、3級目の市であり、フィリピンのブラカン州にあります。",
+        "mention_ids": []
+      },
+      "01": {
+        "text": "2020年の人口調査によると、そこには261,189人の人口がいます。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "それはブラカン州の州都であり、州政府の所在地です。",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "03": {
+        "text": "その都市は、フィリピンの首都であるマニラの北にあります。",
+        "mention_ids": [
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "04": {
+        "text": "マニラ首都圏に隣接する主要な郊外住宅地の1つで、ルソン島とメトロ・ルソン都市環状道路スーパー・リージョンの一部にある中央ルソン地域（地域3）のブラカンの南西部に位置します。",
+        "mention_ids": [
+          "M0_1",
+          "M3_0",
+          "M4_0",
+          "M4_1",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "05": {
+        "text": "マロロスは、マロロス議会として知られる1898年の憲法議会の開催地であり、バラソアイン教会の聖域での第一次フィリピン共和国の設立につながりました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "マロロス大聖堂の修道院は、当時、大統領宮殿として機能していました。",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "07": {
+        "text": "マロロスは、アジアで最初の立憲共和制を誕生させました。",
+        "mention_ids": [
+          "M13_0",
+          "M7_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          7
+        ],
+        "text": "ブラカン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          71,
+          75
+        ],
+        "text": "ブラカン",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          61
+        ],
+        "text": "第一次フィリピン共和国",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          45
+        ],
+        "text": "バラソアイン教会",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          7
+        ],
+        "text": "マロロス大聖堂",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          9
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          20
+        ],
+        "text": "マニラ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "フィリピン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "マニラ首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          69
+        ],
+        "text": "地域3",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          65
+        ],
+        "text": "中央ルソン地域",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          27
+        ],
+        "text": "ルソン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          29,
+          52
+        ],
+        "text": "メトロ・ルソン都市環状道路スーパー・リージョン",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "マロロス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "マロロス",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          24
+        ],
+        "text": "1898年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          12
+        ],
+        "text": "マロロス議会",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bulacan",
+          "wikidata": "http://www.wikidata.org/entity/Q13755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%AB%E3%83%B3%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q1461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spanish_colonial_fortifications_in_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q2306728",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Spanish_Colonial_Fortifications_of_the_Philippines"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Metro_Manila",
+          "wikidata": "http://www.wikidata.org/entity/Q13580",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A9%E9%A6%96%E9%83%BD%E5%9C%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Luzon",
+          "wikidata": "http://www.wikidata.org/entity/Q13617",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E3%83%AB%E3%82%BD%E3%83%B3%E5%9C%B0%E6%96%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luzon",
+          "wikidata": "http://www.wikidata.org/entity/Q125384",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%BD%E3%83%B3%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Super_regions_of_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q7642962"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malolos",
+          "wikidata": "http://www.wikidata.org/entity/Q2180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AD%E3%83%AD%E3%82%B9"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Revolutionary_Government_of_the_Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q53553879"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/First_Philippine_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q1361989",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E7%AC%AC%E4%B8%80%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barasoain_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q4858463"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malolos_Cathedral",
+          "wikidata": "http://www.wikidata.org/entity/Q1659761"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asia",
+          "wikidata": "http://www.wikidata.org/entity/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

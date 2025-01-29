@@ -1,0 +1,364 @@
+{
+  "0128016": {
+    "doc_info": {
+      "title": "128016_China_Eastern_Airlines_to_purchase_twenty_new_Airbus_A320_jets",
+      "url": "http://en.wikinews.org/wiki/China_Eastern_Airlines_to_purchase_twenty_new_Airbus_A320_jets"
+    },
+    "sentences": {
+      "00": {
+        "text": "中国東方航空、新型エアバスA320型ジェット機を20機を購入",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "01": {
+        "text": "2009年6月18日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "中国東方航空は木曜日、同社がエアバスA320ジェット旅客機20機を99億元（約14億米ドル）で購入する契約に署名したと発表しました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M008",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "中国で3番目に大きい航空会社は、6月15日にパリで協定に署名しました。",
+        "mention_ids": [
+          "M007",
+          "M014",
+          "M015",
+          "M067"
+        ],
+        "untranslated_mention_ids": [
+          "M016"
+        ]
+      },
+      "04": {
+        "text": "同社は、その航空機は国内線旅客路線の追加需要を満たすだろうと述べました。",
+        "mention_ids": [
+          "M001",
+          "M005",
+          "M017"
+        ]
+      },
+      "05": {
+        "text": "この取引は中国東方航空取締役会によって全会一致で承認されました。",
+        "mention_ids": [
+          "M063"
+        ]
+      },
+      "06": {
+        "text": "チャイナ・デイリー紙は、この契約は中国の航空当局の承認を待っていると報じました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "航空機は2011年に納入を開始し、その2年後に完了する予定です。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "エアバスA320は単通路型の航空機で、エアバスのベストセラーのジェット機です。",
+        "mention_ids": [
+          "M060",
+          "M076"
+        ]
+      },
+      "09": {
+        "text": "最大150名まで搭乗でき、主に中短距離路線で使用されます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          9
+        ],
+        "text": "その航空機",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          13
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          53
+        ],
+        "text": "契約",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M005": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          17
+        ],
+        "text": "国内線旅客路線",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "中国",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          32
+        ],
+        "text": "エアバスA320ジェット旅客機20機",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M009": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "中国東方航空",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M010": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          27
+        ],
+        "text": "新型エアバスA320型ジェット機を20機",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "中国東方航空",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          14
+        ],
+        "text": "航空会社",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          24
+        ],
+        "text": "パリ",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M017": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          2
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M060": {
+        "sentence_id": "08",
+        "span": [
+          19,
+          23
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M063": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          15
+        ],
+        "text": "中国東方航空取締役会",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M067": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          27
+        ],
+        "text": "協定",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M076": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E087"
+      }
+    },
+    "entities": {
+      "E087": {
+        "member_mention_ids": [
+          "M060",
+          "M076"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M004",
+          "M067"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E092": {
+        "member_mention_ids": [
+          "M001",
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M013",
+          "M011",
+          "M008"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      },
+      "E094": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Paris",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [
+          "M003",
+          "M009",
+          "M012",
+          "M017"
+        ],
+        "removed_mention_ids": [
+          "M002",
+          "M014",
+          "M016"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/China_Eastern_Airlines",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China_Eastern_Airlines",
+          "wikidata": "http://www.wikidata.org/entity/Q291796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%9D%B1%E6%96%B9%E8%88%AA%E7%A9%BA"
+        }
+      },
+      "E098": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E099": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

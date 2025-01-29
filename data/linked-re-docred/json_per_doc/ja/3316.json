@@ -1,0 +1,509 @@
+{
+  "3316": {
+    "doc_info": {
+      "title": "Michel Temer",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■■■（;1940年9月23日生まれ）は、ブラジルの弁護士、政治家であり、ブラジルの第37代大統領、2016年以降現大統領を務めています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "同氏は前任者の■■■■■■■の弾劾と解任後に就任しました。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "彼は、2011年から副大統領を務め、■■■が弾劾裁判を受けて停職処分となった2016年5月12日から大統領代行を務めていました。",
+        "mention_ids": [
+          "M4_1",
+          "M5_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "75歳の彼は、就任した人物としては最高齢です。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "2016年8月31日の上院の61対20の投票での■■■が解任は、■■■が彼女の後を継いで、2018年12月31日で終了する■■■の2期目の残りの任期を務めることを意味しました。",
+        "mention_ids": [
+          "M0_3",
+          "M4_2",
+          "M5_1",
+          "M5_3",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "就任後の最初の演説で、■■■は「国家救済」の政府を求め、ブラジルの国民の信頼を求めました。",
+        "mention_ids": [
+          "M0_4",
+          "M2_0"
+        ]
+      },
+      "06": {
+        "text": "同氏はまた、年金制度と労働法を全面的に見直し、公共支出を抑制する意向を示しました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "2017年の世論調査によると、■■■政権は7%の一般的な支持を得ており、回答者の76%が■■■の辞任に賛成していました。",
+        "mention_ids": [
+          "M0_1",
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "08": {
+        "text": "広範な抗議にもかかわらず、■■■は辞任を拒否しました。",
+        "mention_ids": [
+          "M0_5"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          44,
+          47
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "07",
+        "span": [
+          15,
+          18
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          35
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "08",
+        "span": [
+          13,
+          16
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2017年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          21,
+          23
+        ],
+        "text": "7%",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          40,
+          43
+        ],
+        "text": "76%",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          36
+        ],
+        "text": "1940年9月23日生まれ",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          33
+        ],
+        "text": "ブラジルの",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          44
+        ],
+        "text": "ブラジルの",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          59
+        ],
+        "text": "ブラジル",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          68,
+          73
+        ],
+        "text": "2016年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          48
+        ],
+        "text": "2016年5月12日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          10
+        ],
+        "text": "2016年8月31日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          14
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          61,
+          64
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          21
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          27
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          8
+        ],
+        "text": "2011年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "75",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          13
+        ],
+        "text": "上院",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          56
+        ],
+        "text": "2018年12月31日",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michel_Temer",
+          "wikidata": "http://www.wikidata.org/entity/Q463533",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%86%E3%83%A1%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "removed_mention_ids": [
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dilma_Rousseff",
+          "wikidata": "http://www.wikidata.org/entity/Q40722",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%9E%E3%83%BB%E3%83%AB%E3%82%BB%E3%83%95"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q66096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8A%E9%99%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

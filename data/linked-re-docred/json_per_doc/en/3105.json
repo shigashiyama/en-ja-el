@@ -1,0 +1,516 @@
+{
+  "3105": {
+    "doc_info": {
+      "title": "Tuzantla",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Tuzantla is a municipality in the eastern part of the Mexican state of Michoacán .",
+        "text": "Tuzantla is a municipality in the eastern part of the Mexican state of Michoacán .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The municipality has an area of 1,018.49 square kilometres ( 1.73 % of the surface of the state ) and is bordered to the north by the municipalities of Jungapeo and Hidalgo , to the east by Juárez and Susupuato , to the south by Tiquicheo and the state of México , and to the west by Tiquicheo and Tzitzio .",
+        "text": "The municipality has an area of 1,018.49 square kilometres ( 1.73 % of the surface of the state ) and is bordered to the north by the municipalities of Jungapeo and Hidalgo , to the east by Juárez and Susupuato , to the south by Tiquicheo and the state of México , and to the west by Tiquicheo and Tzitzio .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0",
+          "M9_1"
+        ]
+      },
+      "02": {
+        "orig_text": "The municipality had a population of 15,302 inhabitants according to the 2005 census .",
+        "text": "The municipality had a population of 15,302 inhabitants according to the 2005 census .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Its municipal seat is the city of the same name .",
+        "text": "Its municipal seat is the city of the same name .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "In Pre - Columbian times , the area was inhabited by Aztecs .",
+        "text": "In Pre - Columbian times , the area was inhabited by Aztecs .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Its name , Tuzantla , is a word of Nahuatl origin that means \" Place where gophers are abundant \" .",
+        "text": "Its name , Tuzantla , is a word of Nahuatl origin that means \" Place where gophers are abundant \" .",
+        "mention_ids": [
+          "M0_0",
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          19
+        ],
+        "text": "Tuzantla",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Tuzantla",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          256,
+          262
+        ],
+        "text": "México",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          298,
+          305
+        ],
+        "text": "Tzitzio",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          43
+        ],
+        "text": "15,302",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          73,
+          77
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          18
+        ],
+        "text": "Pre - Columbian",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          53,
+          59
+        ],
+        "text": "Aztecs",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          42
+        ],
+        "text": "Nahuatl",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          61
+        ],
+        "text": "Mexican",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          71,
+          80
+        ],
+        "text": "Michoacán",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          32,
+          58
+        ],
+        "text": "1,018.49 square kilometres",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          61,
+          67
+        ],
+        "text": "1.73 %",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          152,
+          160
+        ],
+        "text": "Jungapeo",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          165,
+          172
+        ],
+        "text": "Hidalgo",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          190,
+          196
+        ],
+        "text": "Juárez",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          201,
+          210
+        ],
+        "text": "Susupuato",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          229,
+          238
+        ],
+        "text": "Tiquicheo",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "01",
+        "span": [
+          284,
+          293
+        ],
+        "text": "Tiquicheo",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tuzantla",
+          "wikidata": "http://www.wikidata.org/entity/Q3891047"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q96",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michoac%C3%A1n",
+          "wikidata": "http://www.wikidata.org/entity/Q79861",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Michoacán",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%81%E3%83%A7%E3%82%A2%E3%82%AB%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jungapeo",
+          "wikidata": "http://www.wikidata.org/entity/Q4967875"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ciudad_Hidalgo,_Michoac%C3%A1n",
+          "wikidata": "http://www.wikidata.org/entity/Q1962248",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ciudad_Hidalgo,_Michoacán"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ju%C3%A1rez_Municipality,_Michoac%C3%A1n",
+          "wikidata": "http://www.wikidata.org/entity/Q27796832",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Juárez_Municipality,_Michoacán"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Susupuato",
+          "wikidata": "http://www.wikidata.org/entity/Q3847100"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tiquicheo",
+          "wikidata": "http://www.wikidata.org/entity/Q432542"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/State_of_Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q82112",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Estado_de_Mexico",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%92%E3%82%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tzitzio",
+          "wikidata": "http://www.wikidata.org/entity/Q5857824"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aztecs",
+          "wikidata": "http://www.wikidata.org/entity/Q12542",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%86%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nahuatl",
+          "wikidata": "http://www.wikidata.org/entity/Q13300",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%AF%E3%83%88%E3%83%AB%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "3330": {
+    "doc_info": {
+      "title": "Liangzi Lake",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "梁子湖、元々はファン湖（樊湖）は中国にある淡水湖で、それは湖北省の南東部に位置し、武漢の江夏区の梁子湖景勝地事務所と鄂州市良子湖区に分かれています（両地域は湖にちなんで名付けられました）。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M1_2",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "text": "武漢の南にあるこの農村地域は、長江の中流の南岸に位置しています。",
+        "mention_ids": [
+          "M5_1",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "湖は370km、集水域3265km、標高20m、長さ31.7km、平均幅9.6km（最大12.3m）です。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "湖の海岸線は大きくくぼんでいます。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "梁子湖には2つの流出口があるようです。",
+        "mention_ids": [
+          "M0_3",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "text": "湖の北側では、小さな川または運河が梁子から唐勲湖( )に流れ込み、武漢の南側の都市湖に流れ込み、最終的には長江に流れ込みます。",
+        "mention_ids": [
+          "M0_4",
+          "M1_1",
+          "M5_2",
+          "M7_1"
+        ]
+      },
+      "06": {
+        "text": "湖の東側では、別の川が梁子湖から鄂州に向かって流れ、そこで長江にも流れ込みます。",
+        "mention_ids": [
+          "M0_0",
+          "M15_0",
+          "M7_2"
+        ]
+      },
+      "07": {
+        "text": "2018年1月1日に、鄂州は、「梁子湖区海洋生物保護区絶対漁業禁止工事実施計画」（《梁子湖区水生生物保護区全面禁捕工作実施案》）と呼ばれる新しい法律を正式に施行しました。",
+        "mention_ids": [
+          "M15_1",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "08": {
+        "text": "この湖は魚が豊富で、それは武昌鯛の原産地です。",
+        "mention_ids": [
+          "M18_0"
+        ]
+      },
+      "09": {
+        "text": "湖の底から抽出されたコアサンプルの分析により、科学者は過去数千時代にわたる環境中の銅、鉛、ニッケル、亜鉛などの金属の存在を測定することができます。それらは、楚国の時代の紀元前1500年には、この地域で鉱山と金属精錬が存在したという証拠を提供しています。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "10": {
+        "text": "（湖の東にある黄石/大業地域は、今日に至るまで鉱山と冶金の中心地であり続けています。）",
+        "mention_ids": [
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "11": {
+        "text": "「姉妹湖」パートナーシップが、梁子湖とミネソタ州のペピン湖の間に確立されました。",
+        "mention_ids": [
+          "M0_2",
+          "M23_0",
+          "M24_0",
+          "M25_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          14
+        ],
+        "text": "梁子湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "梁子湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "11",
+        "span": [
+          15,
+          18
+        ],
+        "text": "梁子湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "梁子湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          19
+        ],
+        "text": "梁子",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          23
+        ],
+        "text": "20m",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          32
+        ],
+        "text": "31.7km",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          41
+        ],
+        "text": "9.6km",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          49
+        ],
+        "text": "12.3m",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          7
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          16,
+          18
+        ],
+        "text": "鄂州",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          13
+        ],
+        "text": "鄂州",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          9
+        ],
+        "text": "2018年1月1日",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          16,
+          63
+        ],
+        "text": "梁子湖区海洋生物保護区絶対漁業禁止工事実施計画」（《梁子湖区水生生物保護区全面禁捕工作実施案》",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "08",
+        "span": [
+          13,
+          16
+        ],
+        "text": "武昌鯛",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "09",
+        "span": [
+          84,
+          92
+        ],
+        "text": "紀元前1500年",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          11
+        ],
+        "text": "ファン湖",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          24
+        ],
+        "text": "唐勲湖",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          14
+        ],
+        "text": "樊湖",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "09",
+        "span": [
+          78,
+          80
+        ],
+        "text": "楚国",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "10",
+        "span": [
+          7,
+          9
+        ],
+        "text": "黄石",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "10",
+        "span": [
+          10,
+          12
+        ],
+        "text": "大業",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "11",
+        "span": [
+          1,
+          4
+        ],
+        "text": "姉妹湖",
+        "entity_type": "MISC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "11",
+        "span": [
+          25,
+          29
+        ],
+        "text": "ペピン湖",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "11",
+        "span": [
+          19,
+          24
+        ],
+        "text": "ミネソタ州",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          18
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          32
+        ],
+        "text": "湖北省",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          44,
+          57
+        ],
+        "text": "江夏区の梁子湖景勝地事務所",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          43
+        ],
+        "text": "武漢",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "武漢",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "05",
+        "span": [
+          33,
+          35
+        ],
+        "text": "武漢",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          65
+        ],
+        "text": "鄂州市良子湖区",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          17
+        ],
+        "text": "長江",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "05",
+        "span": [
+          53,
+          55
+        ],
+        "text": "長江",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          31
+        ],
+        "text": "長江",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          2,
+          7
+        ],
+        "text": "370km",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          17
+        ],
+        "text": "3265km",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Liangzi_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q7374197"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tangxun_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q11136307"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hubei",
+          "wikidata": "http://www.wikidata.org/entity/Q46862",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wuhan",
+          "wikidata": "http://www.wikidata.org/entity/Q11746",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E6%BC%A2%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Liangzihu,_Ezhou",
+          "wikidata": "http://www.wikidata.org/entity/Q1199143",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Liangzihu_District",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A2%81%E5%AD%90%E6%B9%96%E5%8C%BA"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yangtze",
+          "wikidata": "http://www.wikidata.org/entity/Q5413",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Yangtze_River",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E6%B1%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ezhou",
+          "wikidata": "http://www.wikidata.org/entity/Q71305",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%84%82%E5%B7%9E%E5%B8%82"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wuchang_bream",
+          "wikidata": "http://www.wikidata.org/entity/Q2095909",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Wuchang_Bream",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%88%E3%82%A6%E3%83%9C%E3%82%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chu_(state)",
+          "wikidata": "http://www.wikidata.org/entity/Q504759",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A5%9A_(%E6%98%A5%E7%A7%8B)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Huangshi",
+          "wikidata": "http://www.wikidata.org/entity/Q71204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%BB%84%E7%9F%B3%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Daye",
+          "wikidata": "http://www.wikidata.org/entity/Q1179105",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Daye,_Hubei",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%86%B6%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lake_Pepin",
+          "wikidata": "http://www.wikidata.org/entity/Q1545321"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minnesota",
+          "wikidata": "http://www.wikidata.org/entity/Q1527",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%BD%E3%82%BF%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

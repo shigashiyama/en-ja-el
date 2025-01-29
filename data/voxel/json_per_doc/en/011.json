@@ -1,0 +1,405 @@
+{
+  "011": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/cartoon/4894626-message-kiev"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Message to Kiev.",
+        "text": "Message to Kiev.",
+        "mention_ids": [
+          "M143"
+        ]
+      },
+      "01": {
+        "orig_text": "French, German, Russian and Ukrainian leaders are to hold \"last chance\" peace talks on Ukraine in the Belarus capital of Minsk on 11 February.",
+        "text": "French, German, Russian and Ukrainian leaders are to hold \"last chance\" peace talks on Ukraine in the Belarus capital of Minsk on 11 February.",
+        "mention_ids": [
+          "M144",
+          "M145",
+          "M146"
+        ]
+      },
+      "02": {
+        "orig_text": "The summit comes in the wake of a series of meetings by Angela Merkel and François Hollande, who were in Kiev on 6 February and in Moscow the day after.",
+        "text": "The summit comes in the wake of a series of meetings by Angela Merkel and François Hollande, who were in Kiev on 6 February and in Moscow the day after.",
+        "mention_ids": [
+          "M147",
+          "M148",
+          "M149",
+          "M150"
+        ]
+      },
+      "03": {
+        "orig_text": "Merkel flew to Washington on Monday to coordinate the EU initiative with its American partner.",
+        "text": "Merkel flew to Washington on Monday to coordinate the EU initiative with its American partner.",
+        "mention_ids": [
+          "M151",
+          "M152",
+          "M153"
+        ]
+      },
+      "04": {
+        "orig_text": "The US and the EU do not agree however on considering wether to supply military aid to Kiev.",
+        "text": "The US and the EU do not agree however on considering wether to supply military aid to Kiev.",
+        "mention_ids": [
+          "M154",
+          "M155",
+          "M156"
+        ]
+      }
+    },
+    "mentions": {
+      "M143": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          15
+        ],
+        "text": "Kiev",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M144": {
+        "sentence_id": "01",
+        "span": [
+          87,
+          94
+        ],
+        "text": "Ukraine",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M145": {
+        "sentence_id": "01",
+        "span": [
+          102,
+          109
+        ],
+        "text": "Belarus",
+        "entity_type": null,
+        "entity_id": "E145"
+      },
+      "M146": {
+        "sentence_id": "01",
+        "span": [
+          121,
+          126
+        ],
+        "text": "Minsk",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M147": {
+        "sentence_id": "02",
+        "span": [
+          56,
+          69
+        ],
+        "text": "Angela Merkel",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M148": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          91
+        ],
+        "text": "François Hollande",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M149": {
+        "sentence_id": "02",
+        "span": [
+          105,
+          109
+        ],
+        "text": "Kiev",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M150": {
+        "sentence_id": "02",
+        "span": [
+          131,
+          137
+        ],
+        "text": "Moscow",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M151": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Merkel",
+        "entity_type": null,
+        "entity_id": "E151"
+      },
+      "M152": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          25
+        ],
+        "text": "Washington",
+        "entity_type": null,
+        "entity_id": "E152"
+      },
+      "M153": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          56
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M154": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          6
+        ],
+        "text": "US",
+        "entity_type": null,
+        "entity_id": "E154"
+      },
+      "M155": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          17
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E155"
+      },
+      "M156": {
+        "sentence_id": "04",
+        "span": [
+          87,
+          91
+        ],
+        "text": "Kiev",
+        "entity_type": null,
+        "entity_id": "E156"
+      }
+    },
+    "entities": {
+      "E143": {
+        "member_mention_ids": [
+          "M143"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kiev",
+          "wikidata": "http://www.wikidata.org/entity/Q111190407"
+        }
+      },
+      "E144": {
+        "member_mention_ids": [
+          "M144"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ukraine",
+          "wikidata": "http://www.wikidata.org/entity/Q212",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A"
+        }
+      },
+      "E145": {
+        "member_mention_ids": [
+          "M145"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Belarus",
+          "wikidata": "http://www.wikidata.org/entity/Q184",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%AB%E3%83%BC%E3%82%B7"
+        }
+      },
+      "E146": {
+        "member_mention_ids": [
+          "M146"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minsk",
+          "wikidata": "http://www.wikidata.org/entity/Q2280",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%AF"
+        }
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M147"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Angela_Merkel",
+          "wikidata": "http://www.wikidata.org/entity/Q567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B2%E3%83%A9%E3%83%BB%E3%83%A1%E3%83%AB%E3%82%B1%E3%83%AB"
+        }
+      },
+      "E148": {
+        "member_mention_ids": [
+          "M148"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "wikidata": "http://www.wikidata.org/entity/Q157",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%AF%E3%83%BB%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%89"
+        }
+      },
+      "E149": {
+        "member_mention_ids": [
+          "M149"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kiev",
+          "wikidata": "http://www.wikidata.org/entity/Q111190407"
+        }
+      },
+      "E150": {
+        "member_mention_ids": [
+          "M150"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+          "wikidata": "http://www.wikidata.org/entity/Q649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF"
+        }
+      },
+      "E151": {
+        "member_mention_ids": [
+          "M151"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Angela_Merkel",
+          "wikidata": "http://www.wikidata.org/entity/Q567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B2%E3%83%A9%E3%83%BB%E3%83%A1%E3%83%AB%E3%82%B1%E3%83%AB"
+        }
+      },
+      "E152": {
+        "member_mention_ids": [
+          "M152"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q61",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3D.C."
+        }
+      },
+      "E153": {
+        "member_mention_ids": [
+          "M153"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E154": {
+        "member_mention_ids": [
+          "M154"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E155": {
+        "member_mention_ids": [
+          "M155"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E156": {
+        "member_mention_ids": [
+          "M156"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kiev",
+          "wikidata": "http://www.wikidata.org/entity/Q111190407"
+        }
+      }
+    }
+  }
+}

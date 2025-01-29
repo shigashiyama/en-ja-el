@@ -1,0 +1,697 @@
+{
+  "3471": {
+    "doc_info": {
+      "title": "Sibiu",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Sibiu ( , antiquated Sibiiu ; , Transylvanian Saxon : Härmeschtat , ) is a city in Transylvania , Romania , with a population of 147,245 .",
+        "text": "Sibiu ( , antiquated Sibiiu ; , Transylvanian Saxon : Härmeschtat , ) is a city in Transylvania , Romania , with a population of 147,245 .",
+        "mention_ids": [
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Located some north - west of Bucharest , the city straddles the Cibin River , a tributary of the river Olt .",
+        "text": "Located some north - west of Bucharest , the city straddles the Cibin River , a tributary of the river Olt .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Now the capital of Sibiu County , between 1692 and 1791 and 1849 – 65 Sibiu was the capital of the Principality of Transylvania .",
+        "text": "Now the capital of Sibiu County , between 1692 and 1791 and 1849 – 65 Sibiu was the capital of the Principality of Transylvania .",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Sibiu is one of the most important cultural centres of Romania and was designated the European Capital of Culture for the year 2007 , along with the city of Luxembourg .",
+        "text": "Sibiu is one of the most important cultural centres of Romania and was designated the European Capital of Culture for the year 2007 , along with the city of Luxembourg .",
+        "mention_ids": [
+          "M0_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M3_1"
+        ]
+      },
+      "04": {
+        "orig_text": "Formerly the centre of the Transylvanian Saxons , the old city of Sibiu was ranked as \" Europe 's 8th - most idyllic place to live \" by Forbes in 2008 .",
+        "text": "Formerly the centre of the Transylvanian Saxons , the old city of Sibiu was ranked as \" Europe 's 8th - most idyllic place to live \" by Forbes in 2008 .",
+        "mention_ids": [
+          "M0_2",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The city administers the Păltiniș ski resort .",
+        "text": "The city administers the Păltiniș ski resort .",
+        "mention_ids": [
+          "M21_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Sibiu",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          70,
+          75
+        ],
+        "text": "Sibiu",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          71
+        ],
+        "text": "Sibiu",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Sibiu",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          27
+        ],
+        "text": "Sibiiu",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          65
+        ],
+        "text": "Härmeschtat",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          55
+        ],
+        "text": "1791",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          64
+        ],
+        "text": "1849",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          69
+        ],
+        "text": "65",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          99,
+          127
+        ],
+        "text": "Principality of Transylvania",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          86,
+          113
+        ],
+        "text": "European Capital of Culture",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          127,
+          131
+        ],
+        "text": "2007",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          157,
+          167
+        ],
+        "text": "Luxembourg",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          47
+        ],
+        "text": "Transylvanian Saxons",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          88,
+          94
+        ],
+        "text": "Europe",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          136,
+          142
+        ],
+        "text": "Forbes",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          51
+        ],
+        "text": "Transylvanian Saxon",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          146,
+          150
+        ],
+        "text": "2008",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          33
+        ],
+        "text": "Păltiniș",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          95
+        ],
+        "text": "Transylvania",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          98,
+          105
+        ],
+        "text": "Romania",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          55,
+          62
+        ],
+        "text": "Romania",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          129,
+          136
+        ],
+        "text": "147,245",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          38
+        ],
+        "text": "Bucharest",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          64,
+          75
+        ],
+        "text": "Cibin River",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          103,
+          106
+        ],
+        "text": "Olt",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          31
+        ],
+        "text": "Sibiu County",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          46
+        ],
+        "text": "1692",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sibiu",
+          "wikidata": "http://www.wikidata.org/entity/Q83324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%82%A6"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transylvanian_Saxon_dialect",
+          "wikidata": "http://www.wikidata.org/entity/Q260942"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q39473",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Romania",
+          "wikidata": "http://www.wikidata.org/entity/Q218",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bucharest",
+          "wikidata": "http://www.wikidata.org/entity/Q19660",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%AB%E3%83%AC%E3%82%B9%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cibin",
+          "wikidata": "http://www.wikidata.org/entity/Q167640",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Cibin_River"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olt_(river)",
+          "wikidata": "http://www.wikidata.org/entity/Q126822",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Olt_River",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%88%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sibiu_County",
+          "wikidata": "http://www.wikidata.org/entity/Q184797",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%93%E3%82%A6%E7%9C%8C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Principality_of_Transylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q7245116",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Principality_of_Transylvania_(disambiguation)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Capital_of_Culture",
+          "wikidata": "http://www.wikidata.org/entity/Q129372",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E6%96%87%E5%8C%96%E9%A6%96%E9%83%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luxembourg_City",
+          "wikidata": "http://www.wikidata.org/entity/Q1842",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Luxembourg_(city)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transylvanian_Saxons",
+          "wikidata": "http://www.wikidata.org/entity/Q170352",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B6%E3%82%AF%E3%82%BB%E3%83%B3%E4%BA%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Forbes",
+          "wikidata": "http://www.wikidata.org/entity/Q25161472",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%96%E3%82%B9_(%E9%9B%91%E8%AA%8C)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/P%C4%83ltini%C8%99",
+          "wikidata": "http://www.wikidata.org/entity/Q899025",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Păltiniș"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

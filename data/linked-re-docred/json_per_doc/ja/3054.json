@@ -1,0 +1,776 @@
+{
+  "3054": {
+    "doc_info": {
+      "title": "Vladimir Mitrofanovich Orlov",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ウラジミール・ミトロファノヴィチ・オルロフ( ) (1895年7月15日 - 1938年7月28日)は、ロシアの軍事指導者であり、1931年7月から1937年7月まで、ソ連海軍の最高司令官でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "text": "オルロフはヘルソンで生まれ、最初はサンクトペテルブルク大学の法学部で学びました（ただし、履修を完了していません）。",
+        "mention_ids": [
+          "M0_2",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "彼は1916年にバルチック艦隊に加わり、巡洋艦ボガティルの航海士として勤務しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "03": {
+        "text": "1919～20年、彼はバルト海艦隊の政治将校であり、白軍のニコライ・ユデニチ将軍の軍隊とペトログラードの防衛で戦いました。",
+        "mention_ids": [
+          "M10_1",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "04": {
+        "text": "1920年代は水上輸送の司令官を務め、1923年にはすべての海軍兵学校の政治将校になりました。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "05": {
+        "text": "1926年から1930年の間、彼は黒海艦隊を指揮しました。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "06": {
+        "text": "1931年にはソ連海軍の司令官に任命され、1937年には国防副大臣に任命されました。",
+        "mention_ids": [
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "07": {
+        "text": "オルロフは1937年7月10日に逮捕され、1938年7月28日に死刑判決を受け、処刑されました。",
+        "mention_ids": [
+          "M0_1",
+          "M24_1",
+          "M25_0"
+        ]
+      },
+      "08": {
+        "text": "彼は死後1956年に名誉を回復されました。",
+        "mention_ids": [
+          "M26_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "ウラジミール・ミトロファノヴィチ・オルロフ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "オルロフ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "オルロフ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          15
+        ],
+        "text": "バルチック艦隊",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          17
+        ],
+        "text": "バルト海艦隊",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          2,
+          7
+        ],
+        "text": "1916年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          28
+        ],
+        "text": "ボガティル",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "1919",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          8
+        ],
+        "text": "20年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          38
+        ],
+        "text": "ニコライ・ユデニチ",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          51
+        ],
+        "text": "ペトログラード",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "1920年代",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          24
+        ],
+        "text": "1923年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1926年",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          36
+        ],
+        "text": "1895年7月15日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1930年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          21
+        ],
+        "text": "黒海艦隊",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1931年",
+        "entity_type": "TIME",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          11
+        ],
+        "text": "ソ連海軍",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          26
+        ],
+        "text": "1937年",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M24_1": {
+        "sentence_id": "07",
+        "span": [
+          5,
+          15
+        ],
+        "text": "1937年7月10日",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "07",
+        "span": [
+          21,
+          31
+        ],
+        "text": "1938年7月28日",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "08",
+        "span": [
+          4,
+          9
+        ],
+        "text": "1956年",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          49
+        ],
+        "text": "1938年7月28日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          55
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          84,
+          88
+        ],
+        "text": "ソ連海軍",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          72
+        ],
+        "text": "1931年7月",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          81
+        ],
+        "text": "1937年7月",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          9
+        ],
+        "text": "ヘルソン",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          31
+        ],
+        "text": "法",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          29
+        ],
+        "text": "サンクトペテルブルク大学",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Mitrofanovich_Orlov",
+          "wikidata": "http://www.wikidata.org/entity/Q4336648"
+        },
+        "date_of_death": "1938-07-28T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Soviet_Navy",
+          "wikidata": "http://www.wikidata.org/entity/Q796754",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Soviet_Naval_Forces",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E9%80%A3%E6%B5%B7%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kherson",
+          "wikidata": "http://www.wikidata.org/entity/Q156732",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%82%BD%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Law",
+          "wikidata": "http://www.wikidata.org/entity/Q7748",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%95_(%E6%B3%95%E5%AD%A6)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint_Petersburg_State_University",
+          "wikidata": "http://www.wikidata.org/entity/Q27621",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/St_Petersburg_University",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%88%E3%83%9A%E3%83%86%E3%83%AB%E3%83%96%E3%83%AB%E3%82%AF%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltic_Fleet",
+          "wikidata": "http://www.wikidata.org/entity/Q805787",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%81%E3%83%83%E3%82%AF%E8%89%A6%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_cruiser_Bogatyr",
+          "wikidata": "http://www.wikidata.org/entity/Q690516",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AC%E3%83%84%E3%82%A4%E3%83%AA_(%E9%98%B2%E8%AD%B7%E5%B7%A1%E6%B4%8B%E8%89%A6)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Yudenich",
+          "wikidata": "http://www.wikidata.org/entity/Q261965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%BB%E3%83%A6%E3%83%87%E3%83%BC%E3%83%8B%E3%83%81"
+        },
+        "date_of_death": "1933-10-05T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+          "wikidata": "http://www.wikidata.org/entity/Q656",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%88%E3%83%9A%E3%83%86%E3%83%AB%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Black_Sea_Fleet",
+          "wikidata": "http://www.wikidata.org/entity/Q934022",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%B5%B7%E8%89%A6%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Soviet_Navy",
+          "wikidata": "http://www.wikidata.org/entity/Q796754",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E9%80%A3%E6%B5%B7%E8%BB%8D"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0",
+          "M24_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

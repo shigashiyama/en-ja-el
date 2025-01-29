@@ -1,0 +1,483 @@
+{
+  "3546": {
+    "doc_info": {
+      "title": "Zarir",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ザリール(ザリフとも綴られます)は、サーサーン朝の王子で、485年のイラン北部の反乱の指導者でした。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ザリールの生涯に関する唯一の情報源である、アルメニアの歴史家、ガザール・パルペツィによると、彼はサーサーン朝シャーのヤズデギルド2世の息子であったようです。",
+        "mention_ids": [
+          "M0_5",
+          "M1_1",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "彼には数名の兄弟がおり、それぞれバラシュ、ホルミズド3世、ペロス1世という名前でした。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ペロス1世(父の後を継いで国王となった)の死後、バラシュが貴族と聖職者によって王に選出されました。",
+        "mention_ids": [
+          "M10_0",
+          "M7_1"
+        ]
+      },
+      "04": {
+        "text": "ザリールはその選出に不満を抱き、反乱を起こしました。",
+        "mention_ids": [
+          "M0_2"
+        ]
+      },
+      "05": {
+        "text": "したがって、バラシュは自分の敵であるヴァハン・マミコニアンと和解することを余儀なくされ、ザリールの反乱を鎮圧するために軍隊の長に彼を送り込みました。",
+        "mention_ids": [
+          "M0_3",
+          "M11_0",
+          "M7_2"
+        ]
+      },
+      "06": {
+        "text": "ザリールは間もなく敗北し、山に逃げましたが、すぐに捕らえられ、「獣のように撃ち殺されました」。",
+        "mention_ids": [
+          "M0_4"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ザリール",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          8
+        ],
+        "text": "ザリフ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ザリール",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "05",
+        "span": [
+          44,
+          48
+        ],
+        "text": "ザリール",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ザリール",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ザリール",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ペロス1世",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          29
+        ],
+        "text": "ヴァハン・マミコニアン",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          24
+        ],
+        "text": "サーサーン朝",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          48,
+          54
+        ],
+        "text": "サーサーン朝",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          37
+        ],
+        "text": "イラン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          33
+        ],
+        "text": "485年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          27
+        ],
+        "text": "アルメニアの",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          41
+        ],
+        "text": "ガザール・パルペツィ",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          58,
+          66
+        ],
+        "text": "ヤズデギルド2世",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          20
+        ],
+        "text": "バラシュ",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          24,
+          28
+        ],
+        "text": "バラシュ",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          10
+        ],
+        "text": "バラシュ",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          28
+        ],
+        "text": "ホルミズド3世",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          34
+        ],
+        "text": "ペロス1世",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zarer",
+          "wikidata": "http://www.wikidata.org/entity/Q3574851",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%AA%E3%83%AB"
+        },
+        "date_of_death": "0485-01-01T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q83891",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sasanian",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%B3%E6%9C%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q83891",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%B3%E6%9C%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Armenians",
+          "wikidata": "http://www.wikidata.org/entity/Q79797",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%8B%E3%82%A2%E4%BA%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ghazar_Parpetsi",
+          "wikidata": "http://www.wikidata.org/entity/Q2626111"
+        },
+        "date_of_death": "0510-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yazdegerd_II",
+          "wikidata": "http://www.wikidata.org/entity/Q310303",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%BA%E3%83%87%E3%82%AE%E3%83%AB%E3%83%892%E4%B8%96"
+        },
+        "date_of_death": "0457-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Balash",
+          "wikidata": "http://www.wikidata.org/entity/Q313612",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%A5"
+        },
+        "date_of_death": "0488-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hormizd_III",
+          "wikidata": "http://www.wikidata.org/entity/Q315929",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%9F%E3%82%BA%E3%83%893%E4%B8%96"
+        },
+        "date_of_death": "0459-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Peroz_I",
+          "wikidata": "http://www.wikidata.org/entity/Q310233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA1%E4%B8%96"
+        },
+        "date_of_death": "0484-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Peroz_I",
+          "wikidata": "http://www.wikidata.org/entity/Q310233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA1%E4%B8%96"
+        },
+        "date_of_death": "0484-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vahan_I_Mamikonian",
+          "wikidata": "http://www.wikidata.org/entity/Q2085338",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Vahan_Mamikonian"
+        },
+        "date_of_death": "0505-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

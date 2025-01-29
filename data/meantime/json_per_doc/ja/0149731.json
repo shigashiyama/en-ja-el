@@ -1,0 +1,400 @@
+{
+  "0149731": {
+    "doc_info": {
+      "title": "149731_Technical_problem_on_Airbus_A400M_maiden_flight",
+      "url": "http://en.wikinews.org/wiki/Technical_problem_on_Airbus_A400M_maiden_flight"
+    },
+    "sentences": {
+      "00": {
+        "text": "エアバスA400Mの初飛行における技術的問題",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "01": {
+        "text": "2010年1月25日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "エアバスは、同社のエアバスA400M軍用輸送機の初飛行にソフトウェアの不具合があったことを正式に発表しました。",
+        "mention_ids": [
+          "M010",
+          "M012"
+        ]
+      },
+      "03": {
+        "text": "この問題は比較的軽微で、そのエンジンを制御するソフトウェアに影響を及ぼしました。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "04": {
+        "text": "同機が12月11日にその初飛行を行ったとき--それはメーカーが「政治的干渉」と呼んでいるもののために、予定より4年遅れ、予算を73億ドル超過しました--この不具合は報告されませんでしたし、今週末、ドイツの雑誌『デア・シュピーゲル』がエンジンメーカーのユーロプロップの機密文書について報道で言及したときになって初めて、世間の注目を集めました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M011"
+        ]
+      },
+      "05": {
+        "text": "ステアリングコンピュータとバックアップシステムは30分後に故障しました。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "06": {
+        "text": "エアバスの広報担当者ハイメ・ペレス＝ゲラ氏によると、この問題は解決したとのことです。",
+        "mention_ids": [
+          "M090"
+        ]
+      },
+      "07": {
+        "text": "見たところ、この不具合によりパイロットはエンジンを切り離すことになり、ブレードが自由回転できるようになりました。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "それ以降も、同機は30時間近く飛行しており、期待以上になっていると彼は言います。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "しかし、追加のコストが生じるために、欧州の航空宇宙請負業者EADSは、このコストをベルギー、フランス、ドイツ、ルクセンブルク、スペイン、トルコ、および英国の顧客7か国が負担することを望んでいます。",
+        "mention_ids": [
+          "M093"
+        ]
+      },
+      "10": {
+        "text": "エアバスは、プロジェクトの今後の進め方についての決定を今月末までに行うよう求めています。",
+        "mention_ids": [
+          "M127"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          29
+        ],
+        "text": "ソフトウェア",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M003": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          18
+        ],
+        "text": "そのエンジン",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M005": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          2
+        ],
+        "text": "同機",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M006": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          12
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M007": {
+        "sentence_id": "04",
+        "span": [
+          26,
+          30
+        ],
+        "text": "メーカー",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M008": {
+        "sentence_id": "04",
+        "span": [
+          98,
+          115
+        ],
+        "text": "ドイツの雑誌『デア・シュピーゲル』",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M009": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          23
+        ],
+        "text": "ステアリングコンピュータとバックアップシステム",
+        "entity_type": null,
+        "entity_id": "E052"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          23
+        ],
+        "text": "同社のエアバスA400M軍用輸送機",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M011": {
+        "sentence_id": "04",
+        "span": [
+          116,
+          137
+        ],
+        "text": "エンジンメーカーのユーロプロップの機密文書",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M012": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M014": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "エアバスA400M",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M090": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M093": {
+        "sentence_id": "09",
+        "span": [
+          18,
+          33
+        ],
+        "text": "欧州の航空宇宙請負業者EADS",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M127": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E109"
+      }
+    },
+    "entities": {
+      "E052": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E073": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M072"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E075": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M074"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E106": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Der_Spiegel",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Der_Spiegel",
+          "wikidata": "http://www.wikidata.org/entity/Q131478",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A2%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%94%E3%83%BC%E3%82%B2%E3%83%AB"
+        }
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M012",
+          "M090",
+          "M127"
+        ],
+        "removed_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E117": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M076"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E118": {
+        "member_mention_ids": [
+          "M093"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_Group",
+          "dbpedia:orig": "http://dbpedia.org/page/Airbus_Group",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M077"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M006",
+          "M004",
+          "M005",
+          "M014"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_A400M_Atlas",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus_A400M_Atlas",
+          "wikidata": "http://www.wikidata.org/entity/Q6496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9_A400M"
+        }
+      }
+    }
+  }
+}

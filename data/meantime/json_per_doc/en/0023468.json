@@ -1,0 +1,361 @@
+{
+  "0023468": {
+    "doc_info": {
+      "title": "23468_Apple_plans_another_special_event",
+      "url": "http://en.wikinews.org/wiki/Apple_plans_another_special_event"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Apple plans another special event",
+        "text": "Apple plans another special event",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "01": {
+        "orig_text": "October 04, 2005",
+        "text": "October 04, 2005",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Within one month of the iPod nano and iTunes phone special event, Apple Computer announced today another special event to be held on October 12.",
+        "text": "Within one month of the iPod nano and iTunes phone special event, Apple Computer announced today another special event to be held on October 12.",
+        "mention_ids": [
+          "M004",
+          "M006"
+        ]
+      },
+      "03": {
+        "orig_text": "It is to be held at the California Theater in downtown San Jose, California.",
+        "text": "It is to be held at the California Theater in downtown San Jose, California.",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "04": {
+        "orig_text": "The invitation reads, ``One more thing...``, the teasing tagline of Steve Jobs.",
+        "text": "The invitation reads, ``One more thing...``, the teasing tagline of Steve Jobs.",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "05": {
+        "orig_text": "The words were atop a picture of closed theater curtains.",
+        "text": "The words were atop a picture of closed theater curtains.",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "06": {
+        "orig_text": "Recently Apple has been gaining rights to sell music videos from record labels.",
+        "text": "Recently Apple has been gaining rights to sell music videos from record labels.",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "This has increased rumors of a video iPod(vPod) along with this event.",
+        "text": "This has increased rumors of a video iPod(vPod) along with this event.",
+        "mention_ids": [
+          "M070"
+        ]
+      },
+      "08": {
+        "orig_text": "AppleInsider is claiming that there are sources that have seen the new iPod.",
+        "text": "AppleInsider is claiming that there are sources that have seen the new iPod.",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "09": {
+        "orig_text": "Alongside this rumor, AppleInsider claims to have seen a wireless device similar to Apple's Airport Express that supports video.",
+        "text": "Alongside this rumor, AppleInsider claims to have seen a wireless device similar to Apple's Airport Express that supports video.",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "Other rumors for this event include a major iTunes Music Store update and a Macintosh with a Intel processor.",
+        "text": "Other rumors for this event include a major iTunes Music Store update and a Macintosh with a Intel processor.",
+        "mention_ids": [
+          "M072"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          56
+        ],
+        "text": "a picture of closed theater curtains",
+        "entity_type": null,
+        "entity_id": "E064"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          50
+        ],
+        "text": "iPod nano and iTunes phone",
+        "entity_type": null,
+        "entity_id": "E068"
+      },
+      "M005": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E065"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          80
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E065"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          75
+        ],
+        "text": "the California Theater in downtown San Jose, California",
+        "entity_type": null,
+        "entity_id": "E061"
+      },
+      "M010": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          14
+        ],
+        "text": "The invitation",
+        "entity_type": null,
+        "entity_id": "E066"
+      },
+      "M011": {
+        "sentence_id": "04",
+        "span": [
+          68,
+          78
+        ],
+        "text": "Steve Jobs",
+        "entity_type": null,
+        "entity_id": "E053"
+      },
+      "M070": {
+        "sentence_id": "07",
+        "span": [
+          29,
+          41
+        ],
+        "text": "a video iPod",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M071": {
+        "sentence_id": "08",
+        "span": [
+          63,
+          75
+        ],
+        "text": "the new iPod",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M072": {
+        "sentence_id": "10",
+        "span": [
+          44,
+          62
+        ],
+        "text": "iTunes Music Store",
+        "entity_type": null,
+        "entity_id": "E073"
+      }
+    },
+    "entities": {
+      "E053": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      },
+      "E061": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E062": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/California",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/California",
+          "wikidata": "http://www.wikidata.org/entity/Q99",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E"
+        }
+      },
+      "E063": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod_Nano",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod_Nano",
+          "wikidata": "http://www.wikidata.org/entity/Q268583",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod_nano"
+        }
+      },
+      "E064": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E065": {
+        "member_mention_ids": [
+          "M005",
+          "M006"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E066": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E067": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E068": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E069": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/San_Jose,_California",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Jose,_California",
+          "wikidata": "http://www.wikidata.org/entity/Q16553",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%8E%E3%82%BC"
+        }
+      },
+      "E073": {
+        "member_mention_ids": [
+          "M072"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E074": {
+        "member_mention_ids": [
+          "M070",
+          "M071"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod",
+          "wikidata": "http://www.wikidata.org/entity/Q9479",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod"
+        }
+      }
+    }
+  }
+}

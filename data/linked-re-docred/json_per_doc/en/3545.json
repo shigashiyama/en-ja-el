@@ -1,0 +1,604 @@
+{
+  "3545": {
+    "doc_info": {
+      "title": "Allen County, Ohio",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Allen County is a county in the U.S. state of Ohio .",
+        "text": "Allen County is a county in the U.S. state of Ohio .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "As of the 2010 census , the population was 106,331 .",
+        "text": "As of the 2010 census , the population was 106,331 .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The county seat is Lima .",
+        "text": "The county seat is Lima .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The county was created in 1820 and organized in 1831 .",
+        "text": "The county was created in 1820 and organized in 1831 .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The county is named for Colonel John Allen , who was killed leading his men at the Battle of Frenchtown , during the War of 1812 .",
+        "text": "The county is named for Colonel John Allen , who was killed leading his men at the Battle of Frenchtown , during the War of 1812 .",
+        "mention_ids": [
+          "M10_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "orig_text": "It has also been claimed the county was named for Revolutionary War soldier Ethan Allen , but the weight of the evidence in favor of John Allen led the General Assembly to declare in 1976 that the county was named for him .",
+        "text": "It has also been claimed the county was named for Revolutionary War soldier Ethan Allen , but the weight of the evidence in favor of John Allen led the General Assembly to declare in 1976 that the county was named for him .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M8_1"
+        ]
+      },
+      "06": {
+        "orig_text": "Allen County comprises the Lima , OH Metropolitan Statistical Area , which is also part of the Lima - Van Wert - Wapakoneta , OH Combined Statistical Area .",
+        "text": "Allen County comprises the Lima , OH Metropolitan Statistical Area , which is also part of the Lima - Van Wert - Wapakoneta , OH Combined Statistical Area .",
+        "mention_ids": [
+          "M0_1",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M5_1",
+          "M5_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Allen County",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Allen County",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          117,
+          128
+        ],
+        "text": "War of 1812",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          67
+        ],
+        "text": "Revolutionary War",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          76,
+          87
+        ],
+        "text": "Ethan Allen",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          152,
+          168
+        ],
+        "text": "General Assembly",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          183,
+          187
+        ],
+        "text": "1976",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          66
+        ],
+        "text": "OH Metropolitan Statistical Area",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          102,
+          110
+        ],
+        "text": "Van Wert",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          113,
+          123
+        ],
+        "text": "Wapakoneta",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          126,
+          154
+        ],
+        "text": "OH Combined Statistical Area",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          36
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          50
+        ],
+        "text": "Ohio",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          14
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          50
+        ],
+        "text": "106,331",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          23
+        ],
+        "text": "Lima",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          31
+        ],
+        "text": "Lima",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "06",
+        "span": [
+          95,
+          99
+        ],
+        "text": "Lima",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          30
+        ],
+        "text": "1820",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          52
+        ],
+        "text": "1831",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          42
+        ],
+        "text": "John Allen",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          133,
+          143
+        ],
+        "text": "John Allen",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          83,
+          103
+        ],
+        "text": "Battle of Frenchtown",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Allen_County,_Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q485577",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%B3%E9%83%A1_(%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._state",
+          "wikidata": "http://www.wikidata.org/entity/Q35657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q1397",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lima,_Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q983974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%9E_(%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Allen_(soldier)",
+          "wikidata": "http://www.wikidata.org/entity/Q6218759"
+        },
+        "date_of_death": "1813-01-22T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Frenchtown",
+          "wikidata": "http://www.wikidata.org/entity/Q586801",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%82%BF%E3%82%A6%E3%83%B3%E3%81%AE%E6%88%A6%E3%81%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/War_of_1812",
+          "wikidata": "http://www.wikidata.org/entity/Q26013",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E8%8B%B1%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+          "wikidata": "http://www.wikidata.org/entity/Q40949",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%8B%AC%E7%AB%8B%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ethan_Allen",
+          "wikidata": "http://www.wikidata.org/entity/Q552007",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3"
+        },
+        "date_of_death": "1789-02-12T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ohio_General_Assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q7080820",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lima_metropolitan_area,_Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q14716609"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Van_Wert,_Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q1012164"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wapakoneta,_Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q492796"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lima%E2%80%93Van_Wert%E2%80%93Wapakoneta,_OH,_combined_statistical_area",
+          "wikidata": "http://www.wikidata.org/entity/Q6548848",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Lima–Van_Wert–Wapakoneta,_OH,_combined_statistical_area"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "0068899": {
+    "doc_info": {
+      "title": "68899_DaimlerChrysler_to_sell_Chrysler_Group",
+      "url": "http://en.wikinews.org/wiki/DaimlerChrysler_to_sell_Chrysler_Group_for_$7.4_Billion"
+    },
+    "sentences": {
+      "00": {
+        "text": "ダイムラー・クライスラー、クライスラーグループを74億ドルで売却へ",
+        "mention_ids": [
+          "M053",
+          "M054"
+        ]
+      },
+      "01": {
+        "text": "2007 年 4 月 14 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ダイムラー・クライスラー社は、同社はクライスラー・グループを自ら売却し、クライスラー・グループをニューヨークを拠点とする未公開株投資会社サーベラス・キャピタル・マネジメントに74億米ドルで売却すると発表しました。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M009"
+        ]
+      },
+      "03": {
+        "text": "両社の社名をダイムラーAGとクライスラー・ホールディングLLCに変更すると発表しました。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "04": {
+        "text": "ダイムラー・クライスラーは、クライスラーの株式の80.1%を売却し、残りの19.9%を合弁事業やその他の契約や提携のために保有しています。",
+        "mention_ids": [
+          "M018",
+          "M049"
+        ]
+      },
+      "05": {
+        "text": "サーベラスは、クライスラーで数十億ドルの年金および退職者の医療費を負担することに合意しました。",
+        "mention_ids": [
+          "M028",
+          "M029"
+        ]
+      },
+      "06": {
+        "text": "サーベラスはまた、昨年4月にGMの金融部門であるGMACの株式の過半数を取得したコンソーシアムを主導しており、自動車部品大手デルファイへの投資を計画していると言われています。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "カナダ自動車労働組合のバズ・ハーグローブ会長は、クライスラーとの団体交渉協定は存続し、雇用が削減されることはないと確信していると述べました。",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "08": {
+        "text": "ドイツ企業ダイムラー・クライスラーのダイムラーAGへの社名変更は、2007年秋に予定されている次回株主総会での株主の承認を待っています。",
+        "mention_ids": [
+          "M058"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          13
+        ],
+        "text": "ダイムラー・クライスラー社",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          17
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          30,
+          32
+        ],
+        "text": "自ら",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          29
+        ],
+        "text": "クライスラー・グループ",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          47
+        ],
+        "text": "クライスラー・グループ",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          86
+        ],
+        "text": "ニューヨークを拠点とする未公開株投資会社サーベラス・キャピタル・マネジメント",
+        "entity_type": null,
+        "entity_id": "E089"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "両社",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ダイムラー・クライスラー",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M028": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "サーベラス",
+        "entity_type": null,
+        "entity_id": "E089"
+      },
+      "M029": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          13
+        ],
+        "text": "クライスラー",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M049": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          23
+        ],
+        "text": "クライスラーの株式",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M053": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ダイムラー・クライスラー",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M054": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          23
+        ],
+        "text": "クライスラーグループ",
+        "entity_type": null,
+        "entity_id": "E086"
+      },
+      "M058": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          17
+        ],
+        "text": "ドイツ企業ダイムラー・クライスラー",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M071": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          30
+        ],
+        "text": "クライスラー",
+        "entity_type": null,
+        "entity_id": "E086"
+      }
+    },
+    "entities": {
+      "E086": {
+        "member_mention_ids": [
+          "M004",
+          "M029",
+          "M054",
+          "M071"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M020"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Chrysler",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chrysler",
+          "wikidata": "http://www.wikidata.org/entity/Q181114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC"
+        }
+      },
+      "E087": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/New_York_City",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E089": {
+        "member_mention_ids": [
+          "M009",
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Cerberus_Capital_Management",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cerberus_Capital_Management",
+          "wikidata": "http://www.wikidata.org/entity/Q289362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"
+        }
+      },
+      "E090": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M018",
+          "M053",
+          "M058"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Daimler_AG",
+          "dbpedia:orig": "http://dbpedia.org/resource/Daimler_AG",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mercedes-Benz_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q27530",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9%E3%83%BB%E3%83%99%E3%83%B3%E3%83%84%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        }
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

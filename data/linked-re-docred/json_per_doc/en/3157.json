@@ -1,0 +1,711 @@
+{
+  "3157": {
+    "doc_info": {
+      "title": "Solingen",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Solingen ( ) is a city in North Rhine - Westphalia , Germany .",
+        "text": "Solingen ( ) is a city in North Rhine - Westphalia , Germany .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is located on the northern edge of the region called Bergisches Land , south of the Ruhr area , and , with a 2009 population of 161,366 , is after Wuppertal the second largest city in the Bergisches Land .",
+        "text": "It is located on the northern edge of the region called Bergisches Land , south of the Ruhr area , and , with a 2009 population of 161,366 , is after Wuppertal the second largest city in the Bergisches Land .",
+        "mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It is a member of the regional authority of the Rhineland .",
+        "text": "It is a member of the regional authority of the Rhineland .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Solingen is called the \" City of Blades \" , since it has long been renowned for the manufacturing of fine swords , knives , scissors and razors made by famous firms such as Dreiturm , DOVO , Wüsthof , Zwilling J.",
+        "text": "Solingen is called the \" City of Blades \" , since it has long been renowned for the manufacturing of fine swords , knives , scissors and razors made by famous firms such as Dreiturm , DOVO , Wüsthof , Zwilling J.",
+        "mention_ids": [
+          "M0_1",
+          "M0_4",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "A. Henckels , Böker , Clauberg , Eickhorn , Carl Schmidt Sohn , and numerous other manufacturers .",
+        "text": "A. Henckels , Böker , Clauberg , Eickhorn , Carl Schmidt Sohn , and numerous other manufacturers .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "05": {
+        "orig_text": "In Medieval times , the swordsmiths of Solingen coined the town 's image , which is preserved to this date .",
+        "text": "In Medieval times , the swordsmiths of Solingen coined the town 's image , which is preserved to this date .",
+        "mention_ids": [
+          "M0_2",
+          "M18_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In the latter part of the 17th century , a group of swordsmiths from Solingen broke their guild oaths by taking their sword - making secrets with them to Shotley Bridge , County Durham in England .",
+        "text": "In the latter part of the 17th century , a group of swordsmiths from Solingen broke their guild oaths by taking their sword - making secrets with them to Shotley Bridge , County Durham in England .",
+        "mention_ids": [
+          "M0_3",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Solingen",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Solingen",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          47
+        ],
+        "text": "Solingen",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "06",
+        "span": [
+          69,
+          77
+        ],
+        "text": "Solingen",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          39
+        ],
+        "text": "City of Blades",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          184,
+          188
+        ],
+        "text": "DOVO",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          191,
+          198
+        ],
+        "text": "Wüsthof",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          201,
+          212
+        ],
+        "text": "Zwilling J.",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          11
+        ],
+        "text": "A. Henckels",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          19
+        ],
+        "text": "Böker",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          30
+        ],
+        "text": "Clauberg",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          33,
+          41
+        ],
+        "text": "Eickhorn",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          61
+        ],
+        "text": "Carl Schmidt Sohn",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          11
+        ],
+        "text": "Medieval",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          38
+        ],
+        "text": "the 17th century",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          50
+        ],
+        "text": "North Rhine - Westphalia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          154,
+          168
+        ],
+        "text": "Shotley Bridge",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          171,
+          184
+        ],
+        "text": "County Durham",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          188,
+          195
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          53,
+          60
+        ],
+        "text": "Germany",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          71
+        ],
+        "text": "Bergisches Land",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          191,
+          206
+        ],
+        "text": "Bergisches Land",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          87,
+          91
+        ],
+        "text": "Ruhr",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          112,
+          116
+        ],
+        "text": "2009",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          131,
+          138
+        ],
+        "text": "161,366",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          150,
+          159
+        ],
+        "text": "Wuppertal",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          57
+        ],
+        "text": "Rhineland",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          173,
+          181
+        ],
+        "text": "Dreiturm",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Solingen",
+          "wikidata": "http://www.wikidata.org/entity/Q2942",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B2%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Rhine-Westphalia",
+          "wikidata": "http://www.wikidata.org/entity/Q1198",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%EF%BC%9D%E3%83%B4%E3%82%A7%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bergisches_Land",
+          "wikidata": "http://www.wikidata.org/entity/Q153464"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ruhr",
+          "wikidata": "http://www.wikidata.org/entity/Q151993",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%AB%E5%9C%B0%E6%96%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wuppertal",
+          "wikidata": "http://www.wikidata.org/entity/Q2107",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%83%83%E3%83%91%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rhineland",
+          "wikidata": "http://www.wikidata.org/entity/Q152243",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/DOVO_Solingen",
+          "wikidata": "http://www.wikidata.org/entity/Q317849"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/W%C3%BCsthof",
+          "wikidata": "http://www.wikidata.org/entity/Q1282257",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Wüsthof"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zwilling_J._A._Henckels",
+          "wikidata": "http://www.wikidata.org/entity/Q244736",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/J._A._Henckels",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BBJ.A.%E3%83%BB%E3%83%98%E3%83%B3%E3%82%B1%E3%83%AB%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zwilling_J._A._Henckels",
+          "wikidata": "http://www.wikidata.org/entity/Q244736",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/J._A._Henckels",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BBJ.A.%E3%83%BB%E3%83%98%E3%83%B3%E3%82%B1%E3%83%AB%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/B%C3%B6ker",
+          "wikidata": "http://www.wikidata.org/entity/Q5005154",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Böker"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shotley_Bridge",
+          "wikidata": "http://www.wikidata.org/entity/Q7502529"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/County_Durham",
+          "wikidata": "http://www.wikidata.org/entity/Q23082",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A9%E3%83%A0_(%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

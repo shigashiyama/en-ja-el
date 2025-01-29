@@ -1,0 +1,707 @@
+{
+  "3058": {
+    "doc_info": {
+      "title": "WHTV",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "WHTV was a television station licensed to Jackson , Michigan , United States , which served the Central Lower Peninsula of Michigan , including the capital city of Lansing .",
+        "text": "WHTV was a television station licensed to Jackson , Michigan , United States , which served the Central Lower Peninsula of Michigan , including the capital city of Lansing .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It broadcast a high definition digital signal on UHF channel 34 ( or virtual channel 18 via PSIP ) from a transmitter on M-52 in Lyndon Township , Washtenaw County ( in the Detroit market ) .",
+        "text": "It broadcast a high definition digital signal on UHF channel 34 ( or virtual channel 18 via PSIP ) from a transmitter on M-52 in Lyndon Township , Washtenaw County ( in the Detroit market ) .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Owned by Venture Technologies Group , WHTV maintained studios on West Saint Joseph Street , along I-496 , in downtown Lansing .",
+        "text": "Owned by Venture Technologies Group , WHTV maintained studios on West Saint Joseph Street , along I-496 , in downtown Lansing .",
+        "mention_ids": [
+          "M0_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M5_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Through its history , WHTV was mainly affiliated with UPN , followed by MyNetworkTV , and had a secondary affiliation with Jewelry TV that became primary several times .",
+        "text": "Through its history , WHTV was mainly affiliated with UPN , followed by MyNetworkTV , and had a secondary affiliation with Jewelry TV that became primary several times .",
+        "mention_ids": [
+          "M0_2",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "04": {
+        "orig_text": "WHTV sold its spectrum in the Federal Communications Commission ( FCC ) 's incentive auction and ceased operations at 11:59  p.m. on August 31 , 2017 .",
+        "text": "WHTV sold its spectrum in the Federal Communications Commission ( FCC ) 's incentive auction and ceased operations at 11:59 p.m. on August 31 , 2017 .",
+        "mention_ids": [
+          "M0_3",
+          "M20_0",
+          "M20_1",
+          "M21_0",
+          "M22_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          42
+        ],
+        "text": "WHTV",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "WHTV",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          26
+        ],
+        "text": "WHTV",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "WHTV",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          121,
+          125
+        ],
+        "text": "M-52",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          129,
+          144
+        ],
+        "text": "Lyndon Township",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "01",
+        "span": [
+          147,
+          163
+        ],
+        "text": "Washtenaw County",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "01",
+        "span": [
+          173,
+          180
+        ],
+        "text": "Detroit",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          35
+        ],
+        "text": "Venture Technologies Group",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          89
+        ],
+        "text": "West Saint Joseph Street",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "02",
+        "span": [
+          98,
+          103
+        ],
+        "text": "I-496",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          57
+        ],
+        "text": "UPN",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          72,
+          83
+        ],
+        "text": "MyNetworkTV",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "03",
+        "span": [
+          123,
+          133
+        ],
+        "text": "Jewelry TV",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          49
+        ],
+        "text": "Jackson",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          63
+        ],
+        "text": "Federal Communications Commission",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          69
+        ],
+        "text": "FCC",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "04",
+        "span": [
+          118,
+          128
+        ],
+        "text": "11:59 p.m.",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "04",
+        "span": [
+          132,
+          148
+        ],
+        "text": "August 31 , 2017",
+        "entity_type": "TIME",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          60
+        ],
+        "text": "Michigan",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          76
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          96,
+          131
+        ],
+        "text": "Central Lower Peninsula of Michigan",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          164,
+          171
+        ],
+        "text": "Lansing",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          118,
+          125
+        ],
+        "text": "Lansing",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          63
+        ],
+        "text": "UHF channel 34",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          69,
+          87
+        ],
+        "text": "virtual channel 18",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          92,
+          96
+        ],
+        "text": "PSIP",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/WHTV",
+          "wikidata": "http://www.wikidata.org/entity/Q7950461"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jackson,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q984374",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q1166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lower_Peninsula_of_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q3596",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%BC%E5%8D%8A%E5%B3%B6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lansing,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q28237",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "wikidata": "http://www.wikidata.org/entity/Q628096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A5%B5%E8%B6%85%E7%9F%AD%E6%B3%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Virtual_channel",
+          "wikidata": "http://www.wikidata.org/entity/Q2291875",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E3%82%AD%E3%83%BCID"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Program_and_System_Information_Protocol",
+          "wikidata": "http://www.wikidata.org/entity/Q1062494"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/M-52_(Michigan_highway)",
+          "wikidata": "http://www.wikidata.org/entity/Q2353181"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lyndon_Township,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q2223862"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washtenaw_County,_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q137916",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%8E%E3%83%BC%E9%83%A1_(%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Detroit",
+          "wikidata": "http://www.wikidata.org/entity/Q12439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%88%E3%83%AD%E3%82%A4%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Venture_Technologies_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q7920424"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Interstate_496",
+          "wikidata": "http://www.wikidata.org/entity/Q2351976"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UPN",
+          "wikidata": "http://www.wikidata.org/entity/Q206272",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/United_Paramount_Network"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MyNetworkTV",
+          "wikidata": "http://www.wikidata.org/entity/Q1148579",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AFTV"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jewelry_Television",
+          "wikidata": "http://www.wikidata.org/entity/Q6189611"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Communications_Commission",
+          "wikidata": "http://www.wikidata.org/entity/Q128831",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%93%A1%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "3379": {
+    "doc_info": {
+      "title": "Des Plaines River",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "デスプレーンズ川( )は、米国中西部のウィスコンシン南部とイリノイ北部を南に流れる川です。最終的にチャナホンの西でカンカキー川と合流し、ミシシッピ川の支流であるイリノイ川を形成します。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "text": "アメリカ先住民は川を輸送路や移動手段として利用しました。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "フランス人の探検家や宣教師が1600年代、当時はニューフランスのイリノイ郡であった地域に到着しました。彼らは、川の木々がヨーロッパのプラタナスに似ていると感じたため、この水路をLa Rivière des Plaines(プラタナスの川)と名付けました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M13_1",
+          "M14_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "地元のアメリカ先住民は、初期のヨーロッパ人探検家たちに、デスプレーンズ流域の水路を横断してミシガン湖からミシシッピ川とその渓谷へ移動する方法を教えました。",
+        "mention_ids": [
+          "M14_1",
+          "M15_0",
+          "M16_0",
+          "M7_1",
+          "M8_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "デスプレーンズ川",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          20
+        ],
+        "text": "1600年代",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          37
+        ],
+        "text": "イリノイ郡",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          31
+        ],
+        "text": "ニューフランス",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          88,
+          110
+        ],
+        "text": "La Rivière des Plaines",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "02",
+        "span": [
+          111,
+          118
+        ],
+        "text": "プラタナスの川",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          66
+        ],
+        "text": "ヨーロッパの",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          21
+        ],
+        "text": "ヨーロッパ人",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          35
+        ],
+        "text": "デスプレーンズ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          45,
+          50
+        ],
+        "text": "ミシガン湖",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          26
+        ],
+        "text": "ウィスコンシン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          33
+        ],
+        "text": "イリノイ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          18
+        ],
+        "text": "米国中西部",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          63
+        ],
+        "text": "カンカキー川",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          54
+        ],
+        "text": "チャナホン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          80,
+          85
+        ],
+        "text": "イリノイ川",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          68,
+          74
+        ],
+        "text": "ミシシッピ川",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          52,
+          58
+        ],
+        "text": "ミシシッピ川",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "アメリカ先住民",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          10
+        ],
+        "text": "アメリカ先住民",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "フランス人の",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Des_Plaines_River",
+          "wikidata": "http://www.wikidata.org/entity/Q8637"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wisconsin",
+          "wikidata": "http://www.wikidata.org/entity/Q1537",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%B3%E3%82%B7%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q1204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q186545",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%AD%E8%A5%BF%E9%83%A8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kankakee_River",
+          "wikidata": "http://www.wikidata.org/entity/Q8642"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Channahon,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q2672298"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Illinois_River",
+          "wikidata": "http://www.wikidata.org/entity/Q8321",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mississippi_River",
+          "wikidata": "http://www.wikidata.org/entity/Q1497",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%B7%E3%83%83%E3%83%94%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q49297",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/French_language",
+          "wikidata": "http://www.wikidata.org/entity/Q150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Illinois_Country",
+          "wikidata": "http://www.wikidata.org/entity/Q2554770",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_France",
+          "wikidata": "http://www.wikidata.org/entity/Q170604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%83%BC%E3%83%99%E3%83%AB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Des_Plaines_River",
+          "wikidata": "http://www.wikidata.org/entity/Q8637"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Platanus_orientalis",
+          "wikidata": "http://www.wikidata.org/entity/Q161105",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BA%E3%82%AB%E3%82%B1%E3%83%8E%E3%82%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Des_Plaines,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q386961",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%BA_(%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lake_Michigan",
+          "wikidata": "http://www.wikidata.org/entity/Q1169",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%AC%E3%83%B3%E6%B9%96"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

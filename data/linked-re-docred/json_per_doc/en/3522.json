@@ -1,0 +1,416 @@
+{
+  "3522": {
+    "doc_info": {
+      "title": "Magic Eye (TV series)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Magic Eye ( ) is a South Korean talk show which began airing on July 8 , 2014 on Tuesday nights at 11:15 pm KST on SBS .",
+        "text": "Magic Eye ( ) is a South Korean talk show which began airing on July 8 , 2014 on Tuesday nights at 11:15 pm KST on SBS .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The program first aired as a pilot on May 13 , 2014 and was picked up following a positive response .",
+        "text": "The program first aired as a pilot on May 13 , 2014 and was picked up following a positive response .",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "It is hosted by singer ■■■■■■■■■■■■ , actress ■■■■■■■■■■■■ , model ■■■■■■■■■■■■■■■■ , and comedian ■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M10_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The program focuses on news stories that might have been missed by viewers , aiming to find the hidden 1 mm of the world .",
+        "text": "The program focuses on news stories that might have been missed by viewers , aiming to find the hidden 1 mm of the world .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Magic Eye is the first program on Korean terrestrial television to incorporate podcasts to the program .",
+        "text": "Magic Eye is the first program on Korean terrestrial television to incorporate podcasts to the program .",
+        "mention_ids": [
+          "M0_1",
+          "M12_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Viewers can listen to unaired footage and behind the scenes commentary online after the show has aired .",
+        "text": "Viewers can listen to unaired footage and behind the scenes commentary online after the show has aired .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The program has been cancelled due to low ratings , and airs its final episode on November 18 , 2014 .",
+        "text": "The program has been cancelled due to low ratings , and airs its final episode on November 18 , 2014 .",
+        "mention_ids": [
+          "M6_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Magic Eye",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Magic Eye",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          99,
+          110
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          103,
+          107
+        ],
+        "text": "1 mm",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          40
+        ],
+        "text": "Korean",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          31
+        ],
+        "text": "South Korean",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          77
+        ],
+        "text": "July 8 , 2014",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          107
+        ],
+        "text": "11:15 pm",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          108,
+          111
+        ],
+        "text": "KST",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          115,
+          118
+        ],
+        "text": "SBS",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          38,
+          51
+        ],
+        "text": "May 13 , 2014",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "06",
+        "span": [
+          82,
+          100
+        ],
+        "text": "November 18 , 2014",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          35
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          58
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          67,
+          83
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Magic_Eye",
+          "wikidata": "http://www.wikidata.org/entity/Q6730687"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Time_in_South_Korea",
+          "wikidata": "http://www.wikidata.org/entity/Q76133",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Korea_Standard_Time",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9F%93%E5%9B%BD%E6%A8%99%E6%BA%96%E6%99%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "wikidata": "http://www.wikidata.org/entity/Q928831",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/SBS_(%E9%9F%93%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lee_Hyori",
+          "wikidata": "http://www.wikidata.org/entity/Q232491",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BB%E3%83%92%E3%83%A7%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moon_So-ri",
+          "wikidata": "http://www.wikidata.org/entity/Q456182",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Jin-kyung",
+          "wikidata": "http://www.wikidata.org/entity/Q16092678"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kim_Gu-ra",
+          "wikidata": "http://www.wikidata.org/entity/Q6408665"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Korean_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E8%AA%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "3349": {
+    "doc_info": {
+      "title": "Laurentides (electoral district)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Laurentides was a federal electoral district in Quebec , Canada , that was represented in the House of Commons of Canada from 1988 to 2003 .",
+        "text": "Laurentides was a federal electoral district in Quebec , Canada , that was represented in the House of Commons of Canada from 1988 to 2003 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "This riding was created in 1987 from Labelle riding .",
+        "text": "This riding was created in 1987 from Labelle riding .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It was abolished in 2003 , and redistributed between Laurentides — Labelle and Rivière - du - Nord",
+        "text": "It was abolished in 2003 , and redistributed between Laurentides — Labelle and Rivière - du - Nord",
+        "mention_ids": [
+          "M5_1",
+          "M7_1",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Laurentides initially consisted of the towns of Estérel , Sainte - Adèle , Sainte - Agathe - des - Monts , Saint - Antoine and Saint - Jérôme , and parts of the Counties of Labelle and Montcalm .",
+        "text": "Laurentides initially consisted of the towns of Estérel , Sainte - Adèle , Sainte - Agathe - des - Monts , Saint - Antoine and Saint - Jérôme , and parts of the Counties of Labelle and Montcalm .",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_1",
+          "M14_0",
+          "M7_2",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "In 1996 , the riding was redefined to consist of the cities of Estérel , Saint - Antoine , Saint - Jérôme , Saint - Jovite , Sainte - Adèle and Sainte - Agathe - des - Monts , and parts of the County Regional Municipalities of Les Pays - d'en - Haut , La Rivière - du - Nord , and Le Laurentides .",
+        "text": "In 1996 , the riding was redefined to consist of the cities of Estérel , Saint - Antoine , Saint - Jérôme , Saint - Jovite , Sainte - Adèle and Sainte - Agathe - des - Monts , and parts of the County Regional Municipalities of Les Pays - d'en - Haut , La Rivière - du - Nord , and Le Laurentides .",
+        "mention_ids": [
+          "M10_1",
+          "M11_1",
+          "M12_1",
+          "M13_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M9_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Laurentides",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Laurentides",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          58,
+          72
+        ],
+        "text": "Sainte - Adèle",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          125,
+          139
+        ],
+        "text": "Sainte - Adèle",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          75,
+          104
+        ],
+        "text": "Sainte - Agathe - des - Monts",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "04",
+        "span": [
+          144,
+          173
+        ],
+        "text": "Sainte - Agathe - des - Monts",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          107,
+          122
+        ],
+        "text": "Saint - Antoine",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "04",
+        "span": [
+          73,
+          88
+        ],
+        "text": "Saint - Antoine",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          91,
+          105
+        ],
+        "text": "Saint - Jérôme",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "03",
+        "span": [
+          127,
+          141
+        ],
+        "text": "Saint - Jérôme",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          185,
+          193
+        ],
+        "text": "Montcalm",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          108,
+          122
+        ],
+        "text": "Saint - Jovite",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          227,
+          249
+        ],
+        "text": "Les Pays - d'en - Haut",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          252,
+          274
+        ],
+        "text": "La Rivière - du - Nord",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          281,
+          295
+        ],
+        "text": "Le Laurentides",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          48,
+          54
+        ],
+        "text": "Quebec",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          63
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          94,
+          120
+        ],
+        "text": "House of Commons of Canada",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          126,
+          130
+        ],
+        "text": "1988",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          134,
+          138
+        ],
+        "text": "2003",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          24
+        ],
+        "text": "2003",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          31
+        ],
+        "text": "1987",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          44
+        ],
+        "text": "Labelle",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          53,
+          74
+        ],
+        "text": "Laurentides — Labelle",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "03",
+        "span": [
+          173,
+          180
+        ],
+        "text": "Labelle",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          79,
+          98
+        ],
+        "text": "Rivière - du - Nord",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          55
+        ],
+        "text": "Estérel",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          70
+        ],
+        "text": "Estérel",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Laurentides_(electoral_district)",
+          "wikidata": "http://www.wikidata.org/entity/Q3219609"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quebec",
+          "wikidata": "http://www.wikidata.org/entity/Q176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/House_of_Commons_of_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q383590",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%B6%E6%B0%91%E9%99%A2_(%E3%82%AB%E3%83%8A%E3%83%80)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Labelle_(federal_electoral_district)",
+          "wikidata": "http://www.wikidata.org/entity/Q3214317",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Labelle_(electoral_district)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rivi%C3%A8re-du-Nord_(electoral_district)",
+          "wikidata": "http://www.wikidata.org/entity/Q428070",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rivière-du-Nord_(electoral_district)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Est%C3%A9rel,_Quebec",
+          "wikidata": "http://www.wikidata.org/entity/Q141528",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Estérel,_Quebec"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sainte-Ad%C3%A8le",
+          "wikidata": "http://www.wikidata.org/entity/Q142560",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sainte-Adèle,_Quebec",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%87%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sainte-Agathe-des-Monts",
+          "wikidata": "http://www.wikidata.org/entity/Q141738",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A2%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint-J%C3%A9r%C3%B4me",
+          "wikidata": "http://www.wikidata.org/entity/Q141724",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Saint-Antoine,_Quebec",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%A0_(%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint-J%C3%A9r%C3%B4me",
+          "wikidata": "http://www.wikidata.org/entity/Q141724",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Saint-Jérôme,_Quebec",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%A0_(%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Montcalm_(federal_electoral_district)",
+          "wikidata": "http://www.wikidata.org/entity/Q3322478",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Montcalm_(electoral_district)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Les_Pays-d%27en-Haut_Regional_County_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q773444",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Les_Pays-d'en-Haut_Regional_County_Municipality"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/La_Rivi%C3%A8re-du-Nord_Regional_County_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q1517943",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/La_Rivière-du-Nord_Regional_County_Municipality"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Les_Laurentides_Regional_County_Municipality",
+          "wikidata": "http://www.wikidata.org/entity/Q1517938"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

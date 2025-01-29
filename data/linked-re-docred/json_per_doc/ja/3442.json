@@ -1,0 +1,397 @@
+{
+  "3442": {
+    "doc_info": {
+      "title": "P. D. T. Acharya",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■(1945年6月17日生まれ)は、インド議会の第14代ローク・サバーと第15代ローク・サバーのローク・サバー事務局の元事務総長です。",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "事務総長として、彼は職権上のサバ州事務局の管理責任者でもありました。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "事務総長のポストは、インド政府の最上級公務員であるインド政府の内閣長官の地位にあります。",
+        "mention_ids": [
+          "M6_0",
+          "M7_1",
+          "M7_2"
+        ]
+      },
+      "03": {
+        "text": "そのポストの現職者は、ローク・サバーのインドの内閣総理大臣及び野党のリーダーと協議の上、ローク・サバーの議長によって任命されます。",
+        "mention_ids": [
+          "M3_1",
+          "M3_2",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "前例に従い、事務総長のポストに就いている現職者は、ローク・サバー事務局の上級職員、またはインド政府の上級公務員のいずれかです。",
+        "mention_ids": [
+          "M10_1",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          73
+        ],
+        "text": "ローク・サバー事務局",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          35
+        ],
+        "text": "ローク・サバー事務局",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          27
+        ],
+        "text": "1945年6月17日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          50
+        ],
+        "text": "第14代ローク・サバー",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          62
+        ],
+        "text": "ローク・サバー",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          18
+        ],
+        "text": "ローク・サバー",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          51
+        ],
+        "text": "ローク・サバー",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          38
+        ],
+        "text": "インド議会",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          20
+        ],
+        "text": "サバ州事務局",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          33
+        ],
+        "text": "内閣",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          49
+        ],
+        "text": "インド政府",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          30
+        ],
+        "text": "インド政府",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          15
+        ],
+        "text": "インド政府",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          23
+        ],
+        "text": "インドの",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          33
+        ],
+        "text": "野党",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/P._D._T._Achary",
+          "wikidata": "http://www.wikidata.org/entity/Q7117201"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/14th_Lok_Sabha",
+          "wikidata": "http://www.wikidata.org/entity/Q3521611"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha",
+          "wikidata": "http://www.wikidata.org/entity/Q230003",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B5%E3%83%90%E3%83%BC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q695252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%9B%BD%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha_Secretariat",
+          "wikidata": "http://www.wikidata.org/entity/Q85781931"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cabinet_secretary",
+          "wikidata": "http://www.wikidata.org/entity/Q2920659",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Cabinet_Secretary"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Government_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q2767140",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E6%94%BF%E5%BA%9C"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Opposition_(politics)",
+          "wikidata": "http://www.wikidata.org/entity/Q192852",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%85%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha_Secretariat",
+          "wikidata": "http://www.wikidata.org/entity/Q85781931"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

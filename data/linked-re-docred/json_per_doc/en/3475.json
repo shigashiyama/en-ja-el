@@ -1,0 +1,636 @@
+{
+  "3475": {
+    "doc_info": {
+      "title": "Briggs Terrace",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Briggs Terrace , also known as Evergreen Lane , is a nationally recognized historic district located in Nevada , Iowa , United States .",
+        "text": "Briggs Terrace , also known as Evergreen Lane , is a nationally recognized historic district located in Nevada , Iowa , United States .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was listed on the National Register of Historic Places in 1998 .",
+        "text": "It was listed on the National Register of Historic Places in 1998 .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "At the time of its nomination it consisted of eight resources , which included six contributing buildings , one contributing site , and two non - contributing buildings .",
+        "text": "At the time of its nomination it consisted of eight resources , which included six contributing buildings , one contributing site , and two non - contributing buildings .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "This estate was established and built by ■■■■■■■■■■■ , a local banker who founded Farmers Bank in Nevada .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M1_1"
+        ]
+      },
+      "04": {
+        "orig_text": "He arrived in town in 1857 from Des Moines , four years after Nevada and Story County were founded .",
+        "text": "He arrived in town in 1857 from Des Moines , four years after Nevada and Story County were founded .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M1_2"
+        ]
+      },
+      "05": {
+        "orig_text": "He worked in a variety of commercial ventures before becoming a banker .",
+        "text": "He worked in a variety of commercial ventures before becoming a banker .",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "■■■■■■ invested heavily in real estate , and he became one of the largest land owners in the county .",
+        "mention_ids": [
+          "M10_1"
+        ]
+      },
+      "07": {
+        "orig_text": "The two - story , brick , Italianate style house was completed in 1879 .",
+        "text": "The two - story , brick , Italianate style house was completed in 1879 .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "08": {
+        "orig_text": "It features floor - length windows , a wraparound porch , and a bay window .",
+        "text": "It features floor - length windows , a wraparound porch , and a bay window .",
+        "mention_ids": []
+      },
+      "09": {
+        "orig_text": "It is surrounded by an planted grounds , which contribute to the historic nature of the district .",
+        "text": "It is surrounded by an planted grounds , which contribute to the historic nature of the district .",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "The other historic building located here are the carriage house ( c. 1879 ) , barn ( c. 1879 ) , and late 19th century out buildings .",
+        "text": "The other historic building located here are the carriage house ( c. 1879 ) , barn ( c. 1879 ) , and late 19th century out buildings .",
+        "mention_ids": [
+          "M18_1",
+          "M18_2",
+          "M19_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Briggs Terrace",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          45
+        ],
+        "text": "Evergreen Lane",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          52
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          6
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          82,
+          94
+        ],
+        "text": "Farmers Bank",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          26
+        ],
+        "text": "1857",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          42
+        ],
+        "text": "Des Moines",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          55
+        ],
+        "text": "four years",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          73,
+          85
+        ],
+        "text": "Story County",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          15
+        ],
+        "text": "two - story",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          26,
+          36
+        ],
+        "text": "Italianate",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          66,
+          70
+        ],
+        "text": "1879",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "10",
+        "span": [
+          69,
+          73
+        ],
+        "text": "1879",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M18_2": {
+        "sentence_id": "10",
+        "span": [
+          88,
+          92
+        ],
+        "text": "1879",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "10",
+        "span": [
+          106,
+          118
+        ],
+        "text": "19th century",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          104,
+          110
+        ],
+        "text": "Nevada",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "03",
+        "span": [
+          98,
+          104
+        ],
+        "text": "Nevada",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "04",
+        "span": [
+          62,
+          68
+        ],
+        "text": "Nevada",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          113,
+          117
+        ],
+        "text": "Iowa",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          120,
+          133
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          57
+        ],
+        "text": "National Register of Historic Places",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          61,
+          65
+        ],
+        "text": "1998",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          51
+        ],
+        "text": "eight",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          79,
+          82
+        ],
+        "text": "six",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          108,
+          111
+        ],
+        "text": "one",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          136,
+          139
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Briggs_Terrace",
+          "wikidata": "http://www.wikidata.org/entity/Q17154831"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nevada,_Iowa",
+          "wikidata": "http://www.wikidata.org/entity/Q871293"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iowa",
+          "wikidata": "http://www.wikidata.org/entity/Q1546",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%AF%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places",
+          "wikidata": "http://www.wikidata.org/entity/Q3719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%AD%B4%E5%8F%B2%E7%99%BB%E9%8C%B2%E8%B2%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Des_Moines,_Iowa",
+          "wikidata": "http://www.wikidata.org/entity/Q39709",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A2%E3%82%A4%E3%83%B3_(%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%AF%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Story_County,_Iowa",
+          "wikidata": "http://www.wikidata.org/entity/Q485364",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E9%83%A1_(%E3%82%A2%E3%82%A4%E3%82%AA%E3%83%AF%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italianate_architecture",
+          "wikidata": "http://www.wikidata.org/entity/Q615196"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1",
+          "M18_2"
+        ],
+        "removed_mention_ids": [
+          "M18_3",
+          "M18_4"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

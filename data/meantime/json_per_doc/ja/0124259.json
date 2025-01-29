@@ -1,0 +1,398 @@
+{
+  "0124259": {
+    "doc_info": {
+      "title": "124259_US_stocks_log_gains_for_fourth_week_in_a_row",
+      "url": "http://en.wikinews.org/wiki/US_stocks_log_gains_for_fourth_week_in_a_row"
+    },
+    "sentences": {
+      "00": {
+        "text": "米国株は4週連続で上昇",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "text": "2009年4月4日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国株価指数は金曜日に上昇し、4週間連続のプラスを記録しました。",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "03": {
+        "text": "これは、米国労働省が同日発表した報告書が、米国経済は3月に663,000人の雇用を失い、失業率は1983年以来最大の8.5%に達したと述べたにもかかわらずでした。",
+        "mention_ids": [
+          "M020",
+          "M025"
+        ]
+      },
+      "04": {
+        "text": "ダウ・ジョーンズ工業平均は0.5パーセント、39ポイントの小幅な上昇を記録し、8,017でその日を終えました。",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "05": {
+        "text": "同指数は2月以来8,000を超えて終えていません。",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "06": {
+        "text": "前回ダウが4週間連続で上昇したのは2007年の9月から10月の間で、そのとき株価指数はその史上最高値の14,000超に達しました。",
+        "mention_ids": [
+          "M077",
+          "M082",
+          "M094"
+        ]
+      },
+      "07": {
+        "text": "この連続記録は、1993年以来の同指数の最高です。",
+        "mention_ids": [
+          "M087"
+        ]
+      },
+      "08": {
+        "text": "より幅広いS&P 500は、終了ベルまでに8ポイント、1%上昇しました。",
+        "mention_ids": [
+          "M089"
+        ]
+      },
+      "09": {
+        "text": "ナスダック総合は3つの指数の中で最大の上昇となり、1.2%上昇して1,622となりました。",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "10": {
+        "text": "S&Pとダウはどちらも1週間で3%以上上昇し、ナスダックは約5%上昇しました。",
+        "mention_ids": [
+          "M074",
+          "M079",
+          "M093"
+        ]
+      },
+      "11": {
+        "text": "他の市場では、ドイツのDAX指数と日本の日経225はともに横ばいでしたが、英国のFTSE 100は2.3%下落しました。",
+        "mention_ids": [
+          "M073"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "米国株",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "米国株価指数",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          9
+        ],
+        "text": "米国労働省",
+        "entity_type": null,
+        "entity_id": "E104"
+      },
+      "M025": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          25
+        ],
+        "text": "米国経済",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M035": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ダウ・ジョーンズ工業平均",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M043": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M071": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ナスダック総合",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M073": {
+        "sentence_id": "11",
+        "span": [
+          17,
+          25
+        ],
+        "text": "日本の日経225",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M074": {
+        "sentence_id": "10",
+        "span": [
+          23,
+          28
+        ],
+        "text": "ナスダック",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M077": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          4
+        ],
+        "text": "ダウ",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M079": {
+        "sentence_id": "10",
+        "span": [
+          4,
+          6
+        ],
+        "text": "ダウ",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M082": {
+        "sentence_id": "06",
+        "span": [
+          43,
+          45
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M087": {
+        "sentence_id": "07",
+        "span": [
+          16,
+          19
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M089": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          12
+        ],
+        "text": "より幅広いS&P 500",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M093": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          3
+        ],
+        "text": "S&P",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M094": {
+        "sentence_id": "06",
+        "span": [
+          38,
+          42
+        ],
+        "text": "株価指数",
+        "entity_type": null,
+        "entity_id": "E114"
+      }
+    },
+    "entities": {
+      "E099": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008",
+          "M002",
+          "M026"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E104": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_Department_of_Labor",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Department_of_Labor",
+          "wikidata": "http://www.wikidata.org/entity/Q628807",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%8A%B4%E5%83%8D%E7%9C%81"
+        }
+      },
+      "E107": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M090",
+          "M092"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nikkei_225",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikkei_225",
+          "wikidata": "http://www.wikidata.org/entity/Q507338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M071",
+          "M074"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M035",
+          "M043",
+          "M077",
+          "M079",
+          "M082",
+          "M087",
+          "M094"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M093"
+        ],
+        "removed_mention_ids": [
+          "M089"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy_of_the_United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q188540",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E7%B5%8C%E6%B8%88"
+        }
+      }
+    }
+  }
+}

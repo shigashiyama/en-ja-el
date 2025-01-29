@@ -1,0 +1,597 @@
+{
+  "3254": {
+    "doc_info": {
+      "title": "Northern bald ibis",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ホオアカトキ、ヤドトキ、またはヴァルドラップ（ジェロンティカス・エレミータ）は、不毛の地、半砂漠、岩だらけの生息環境、多くの場合、流水の近くで見られる渡り鳥です。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_5"
+        ]
+      },
+      "01": {
+        "text": "この光沢のあるクロトキは、トキ科の多くの仲間とは異なり渉禽類ではなく、羽毛のない赤い顔と頭、そして長く曲がった赤い口ばしを持っています。",
+        "mention_ids": [
+          "M0_3"
+        ]
+      },
+      "02": {
+        "text": "それは海岸や山の崖の棚に群生して繁殖し、通常は棒の巣に2個から3個の卵を産み、トカゲ、昆虫、その他の小動物を食べます。",
+        "mention_ids": [
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "03": {
+        "text": "ホオアカトキは、かつては中東、北アフリカ、南および中央ヨーロッパに生息していました。化石の記録は少なくとも180万年まで遡ります。",
+        "mention_ids": [
+          "M0_4",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "それは300年前以上にヨーロッパから姿を消し、現在は絶滅の危機に瀕していると考えられています。",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "モロッコ南部には約500羽の野鳥が残っており、2002年に再発見されたシリアには10羽未満がいると考えられています。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "06": {
+        "text": "この個体数の減少に対抗するために、トルコの半野生繁殖コロニーのほか、オーストリア、スペイン、モロッコ北部にも拠点で、最近の再導入プログラムが国際的に開始されています。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "07": {
+        "text": "この種の長期的な減少の理由は不明であすが、狩猟、採餌生息地の喪失、農薬中毒がここ数十年のコロニーの急速な減少に関係していると考えられています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ホオアカトキ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          11
+        ],
+        "text": "ヤドトキ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          22
+        ],
+        "text": "ヴァルドラップ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          11
+        ],
+        "text": "クロトキ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ホオアカトキ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          37
+        ],
+        "text": "ジェロンティカス・エレミータ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          16
+        ],
+        "text": "500羽の野鳥",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "モロッコ南部",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          45
+        ],
+        "text": "10羽未満",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          38
+        ],
+        "text": "シリア",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          28
+        ],
+        "text": "2002年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          20
+        ],
+        "text": "トルコ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          40
+        ],
+        "text": "オーストリア",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          41,
+          45
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          46,
+          52
+        ],
+        "text": "モロッコ北部",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "02",
+        "span": [
+          27,
+          29
+        ],
+        "text": "2個",
+        "entity_type": "NUM",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          35
+        ],
+        "text": "3個の卵",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          14
+        ],
+        "text": "中東",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          20
+        ],
+        "text": "北アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          22
+        ],
+        "text": "南",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          32
+        ],
+        "text": "中央ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          58
+        ],
+        "text": "180万年",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          8
+        ],
+        "text": "300年前",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northern_bald_ibis",
+          "wikidata": "http://www.wikidata.org/entity/Q245414",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AA%E3%82%A2%E3%82%AB%E3%83%88%E3%82%AD"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_East",
+          "wikidata": "http://www.wikidata.org/entity/Q7204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%B1"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q27381",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South",
+          "wikidata": "http://www.wikidata.org/entity/Q667",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q27509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Southern_Provinces",
+          "wikidata": "http://www.wikidata.org/entity/Q1418613",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%83%A8%E8%AB%B8%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Syria",
+          "wikidata": "http://www.wikidata.org/entity/Q858",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Turkey",
+          "wikidata": "http://www.wikidata.org/entity/Q43",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Austria",
+          "wikidata": "http://www.wikidata.org/entity/Q40",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "3068": {
+    "doc_info": {
+      "title": "Latourell Falls",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Latourell Falls is a waterfall along the Columbia River Gorge in the U.S. state of Oregon , within Guy W. Talbot State Park .",
+        "text": "Latourell Falls is a waterfall along the Columbia River Gorge in the U.S. state of Oregon , within Guy W. Talbot State Park .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The Historic Columbia River Highway passes nearby , and at certain locations the Lower falls are visible from the road .",
+        "text": "The Historic Columbia River Highway passes nearby , and at certain locations the Lower falls are visible from the road .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Near the base of the falls , a parking lot and path were erected to assist visitors to the site .",
+        "text": "Near the base of the falls , a parking lot and path were erected to assist visitors to the site .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "Visitors must hike along the loop trail to see the upper falls .",
+        "text": "Visitors must hike along the loop trail to see the upper falls .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "Latourell is unique among the best - known Columbia Gorge waterfalls , in the way that it drops straight down from an overhanging basalt cliff .",
+        "text": "Latourell is unique among the best - known Columbia Gorge waterfalls , in the way that it drops straight down from an overhanging basalt cliff .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Most of those falls ( even the famous Multnomah Falls ) tumble to some degree .",
+        "text": "Most of those falls ( even the famous Multnomah Falls ) tumble to some degree .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Latourell Falls is an excellent example of columnar basalt formations .",
+        "text": "Latourell Falls is an excellent example of columnar basalt formations .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Latourell Falls",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Latourell Falls",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          61
+        ],
+        "text": "Columbia River Gorge",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          69,
+          73
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          89
+        ],
+        "text": "Oregon",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          123
+        ],
+        "text": "Guy W. Talbot State Park",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          35
+        ],
+        "text": "Historic Columbia River Highway",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Latourell",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          43,
+          68
+        ],
+        "text": "Columbia Gorge waterfalls",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          53
+        ],
+        "text": "Multnomah Falls",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Latourell_Falls",
+          "wikidata": "http://www.wikidata.org/entity/Q38493"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Columbia_River_Gorge",
+          "wikidata": "http://www.wikidata.org/entity/Q1112581",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9D%E5%B3%A1%E8%B0%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._state",
+          "wikidata": "http://www.wikidata.org/entity/Q35657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guy_W._Talbot_State_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q745861"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Historic_Columbia_River_Highway",
+          "wikidata": "http://www.wikidata.org/entity/Q1620784"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Latourell_Falls",
+          "wikidata": "http://www.wikidata.org/entity/Q38493"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Multnomah_Falls",
+          "wikidata": "http://www.wikidata.org/entity/Q37319",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%8E%E3%83%9E%E6%BB%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

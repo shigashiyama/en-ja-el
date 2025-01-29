@@ -1,0 +1,418 @@
+{
+  "3487": {
+    "doc_info": {
+      "title": "Samarinda",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Samarinda is the capital of the Indonesian province of East Kalimantan on the island of Borneo .",
+        "text": "Samarinda is the capital of the Indonesian province of East Kalimantan on the island of Borneo .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The city lies on the banks of the Mahakam River .",
+        "text": "The city lies on the banks of the Mahakam River .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It is the most populous city on the entire Borneo island , with an estimated population of 842,691 , up from 726,223 at the 2010 Census .",
+        "text": "It is the most populous city on the entire Borneo island , with an estimated population of 842,691 , up from 726,223 at the 2010 Census .",
+        "mention_ids": [
+          "M3_1",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Although it is the capital of East Kalimantan , some government institutions such as the Police , Indonesian Army District VI Of Tanjung Pura , and Pelabuhan Indonesia ( Port Transportation ) are located on the island .",
+        "text": "Although it is the capital of East Kalimantan , some government institutions such as the Police , Indonesian Army District VI Of Tanjung Pura , and Pelabuhan Indonesia ( Port Transportation ) are located on the island .",
+        "mention_ids": [
+          "M10_0",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Samarinda is known for its traditional food amplang , as well as the cloth sarung samarinda .",
+        "text": "Samarinda is known for its traditional food amplang , as well as the cloth sarung samarinda .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "05": {
+        "orig_text": "The city also has a bridge connecting its river banks , Mahakam Bridge .",
+        "text": "The city also has a bridge connecting its river banks , Mahakam Bridge .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The city center is on one side and the other side is named Samarinda Seberang .",
+        "text": "The city center is on one side and the other side is named Samarinda Seberang .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Samarinda",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Samarinda",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          148,
+          167
+        ],
+        "text": "Pelabuhan Indonesia",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          70
+        ],
+        "text": "Mahakam Bridge",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          59,
+          77
+        ],
+        "text": "Samarinda Seberang",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          42
+        ],
+        "text": "Indonesian",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          70
+        ],
+        "text": "East Kalimantan",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          45
+        ],
+        "text": "East Kalimantan",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          88,
+          94
+        ],
+        "text": "Borneo",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          49
+        ],
+        "text": "Borneo",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          34,
+          47
+        ],
+        "text": "Mahakam River",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          91,
+          98
+        ],
+        "text": "842,691",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          109,
+          116
+        ],
+        "text": "726,223",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          124,
+          128
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          89,
+          95
+        ],
+        "text": "Police",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          98,
+          141
+        ],
+        "text": "Indonesian Army District VI Of Tanjung Pura",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Samarinda",
+          "wikidata": "http://www.wikidata.org/entity/Q14499",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%80"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indonesia",
+          "wikidata": "http://www.wikidata.org/entity/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Kalimantan",
+          "wikidata": "http://www.wikidata.org/entity/Q3899",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%AB%E3%83%AA%E3%83%9E%E3%83%B3%E3%82%BF%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Borneo",
+          "wikidata": "http://www.wikidata.org/entity/Q36117",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%8D%E3%82%AA%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mahakam_River",
+          "wikidata": "http://www.wikidata.org/entity/Q328396",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8F%E3%82%AB%E3%83%A0%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indonesian_National_Police",
+          "wikidata": "http://www.wikidata.org/entity/Q3103954"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mahakam_Bridge",
+          "wikidata": "http://www.wikidata.org/entity/Q5832576"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "3316": {
+    "doc_info": {
+      "title": "Michel Temer",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ (; born 23 September 1940 ) is a Brazilian lawyer and politician serving as the 37th and current President of Brazil since 2016 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "He took office after the impeachment and removal from office of his predecessor ■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "He had been Vice President since 2011 and Acting President since 12 May 2016 , when ■■■■■■■■ was suspended while she faced an impeachment trial .",
+        "mention_ids": [
+          "M4_1",
+          "M5_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "At the age of 75 , he is the oldest person to have taken the office .",
+        "text": "At the age of 75 , he is the oldest person to have taken the office .",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "The Senate 's 61–20 vote , on 31 August 2016 , to remove ■■■■■■■■ from office meant that ■■■■■ succeeded her to serve out the remainder of ■■■■■■■■ 's second term , ending 31 December 2018 .",
+        "mention_ids": [
+          "M0_3",
+          "M4_2",
+          "M5_1",
+          "M5_3",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "In his first speech in office , ■■■■■ called for a government of \" national salvation \" and asked for the trust of the Brazilian people .",
+        "mention_ids": [
+          "M0_4",
+          "M2_0"
+        ]
+      },
+      "06": {
+        "orig_text": "He also signaled his intention to overhaul the pension system and labor laws , and to curb public spending .",
+        "text": "He also signaled his intention to overhaul the pension system and labor laws , and to curb public spending .",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "A 2017 poll showed that ■■■■■ 's administration had 7 % popular approval , with 76 % of respondents in favor of ■■■■■ 's resignation .",
+        "mention_ids": [
+          "M0_1",
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "08": {
+        "text": "Despite widespread protests , ■■■■■ has refused to step down .",
+        "mention_ids": [
+          "M0_5"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          31
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "07",
+        "span": [
+          112,
+          117
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          29
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          89,
+          94
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          32,
+          37
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "08",
+        "span": [
+          30,
+          35
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          2,
+          6
+        ],
+        "text": "2017",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          52,
+          55
+        ],
+        "text": "7 %",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          80,
+          84
+        ],
+        "text": "76 %",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          40,
+          57
+        ],
+        "text": "23 September 1940",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "05",
+        "span": [
+          119,
+          128
+        ],
+        "text": "Brazilian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          74
+        ],
+        "text": "Brazilian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          142,
+          148
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          155,
+          159
+        ],
+        "text": "2016",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          76
+        ],
+        "text": "12 May 2016",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          44
+        ],
+        "text": "31 August 2016",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          80,
+          94
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          139,
+          147
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "02",
+        "span": [
+          84,
+          92
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "04",
+        "span": [
+          57,
+          65
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          33,
+          37
+        ],
+        "text": "2011",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          16
+        ],
+        "text": "75",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          10
+        ],
+        "text": "Senate",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          172,
+          188
+        ],
+        "text": "31 December 2018",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michel_Temer",
+          "wikidata": "http://www.wikidata.org/entity/Q463533",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%86%E3%83%A1%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "removed_mention_ids": [
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dilma_Rousseff",
+          "wikidata": "http://www.wikidata.org/entity/Q40722",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%9E%E3%83%BB%E3%83%AB%E3%82%BB%E3%83%95"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q66096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8A%E9%99%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

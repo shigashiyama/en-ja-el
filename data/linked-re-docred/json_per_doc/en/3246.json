@@ -1,0 +1,384 @@
+{
+  "3246": {
+    "doc_info": {
+      "title": "Malay houses",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Malay houses ( Malay : Rumah Melayu ; Jawi : رومه ملايو ) are traditional dwellings , originating before the arrival of foreign or modern influences , and constructed by the indigenous ethnic Malay of the Malay Peninsula , Sumatra and Borneo .",
+        "text": "Malay houses ( Malay : Rumah Melayu ; Jawi : رومه ملايو ) are traditional dwellings , originating before the arrival of foreign or modern influences , and constructed by the indigenous ethnic Malay of the Malay Peninsula , Sumatra and Borneo .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Traditional architectural forms , such as tropically - suited roofs and harmonious proportions with decorative elements are considered by traditionalists to still have relevance .",
+        "text": "Traditional architectural forms , such as tropically - suited roofs and harmonious proportions with decorative elements are considered by traditionalists to still have relevance .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "However traditional buildings require significant maintenance compared to modern construction ; how to preserve wooden materials from the decaying effect of tropical weather as well as termite problems .",
+        "text": "However traditional buildings require significant maintenance compared to modern construction ; how to preserve wooden materials from the decaying effect of tropical weather as well as termite problems .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "These traditional skills are gradually being lost as Malaysia continues its process of industrialisation , while in Indonesia traditional houses have still survived in rural areas .",
+        "text": "These traditional skills are gradually being lost as Malaysia continues its process of industrialisation , while in Indonesia traditional houses have still survived in rural areas .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The effort to preserve indigenous architectural styles of Indonesian archipelago has been conducted through documentation and create replicas in provinces pavilions in Taman Mini Indonesia Indah , Jakarta .",
+        "text": "The effort to preserve indigenous architectural styles of Indonesian archipelago has been conducted through documentation and create replicas in provinces pavilions in Taman Mini Indonesia Indah , Jakarta .",
+        "mention_ids": [
+          "M10_0",
+          "M8_1",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Malay houses",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          35
+        ],
+        "text": "Rumah Melayu",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          45,
+          55
+        ],
+        "text": "رومه ملايو",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          197,
+          204
+        ],
+        "text": "Jakarta",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          20
+        ],
+        "text": "Malay",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          42
+        ],
+        "text": "Jawi",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          192,
+          197
+        ],
+        "text": "Malay",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          205,
+          220
+        ],
+        "text": "Malay Peninsula",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          223,
+          230
+        ],
+        "text": "Sumatra",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          235,
+          241
+        ],
+        "text": "Borneo",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          61
+        ],
+        "text": "Malaysia",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          116,
+          125
+        ],
+        "text": "Indonesia",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          68
+        ],
+        "text": "Indonesian",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          168,
+          194
+        ],
+        "text": "Taman Mini Indonesia Indah",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malay_house",
+          "wikidata": "http://www.wikidata.org/entity/Q4200355"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malay_language",
+          "wikidata": "http://www.wikidata.org/entity/Q9237",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jawi_script",
+          "wikidata": "http://www.wikidata.org/entity/Q83942",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%A6%E3%82%A3%E6%96%87%E5%AD%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malays_(ethnic_group)",
+          "wikidata": "http://www.wikidata.org/entity/Q142702",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E4%BA%BA"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malay_Peninsula",
+          "wikidata": "http://www.wikidata.org/entity/Q18758",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E5%8D%8A%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sumatra",
+          "wikidata": "http://www.wikidata.org/entity/Q3492",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%88%E3%83%A9%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Borneo",
+          "wikidata": "http://www.wikidata.org/entity/Q36117",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%8D%E3%82%AA%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Malaysia",
+          "wikidata": "http://www.wikidata.org/entity/Q833",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indonesia",
+          "wikidata": "http://www.wikidata.org/entity/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Taman_Mini_Indonesia_Indah",
+          "wikidata": "http://www.wikidata.org/entity/Q685790"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jakarta",
+          "wikidata": "http://www.wikidata.org/entity/Q3630",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AB%E3%83%AB%E3%82%BF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

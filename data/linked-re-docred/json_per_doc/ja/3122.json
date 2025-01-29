@@ -1,0 +1,321 @@
+{
+  "3122": {
+    "doc_info": {
+      "title": "The Answer Is Never",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『The Answer is Never』は、バンド、ハワーズ・エイリアスによって録音された2枚目のフルアルバムです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "このアルバムは、2004年6月7日にHousehold Name Recordsからコンパクト・ディスクでリリースされました。",
+        "mention_ids": [
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "デビュー作の『The Chameleon Script』と比較して、ソング・ライティングとプロダクションの両方の品質の点で大きな進歩があり、これは、ハワーズ・エイリアスの影響が少なく、より成熟したスカパンクのサウンドでした。",
+        "mention_ids": [
+          "M1_1",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "text": "この時点でバンドはカルテットになっていたため、レコーディング中にトランペットとトロンボーンの両方を演奏するのは多才な■■■■■■■■に任されていました。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "04": {
+        "text": "これは、特定の曲に弦楽器セクションが含まれているのと同様に、このアルバムが「ハワーズ・エイリアスのライブサウンドに近い」と宣伝されたという事実に微妙な皮肉を加えました。",
+        "mention_ids": [
+          "M1_2"
+        ]
+      },
+      "05": {
+        "text": "1時間をわずかに超える長さの『The Answer is Never』は、一般にハワーズ・エイリアスのベストアルバムとみなされています。",
+        "mention_ids": [
+          "M0_1",
+          "M1_3",
+          "M6_0"
+        ]
+      },
+      "06": {
+        "text": "アルバムのアート・ワークは、英国の漫画家、■■■■■■■■■■■■■■■によって提供されました。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          20
+        ],
+        "text": "The Answer is Never",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          34
+        ],
+        "text": "The Answer is Never",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          37
+        ],
+        "text": "ハワーズ・エイリアス",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          84
+        ],
+        "text": "ハワーズ・エイリアス",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "04",
+        "span": [
+          38,
+          48
+        ],
+        "text": "ハワーズ・エイリアス",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          50
+        ],
+        "text": "ハワーズ・エイリアス",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          40
+        ],
+        "text": "Household Name Records",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          17
+        ],
+        "text": "2004年6月7日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          27
+        ],
+        "text": "The Chameleon Script",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          58,
+          66
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "1時間",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          16
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          36
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Answer_Is_Never",
+          "wikidata": "http://www.wikidata.org/entity/Q7713898"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Howards_Alias",
+          "wikidata": "http://www.wikidata.org/entity/Q5921351"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Household_Name_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q1491729"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Chameleon_Script",
+          "wikidata": "http://www.wikidata.org/entity/Q7722036"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

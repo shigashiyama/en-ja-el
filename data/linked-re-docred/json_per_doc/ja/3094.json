@@ -1,0 +1,497 @@
+{
+  "3094": {
+    "doc_info": {
+      "title": "Metacomet Ridge",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ニューイングランド南部のメタコメット尾根、メタコメット尾根山脈、またはメタコメット山脈は、その広大な崖面、風光明媚な景観、微気候生態系、希少植物や絶滅危惧種の植物で知られる、狭くて険しい断層地塊山地の尾根です。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "この尾根は、150万を超える人が住む重要なレクリエーション資源であり、いくつかの史跡を含む4つの長距離ハイキングコースと、十数箇所の公園やレクリエーションエリアを提供しています。",
+        "mention_ids": [
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "その自然、歴史、レクリエーションの価値から、地方自治体、州、国の機関と約24の非営利団体が関与して、継続的な保護活動の中心になっています。",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "03": {
+        "text": "メタコメット山地は、ロングアイランド湾に面するコネチカット州のニューヘブンとブランフォードから、マサチューセッツ州のコネチカット川渓谷地域を通り、バーモント州とニューハンプシャー州の州境から2マイル(3 km)手前のマサチューセッツ州のフランクリン郡北部まで100マイル(160 km)広がっています。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "それは近くのアパラチア山脈や周囲の高地とは地質学的に異なり、数百フィートの厚さの断層と傾斜層の火山性玄武岩（トラップ・ロックとしても知られる）と堆積岩で構成されています。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "05": {
+        "text": "ほとんどの場合、玄武岩層が優勢で、広く存在し、露出しています。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "この尾根は、はるかに低い谷の標高から劇的に盛り上がっていますが、最高点でも1,200フィート(370 m)しか海水面を上回らないとはいえ、頂上の平均標高は725フィード(221 m)です。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          20
+        ],
+        "text": "メタコメット尾根",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          31
+        ],
+        "text": "メタコメット尾根山脈",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          43
+        ],
+        "text": "メタコメット山脈",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          8
+        ],
+        "text": "メタコメット山地",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          57
+        ],
+        "text": "マサチューセッツ州",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          108,
+          117
+        ],
+        "text": "マサチューセッツ州",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          118,
+          125
+        ],
+        "text": "フランクリン郡",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          73,
+          79
+        ],
+        "text": "バーモント州",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          80,
+          90
+        ],
+        "text": "ニューハンプシャー州",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          13
+        ],
+        "text": "アパラチア山脈",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ニューイングランド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          10
+        ],
+        "text": "150万",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          45,
+          47
+        ],
+        "text": "4つ",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          35,
+          38
+        ],
+        "text": "約24",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          37
+        ],
+        "text": "ニューヘブン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          45
+        ],
+        "text": "ブランフォード",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          30
+        ],
+        "text": "コネチカット州",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          19
+        ],
+        "text": "ロングアイランド湾",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          58,
+          69
+        ],
+        "text": "コネチカット川渓谷地域",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Metacomet_Ridge",
+          "wikidata": "http://www.wikidata.org/entity/Q3307200",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%B3%E3%83%A1%E3%83%83%E3%83%88%E5%B1%B1%E5%9C%B0"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_England",
+          "wikidata": "http://www.wikidata.org/entity/Q18389",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q49145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Branford,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q898484"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q779",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Island_Sound",
+          "wikidata": "http://www.wikidata.org/entity/Q867460",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E6%B9%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut_River",
+          "wikidata": "http://www.wikidata.org/entity/Q379648",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Connecticut_River_Valley",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q771",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Franklin_County,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54163",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%B3%E9%83%A1_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vermont",
+          "wikidata": "http://www.wikidata.org/entity/Q16551",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%88%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Hampshire",
+          "wikidata": "http://www.wikidata.org/entity/Q759",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%83%B3%E3%83%97%E3%82%B7%E3%83%A3%E3%83%BC%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Appalachian_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q93332",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%91%E3%83%A9%E3%83%81%E3%82%A2%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

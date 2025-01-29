@@ -1,0 +1,606 @@
+{
+  "3136": {
+    "doc_info": {
+      "title": "Lavaca Bay",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Lavaca Bay ( ) is a northwestern extension of the Matagorda Bay system found mostly in Calhoun County , Texas , United States .",
+        "text": "Lavaca Bay ( ) is a northwestern extension of the Matagorda Bay system found mostly in Calhoun County , Texas , United States .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The ports of Port Lavaca and Point Comfort have been established on the bay , and are the main areas of human habitation .",
+        "text": "The ports of Port Lavaca and Point Comfort have been established on the bay , and are the main areas of human habitation .",
+        "mention_ids": [
+          "M5_0",
+          "M6_1"
+        ]
+      },
+      "02": {
+        "orig_text": "Linnville was located on the bay until its abandonment after the Great Raid of 1840 , and the major port of Indianola was found near the confluence with the main Matagorda Bay , until the town 's final destruction following the massive hurricane of 1886 .",
+        "text": "Linnville was located on the bay until its abandonment after the Great Raid of 1840 , and the major port of Indianola was found near the confluence with the main Matagorda Bay , until the town 's final destruction following the massive hurricane of 1886 .",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Smaller communities include Olivia , Alamo Beach and Magnolia Beach .",
+        "text": "Smaller communities include Olivia , Alamo Beach and Magnolia Beach .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Lavaca Bay is approximately northeast of Corpus Christi , about southwest of Houston , and southeast of San Antonio .",
+        "text": "Lavaca Bay is approximately northeast of Corpus Christi , about southwest of Houston , and southeast of San Antonio .",
+        "mention_ids": [
+          "M0_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The bay is noted for its superfund site , caused by mercury pollution from the heavy industry in Point Comfort ( specifically Alcoa ) , across the bay from the largest settlement of Port Lavaca .",
+        "text": "The bay is noted for its superfund site , caused by mercury pollution from the heavy industry in Point Comfort ( specifically Alcoa ) , across the bay from the largest settlement of Port Lavaca .",
+        "mention_ids": [
+          "M17_0",
+          "M5_1",
+          "M6_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Although fishing has declined in recent years due to fears of contamination , the bay supports a large finfish population , and the efforts of environmental organizations and the federal government have pressured Alcoa to reduce the polluted areas .",
+        "text": "Although fishing has declined in recent years due to fears of contamination , the bay supports a large finfish population , and the efforts of environmental organizations and the federal government have pressured Alcoa to reduce the polluted areas .",
+        "mention_ids": [
+          "M17_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Lavaca Bay",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Lavaca Bay",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          249,
+          253
+        ],
+        "text": "1886",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          34
+        ],
+        "text": "Olivia",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          48
+        ],
+        "text": "Alamo Beach",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          67
+        ],
+        "text": "Magnolia Beach",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          41,
+          55
+        ],
+        "text": "Corpus Christi",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          77,
+          84
+        ],
+        "text": "Houston",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          104,
+          115
+        ],
+        "text": "San Antonio",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          126,
+          131
+        ],
+        "text": "Alcoa",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "06",
+        "span": [
+          213,
+          218
+        ],
+        "text": "Alcoa",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          63
+        ],
+        "text": "Matagorda Bay",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          162,
+          175
+        ],
+        "text": "Matagorda Bay",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          87,
+          101
+        ],
+        "text": "Calhoun County",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          104,
+          109
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          112,
+          125
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          24
+        ],
+        "text": "Port Lavaca",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          182,
+          193
+        ],
+        "text": "Port Lavaca",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "05",
+        "span": [
+          97,
+          110
+        ],
+        "text": "Point Comfort",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          42
+        ],
+        "text": "Point Comfort",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Linnville",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          83
+        ],
+        "text": "Great Raid of 1840",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          108,
+          117
+        ],
+        "text": "Indianola",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lavaca_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q6502242"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matagorda_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q1600098",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%B4%E3%83%AB%E3%83%80%E6%B9%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Calhoun_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q26605",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%95%E3%83%BC%E3%83%B3%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Port_Lavaca,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q982477",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%A9%E3%83%90%E3%82%AB_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Point_Comfort,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q982226"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Linnville,_Calhoun_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q6554643"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Great_Raid_of_1840",
+          "wikidata": "http://www.wikidata.org/entity/Q5599827"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indianola,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q972308"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olivia,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q123762403"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alamo_Beach,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q4705947"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Magnolia_Beach,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q6731862"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Corpus_Christi,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q49242",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Houston",
+          "wikidata": "http://www.wikidata.org/entity/Q16555",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%88%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Antonio",
+          "wikidata": "http://www.wikidata.org/entity/Q975",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alcoa",
+          "wikidata": "http://www.wikidata.org/entity/Q135325",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B3%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

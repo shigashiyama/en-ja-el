@@ -1,0 +1,426 @@
+{
+  "3111": {
+    "doc_info": {
+      "title": "Granskär",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Granskär ( , ) is an island in the Kvarken ( \" The Throat \" ) , the narrowest part of the Gulf of Bothnia in the northern part of the Baltic sea .",
+        "text": "Granskär ( , ) is an island in the Kvarken ( \" The Throat \" ) , the narrowest part of the Gulf of Bothnia in the northern part of the Baltic sea .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It has few inhabitants , almost all Swedish - speaking .",
+        "text": "It has few inhabitants , almost all Swedish - speaking .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Granskär belongs to the municipality of Vaasa .",
+        "text": "Granskär belongs to the municipality of Vaasa .",
+        "mention_ids": [
+          "M0_1",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The area has been inhabited since before the time of Swedish dominion over Finland ; the first habitations can be traced to at least the 11th century and possibly earlier .",
+        "text": "The area has been inhabited since before the time of Swedish dominion over Finland ; the first habitations can be traced to at least the 11th century and possibly earlier .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Granskär is part of a larger archipelago and most of the smaller islands around Replot have traditionally been used as fishing camps .",
+        "text": "Granskär is part of a larger archipelago and most of the smaller islands around Replot have traditionally been used as fishing camps .",
+        "mention_ids": [
+          "M0_2",
+          "M10_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Today the buildings are generally used as summer cottages since maritime activities play a large part in the culture of the region .",
+        "text": "Today the buildings are generally used as summer cottages since maritime activities play a large part in the culture of the region .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "Fishing is nowadays mostly a recreational activity , but there are still a number of professional fishermen active in the archipelago .",
+        "text": "Fishing is nowadays mostly a recreational activity , but there are still a number of professional fishermen active in the archipelago .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "A large part of the Kvarken archipelago has been designated a UNESCO World Heritage Site .",
+        "text": "A large part of the Kvarken archipelago has been designated a UNESCO World Heritage Site .",
+        "mention_ids": [
+          "M11_0",
+          "M1_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Granskär",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Granskär",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Granskär",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          80,
+          86
+        ],
+        "text": "Replot",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          62,
+          88
+        ],
+        "text": "UNESCO World Heritage Site",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          42
+        ],
+        "text": "Kvarken",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          20,
+          27
+        ],
+        "text": "Kvarken",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          57
+        ],
+        "text": "The Throat",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          90,
+          105
+        ],
+        "text": "Gulf of Bothnia",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          134,
+          140
+        ],
+        "text": "Baltic",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          43
+        ],
+        "text": "Swedish",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          45
+        ],
+        "text": "Vaasa",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          60
+        ],
+        "text": "Swedish",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          75,
+          82
+        ],
+        "text": "Finland",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          137,
+          149
+        ],
+        "text": "11th century",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gransk%C3%A4r",
+          "wikidata": "http://www.wikidata.org/entity/Q600487",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Granskär"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kvarken",
+          "wikidata": "http://www.wikidata.org/entity/Q217245"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kvarken",
+          "wikidata": "http://www.wikidata.org/entity/Q217245"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gulf_of_Bothnia",
+          "wikidata": "http://www.wikidata.org/entity/Q122574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E6%B9%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltic_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q545",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Baltic_sea",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%88%E6%B5%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland",
+          "wikidata": "http://www.wikidata.org/entity/Q726673",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Swedish-speaking_Finns",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E7%B3%BB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vaasa",
+          "wikidata": "http://www.wikidata.org/entity/Q125080",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sweden%E2%80%93Finland",
+          "wikidata": "http://www.wikidata.org/entity/Q3279296",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sweden-Finland",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%EF%BC%9D%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Finland",
+          "wikidata": "http://www.wikidata.org/entity/Q33",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Replot",
+          "wikidata": "http://www.wikidata.org/entity/Q732856"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_Heritage_Site",
+          "wikidata": "http://www.wikidata.org/entity/Q9259",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

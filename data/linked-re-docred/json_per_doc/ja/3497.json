@@ -1,0 +1,722 @@
+{
+  "3497": {
+    "doc_info": {
+      "title": "List of diplomats of Norway to China",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "駐中国ノルウェー外交官名簿は、1851年に外交関係が樹立された時に始まりました。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "スウェーデンとノルウェーの同盟の間に外交関係の樹立が行われ、広州にノルウェー-スウェーデン総領事館が設置されました。",
+        "mention_ids": [
+          "M2_0",
+          "M2_2",
+          "M3_0",
+          "M3_4",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "1853年に副領事館が上海に設置されました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "上海の副領事館が1863年に総領事館となり、広州の総領事館は副領事館に昇格しました。",
+        "mention_ids": [
+          "M4_1",
+          "M5_1",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "ノルウェーとスウェーデンの同盟が1905年に終了したとき、ノルウェーは総領事■■■■■■■■■■■を上海へ派遣しました。",
+        "mention_ids": [
+          "M2_1",
+          "M3_1",
+          "M3_2",
+          "M5_2",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "そして、香港には副領事館■■■■■■■■■■■■■■■■がありました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "06": {
+        "text": "北京のノルウェー公使館は、1919年に設立されました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M3_3"
+        ]
+      },
+      "07": {
+        "text": "それは1930年に上海の総領事館と統合され(1928年に国民政府が南京に移った後)、1954年まで存続しました。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M5_3"
+        ]
+      },
+      "08": {
+        "text": "そして戦時中の1943年から1945年まで重慶に大使館がありました。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "駐中国ノルウェー外交官名簿",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          28
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          6
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          2
+        ],
+        "text": "北京",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          18
+        ],
+        "text": "1919年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          3,
+          8
+        ],
+        "text": "1930年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          32
+        ],
+        "text": "国民政府",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          35
+        ],
+        "text": "南京",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          22,
+          27
+        ],
+        "text": "1928年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          42,
+          47
+        ],
+        "text": "1954年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          21,
+          23
+        ],
+        "text": "重慶",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          20
+        ],
+        "text": "1851年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1943年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          14,
+          19
+        ],
+        "text": "1945年",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          45
+        ],
+        "text": "スウェーデン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          12
+        ],
+        "text": "スウェーデン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "スウェーデン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          12
+        ],
+        "text": "ノルウェー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ノルウェー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "04",
+        "span": [
+          29,
+          34
+        ],
+        "text": "ノルウェー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          8
+        ],
+        "text": "ノルウェー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          38
+        ],
+        "text": "ノルウェー",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          32
+        ],
+        "text": "広州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          24
+        ],
+        "text": "広州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          13
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "04",
+        "span": [
+          50,
+          52
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "07",
+        "span": [
+          9,
+          11
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1853年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          12
+        ],
+        "text": "1863",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          21
+        ],
+        "text": "1905年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          38,
+          49
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Norway_to_China",
+          "wikidata": "http://www.wikidata.org/entity/Q6592537"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sweden",
+          "wikidata": "http://www.wikidata.org/entity/Q34",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norway",
+          "wikidata": "http://www.wikidata.org/entity/Q20",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guangzhou",
+          "wikidata": "http://www.wikidata.org/entity/Q16572",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B7%9E%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shanghai",
+          "wikidata": "http://www.wikidata.org/entity/Q8686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beijing",
+          "wikidata": "http://www.wikidata.org/entity/Q956",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nationalist_government",
+          "wikidata": "http://www.wikidata.org/entity/Q2308761",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E6%94%BF%E5%BA%9C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nanjing",
+          "wikidata": "http://www.wikidata.org/entity/Q16666",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chongqing",
+          "wikidata": "http://www.wikidata.org/entity/Q11725",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8D%E6%85%B6%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

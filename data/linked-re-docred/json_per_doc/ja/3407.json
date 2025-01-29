@@ -1,0 +1,847 @@
+{
+  "3407": {
+    "doc_info": {
+      "title": "SS Keno",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "SSキノは、防腐処理された歴史的な船尾外輪汽船で、カナダの国立史跡です。",
+        "mention_ids": [
+          "M0_3",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "SSキノは、カナダ、ユーコン準州のドーソン・シティにあるユーコン川の水辺にある乾ドックに停泊しています。",
+        "mention_ids": [
+          "M0_2",
+          "M2_0",
+          "M2_5",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "この船は、1922年にホワイトホースでホワイト・パス・アンド・ユーコン・ルート鉄道会社の子会社であるブリティッシュ・ユーコン・ナビゲーション社によって建造されました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "そのキャリアのほとんどにおいて、それは銀、亜鉛、および鉛鉱石をメイヨー地区の鉱山からスチュワート川を下って、ユーコン川とスチュワート川のスチュワート市にある合流点まで輸送しました。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M12_0",
+          "M2_3"
+        ]
+      },
+      "04": {
+        "text": "それは、第二次世界大戦後の数年で行われたクロンダイク・ハイウェイの拡張と改善により、1951年に商用運行から退きました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "text": "SSキノは運行からの撤退後、ホワイトホースのBYN社造船所に係船され、その後防腐処理の対象に選ばれて、1959年に同社からカナダ政府に寄贈されました。",
+        "mention_ids": [
+          "M0_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M6_2"
+        ]
+      },
+      "06": {
+        "text": "1960年8月25日に、キノはホワイトホースを出て、下流のドーソン・シティまで航海しました。",
+        "mention_ids": [
+          "M0_0",
+          "M19_0",
+          "M3_1",
+          "M6_1"
+        ]
+      },
+      "07": {
+        "text": "そうすることで、同船はユーコン準州の船尾外輪汽船のうち、自力でユーコン川を航行できる最後の船となりました。",
+        "mention_ids": [
+          "M2_1",
+          "M2_4"
+        ]
+      },
+      "08": {
+        "text": "3日後、同船はドーソンに到着し、その後、観光名所として、また19世紀後半と20世紀前半にユーコン川とその支流で重要な輸送手段を提供した、約250隻の船尾外輪船の永久記念碑として設置されました。",
+        "mention_ids": [
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M2_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "06",
+        "span": [
+          12,
+          14
+        ],
+        "text": "キノ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          4
+        ],
+        "text": "SSキノ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "SSキノ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "SSキノ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          60,
+          67
+        ],
+        "text": "スチュワート川",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          49
+        ],
+        "text": "スチュワート川",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          35
+        ],
+        "text": "メイヨー",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          75
+        ],
+        "text": "スチュワート市",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          47
+        ],
+        "text": "1951年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          32
+        ],
+        "text": "クロンダイク・ハイウェイ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          11
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          26
+        ],
+        "text": "BYN社",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          66
+        ],
+        "text": "カナダ政府",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          56
+        ],
+        "text": "1959年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          10
+        ],
+        "text": "1960年8月25日",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          25,
+          33
+        ],
+        "text": "カナダの国立史跡",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "3日",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          7,
+          11
+        ],
+        "text": "ドーソン",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          69,
+          73
+        ],
+        "text": "250隻",
+        "entity_type": "NUM",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "08",
+        "span": [
+          30,
+          34
+        ],
+        "text": "19世紀",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "08",
+        "span": [
+          37,
+          43
+        ],
+        "text": "20世紀前半",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          33
+        ],
+        "text": "ユーコン川",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "07",
+        "span": [
+          31,
+          36
+        ],
+        "text": "ユーコン川",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "08",
+        "span": [
+          44,
+          49
+        ],
+        "text": "ユーコン川",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "03",
+        "span": [
+          54,
+          58
+        ],
+        "text": "ユーコン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          15
+        ],
+        "text": "ユーコン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_5": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ユーコン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          25
+        ],
+        "text": "ドーソン・シティ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          37
+        ],
+        "text": "ドーソン・シティ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          9
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          10
+        ],
+        "text": "1922年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          18
+        ],
+        "text": "ホワイトホース",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "06",
+        "span": [
+          15,
+          22
+        ],
+        "text": "ホワイトホース",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          21
+        ],
+        "text": "ホワイトホース",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          50,
+          71
+        ],
+        "text": "ブリティッシュ・ユーコン・ナビゲーション社",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          39
+        ],
+        "text": "ホワイト・パス・アンド・ユーコン・ルート",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SS_Keno",
+          "wikidata": "http://www.wikidata.org/entity/Q7393921"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Historic_Sites_of_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q1568567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80%E5%9B%BD%E5%AE%9A%E5%8F%B2%E8%B7%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4",
+          "M2_5"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yukon_River",
+          "wikidata": "http://www.wikidata.org/entity/Q104437",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B3%E3%83%B3%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dawson_City",
+          "wikidata": "http://www.wikidata.org/entity/Q372324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Whitehorse",
+          "wikidata": "http://www.wikidata.org/entity/Q2055",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Whitehorse,_Yukon",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9B%E3%83%BC%E3%82%B9_(%E3%83%A6%E3%83%BC%E3%82%B3%E3%83%B3%E6%BA%96%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_Pass_and_Yukon_Route",
+          "wikidata": "http://www.wikidata.org/entity/Q632324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_Pass_and_Yukon_Route",
+          "wikidata": "http://www.wikidata.org/entity/Q632324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_Pass_and_Yukon_Route",
+          "wikidata": "http://www.wikidata.org/entity/Q632324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stewart_River_(Yukon)",
+          "wikidata": "http://www.wikidata.org/entity/Q167118"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mayo,_Yukon",
+          "wikidata": "http://www.wikidata.org/entity/Q493879"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_communities_in_Yukon",
+          "wikidata": "http://www.wikidata.org/entity/Q1013978"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Klondike_Highway",
+          "wikidata": "http://www.wikidata.org/entity/Q802262"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Government_of_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q422404",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80%E6%94%BF%E5%BA%9C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dawson_City",
+          "wikidata": "http://www.wikidata.org/entity/Q372324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%86%E3%82%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

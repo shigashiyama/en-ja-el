@@ -1,0 +1,433 @@
+{
+  "006": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/5012914-map-showing-european-jihadists-countries-origin"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "A map showing European jihadists’ countries.",
+        "text": "A map showing European jihadists’ countries.",
+        "mention_ids": []
+      },
+      "01": {
+        "orig_text": "This map, created by Radio Free Europe/Radio Liberty the day after attacks carried out by the organization calling itself Islamic State which left at least 129 deaths in Paris and its suburbs, shows the countries of foreign fighters in Iraq and Syria, in particularly Europe.",
+        "text": "This map, created by Radio Free Europe/Radio Liberty the day after attacks carried out by the organization calling itself Islamic State which left at least 129 deaths in Paris and its suburbs, shows the countries of foreign fighters in Iraq and Syria, in particularly Europe.",
+        "mention_ids": [
+          "M072",
+          "M073",
+          "M074",
+          "M075",
+          "M076"
+        ]
+      },
+      "02": {
+        "orig_text": "France leads they, with 1,200 fighters, followed by Turkey (1,000), and the UK (600).",
+        "text": "France leads they, with 1,200 fighters, followed by Turkey (1,000), and the UK (600).",
+        "mention_ids": [
+          "M077",
+          "M078",
+          "M079"
+        ]
+      },
+      "03": {
+        "orig_text": "In proportion to the population, it is from Bosnia Herzegovina that the highest number of jihadists originate (92 per million habitants), followed by Kosovo (83) and Albania (46).",
+        "text": "In proportion to the population, it is from Bosnia Herzegovina that the highest number of jihadists originate (92 per million habitants), followed by Kosovo (83) and Albania (46).",
+        "mention_ids": [
+          "M080",
+          "M081",
+          "M082"
+        ]
+      },
+      "04": {
+        "orig_text": "Among Western European countries, Belgium leads with 40 jihadists per million habitants, followed by Sweden (32) and Denmark (27).",
+        "text": "Among Western European countries, Belgium leads with 40 jihadists per million habitants, followed by Sweden (32) and Denmark (27).",
+        "mention_ids": [
+          "M083",
+          "M084",
+          "M085",
+          "M086"
+        ]
+      }
+    },
+    "mentions": {
+      "M072": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          52
+        ],
+        "text": "Radio Free Europe/Radio Liberty",
+        "entity_type": null,
+        "entity_id": "E072"
+      },
+      "M073": {
+        "sentence_id": "01",
+        "span": [
+          170,
+          175
+        ],
+        "text": "Paris",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M074": {
+        "sentence_id": "01",
+        "span": [
+          236,
+          240
+        ],
+        "text": "Iraq",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M075": {
+        "sentence_id": "01",
+        "span": [
+          245,
+          250
+        ],
+        "text": "Syria",
+        "entity_type": null,
+        "entity_id": "E075"
+      },
+      "M076": {
+        "sentence_id": "01",
+        "span": [
+          268,
+          274
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E076"
+      },
+      "M077": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "France",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M078": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          58
+        ],
+        "text": "Turkey",
+        "entity_type": null,
+        "entity_id": "E078"
+      },
+      "M079": {
+        "sentence_id": "02",
+        "span": [
+          76,
+          78
+        ],
+        "text": "UK",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M080": {
+        "sentence_id": "03",
+        "span": [
+          44,
+          62
+        ],
+        "text": "Bosnia Herzegovina",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M081": {
+        "sentence_id": "03",
+        "span": [
+          150,
+          156
+        ],
+        "text": "Kosovo",
+        "entity_type": null,
+        "entity_id": "E081"
+      },
+      "M082": {
+        "sentence_id": "03",
+        "span": [
+          166,
+          173
+        ],
+        "text": "Albania",
+        "entity_type": null,
+        "entity_id": "E082"
+      },
+      "M083": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          22
+        ],
+        "text": "Western European",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M084": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          41
+        ],
+        "text": "Belgium",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M085": {
+        "sentence_id": "04",
+        "span": [
+          101,
+          107
+        ],
+        "text": "Sweden",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M086": {
+        "sentence_id": "04",
+        "span": [
+          117,
+          124
+        ],
+        "text": "Denmark",
+        "entity_type": null,
+        "entity_id": "E086"
+      }
+    },
+    "entities": {
+      "E072": {
+        "member_mention_ids": [
+          "M072"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty",
+          "wikidata": "http://www.wikidata.org/entity/Q485500",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E073": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        }
+      },
+      "E074": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iraq",
+          "wikidata": "http://www.wikidata.org/entity/Q796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+        }
+      },
+      "E075": {
+        "member_mention_ids": [
+          "M075"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Syria",
+          "wikidata": "http://www.wikidata.org/entity/Q858",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E076": {
+        "member_mention_ids": [
+          "M076"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E077": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      },
+      "E078": {
+        "member_mention_ids": [
+          "M078"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Turkey",
+          "wikidata": "http://www.wikidata.org/entity/Q43",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      },
+      "E079": {
+        "member_mention_ids": [
+          "M079"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E080": {
+        "member_mention_ids": [
+          "M080"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+          "wikidata": "http://www.wikidata.org/entity/Q225",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A"
+        }
+      },
+      "E081": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kosovo",
+          "wikidata": "http://www.wikidata.org/entity/Q1246",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BD%E3%83%9C"
+        }
+      },
+      "E082": {
+        "member_mention_ids": [
+          "M082"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Albania",
+          "wikidata": "http://www.wikidata.org/entity/Q222",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2"
+        }
+      },
+      "E083": {
+        "member_mention_ids": [
+          "M083"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Western_Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q27496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E084": {
+        "member_mention_ids": [
+          "M084"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Belgium",
+          "wikidata": "http://www.wikidata.org/entity/Q31",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
+        }
+      },
+      "E085": {
+        "member_mention_ids": [
+          "M085"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sweden",
+          "wikidata": "http://www.wikidata.org/entity/Q34",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
+        }
+      },
+      "E086": {
+        "member_mention_ids": [
+          "M086"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q35",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "3175": {
+    "doc_info": {
+      "title": "Heikki H. Herlin",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ヘイッキ・ヒューゴ・ヘルリン(1901年2月7日 - 1989年8月21日)は、フィンランドのエンジニア、実業家、鉱山委員会役員。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ヘルリンは、海外で勉強したり働いたりして経験を積み、1932年にリフト製造会社コネ・オイのマネージャーとして父の職を引き継ぎました。",
+        "mention_ids": [
+          "M0_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "彼は会社を大きく発展させ、1930年代にはすでに輸出を開始しました。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "コネがフィンランド戦争賠償の一環としてソ連への大量の部隊の引き渡しに参加した後、ヘルリンはソ連と実りあるビジネス関係を確立しました。",
+        "mention_ids": [
+          "M0_2",
+          "M4_2",
+          "M7_0",
+          "M7_1",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "ヘルリンは幅広い言語スキルを持っており、それを国際企業コネを発展させる際に活用しました。",
+        "mention_ids": [
+          "M0_3",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "text": "1964年に、彼は息子のペッカ・ヘルリンにリーダーシップを譲り、引き続き取締役を務めました。",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "ヘルリンは、多くの企業取締役会や非営利団体のメンバーでした。",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "07": {
+        "text": "彼は文化および社会学の研究を支援するコネ財団を設立しました。",
+        "mention_ids": [
+          "M4_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "ヘイッキ・ヒューゴ・ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          40,
+          44
+        ],
+        "text": "ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          12,
+          20
+        ],
+        "text": "ペッカ・ヘルリン",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          24
+        ],
+        "text": "1901年2月7日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          37
+        ],
+        "text": "1989年8月21日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          40,
+          47
+        ],
+        "text": "フィンランドの",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          44
+        ],
+        "text": "コネ・オイ",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          29
+        ],
+        "text": "コネ",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "コネ",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "07",
+        "span": [
+          18,
+          22
+        ],
+        "text": "コネ財団",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          31
+        ],
+        "text": "1932年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          19
+        ],
+        "text": "1930年代",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          21
+        ],
+        "text": "ソ連",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          45,
+          47
+        ],
+        "text": "ソ連",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          11
+        ],
+        "text": "フィンランド戦争",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1964年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Heikki_H._Herlin",
+          "wikidata": "http://www.wikidata.org/entity/Q11861819"
+        },
+        "date_of_death": "1989-08-21T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Finland",
+          "wikidata": "http://www.wikidata.org/entity/Q33",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kone",
+          "wikidata": "http://www.wikidata.org/entity/Q1146592",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D_(%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Soviet_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q15180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E9%80%A3%E9%82%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Finnish_war_reparations_to_the_Soviet_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q5450879"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pekka_Herlin",
+          "wikidata": "http://www.wikidata.org/entity/Q18688452"
+        },
+        "date_of_death": "2003-04-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "3445": {
+    "doc_info": {
+      "title": "Uptoi Village",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Uptoi Indian village is located in Columbus , Georgia .",
+        "text": "Uptoi Indian village is located in Columbus , Georgia .",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "\" Uptoi \" or \" Utoy \" means \" boundary \" in the Muscogian Creek Language .",
+        "text": "\" Uptoi \" or \" Utoy \" means \" boundary \" in the Muscogian Creek Language .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "orig_text": "An early Indian village of the Creek Muscogian Indians was established in the 15th century .",
+        "text": "An early Indian village of the Creek Muscogian Indians was established in the 15th century .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Peaceful farmers traded with local colonists .",
+        "text": "Peaceful farmers traded with local colonists .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "Their lands were guaranteed under a treaty with the United States Senate .",
+        "text": "Their lands were guaranteed under a treaty with the United States Senate .",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Their lands were forcibly ceded at Indian Springs , Georgia by the US Army influenced by the State of Georgia who wanted more free land to give to immigrants .",
+        "text": "Their lands were forcibly ceded at Indian Springs , Georgia by the US Army influenced by the State of Georgia who wanted more free land to give to immigrants .",
+        "mention_ids": [
+          "M10_0",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In 1821 they were forcibly moved to the current state of Oklahoma by the US Army as ordered by President Andrew Jackson .",
+        "text": "In 1821 they were forcibly moved to the current state of Oklahoma by the US Army as ordered by President Andrew Jackson .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M9_1"
+        ]
+      },
+      "07": {
+        "orig_text": "Today the lands are occupied by the US Army at Fort Benning , Georgia .",
+        "text": "Today the lands are occupied by the US Army at Fort Benning , Georgia .",
+        "mention_ids": [
+          "M14_0",
+          "M2_2",
+          "M9_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          19
+        ],
+        "text": "Utoy",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          2,
+          7
+        ],
+        "text": "Uptoi",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          20
+        ],
+        "text": "Uptoi Indian village",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          93,
+          109
+        ],
+        "text": "State of Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1821",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          57,
+          65
+        ],
+        "text": "Oklahoma",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          105,
+          119
+        ],
+        "text": "Andrew Jackson",
+        "entity_type": "PER",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          47,
+          59
+        ],
+        "text": "Fort Benning",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          43
+        ],
+        "text": "Columbus",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          53
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "05",
+        "span": [
+          52,
+          59
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "07",
+        "span": [
+          62,
+          69
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          48,
+          72
+        ],
+        "text": "Muscogian Creek Language",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          15
+        ],
+        "text": "Indian",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          54
+        ],
+        "text": "Creek Muscogian Indians",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          90
+        ],
+        "text": "the 15th century",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          48,
+          72
+        ],
+        "text": "the United States Senate",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          49
+        ],
+        "text": "Indian Springs",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          67,
+          74
+        ],
+        "text": "US Army",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "06",
+        "span": [
+          73,
+          80
+        ],
+        "text": "US Army",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      },
+      "M9_2": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          43
+        ],
+        "text": "US Army",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Uptoi_Village",
+          "wikidata": "http://www.wikidata.org/entity/Q16935406"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Columbus,_Georgia",
+          "wikidata": "http://www.wikidata.org/entity/Q239870",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%90%E3%82%B9_(%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "wikidata": "http://www.wikidata.org/entity/Q1428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Muscogee_language",
+          "wikidata": "http://www.wikidata.org/entity/Q523014",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B9%E3%82%B3%E3%82%AE%E8%AA%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Muscogee",
+          "wikidata": "http://www.wikidata.org/entity/Q51705",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E6%97%8F"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q66096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8A%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indian_Springs,_Georgia",
+          "wikidata": "http://www.wikidata.org/entity/Q3322364"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1",
+          "M9_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q9212",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%99%B8%E8%BB%8D"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "wikidata": "http://www.wikidata.org/entity/Q1428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oklahoma",
+          "wikidata": "http://www.wikidata.org/entity/Q1649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AF%E3%83%A9%E3%83%9B%E3%83%9E%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+          "wikidata": "http://www.wikidata.org/entity/Q11817",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3"
+        },
+        "date_of_death": "1845-06-08T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fort_Moore",
+          "wikidata": "http://www.wikidata.org/entity/Q1438462",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Fort_Benning,_Georgia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%BB%E3%83%A0%E3%83%BC%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

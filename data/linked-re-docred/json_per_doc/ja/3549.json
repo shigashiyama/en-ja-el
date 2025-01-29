@@ -1,0 +1,422 @@
+{
+  "3549": {
+    "doc_info": {
+      "title": "Pinal Peak",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ピナル山は、アリゾナのヒラ郡南部に位置し、ピナル山脈の最高峰であり、標高は。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "これは、その後合流するアリゾナのソルト川とヒラ川の間に位置する陸地で最も高い地点であり、晴れの日には飛行機で数マイル離れた場所からでも見ることができます。",
+        "mention_ids": [
+          "M2_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "この峰はアリゾナで11番目に顕著であり、地形的に孤立しており、標高が同じかそれ以上の最も近い陸地はサンタテレサ山脈の南東にあります。",
+        "mention_ids": [
+          "M2_2",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "ピナル山は、ピナル山脈のほぼ中心からわずかに東にあります。",
+        "mention_ids": [
+          "M0_1",
+          "M3_1"
+        ]
+      },
+      "04": {
+        "text": "ヒラ郡で最も目立つ山ではありますが、郡内で最も高い山ではありません。",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "05": {
+        "text": "そのタイトルは、ココニーノ郡と郡の境界線を形成するモゴロン・リムの端の上にあるマートル・ポイントとその間の標高になります。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "最も近い人里は、山脈と山頂からわずか数マイル北にある、アリゾナ地域のグローブ/マイアミ、にあります。",
+        "mention_ids": [
+          "M10_0",
+          "M2_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ピナル山",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ピナル山",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          43
+        ],
+        "text": "グローブ/マイアミ",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          14
+        ],
+        "text": "ヒラ郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ヒラ郡",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          10
+        ],
+        "text": "アリゾナ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          15
+        ],
+        "text": "アリゾナ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          8
+        ],
+        "text": "アリゾナ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          31
+        ],
+        "text": "アリゾナ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          26
+        ],
+        "text": "ピナル山脈",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "ピナル山脈",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          19
+        ],
+        "text": "ソルト",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          23
+        ],
+        "text": "ヒラ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          49,
+          57
+        ],
+        "text": "サンタテレサ山脈",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          48
+        ],
+        "text": "マートル・ポイント",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          32
+        ],
+        "text": "モゴロン・リム",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          14
+        ],
+        "text": "ココニーノ郡",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pinal_Peak",
+          "wikidata": "http://www.wikidata.org/entity/Q24192831"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gila_County,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q58686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A9%E9%83%A1_(%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pinal_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q24192718"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Salt_River_(Arizona)",
+          "wikidata": "http://www.wikidata.org/entity/Q1341271"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gila_River",
+          "wikidata": "http://www.wikidata.org/entity/Q838143",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A9%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Santa_Teresa_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q7419959"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Myrtle_Point,_Arizona",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Myrtle_Point,_Arizona"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mogollon_Rim",
+          "wikidata": "http://www.wikidata.org/entity/Q186910"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Coconino_County,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q58684",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%83%8B%E3%83%8E%E9%83%A1_(%E3%82%A2%E3%83%AA%E3%82%BE%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Globe,_Arizona",
+          "wikidata": "http://www.wikidata.org/entity/Q79823"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

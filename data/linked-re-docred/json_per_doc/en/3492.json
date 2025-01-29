@@ -1,0 +1,765 @@
+{
+  "3492": {
+    "doc_info": {
+      "title": "Olympic Gold (video game)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Olympic Gold is the official video game of the XXV Olympic Summer Games , hosted by Barcelona , Spain in 1992 .",
+        "text": "Olympic Gold is the official video game of the XXV Olympic Summer Games , hosted by Barcelona , Spain in 1992 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was released for the Sega consoles , Sega Genesis and Sega Master System , and Sega 's handheld , Sega Game Gear .",
+        "text": "It was released for the Sega consoles , Sega Genesis and Sega Master System , and Sega 's handheld , Sega Game Gear .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Developed internally by Tiertex Design Studios , the game was sponsored by Coca - Cola and the game featured both the company logo on a zeppelin above the scoreboard , as well as the company jingle .",
+        "text": "Developed internally by Tiertex Design Studios , the game was sponsored by Coca - Cola and the game featured both the company logo on a zeppelin above the scoreboard , as well as the company jingle .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The game uses button mashing as the main part of gameplay , but in three events it is n't used ( archery , diving ) or is slow - paced ( swimming ) .",
+        "text": "The game uses button mashing as the main part of gameplay , but in three events it is n't used ( archery , diving ) or is slow - paced ( swimming ) .",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "Each computer athlete has a fictional name and nationality ( choosing from UK , France , Germany , Italy , Spain , United States , Japan and the Unified Team , everyone with its own anthem snippet ) and actual strengths and weaknesses : ■■■■■■■■ , for instance , is a frequent 100 m and 110 m hurdles record breaker but only an average hammer thrower .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M3_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Also , each computer - controlled player seems better in a particular event depending on his country : Germans usually take the top spots in archery , Italians on swimming , Russians on pole vault , Americans on sprinting and so on .",
+        "text": "Also , each computer - controlled player seems better in a particular event depending on his country : Germans usually take the top spots in archery , Italians on swimming , Russians on pole vault , Americans on sprinting and so on .",
+        "mention_ids": [
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M25_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Olympic Gold",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          46
+        ],
+        "text": "Tiertex Design Studios",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          86
+        ],
+        "text": "Coca - Cola",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          75,
+          77
+        ],
+        "text": "UK",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          80,
+          86
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          89,
+          96
+        ],
+        "text": "Germany",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          99,
+          104
+        ],
+        "text": "Italy",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          115,
+          128
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          131,
+          136
+        ],
+        "text": "Japan",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          145,
+          157
+        ],
+        "text": "Unified Team",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          237,
+          245
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          71
+        ],
+        "text": "XXV Olympic Summer Games",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          277,
+          282
+        ],
+        "text": "100 m",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "04",
+        "span": [
+          287,
+          292
+        ],
+        "text": "110 m",
+        "entity_type": "NUM",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          103,
+          110
+        ],
+        "text": "Germans",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          151,
+          159
+        ],
+        "text": "Italians",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "05",
+        "span": [
+          174,
+          182
+        ],
+        "text": "Russians",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "05",
+        "span": [
+          199,
+          208
+        ],
+        "text": "Americans",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          84,
+          93
+        ],
+        "text": "Barcelona",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          96,
+          101
+        ],
+        "text": "Spain",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          107,
+          112
+        ],
+        "text": "Spain",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          105,
+          109
+        ],
+        "text": "1992",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          37
+        ],
+        "text": "Sega consoles",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          52
+        ],
+        "text": "Sega Genesis",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          75
+        ],
+        "text": "Sega Master System",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          82,
+          98
+        ],
+        "text": "Sega 's handheld",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          115
+        ],
+        "text": "Sega Game Gear",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olympic_Gold_(video_game)",
+          "wikidata": "http://www.wikidata.org/entity/Q3351654"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q8488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barcelona",
+          "wikidata": "http://www.wikidata.org/entity/Q1492",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q580560",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sega",
+          "wikidata": "http://www.wikidata.org/entity/Q122741",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sega_Genesis",
+          "wikidata": "http://www.wikidata.org/entity/Q10676",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Master_System",
+          "wikidata": "http://www.wikidata.org/entity/Q209868",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sega_Master_System",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AC%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Game_Gear",
+          "wikidata": "http://www.wikidata.org/entity/Q751719",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sega_Game_Gear",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AE%E3%82%A2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Game_Gear",
+          "wikidata": "http://www.wikidata.org/entity/Q751719",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Sega_Game_Gear",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AE%E3%82%A2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tiertex_Design_Studios",
+          "wikidata": "http://www.wikidata.org/entity/Q7801136"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Coca-Cola",
+          "wikidata": "http://www.wikidata.org/entity/Q2813",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AB%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q3048204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q150388",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%83%89%E3%82%A4%E3%83%84%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q18910",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q2449888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan_at_the_1992_Summer_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q1190542",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1992%E5%B9%B4%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E6%97%A5%E6%9C%AC%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Unified_Team_at_the_Olympics",
+          "wikidata": "http://www.wikidata.org/entity/Q517439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEEUN%E9%81%B8%E6%89%8B%E5%9B%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "0127226": {
+    "doc_info": {
+      "title": "127226_U.S._manufacturer_General_Motors_seeks_bankruptcy_protection",
+      "url": "http://en.wikinews.org/wiki/U.S._manufacturer_General_Motors_seeks_bankruptcy_protection"
+    },
+    "sentences": {
+      "00": {
+        "text": "米国のメーカーのゼネラルモーターズが破産保護を申請",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "01": {
+        "text": "2009年6月1日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国の自動車製造会社ゼネラルモーターズは、ニューヨーク州マンハッタンの連邦破産裁判所で、協定世界時の月曜日12:00に破産とその債権者からの第11条による保護を申請しました。",
+        "mention_ids": [
+          "M004",
+          "M016",
+          "M018"
+        ]
+      },
+      "03": {
+        "text": "これは、米国の製造会社にとって最大の破産申請であり、申告された資産は822億9,000万ドル、負債は1,728億1,000万ドルで、最近の米国の歴史において--リーマン・ブラザーズ（6,910億6,000万ドル）、ワシントン・ミューチュアル（3,279億1,000万ドル）、ワールドコム（1,039億1,000万ドル）の破産に次いで、4番目に大きい破産申請です。",
+        "mention_ids": [
+          "M001",
+          "M003",
+          "M005",
+          "M007",
+          "M009",
+          "M019"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          11
+        ],
+        "text": "米国の製造会社",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M003": {
+        "sentence_id": "03",
+        "span": [
+          80,
+          90
+        ],
+        "text": "リーマン・ブラザーズ",
+        "entity_type": null,
+        "entity_id": "E067"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          42
+        ],
+        "text": "ニューヨーク州マンハッタンの連邦破産裁判所",
+        "entity_type": null,
+        "entity_id": "E057"
+      },
+      "M005": {
+        "sentence_id": "03",
+        "span": [
+          107,
+          120
+        ],
+        "text": "ワシントン・ミューチュアル",
+        "entity_type": null,
+        "entity_id": "E064"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          137,
+          143
+        ],
+        "text": "ワールドコム",
+        "entity_type": null,
+        "entity_id": "E068"
+      },
+      "M009": {
+        "sentence_id": "03",
+        "span": [
+          69,
+          71
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E051"
+      },
+      "M012": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          17
+        ],
+        "text": "米国のメーカーのゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M016": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          19
+        ],
+        "text": "米国の自動車製造会社ゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M018": {
+        "sentence_id": "02",
+        "span": [
+          62,
+          67
+        ],
+        "text": "その債権者",
+        "entity_type": null,
+        "entity_id": "E053"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          33
+        ],
+        "text": "資産",
+        "entity_type": null,
+        "entity_id": null
+      }
+    },
+    "entities": {
+      "E049": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006",
+          "M021"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Manhattan",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manhattan",
+          "wikidata": "http://www.wikidata.org/entity/Q11299",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%8F%E3%83%83%E3%82%BF%E3%83%B3"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M013",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E052": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/New_York_City",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF"
+        }
+      },
+      "E053": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E054": {
+        "member_mention_ids": [
+          "M001",
+          "M012",
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M014",
+          "M017",
+          "M010",
+          "M011",
+          "M015"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E057": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E058": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M059"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E064": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E067": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E068": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

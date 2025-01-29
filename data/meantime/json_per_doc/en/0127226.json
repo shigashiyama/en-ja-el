@@ -1,0 +1,296 @@
+{
+  "0127226": {
+    "doc_info": {
+      "title": "127226_U.S._manufacturer_General_Motors_seeks_bankruptcy_protection",
+      "url": "http://en.wikinews.org/wiki/U.S._manufacturer_General_Motors_seeks_bankruptcy_protection"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "U.S. manufacturer General Motors seeks bankruptcy protection",
+        "text": "U.S. manufacturer General Motors seeks bankruptcy protection",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "01": {
+        "orig_text": "June 01, 2009",
+        "text": "June 01, 2009",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "United States automobile manufacturing firm General Motors filed for bankruptcy and Chapter 11 protection from its creditors at 12:00 UTC Monday, in a Manhattan, New York federal bankruptcy court.",
+        "text": "United States automobile manufacturing firm General Motors filed for bankruptcy and Chapter 11 protection from its creditors at 12:00 UTC Monday, in a Manhattan, New York federal bankruptcy court.",
+        "mention_ids": [
+          "M004",
+          "M016",
+          "M018"
+        ]
+      },
+      "03": {
+        "orig_text": "This was the largest bankruptcy filing for a U.S. manufacturing company, and with declared assets of $82.29 billion and a debt of $172.81 billion, and the fourth largest bankruptcy filing in recent U.S. history -- after the bankruptcies of Lehman Brothers ($691.06 billion), Washington Mutual ($327.91 billion), and WorldCom ($103.91 billion).",
+        "text": "This was the largest bankruptcy filing for a U.S. manufacturing company, and with declared assets of $82.29 billion and a debt of $172.81 billion, and the fourth largest bankruptcy filing in recent U.S. history -- after the bankruptcies of Lehman Brothers ($691.06 billion), Washington Mutual ($327.91 billion), and WorldCom ($103.91 billion).",
+        "mention_ids": [
+          "M001",
+          "M003",
+          "M005",
+          "M007",
+          "M009",
+          "M019"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          71
+        ],
+        "text": "a U.S. manufacturing company",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M003": {
+        "sentence_id": "03",
+        "span": [
+          240,
+          255
+        ],
+        "text": "Lehman Brothers",
+        "entity_type": null,
+        "entity_id": "E067"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          149,
+          195
+        ],
+        "text": "a Manhattan, New York federal bankruptcy court",
+        "entity_type": null,
+        "entity_id": "E057"
+      },
+      "M005": {
+        "sentence_id": "03",
+        "span": [
+          275,
+          292
+        ],
+        "text": "Washington Mutual",
+        "entity_type": null,
+        "entity_id": "E064"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          316,
+          324
+        ],
+        "text": "WorldCom",
+        "entity_type": null,
+        "entity_id": "E068"
+      },
+      "M009": {
+        "sentence_id": "03",
+        "span": [
+          198,
+          202
+        ],
+        "text": "U.S.",
+        "entity_type": null,
+        "entity_id": "E051"
+      },
+      "M012": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          32
+        ],
+        "text": "U.S. manufacturer General Motors",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M016": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          58
+        ],
+        "text": "United States automobile manufacturing firm General Motors",
+        "entity_type": null,
+        "entity_id": "E054"
+      },
+      "M018": {
+        "sentence_id": "02",
+        "span": [
+          111,
+          124
+        ],
+        "text": "its creditors",
+        "entity_type": null,
+        "entity_id": "E053"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          91,
+          97
+        ],
+        "text": "assets",
+        "entity_type": null,
+        "entity_id": null
+      }
+    },
+    "entities": {
+      "E049": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006",
+          "M021"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Manhattan",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Manhattan",
+          "wikidata": "http://www.wikidata.org/entity/Q11299",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%8F%E3%83%83%E3%82%BF%E3%83%B3"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M013",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E052": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/New_York_City",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+          "wikidata": "http://www.wikidata.org/entity/Q60",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF"
+        }
+      },
+      "E053": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E054": {
+        "member_mention_ids": [
+          "M001",
+          "M012",
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M014",
+          "M017",
+          "M010",
+          "M011",
+          "M015"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E057": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E058": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M059"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E064": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E067": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E068": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

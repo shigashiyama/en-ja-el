@@ -1,0 +1,386 @@
+{
+  "3298": {
+    "doc_info": {
+      "title": "New Caledonian barrier reef",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ニューカレドニアのバリアリーフは、南太平洋のニューカレドニアに位置し、世界最長の連続するバリアリーフで、オーストラリアのグレート・バリアリーフに次いで2番目に大きいです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ニューカレドニアのバリアリーフは、ニューカレドニア最大の島であるグランド・テール、イル・デ・パン、そしていくつかの小さな島を取り囲み、長さは1,500キロメートル(930マイル)に達します。",
+        "mention_ids": [
+          "M0_1",
+          "M1_2",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "このリーフは24,000平方キロメートル(9,300平方マイル)のラグーンを囲み、その平均深度は25メートル(82フィート)です。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "リーフは海岸まで続いていますが、ほぼ北西のアントルカストー・リーフまで広がっています。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "この北西の拡張部分は、ベレプ諸島と他の砂の岩礁を取り囲んでいます。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "いくつかの自然の通り道が海に通じています。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "ニューカレドニアの首都であり主要港であるヌメアに通じるブーラリ通路は、アメデ灯台が目印です。",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          15
+        ],
+        "text": "ニューカレドニアのバリアリーフ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          15
+        ],
+        "text": "ニューカレドニアのバリアリーフ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          40
+        ],
+        "text": "アメデ灯台",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          30
+        ],
+        "text": "ニューカレドニア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ニューカレドニア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          25
+        ],
+        "text": "ニューカレドニア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          21
+        ],
+        "text": "南太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          71
+        ],
+        "text": "オーストラリアのグレート・バリアリーフ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          32,
+          40
+        ],
+        "text": "グランド・テール",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          41,
+          48
+        ],
+        "text": "イル・デ・パン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          33
+        ],
+        "text": "アントルカストー・リーフ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ベレプ諸島",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          31
+        ],
+        "text": "ブーラリ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          23
+        ],
+        "text": "ヌメア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Caledonian_barrier_reef",
+          "wikidata": "http://www.wikidata.org/entity/Q1330981",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%90%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%95"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Caledonia",
+          "wikidata": "http://www.wikidata.org/entity/Q33788",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oceania",
+          "wikidata": "http://www.wikidata.org/entity/Q55643",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BB%E3%82%A2%E3%83%8B%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+          "wikidata": "http://www.wikidata.org/entity/Q7343",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%95"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Grande_Terre_(New_Caledonia)",
+          "wikidata": "http://www.wikidata.org/entity/Q256293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%86%E3%83%BC%E3%83%AB%E5%B3%B6"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Pines_(New_Caledonia)",
+          "wikidata": "http://www.wikidata.org/entity/Q292500",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ile_des_Pins",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%87%E3%83%BB%E3%83%91%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Belep_Islands",
+          "wikidata": "http://www.wikidata.org/entity/Q9704",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AC%E3%83%83%E3%83%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boulari_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q4949516"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Noum%C3%A9a",
+          "wikidata": "http://www.wikidata.org/entity/Q9733",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Noumea",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%83%A1%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Lighthouse",
+          "wikidata": "http://www.wikidata.org/entity/Q2039568",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Amédée_lighthouse"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

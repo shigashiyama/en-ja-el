@@ -1,0 +1,620 @@
+{
+  "0160257": {
+    "doc_info": {
+      "title": "160257_Ford_US_auto_sales_spike",
+      "url": "http://en.wikinews.org/wiki/Ford's_US_auto_sales_spike,_surpassing_GM"
+    },
+    "sentences": {
+      "00": {
+        "text": "フォードの米国自動車の売上高が急増し、GMを上回る",
+        "mention_ids": [
+          "M082",
+          "M083",
+          "M084",
+          "M085"
+        ]
+      },
+      "01": {
+        "text": "2010年3月3日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "フォード・モーター社は火曜日、米国での同社の2月の売上高が前年同期比で43%増加したため、同自動車メーカーは競合他社のトヨタやゼネラルモーターズを上回ったと発表しました。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M007"
+        ]
+      },
+      "03": {
+        "text": "フォードは、総販売台数はGMの販売の141,951台に比べて、142,285台に増加したと語りました。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M029",
+          "M030"
+        ]
+      },
+      "04": {
+        "text": "さらに、フォードは、米国自動車市場全体に占める自社のシェアが1年前の14%から上がり、17%に上昇したと語りました。",
+        "mention_ids": [
+          "M031",
+          "M081"
+        ]
+      },
+      "05": {
+        "text": "この上昇幅はアナリストの予想よりも良好で、フォードの株は午前の取引でここ5年での最高値まで上昇しましたが、その日の後半には下落しました。",
+        "mention_ids": [
+          "M041",
+          "M043"
+        ]
+      },
+      "06": {
+        "text": "フォードの売上は、企業向けフリート販売の74%増によって大きく影響されました。",
+        "mention_ids": [
+          "M105"
+        ]
+      },
+      "07": {
+        "text": "貸し自動車代理店だけで、約30,000台になりました。",
+        "mention_ids": [
+          "M098",
+          "M139"
+        ]
+      },
+      "08": {
+        "text": "最終消費者への売上高はただ28%増加しました。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "この増加は、SUVsやピックアップトラックなど、セダン以外のモデルの販売も増加しましたが、やはりフュージョンとトーラスという2つのセダンの販売がそれぞれ166.5%および93.3%増加したことによって牽引されました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "両モデルは昨年大幅に設計変更されており、アナリストらは、こうした自動車による品質の向上がその増加を推進していると説明しました。",
+        "mention_ids": [
+          "M119",
+          "M121"
+        ]
+      },
+      "11": {
+        "text": "今日は他の企業も2月の売上高を報告しており、ほぼすべての企業が同様に売上高の増加を報告しましたが、フォードほど、大きな数値の企業はありませんでした。",
+        "mention_ids": [
+          "M100"
+        ]
+      },
+      "12": {
+        "text": "トヨタは売上増加の唯一の例外で、同社は同月中に世界的なリコールを抱えていたために、同社の売上は8.7%減少し、これにより、一部のモデルの一時的な生産停止になりました。",
+        "mention_ids": [
+          "M099",
+          "M108",
+          "M137"
+        ]
+      },
+      "13": {
+        "text": "「当社の新製品の強みは、...顧客の共感を呼んでいます」とフォードの販売・マーケティング担当副社長のケン・ズベイは語りました。",
+        "mention_ids": [
+          "M096",
+          "M106"
+        ]
+      },
+      "14": {
+        "text": "しかし、彼は、従来のトヨタの顧客が競合他社の自動車を購入したのではなく、正しくはリコールの結果を待っていると思っていました。",
+        "mention_ids": [
+          "M120",
+          "M132"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "フォード・モーター社",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          19,
+          22
+        ],
+        "text": "同社の",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          17
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          45,
+          53
+        ],
+        "text": "同自動車メーカー",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          72
+        ],
+        "text": "競合他社のトヨタやゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E152"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          14
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M029": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          39
+        ],
+        "text": "142,285台",
+        "entity_type": null,
+        "entity_id": "E157"
+      },
+      "M030": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          26
+        ],
+        "text": "141,951台",
+        "entity_type": null,
+        "entity_id": "E151"
+      },
+      "M031": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          8
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M041": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          11
+        ],
+        "text": "アナリスト",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M043": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          27
+        ],
+        "text": "フォードの株",
+        "entity_type": null,
+        "entity_id": "E059"
+      },
+      "M081": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          29
+        ],
+        "text": "米国自動車市場全体に占める自社のシェア",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M082": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M083": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          7
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M084": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          10
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M085": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          21
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M096": {
+        "sentence_id": "13",
+        "span": [
+          1,
+          4
+        ],
+        "text": "当社の",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M098": {
+        "sentence_id": "07",
+        "span": [
+          13,
+          20
+        ],
+        "text": "30,000台",
+        "entity_type": null,
+        "entity_id": "E156"
+      },
+      "M099": {
+        "sentence_id": "12",
+        "span": [
+          0,
+          3
+        ],
+        "text": "トヨタ",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M100": {
+        "sentence_id": "11",
+        "span": [
+          49,
+          53
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M105": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M106": {
+        "sentence_id": "13",
+        "span": [
+          29,
+          33
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M108": {
+        "sentence_id": "12",
+        "span": [
+          16,
+          18
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M119": {
+        "sentence_id": "10",
+        "span": [
+          28,
+          32
+        ],
+        "text": "こうした",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M120": {
+        "sentence_id": "14",
+        "span": [
+          10,
+          13
+        ],
+        "text": "トヨタ",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M121": {
+        "sentence_id": "10",
+        "span": [
+          32,
+          35
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M132": {
+        "sentence_id": "14",
+        "span": [
+          22,
+          25
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M137": {
+        "sentence_id": "12",
+        "span": [
+          41,
+          44
+        ],
+        "text": "同社の",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M139": {
+        "sentence_id": "07",
+        "span": [
+          2,
+          5
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E144"
+      }
+    },
+    "entities": {
+      "E059": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E141": {
+        "member_mention_ids": [
+          "M003",
+          "M083"
+        ],
+        "removed_mention_ids": [
+          "M033"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E143": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E144": {
+        "member_mention_ids": [
+          "M084",
+          "M119",
+          "M121",
+          "M132",
+          "M139"
+        ],
+        "removed_mention_ids": [
+          "M090"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E146": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M004",
+          "M031",
+          "M082",
+          "M096",
+          "M100",
+          "M105",
+          "M106"
+        ],
+        "removed_mention_ids": [
+          "M032",
+          "M042",
+          "M019"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E148": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Financial_analyst",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Financial_analyst",
+          "wikidata": "http://www.wikidata.org/entity/Q1416279",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%BC%E5%88%B8%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B9%E3%83%88"
+        }
+      },
+      "E149": {
+        "member_mention_ids": [
+          "M099",
+          "M108",
+          "M120",
+          "M137"
+        ],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Toyota",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Toyota",
+          "wikidata": "http://www.wikidata.org/entity/Q53268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A"
+        }
+      },
+      "E151": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E152": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E153": {
+        "member_mention_ids": [
+          "M085"
+        ],
+        "removed_mention_ids": [
+          "M020",
+          "M006"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E155": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M034"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E156": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M098"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E157": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

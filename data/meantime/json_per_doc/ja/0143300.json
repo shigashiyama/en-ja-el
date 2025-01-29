@@ -1,0 +1,336 @@
+{
+  "0143300": {
+    "doc_info": {
+      "title": "143300_Automobile_manufacturer_Ford_posts_unexpected_profits",
+      "url": "http://en.wikinews.org/wiki/Automobile_manufacturer_Ford_posts_unexpected_profits"
+    },
+    "sentences": {
+      "00": {
+        "text": "自動車メーカーのフォード社、予想外の利益を計上する",
+        "mention_ids": [
+          "M075"
+        ]
+      },
+      "01": {
+        "text": "2009年11月3日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国の自動車メーカーのフォードは、同社が今年の第3四半期に9億9,700万米ドルの純利益を計上したと発表し、同社は2011年までに「確実に採算がとれる」ことだろうと予測しました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "03": {
+        "text": "この報道は、この自動車会社が損を出すと予測していたほとんどのアナリストを驚かせました。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "04": {
+        "text": "フォードの利益は1株あたり26セントに相当し、ほとんどの経済アナリストが予想していた1株あたり12セントの損失とは大きな差です。",
+        "mention_ids": [
+          "M027",
+          "M028",
+          "M036",
+          "M037"
+        ]
+      },
+      "05": {
+        "text": "「当社の第3四半期の決算は、長引く経済不況にも関わらず、フォードが大きな進歩を遂げていることを明らかに示しています」と同社の最高経営責任者アラン・ムラーリーは語りました。",
+        "mention_ids": [
+          "M038",
+          "M039",
+          "M043"
+        ]
+      },
+      "06": {
+        "text": "「当社は依然として困難な道に直面していますが、当社の変革は正しく機能しており、当社の基盤となる事業は強化され続けています。」",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ムラーリーは、彼の会社はすべての財務目標を達成する、あるいはそれを上回ることになると予測し、今年の第4四半期には同社が営業利益を計上できている可能性があることを予測しました。",
+        "mention_ids": [
+          "M093",
+          "M104"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          15
+        ],
+        "text": "米国の自動車メーカーのフォード",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          19
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          56
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          35
+        ],
+        "text": "この自動車会社が損を出すと予測していたほとんどのアナリスト",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M027": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M028": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          35
+        ],
+        "text": "ほとんどの経済アナリスト",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M036": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          10
+        ],
+        "text": "1株",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M037": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          44
+        ],
+        "text": "1株",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M038": {
+        "sentence_id": "05",
+        "span": [
+          1,
+          4
+        ],
+        "text": "当社の",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M039": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          32
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M043": {
+        "sentence_id": "05",
+        "span": [
+          59,
+          78
+        ],
+        "text": "同社の最高経営責任者アラン・ムラーリー",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M075": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "自動車メーカーのフォード社",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M093": {
+        "sentence_id": "07",
+        "span": [
+          7,
+          11
+        ],
+        "text": "彼の会社",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M104": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ムラーリー",
+        "entity_type": null,
+        "entity_id": "E125"
+      }
+    },
+    "entities": {
+      "E117": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M036",
+          "M037"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E122": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M085",
+          "M095",
+          "M112"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M027",
+          "M038",
+          "M039",
+          "M075",
+          "M093"
+        ],
+        "removed_mention_ids": [
+          "M021",
+          "M040",
+          "M073",
+          "M074",
+          "M078",
+          "M079"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M020",
+          "M018",
+          "M017",
+          "M019"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M043",
+          "M104"
+        ],
+        "removed_mention_ids": [
+          "M090",
+          "M041",
+          "M042"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Alan_Mulally",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alan_Mulally",
+          "wikidata": "http://www.wikidata.org/entity/Q348874",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%BC"
+        }
+      },
+      "E127": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Money",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Money",
+          "wikidata": "http://www.wikidata.org/entity/Q1368",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3"
+        }
+      }
+    }
+  }
+}

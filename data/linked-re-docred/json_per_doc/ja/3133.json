@@ -1,0 +1,426 @@
+{
+  "3133": {
+    "doc_info": {
+      "title": "Berge Meere und Giganten",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Berge Meere und Giganten（山、海、巨人）は、ドイツの作家アルフレート・デーブリーンによる1924年のSF小説です。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "文体的にも構造的にも実験的なこの小説は、27世紀までの人間社会の発展をたどり、将来の政治、技術、自然の力の間の地球規模の紛争を描き、グリーンランドの氷冠を溶かすためにアイスランドの火山エネルギーを壊滅的に採取することに至りました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "批評家の間では、『Berge Meere und Giganten』は難解で意見が分かれる小説であるという評判があり、デーブリーンの次の小説『ベルリン・アレクサンダー広場』(1929)ほど注目されていません。",
+        "mention_ids": [
+          "M0_0",
+          "M3_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "1921年の夏、バルト海の波に小石が転がるありふれた光景に触発されて、その秋、デーブリーンはベルゲ・メーレとギガンテンを書き始めました。その過程で、さまざまな自然科学および人文科学に関する広範な研究を実施しました。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M3_2",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "彼はもともとそれを都市と技術への賛歌として考えていたが、小説を書く過程でそれは自然の力への賛辞へと進化しました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "彼は1923年の夏に原稿を完成させ、それは翌年フィッシャー・ヴァーラグによって出版されました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          33
+        ],
+        "text": "Berge Meere und Giganten",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          59
+        ],
+        "text": "ベルゲ・メーレとギガンテン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          32
+        ],
+        "text": "Berge Meere und Giganten（山、海、巨人）",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1921年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          2,
+          7
+        ],
+        "text": "1923年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          35
+        ],
+        "text": "フィッシャー・ヴァーラグ",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          56,
+          61
+        ],
+        "text": "1924年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          37
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          40,
+          53
+        ],
+        "text": "アルフレート・デーブリーン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          59,
+          65
+        ],
+        "text": "デーブリーン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          45
+        ],
+        "text": "デーブリーン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          24
+        ],
+        "text": "27世紀",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          83,
+          89
+        ],
+        "text": "アイスランド",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          66,
+          73
+        ],
+        "text": "グリーンランド",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          85
+        ],
+        "text": "ベルリン・アレクサンダー広場",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          87,
+          91
+        ],
+        "text": "1929",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          12
+        ],
+        "text": "バルト海",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berge_Meere_und_Giganten",
+          "wikidata": "http://www.wikidata.org/entity/Q4146087"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/German_language",
+          "wikidata": "http://www.wikidata.org/entity/Q188",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_D%C3%B6blin",
+          "wikidata": "http://www.wikidata.org/entity/Q57389",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Alfred_Döblin",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%87%E3%83%BC%E3%83%96%E3%83%AA%E3%83%BC%E3%83%B3"
+        },
+        "date_of_death": "1957-06-26T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iceland",
+          "wikidata": "http://www.wikidata.org/entity/Q189",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greenland",
+          "wikidata": "http://www.wikidata.org/entity/Q223",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz",
+          "wikidata": "http://www.wikidata.org/entity/Q694245",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E5%BA%83%E5%A0%B4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltic_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q545",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%88%E6%B5%B7"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S._Fischer_Verlag",
+          "wikidata": "http://www.wikidata.org/entity/Q481576",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Fischer_Verlag"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "3311": {
+    "doc_info": {
+      "title": "Orange (India)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Orange brand in India , through a complicated set of mergers and divisions , was acquired and eventually retained by Orange S.A. ; and currently operates as Orange Business Services India ( OBS India ) .",
+        "text": "The Orange brand in India , through a complicated set of mergers and divisions , was acquired and eventually retained by Orange S.A. ; and currently operates as Orange Business Services India ( OBS India ) .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M3_4"
+        ]
+      },
+      "01": {
+        "orig_text": "On 14 February 2000 , Hutchison Max – an Indian telecom joint venture majority owned by Hong Kong based Hutchison Whampoa introduced the brand in the country , through the rebranding of its existing Mumbai telecom circle Cell phone service – ' Max Touch ' , to ' Orange ' .",
+        "text": "On 14 February 2000 , Hutchison Max – an Indian telecom joint venture majority owned by Hong Kong based Hutchison Whampoa introduced the brand in the country , through the rebranding of its existing Mumbai telecom circle Cell phone service – ' Max Touch ' , to ' Orange ' .",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Shortly , issues arose concerning the ownership of the ' Orange ' brand in India , when France Telecom in May 2000 purchased the worldwide rights for the brand .",
+        "text": "Shortly , issues arose concerning the ownership of the ' Orange ' brand in India , when France Telecom in May 2000 purchased the worldwide rights for the brand .",
+        "mention_ids": [
+          "M0_1",
+          "M1_1",
+          "M2_1",
+          "M4_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Hutchison Essar ( earlier Hutchinson Max ) ended using the brand in Jan 2006 .",
+        "text": "Hutchison Essar ( earlier Hutchinson Max ) ended using the brand in Jan 2006 .",
+        "mention_ids": [
+          "M11_0",
+          "M11_1",
+          "M12_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Orange returned to the country in July 2007 , as Orange Business Services India , when France Telecom acquired the enterprise network services and managed services business of GTL Ltd.",
+        "text": "Orange returned to the country in July 2007 , as Orange Business Services India , when France Telecom acquired the enterprise network services and managed services business of GTL Ltd.",
+        "mention_ids": [
+          "M0_2",
+          "M13_0",
+          "M14_0",
+          "M2_2",
+          "M3_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Since then , OBS India has grown to become one of the country 's major data connectivity solutions provider .",
+        "text": "Since then , OBS India has grown to become one of the country 's major data connectivity solutions provider .",
+        "mention_ids": [
+          "M3_3"
+        ]
+      },
+      "06": {
+        "orig_text": "Currently , it has a network with 14 points of presence ( PoP ) in the country and has offices in eight locations with over 1500 employees , offering business services to local as well as global enterprises in cloud computing , unified communications and collaboration .",
+        "text": "Currently , it has a network with 14 points of presence ( PoP ) in the country and has offices in eight locations with over 1500 employees , offering business services to local as well as global enterprises in cloud computing , unified communications and collaboration .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "orig_text": "India houses one of the OBS 's four major global service centres in Gurgaon .",
+        "text": "India houses one of the OBS 's four major global service centres in Gurgaon .",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M1_2",
+          "M3_5"
+        ]
+      },
+      "08": {
+        "orig_text": "OBS India traces its presence in India to 1969 , when SITA , ( Societe Internationale de Telecommunications Aeronautiques ) , was created to meet the need of the airline industry .",
+        "text": "OBS India traces its presence in India to 1969 , when SITA , ( Societe Internationale de Telecommunications Aeronautiques ) , was created to meet the need of the airline industry .",
+        "mention_ids": [
+          "M1_3",
+          "M20_0",
+          "M21_0",
+          "M21_1",
+          "M3_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          10
+        ],
+        "text": "Orange",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          63
+        ],
+        "text": "Orange",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Orange",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          263,
+          269
+        ],
+        "text": "Orange",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          244,
+          253
+        ],
+        "text": "Max Touch",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          15
+        ],
+        "text": "Hutchison Essar",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          40
+        ],
+        "text": "Hutchinson Max",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          76
+        ],
+        "text": "Jan 2006",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          43
+        ],
+        "text": "July 2007",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          176,
+          184
+        ],
+        "text": "GTL Ltd.",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          36
+        ],
+        "text": "14",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          98,
+          103
+        ],
+        "text": "eight",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          124,
+          128
+        ],
+        "text": "1500",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          31,
+          35
+        ],
+        "text": "four",
+        "entity_type": "NUM",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          68,
+          75
+        ],
+        "text": "Gurgaon",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          25
+        ],
+        "text": "India",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          80
+        ],
+        "text": "India",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "India",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "08",
+        "span": [
+          33,
+          38
+        ],
+        "text": "India",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          42,
+          46
+        ],
+        "text": "1969",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          63,
+          121
+        ],
+        "text": "Societe Internationale de Telecommunications Aeronautiques",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M21_1": {
+        "sentence_id": "08",
+        "span": [
+          54,
+          58
+        ],
+        "text": "SITA",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          121,
+          132
+        ],
+        "text": "Orange S.A.",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          88,
+          102
+        ],
+        "text": "France Telecom",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "04",
+        "span": [
+          87,
+          101
+        ],
+        "text": "France Telecom",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          161,
+          191
+        ],
+        "text": "Orange Business Services India",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          79
+        ],
+        "text": "Orange Business Services India",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          9
+        ],
+        "text": "OBS India",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          22
+        ],
+        "text": "OBS India",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "00",
+        "span": [
+          194,
+          203
+        ],
+        "text": "OBS India",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          27
+        ],
+        "text": "OBS",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          19
+        ],
+        "text": "14 February 2000",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          106,
+          114
+        ],
+        "text": "May 2000",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          35
+        ],
+        "text": "Hutchison Max",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          41,
+          47
+        ],
+        "text": "Indian",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          88,
+          97
+        ],
+        "text": "Hong Kong",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          104,
+          121
+        ],
+        "text": "Hutchison Whampoa",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          199,
+          205
+        ],
+        "text": "Mumbai",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4",
+          "M3_5"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_(India)",
+          "wikidata": "http://www.wikidata.org/entity/Q7099497"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hutchison_Whampoa",
+          "wikidata": "http://www.wikidata.org/entity/Q15805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%81%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%B3%E3%83%9D%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mumbai",
+          "wikidata": "http://www.wikidata.org/entity/Q1156",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%90%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vodafone_India",
+          "wikidata": "http://www.wikidata.org/entity/Q2719715"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/GTL_Ltd",
+          "wikidata": "http://www.wikidata.org/entity/Q5514712"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gurgaon",
+          "wikidata": "http://www.wikidata.org/entity/Q238508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0",
+          "M21_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SITA_(business_services_company)",
+          "wikidata": "http://www.wikidata.org/entity/Q690702",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/SITA_(IT_company)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/SITA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

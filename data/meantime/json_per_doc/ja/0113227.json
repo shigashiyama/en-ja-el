@@ -1,0 +1,433 @@
+{
+  "0113227": {
+    "doc_info": {
+      "title": "113227_Russian_stock_markets_suspended_amid_market_turmoil",
+      "url": "http://en.wikinews.org/wiki/Russian_stock_markets_suspended_amid_market_turmoil"
+    },
+    "sentences": {
+      "00": {
+        "text": "ロシア株式市場は市場の混乱により停止",
+        "mention_ids": [
+          "M067",
+          "M071"
+        ]
+      },
+      "01": {
+        "text": "2008年9月17日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ロシアの主要株式市場は、世界中の金融市場の混乱が続いているため、2日連続で取引が停止されました。",
+        "mention_ids": [
+          "M003",
+          "M010"
+        ]
+      },
+      "03": {
+        "text": "この停止は、停止を要求したロシア政府の連邦金融市場局の命令によって行われました。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "04": {
+        "text": "「資金がシステムに入るまでに時間がかかりすぎた」とウラルシブのアナリスト、クリス・ウィーファーはこの決定についてコメントしました。",
+        "mention_ids": [
+          "M021",
+          "M023",
+          "M025"
+        ]
+      },
+      "05": {
+        "text": "「彼らはパニック売りを恐れたので、彼らは市場を止めました。」",
+        "mention_ids": [
+          "M031",
+          "M035",
+          "M037"
+        ]
+      },
+      "06": {
+        "text": "停止前、RTS取引所はわずか2時間で6.39%下落しましたが、MICEX指数はその日は上昇で始まった後、再び下落しました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "1998年の金融危機以来、いくつかの金融市場で値下がりが続いるロシア市場では、この日は最悪の日でした。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "英国の主要指数であるFTSE 100は2.36%、つまり118.40ポイント下落して4907.20で、5000の節目を下回りました。",
+        "mention_ids": [
+          "M090"
+        ]
+      },
+      "09": {
+        "text": "ダウ・ジョーンズはUTC16時08分時点で2.62%下落し、今日の初めからわずかに上昇しました。",
+        "mention_ids": [
+          "M096"
+        ]
+      },
+      "10": {
+        "text": "ダウ・ジョーンズの現在の価値は10769.00ポイントです。",
+        "mention_ids": [
+          "M089"
+        ]
+      },
+      "11": {
+        "text": "ナスダック指数は-3.16%下落して2138.14となり、Daxはその日の始まりのUTC16時08分と比べて1.75%安でした。",
+        "mention_ids": [
+          "M081"
+        ]
+      },
+      "12": {
+        "text": "ロシア政府は、ロシア経済に440億ドルの注入も発表しました。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "現金注入は、いずれも国営銀行であるVTB、ズベルバンク、ガスプロム銀行を通じて行われます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ロシアの主要株式市場",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          20
+        ],
+        "text": "世界中の金融市場",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          26
+        ],
+        "text": "停止を要求したロシア政府の連邦金融市場局",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M021": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          3
+        ],
+        "text": "資金",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M023": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          8
+        ],
+        "text": "システム",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M025": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          47
+        ],
+        "text": "ウラルシブのアナリスト、クリス・ウィーファー",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M031": {
+        "sentence_id": "05",
+        "span": [
+          1,
+          3
+        ],
+        "text": "彼ら",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M035": {
+        "sentence_id": "05",
+        "span": [
+          17,
+          19
+        ],
+        "text": "彼ら",
+        "entity_type": null,
+        "entity_id": "E107"
+      },
+      "M037": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          22
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M067": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ロシア株式市場",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M071": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          10
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M081": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ナスダック指数",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M089": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M090": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          18
+        ],
+        "text": "英国の主要指数であるFTSE 100",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M096": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E114"
+      }
+    },
+    "entities": {
+      "E102": {
+        "member_mention_ids": [
+          "M090"
+        ],
+        "removed_mention_ids": [
+          "M084",
+          "M086"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/FTSE_100_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q466496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FTSE100%E7%A8%AE%E7%B7%8F%E5%90%88%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E104": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Earth",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        }
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M010",
+          "M071"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "removed_mention_ids": [
+          "M028",
+          "M026"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E107": {
+        "member_mention_ids": [
+          "M031",
+          "M035"
+        ],
+        "removed_mention_ids": [
+          "M078",
+          "M017"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M003",
+          "M037",
+          "M067"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Money",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Money",
+          "wikidata": "http://www.wikidata.org/entity/Q1368",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M096"
+        ],
+        "removed_mention_ids": [
+          "M089"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004",
+          "M068"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Russia",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M027"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Uralsib",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Uralsib",
+          "wikidata": "http://www.wikidata.org/entity/Q4476693"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "3484": {
+    "doc_info": {
+      "title": "The G-String Murders",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『Gストリング殺人事件』は、有名なアメリカ人のバーレスク・パフォーマーのジプシー・ローズ・リーによって書かれた1941年の推理小説です。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "この小説はミステリー作家のクレイグ・ライスによって書かれたという主張がありますが、小説の全体ではないにしても少なくとも大部分は、編集者であり、友人であるジョージ・デイビスの指導の下、リーの良き友であるライスからいくつかの重要な指導を受けて彼女が書いたことを証明する十分な証拠が原稿や書簡の形で存在すると示唆する人もいます。",
+        "mention_ids": [
+          "M3_2",
+          "M4_0",
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "この小説は、『バーレスクの貴婦人』および『ストリップ-いじめ殺人事件』というタイトルでも出版されています。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1"
+        ]
+      },
+      "03": {
+        "text": "バーレスク劇場を舞台に、リーは、劇団のストリッパーがGストリングで首を絞められているのが発見される一連の殺人事件を解決する刑事役を演じます。",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "04": {
+        "text": "2005年、ニューヨーク市立大学のフェミニスト・プレスは、この本を女性執筆パルプシリーズの一つとして再出版しました。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          16
+        ],
+        "text": "バーレスクの貴婦人",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          34
+        ],
+        "text": "ストリップ-いじめ殺人事件",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          11
+        ],
+        "text": "Gストリング殺人事件",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          60
+        ],
+        "text": "1941年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          22
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          47
+        ],
+        "text": "のジプシー・ローズ・リー",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          14
+        ],
+        "text": "リー",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "01",
+        "span": [
+          91,
+          93
+        ],
+        "text": "リー",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          21
+        ],
+        "text": "クレイグ・ライス",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          100,
+          103
+        ],
+        "text": "ライス",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          76,
+          85
+        ],
+        "text": "ジョージ・デイビス",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "2005年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          27
+        ],
+        "text": "フェミニスト・プレス",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          16
+        ],
+        "text": "ニューヨーク市立大学",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          33,
+          40
+        ],
+        "text": "女性執筆パルプ",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lady_of_Burlesque",
+          "wikidata": "http://www.wikidata.org/entity/Q3100955"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gypsy_Rose_Lee",
+          "wikidata": "http://www.wikidata.org/entity/Q267186",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%97%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1970-04-26T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Craig_Rice_(writer)",
+          "wikidata": "http://www.wikidata.org/entity/Q1639201",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Craig_Rice_(author)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B0%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%B9"
+        },
+        "date_of_death": "1957-08-28T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/George_Davis_(editor)",
+          "wikidata": "http://www.wikidata.org/entity/Q5538421"
+        },
+        "date_of_death": "1957-11-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Feminist_Press",
+          "wikidata": "http://www.wikidata.org/entity/Q7733667"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_University_of_New_York",
+          "wikidata": "http://www.wikidata.org/entity/Q762266",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

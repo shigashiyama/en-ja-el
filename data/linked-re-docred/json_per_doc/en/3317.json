@@ -1,0 +1,399 @@
+{
+  "3317": {
+    "doc_info": {
+      "title": "Isle of Palms, South Carolina",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Isle of Palms is a city in Charleston County , South Carolina , United States .",
+        "text": "Isle of Palms is a city in Charleston County , South Carolina , United States .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "At the 2010 census , the population was 4,133 .",
+        "text": "At the 2010 census , the population was 4,133 .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Isle of Palms is a barrier island on the South Carolina coast .",
+        "text": "Isle of Palms is a barrier island on the South Carolina coast .",
+        "mention_ids": [
+          "M0_1",
+          "M2_1"
+        ]
+      },
+      "03": {
+        "orig_text": "The city is included within the Charleston - North Charleston - Summerville metropolitan area and the Charleston - North Charleston Urbanized Area .",
+        "text": "The city is included within the Charleston - North Charleston - Summerville metropolitan area and the Charleston - North Charleston Urbanized Area .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The town lies along a narrow strip of land , hugging the beach , separated from the mainland by the Intracoastal Waterway .",
+        "text": "The town lies along a narrow strip of land , hugging the beach , separated from the mainland by the Intracoastal Waterway .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "05": {
+        "orig_text": "It is an affluent community of both vacation home owners and year - round residents , with large beachfront homes , resorts , and local restaurants .",
+        "text": "It is an affluent community of both vacation home owners and year - round residents , with large beachfront homes , resorts , and local restaurants .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "Beach volleyball is popular in the summer , and the \" Windjammer \" club hosts several tournaments throughout the year .",
+        "text": "Beach volleyball is popular in the summer , and the \" Windjammer \" club hosts several tournaments throughout the year .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Isle of Palms",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Isle of Palms",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          100,
+          121
+        ],
+        "text": "Intracoastal Waterway",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          54,
+          64
+        ],
+        "text": "Windjammer",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          44
+        ],
+        "text": "Charleston County",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          61
+        ],
+        "text": "South Carolina",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          55
+        ],
+        "text": "South Carolina",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          77
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          11
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          45
+        ],
+        "text": "4,133",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          42
+        ],
+        "text": "Charleston",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          45,
+          61
+        ],
+        "text": "North Charleston",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          64,
+          75
+        ],
+        "text": "Summerville",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          102,
+          146
+        ],
+        "text": "Charleston - North Charleston Urbanized Area",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Palms,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q1843576",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%82%AA%E3%83%96%E3%83%91%E3%83%BC%E3%83%A0%E3%82%BA_(%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charleston_County,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q181015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%B3%E9%83%A1_(%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q1456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "removed_mention_ids": [
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charleston_metropolitan_area,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q5084207",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Charleston-North_Charleston-Summerville_metropolitan_area"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Charleston,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q847538",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%B3_(%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Summerville,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q947304",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%93%E3%83%AB_(%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charleston_metropolitan_area,_South_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q5084207"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intracoastal_Waterway",
+          "wikidata": "http://www.wikidata.org/entity/Q756421",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%BF%E5%B2%B8%E5%86%85%E6%B0%B4%E8%B7%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

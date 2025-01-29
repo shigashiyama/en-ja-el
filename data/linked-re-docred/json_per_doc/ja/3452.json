@@ -1,0 +1,468 @@
+{
+  "3452": {
+    "doc_info": {
+      "title": "Municipal elections in Canada",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "カナダの地方選挙は様々な州や準州の管轄下にあり、通常は場所に応じて2年、3年、4年ごとに同じ日に地方選挙が行われます。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "各州には独自の自治体の名称があり、厳密には自治体ではない非編入地域に対して地方選挙を行う州もあります。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "これらの主体は、市、町、村、郡区、村落、教区、そして単に市区町村、郡市区町村、地方郡市区町村、市区、地域地区、郡、地方自治体、専門自治体、地区自治体、地方自治体と呼ばれることがあります。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "これらの多くは、カナダ統計局によって国勢調査の部門または国勢調査の下位部門の基礎として使用される可能性があります。",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "04": {
+        "text": "地方選挙では通常、市長と市議会議員が選出され、教育委員会も選出されることがよくあります。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "場所によっては、バンクーバーなど、独自の公園委員会を選出する他の団体も選出する場合があります。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "06": {
+        "text": "一部の自治体では、通常は支出プロジェクトや税制変更に関連する住民投票や投票の取り組みも同時に開催します。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "市議会議員の選挙は、所在地に応じて区制または大規模制のいずれかで行われます。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "バンクーバーは、アットラージ・システムを使用しているカナダ最大の都市ですが、他の大都市のほとんどは区を使用しています。",
+        "mention_ids": [
+          "M0_1",
+          "M5_1"
+        ]
+      },
+      "09": {
+        "text": "ほとんどの議会は無党派であり、無所属議員のみを選出します。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "ただし、地方自治体によっては、地域に根ざした政党や選挙組織を持っている場合もあります。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "これらには、ケベックのモントリオール、ケベックシティ、とロングイユ、ブリティッシュコロンビアのバンクーバー、>ビクトリア、サリー、リッチモンド、が含まれます。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M5_2",
+          "M6_0",
+          "M7_0",
+          "M7_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "12": {
+        "text": "これらの地方政党が州や連邦の政党と提携していることはほとんどありません。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "投票は、手で数えられる紙の投票用紙を使用して行うことも、さまざまな形式の電子投票によって行うこともできます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "08",
+        "span": [
+          26,
+          29
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "11",
+        "span": [
+          61,
+          64
+        ],
+        "text": "サリー",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "11",
+        "span": [
+          65,
+          71
+        ],
+        "text": "リッチモンド",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "11",
+        "span": [
+          34,
+          46
+        ],
+        "text": "ブリティッシュコロンビア",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          35
+        ],
+        "text": "2年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          38
+        ],
+        "text": "3年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          41
+        ],
+        "text": "4年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          14
+        ],
+        "text": "カナダ統計局",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          14
+        ],
+        "text": "バンクーバー",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          6
+        ],
+        "text": "バンクーバー",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "11",
+        "span": [
+          47,
+          53
+        ],
+        "text": "バンクーバー",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "11",
+        "span": [
+          11,
+          18
+        ],
+        "text": "モントリオール",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "11",
+        "span": [
+          19,
+          26
+        ],
+        "text": "ケベックシティ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "11",
+        "span": [
+          6,
+          10
+        ],
+        "text": "ケベック",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "11",
+        "span": [
+          28,
+          33
+        ],
+        "text": "ロングイユ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "11",
+        "span": [
+          54,
+          60
+        ],
+        "text": ">ビクトリア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Statistics_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q1155740"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q24639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Montreal",
+          "wikidata": "http://www.wikidata.org/entity/Q340",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quebec",
+          "wikidata": "http://www.wikidata.org/entity/Q176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Longueuil",
+          "wikidata": "http://www.wikidata.org/entity/Q139398",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Victoria,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q2132",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Surrey,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q390583",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AC%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Richmond,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q236837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

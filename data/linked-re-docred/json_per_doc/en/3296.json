@@ -1,0 +1,826 @@
+{
+  "3296": {
+    "doc_info": {
+      "title": "Ooredoo",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Ooredoo QSC (; formerly Qtel ) is an international telecommunications company headquartered in Doha , Qatar .",
+        "text": "Ooredoo QSC (; formerly Qtel ) is an international telecommunications company headquartered in Doha , Qatar .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Ooredoo provides mobile , wireless , wireline , and content services with market share in domestic and international telecommunication markets , and in business ( corporations and individuals ) and residential markets .",
+        "text": "Ooredoo provides mobile , wireless , wireline , and content services with market share in domestic and international telecommunication markets , and in business ( corporations and individuals ) and residential markets .",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "02": {
+        "orig_text": "It is one of the world 's largest mobile telecommunications companies , with over 114 million customers worldwide as of September 2015 .",
+        "text": "It is one of the world 's largest mobile telecommunications companies , with over 114 million customers worldwide as of September 2015 .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "orig_text": "68 % of Ooredoo is owned by the State of Qatar .",
+        "text": "68 % of Ooredoo is owned by the State of Qatar .",
+        "mention_ids": [
+          "M0_5",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Ooredoo has operations in the Middle East , Europe and Asia , including Algeria , Indonesia , Iraq , Kuwait , Myanmar , Maldives , Oman , Palestine , Qatar and Tunisia .",
+        "text": "Ooredoo has operations in the Middle East , Europe and Asia , including Algeria , Indonesia , Iraq , Kuwait , Myanmar , Maldives , Oman , Palestine , Qatar and Tunisia .",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M2_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Ooredoo 's shares are listed on the Qatar Stock Exchange and the Abu Dhabi Securities Exchange .",
+        "text": "Ooredoo 's shares are listed on the Qatar Stock Exchange and the Abu Dhabi Securities Exchange .",
+        "mention_ids": [
+          "M0_6",
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Ooredoo had a market capitalisation of QAR 301.2  billion ( USD 82.7 billion ) as of September 2015 , and was named \" Best Mobile Operator of the Year \" at the World Communication Awards 2013 .",
+        "text": "Ooredoo had a market capitalisation of QAR 301.2 billion ( USD 82.7 billion ) as of September 2015 , and was named \" Best Mobile Operator of the Year \" at the World Communication Awards 2013 .",
+        "mention_ids": [
+          "M0_2",
+          "M21_0",
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Ooredoo QSC",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          28
+        ],
+        "text": "Qtel",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Ooredoo",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Ooredoo",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Ooredoo",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          15
+        ],
+        "text": "Ooredoo",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Ooredoo",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          72,
+          79
+        ],
+        "text": "Algeria",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          82,
+          91
+        ],
+        "text": "Indonesia",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          94,
+          98
+        ],
+        "text": "Iraq",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          101,
+          107
+        ],
+        "text": "Kuwait",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          110,
+          117
+        ],
+        "text": "Myanmar",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          120,
+          128
+        ],
+        "text": "Maldives",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          131,
+          135
+        ],
+        "text": "Oman",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          138,
+          147
+        ],
+        "text": "Palestine",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          160,
+          167
+        ],
+        "text": "Tunisia",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          56
+        ],
+        "text": "Qatar Stock Exchange",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          95,
+          99
+        ],
+        "text": "Doha",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          65,
+          94
+        ],
+        "text": "Abu Dhabi Securities Exchange",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          39,
+          56
+        ],
+        "text": "QAR 301.2 billion",
+        "entity_type": "NUM",
+        "entity_id": "E021"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          59,
+          75
+        ],
+        "text": "USD 82.7 billion",
+        "entity_type": "NUM",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          159,
+          185
+        ],
+        "text": "World Communication Awards",
+        "entity_type": "MISC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          186,
+          190
+        ],
+        "text": "2013",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          102,
+          107
+        ],
+        "text": "Qatar",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          150,
+          155
+        ],
+        "text": "Qatar",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          93
+        ],
+        "text": "114 million",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          120,
+          134
+        ],
+        "text": "September 2015",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "06",
+        "span": [
+          84,
+          98
+        ],
+        "text": "September 2015",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "68 %",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          46
+        ],
+        "text": "State of Qatar",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          41
+        ],
+        "text": "Middle East",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          50
+        ],
+        "text": "Europe",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          55,
+          59
+        ],
+        "text": "Asia",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ooredoo",
+          "wikidata": "http://www.wikidata.org/entity/Q919935"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Doha",
+          "wikidata": "http://www.wikidata.org/entity/Q3861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%8F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Qatar",
+          "wikidata": "http://www.wikidata.org/entity/Q846",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Qatar",
+          "wikidata": "http://www.wikidata.org/entity/Q846",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/State_of_Qatar",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middle_East",
+          "wikidata": "http://www.wikidata.org/entity/Q7204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%B1"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asia",
+          "wikidata": "http://www.wikidata.org/entity/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Algeria",
+          "wikidata": "http://www.wikidata.org/entity/Q262",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indonesia",
+          "wikidata": "http://www.wikidata.org/entity/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iraq",
+          "wikidata": "http://www.wikidata.org/entity/Q796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kuwait",
+          "wikidata": "http://www.wikidata.org/entity/Q817",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Myanmar",
+          "wikidata": "http://www.wikidata.org/entity/Q836",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A3%E3%83%B3%E3%83%9E%E3%83%BC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maldives",
+          "wikidata": "http://www.wikidata.org/entity/Q826",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%96"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oman",
+          "wikidata": "http://www.wikidata.org/entity/Q842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9E%E3%83%BC%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Palestine_(region)",
+          "wikidata": "http://www.wikidata.org/entity/Q23792",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%82%B9%E3%83%81%E3%83%8A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tunisia",
+          "wikidata": "http://www.wikidata.org/entity/Q948",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%8B%E3%82%B8%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Qatar_Stock_Exchange",
+          "wikidata": "http://www.wikidata.org/entity/Q1648198",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Qatar_Exchange"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi_Securities_Exchange",
+          "wikidata": "http://www.wikidata.org/entity/Q4119825"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_Communication_Awards",
+          "wikidata": "http://www.wikidata.org/entity/Q8035556"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

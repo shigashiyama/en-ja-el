@@ -1,0 +1,331 @@
+{
+  "3529": {
+    "doc_info": {
+      "title": "National Integrated Ballistic Information Network",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "国家統合弾道情報ネットワーク、すなわちNIBINは、米国の特殊なコンピュータ・ネットワークです。",
+        "mention_ids": [
+          "M0_0",
+          "M0_3",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "これには、回収された弾道証拠のデジタル画像が含まれています。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "統合弾道識別システム、すなわちIBISのプラットフォーム上で実行されるNIBINにより、米国の法執行官は、弾丸が回収された弾道証拠の一部が、以前に犯罪に使用された銃器からのものであるかどうかを迅速に判断できます。",
+        "mention_ids": [
+          "M0_2",
+          "M0_5",
+          "M0_6",
+          "M1_1"
+        ]
+      },
+      "03": {
+        "text": "NIBINデータベースに情報を入力する前に、満たさなければならない特定の基準があります。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "04": {
+        "text": "たとえば、22口径の銃器やリボルバーの薬莢は通常は入れられません。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "NIBINを使用すると、法執行官は以前の事件で使用された銃器を新しい事件で特定できます。",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "06": {
+        "text": "17件の異なるワシントン州の犯罪現場で、7個の銃器が使用され、2郡で3つの異なる機関が関与しましたが、それらはIBIS/NIBINによって提供された情報を使用して特定されました。",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "国家統合弾道情報ネットワーク",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          35,
+          40
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          24
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          5
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          19
+        ],
+        "text": "IBIS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "統合弾道識別システム",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          28
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          46
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          3
+        ],
+        "text": "17件",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          12
+        ],
+        "text": "ワシントン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          22
+        ],
+        "text": "7個",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          36
+        ],
+        "text": "3つ",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "06",
+        "span": [
+          31,
+          32
+        ],
+        "text": "2",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          55,
+          65
+        ],
+        "text": "IBIS/NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Integrated_Ballistics_Identification_System",
+          "wikidata": "http://www.wikidata.org/entity/Q17081125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Integrated_Ballistic_Identification_System"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q61",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3D.C."
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Integrated_Ballistics_Identification_System",
+          "wikidata": "http://www.wikidata.org/entity/Q17081125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Integrated_Ballistic_Identification_System"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

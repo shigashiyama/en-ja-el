@@ -1,0 +1,578 @@
+{
+  "0113219": {
+    "doc_info": {
+      "title": "113219_Stock_markets_worldwide_fall_dramatically",
+      "url": "http://en.wikinews.org/wiki/Stock_markets_worldwide_fall_dramatically"
+    },
+    "sentences": {
+      "00": {
+        "text": "世界中の株式市場が大幅下落",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "01": {
+        "text": "2008年9月17日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "世界中の株式市場、特に米国の株式市場は、今日大幅に下落しました。",
+        "mention_ids": [
+          "M002",
+          "M068"
+        ]
+      },
+      "03": {
+        "text": "これは、FRBによる大手保険会社AIGの救済など、金融界で進行中の出来事によるものです。",
+        "mention_ids": [
+          "M011",
+          "M013",
+          "M014"
+        ]
+      },
+      "04": {
+        "text": "英国の主要指数であるFTSE100は、値が2.36%下落し、それは118.40ポイントで、4907.20になり5000の節目を下回りました。",
+        "mention_ids": [
+          "M015",
+          "M019",
+          "M021"
+        ]
+      },
+      "05": {
+        "text": "ダウ・ジョーンズはUTC16時08分時点で2.62%下落し、今日の初めからわずかに上昇しました。",
+        "mention_ids": [
+          "M026"
+        ]
+      },
+      "06": {
+        "text": "ダウ・ジョーンズの現在の価値は10769.00ポイントです。",
+        "mention_ids": [
+          "M062"
+        ]
+      },
+      "07": {
+        "text": "ナスダック指数は3.16%下落して2138.14となり、ダックスはUTC16時08分の時点でその日の初めに比べ1.75%下落しました。",
+        "mention_ids": [
+          "M096"
+        ]
+      },
+      "08": {
+        "text": "日本の株価指数である日経平均は、その日を通じて値上がりした数少ない指数の1つでした。",
+        "mention_ids": [
+          "M059",
+          "M069",
+          "M088"
+        ]
+      },
+      "09": {
+        "text": "同指数は最終的に1.2%でしたが、これは同指数が昨日史上最低値を記録したときの、同指数の値の大幅な下落を受けてのことです。",
+        "mention_ids": [
+          "M065",
+          "M066",
+          "M099"
+        ]
+      },
+      "10": {
+        "text": "カゼノーヴの市場アナリスト、ダレン・ウィンダーは、「私は、ここ数日以上、誰かが市場の方向性に幾らか、あるいは非常に自信を持っているとは思わない」と述べました。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "市場における今日の活動の多くは、株式79.9%と引き換えの850億米ドルの融資による、火曜日のアメリカン・インターナショナル・グループ（AIG）の買収に関連したものでした。",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "12": {
+        "text": "AIGには世界中でビジネスに従事する数千の部門があるという事実が、他の銀行との最近の問題に一線を画しています。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "AIGは、世界中の多くの企業の買収や合併を通じて過去数年間に設立され、AIGの株主に多様な収入源を提供し、着実に利益を増やすことができました。",
+        "mention_ids": []
+      },
+      "14": {
+        "text": "さらに、FRBがリーマン・ブラザーズの救済を拒否したことを受けてこの1週間は市場も困難に陥り、バンク・オブ・アメリカ(BoA)とバークレイズPLCが週末の交渉から撤退したことから、リーマン・ブラザーズは月曜日に破産申請を余儀なくされました。",
+        "mention_ids": [
+          "M072",
+          "M075",
+          "M079",
+          "M100"
+        ]
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "世界中の株式市場",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          25,
+          28
+        ],
+        "text": "金融界",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          19
+        ],
+        "text": "大手保険会社AIG",
+        "entity_type": null,
+        "entity_id": "E126"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          7
+        ],
+        "text": "FRB",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M015": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          17
+        ],
+        "text": "英国の主要指数であるFTSE100",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M019": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          20
+        ],
+        "text": "値",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M021": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          32
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M026": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E130"
+      },
+      "M056": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "世界中の株式市場",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M059": {
+        "sentence_id": "08",
+        "span": [
+          10,
+          14
+        ],
+        "text": "日経平均",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M062": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E130"
+      },
+      "M065": {
+        "sentence_id": "09",
+        "span": [
+          20,
+          23
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M066": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M068": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          18
+        ],
+        "text": "米国の株式市場",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M069": {
+        "sentence_id": "08",
+        "span": [
+          16,
+          38
+        ],
+        "text": "その日を通じて値上がりした数少ない指数の1つ",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M072": {
+        "sentence_id": "14",
+        "span": [
+          59,
+          62
+        ],
+        "text": "BoA",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M073": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          2
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M075": {
+        "sentence_id": "14",
+        "span": [
+          38,
+          40
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M079": {
+        "sentence_id": "14",
+        "span": [
+          4,
+          7
+        ],
+        "text": "FRB",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M088": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          7
+        ],
+        "text": "日本の株価指数",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M096": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ナスダック指数",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M099": {
+        "sentence_id": "09",
+        "span": [
+          40,
+          43
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M100": {
+        "sentence_id": "14",
+        "span": [
+          47,
+          58
+        ],
+        "text": "バンク・オブ・アメリカ",
+        "entity_type": null,
+        "entity_id": "E106"
+      }
+    },
+    "entities": {
+      "E104": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005",
+          "M103"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M072",
+          "M100"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Bank_of_America",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bank_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q487907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        }
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M079"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Federal_Reserve_System",
+          "dbpedia:orig": "http://dbpedia.org/resource/Federal_Reserve_System",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Reserve",
+          "wikidata": "http://www.wikidata.org/entity/Q53536",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E6%BA%96%E5%82%99%E5%88%B6%E5%BA%A6"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Market_value",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Market_value",
+          "wikidata": "http://www.wikidata.org/entity/Q1901350",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%82%E5%A0%B4%E4%BE%A1%E5%80%A4"
+        }
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M044"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_Kingdom",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M059",
+          "M065",
+          "M066",
+          "M069",
+          "M088",
+          "M099"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nikkei_225",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikkei_225",
+          "wikidata": "http://www.wikidata.org/entity/Q507338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M002",
+          "M056",
+          "M073",
+          "M075"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Stock_market",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stock_market",
+          "wikidata": "http://www.wikidata.org/entity/Q475000",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%BC%E5%88%B8%E5%B8%82%E5%A0%B4"
+        }
+      },
+      "E118": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M068"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "removed_mention_ids": [
+          "M017",
+          "M016"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/FTSE_100_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q466496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FTSE100%E7%A8%AE%E7%B7%8F%E5%90%88%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Earth",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/American_International_Group",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_International_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q212235",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97"
+        }
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M096"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E130": {
+        "member_mention_ids": [
+          "M026",
+          "M062"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      }
+    }
+  }
+}

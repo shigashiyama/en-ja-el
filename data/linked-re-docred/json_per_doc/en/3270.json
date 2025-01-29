@@ -1,0 +1,664 @@
+{
+  "3270": {
+    "doc_info": {
+      "title": "Telecom Business School",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Institut Mines - Télécom Business School ( formerly known as INT Management from its foundation in 1979 to its rebranding in 2009 then Telecom Business School from 2009 to 2018 ) is a French state - funded Management School , a member of Institut Mines - Telecom , the number one group of engineering and management graduate schools in France .",
+        "text": "Institut Mines - Télécom Business School ( formerly known as INT Management from its foundation in 1979 to its rebranding in 2009 then Telecom Business School from 2009 to 2018 ) is a French state - funded Management School , a member of Institut Mines - Telecom , the number one group of engineering and management graduate schools in France .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M2_1",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is also a member of the Management School Chapter of the Conférence des Grandes Ecoles , of EFMD ( European Foundation for Management Development ) , AACSB ( Association to Advance Collegiate Schools of Business ) and accredited by the Association of MBAs for its Masters in Management Program .",
+        "text": "It is also a member of the Management School Chapter of the Conférence des Grandes Ecoles , of EFMD ( European Foundation for Management Development ) , AACSB ( Association to Advance Collegiate Schools of Business ) and accredited by the Association of MBAs for its Masters in Management Program .",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M11_1",
+          "M12_0",
+          "M13_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The business school was initially founded as the corporate university of Orange Group , first telecom operator in France and formerly a public company .",
+        "text": "The business school was initially founded as the corporate university of Orange Group , first telecom operator in France and formerly a public company .",
+        "mention_ids": [
+          "M14_0",
+          "M7_1"
+        ]
+      },
+      "03": {
+        "orig_text": "It is now fully independent from Orange though many partnerships remain in research , training and other different programmes .",
+        "text": "It is now fully independent from Orange though many partnerships remain in research , training and other different programmes .",
+        "mention_ids": [
+          "M14_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The school offers programmes taught in French or English , from bachelor level to PhD.",
+        "text": "The school offers programmes taught in French or English , from bachelor level to PhD.",
+        "mention_ids": [
+          "M15_0",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Its main programme is the Masters in Management programme ( aka Programme Grande Ecole ) .",
+        "text": "Its main programme is the Masters in Management programme ( aka Programme Grande Ecole ) .",
+        "mention_ids": [
+          "M13_1",
+          "M13_2"
+        ]
+      },
+      "06": {
+        "orig_text": "The graduates from this programme are highly reputed among recruiters in France and abroad for their ability to work with engineers .",
+        "text": "The graduates from this programme are highly reputed among recruiters in France and abroad for their ability to work with engineers .",
+        "mention_ids": [
+          "M7_2"
+        ]
+      },
+      "07": {
+        "orig_text": "It was ranked 59th ( 2017 ) by the Financial Times .",
+        "text": "It was ranked 59th ( 2017 ) by the Financial Times .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          75
+        ],
+        "text": "INT Management",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          135,
+          158
+        ],
+        "text": "Telecom Business School",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          40
+        ],
+        "text": "Institut Mines - Télécom Business School",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          102,
+          148
+        ],
+        "text": "European Foundation for Management Development",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "01",
+        "span": [
+          95,
+          99
+        ],
+        "text": "EFMD",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          161,
+          214
+        ],
+        "text": "Association to Advance Collegiate Schools of Business",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "01",
+        "span": [
+          153,
+          158
+        ],
+        "text": "AACSB",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "01",
+        "span": [
+          239,
+          258
+        ],
+        "text": "Association of MBAs",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "01",
+        "span": [
+          278,
+          296
+        ],
+        "text": "Management Program",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "05",
+        "span": [
+          64,
+          86
+        ],
+        "text": "Programme Grande Ecole",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          57
+        ],
+        "text": "Management programme",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          73,
+          85
+        ],
+        "text": "Orange Group",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          39
+        ],
+        "text": "Orange",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          56
+        ],
+        "text": "English",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          21,
+          25
+        ],
+        "text": "2017",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          35,
+          50
+        ],
+        "text": "Financial Times",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          103
+        ],
+        "text": "1979",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          125,
+          129
+        ],
+        "text": "2009",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          164,
+          168
+        ],
+        "text": "2009",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          172,
+          176
+        ],
+        "text": "2018",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          184,
+          190
+        ],
+        "text": "French",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          45
+        ],
+        "text": "French",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          206,
+          223
+        ],
+        "text": "Management School",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          238,
+          262
+        ],
+        "text": "Institut Mines - Telecom",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          336,
+          342
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          114,
+          120
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "06",
+        "span": [
+          73,
+          79
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          52
+        ],
+        "text": "Management School Chapter",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          60,
+          89
+        ],
+        "text": "Conférence des Grandes Ecoles",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Telecom_Business_School",
+          "wikidata": "http://www.wikidata.org/entity/Q3546588"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Business_school",
+          "wikidata": "http://www.wikidata.org/entity/Q1143635",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Institut_Mines-T%C3%A9l%C3%A9com",
+          "wikidata": "http://www.wikidata.org/entity/Q7885718",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Institut_Mines-Telecom"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Conf%C3%A9rence_des_Grandes_%C3%A9coles",
+          "wikidata": "http://www.wikidata.org/entity/Q2992903",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Conférence_des_grandes_écoles_(CGE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Foundation_for_Management_Development",
+          "wikidata": "http://www.wikidata.org/entity/Q1376622",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/EFMD",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E7%B5%8C%E5%96%B6%E9%96%8B%E7%99%BA%E8%B2%A1%E5%9B%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business",
+          "wikidata": "http://www.wikidata.org/entity/Q744144",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/AACSB",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Association_to_Advance_Collegiate_Schools_of_Business"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Association_of_MBAs",
+          "wikidata": "http://www.wikidata.org/entity/Q392156",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MBA%E5%8D%94%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/English_people",
+          "wikidata": "http://www.wikidata.org/entity/Q42406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Financial_Times",
+          "wikidata": "http://www.wikidata.org/entity/Q183399",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

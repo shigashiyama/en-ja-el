@@ -1,0 +1,652 @@
+{
+  "3463": {
+    "doc_info": {
+      "title": "Portugal no coração",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『ポルトガルのコラソン』(『心の中のポルトガル』)は、オス・アミーゴスによってポルトガル語で演奏されたユーロビジョン・ソング・コンテスト1977のポルトガル語エントリーでした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "この曲はポルトガルそのものを讃えるバラードです。",
+        "mention_ids": [
+          "M2_4"
+        ]
+      },
+      "02": {
+        "text": "この曲は自由、兄弟愛、そして希望についてのものです。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "歌詞の詩の多くは、48年間続いたエスタド・ノーヴォ独裁政権の終焉と、ポルトガルの人々がその政権によってアフリカの植民地で戦うことを強制されていた戦争の終結を称賛するものです。",
+        "mention_ids": [
+          "M2_2",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "これは、ポルトガルの人々から、かつて戦った植民地の人々への愛の賛歌でもあります。",
+        "mention_ids": [
+          "M2_3"
+        ]
+      },
+      "05": {
+        "text": "この曲は、ルクセンブルクの■■■■■■■■■の『フレール・ジャック』に続き、英国のリンジー・デ・ポールと■■■■■■■の『ロック・ボトム』に先立って、その夜8番目に演奏されました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "投票終了時点で18ポイントを獲得し、18の分野で14位になりました。",
+        "mention_ids": [
+          "M16_0",
+          "M16_1"
+        ]
+      },
+      "07": {
+        "text": "1978年コンテストのポルトガル代表として、ジェミニが「ダイ・リ・ドゥ」とともに引き継ぎました。",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M2_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          11
+        ],
+        "text": "ポルトガルのコラソン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          22
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          33
+        ],
+        "text": "フレール・ジャック",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          40
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          51
+        ],
+        "text": "リンジー・デ・ポール",
+        "entity_type": "PER",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          52,
+          59
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          68
+        ],
+        "text": "ロック・ボトム",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          9
+        ],
+        "text": "18",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M16_1": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          20
+        ],
+        "text": "18",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1978年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          22,
+          26
+        ],
+        "text": "ジェミニ",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          35
+        ],
+        "text": "ダイ・リ・ドゥ",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          23
+        ],
+        "text": "心の中のポルトガル",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ポルトガル",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          73,
+          79
+        ],
+        "text": "ポルトガル語",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          39
+        ],
+        "text": "ポルトガル",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          9
+        ],
+        "text": "ポルトガル",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "ポルトガル",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          51,
+          72
+        ],
+        "text": "ユーロビジョン・ソング・コンテスト1977",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          45
+        ],
+        "text": "ポルトガル語",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          35
+        ],
+        "text": "オス・アミーゴス",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          16,
+          25
+        ],
+        "text": "エスタド・ノーヴォ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          13
+        ],
+        "text": "48年間",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          51,
+          55
+        ],
+        "text": "アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          12
+        ],
+        "text": "ルクセンブルク",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_entries_(1956%E2%80%932003)",
+          "wikidata": "http://www.wikidata.org/entity/Q106689101",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Portugal_no_coração"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_entries_(1956%E2%80%932003)",
+          "wikidata": "http://www.wikidata.org/entity/Q106689101",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Portugal_no_coração"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portugal",
+          "wikidata": "http://www.wikidata.org/entity/Q45",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1977",
+          "wikidata": "http://www.wikidata.org/entity/Q211494",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%881977"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portuguese_language",
+          "wikidata": "http://www.wikidata.org/entity/Q5146",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Os_Amigos",
+          "wikidata": "http://www.wikidata.org/entity/Q2032470"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)",
+          "wikidata": "http://www.wikidata.org/entity/Q824489",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BB%E3%83%8E%E3%83%B4%E3%82%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portuguese_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q200464",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E6%B5%B7%E4%B8%8A%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luxembourg",
+          "wikidata": "http://www.wikidata.org/entity/Q32",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anne-Marie_B.",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Anne-Marie_B."
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_entries_(1956%E2%80%932003)",
+          "wikidata": "http://www.wikidata.org/entity/Q106689101",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Frère_Jacques_(Anne-Marie_Besse_song)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lynsey_de_Paul",
+          "wikidata": "http://www.wikidata.org/entity/Q463221",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AB"
+        },
+        "date_of_death": "2014-10-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michael_Moran_(music_producer)",
+          "wikidata": "http://www.wikidata.org/entity/Q1933397",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Mike_Moran_(music_producer)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rock_Bottom_(Lynsey_de_Paul_and_Mike_Moran_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q7354300"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0",
+          "M16_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gemini_(Portuguese_band)",
+          "wikidata": "http://www.wikidata.org/entity/Q1501098"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Eurovision_Song_Contest_entries_(1956%E2%80%932003)",
+          "wikidata": "http://www.wikidata.org/entity/Q106689101",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dai_li_dou"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

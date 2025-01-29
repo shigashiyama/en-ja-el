@@ -1,0 +1,469 @@
+{
+  "3450": {
+    "doc_info": {
+      "title": "History of Medicine Society",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Founded by Sir William Osler in 1912 , the History of Medicine Society ( formally ' section ' ) , at the Royal Society of Medicine ( RSM ) , London , is one of the oldest History of Medicine societies in the world and is one of the four founder committees of the British Society for the History of Medicine .",
+        "text": "Founded by Sir William Osler in 1912 , the History of Medicine Society ( formally ' section ' ) , at the Royal Society of Medicine ( RSM ) , London , is one of the oldest History of Medicine societies in the world and is one of the four founder committees of the British Society for the History of Medicine .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M3_2",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It covers every medical speciality and with the support from numerous notable physicians and surgeons of the time , including Sir Francis Champneys , Sir Ronald Ross and others , the first meeting on 20 November 1912 had 160 attendees .",
+        "text": "It covers every medical speciality and with the support from numerous notable physicians and surgeons of the time , including Sir Francis Champneys , Sir Ronald Ross and others , the first meeting on 20 November 1912 had 160 attendees .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Subsequently , the society 's events became regular and it continues to hold regular events at the RSM in London .",
+        "text": "Subsequently , the society 's events became regular and it continues to hold regular events at the RSM in London .",
+        "mention_ids": [
+          "M3_1",
+          "M4_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Every year , undergraduate prizes are awarded in memory of the late pathologist Norah Schuster .",
+        "text": "Every year , undergraduate prizes are awarded in memory of the late pathologist Norah Schuster .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Eponymous lectures are also held , including the C.E Wallis lecture every 5 years .",
+        "text": "Eponymous lectures are also held , including the C.E Wallis lecture every 5 years .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          28
+        ],
+        "text": "William Osler",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          200,
+          216
+        ],
+        "text": "20 November 1912",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          221,
+          224
+        ],
+        "text": "160",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          80,
+          94
+        ],
+        "text": "Norah Schuster",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          59
+        ],
+        "text": "C.E Wallis",
+        "entity_type": "PER",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          74,
+          81
+        ],
+        "text": "5 years",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          36
+        ],
+        "text": "1912",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          70
+        ],
+        "text": "History of Medicine Society",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          105,
+          130
+        ],
+        "text": "Royal Society of Medicine",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          99,
+          102
+        ],
+        "text": "RSM",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "00",
+        "span": [
+          133,
+          136
+        ],
+        "text": "RSM",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          141,
+          147
+        ],
+        "text": "London",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          106,
+          112
+        ],
+        "text": "London",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          171,
+          190
+        ],
+        "text": "History of Medicine",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          232,
+          236
+        ],
+        "text": "four",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          263,
+          306
+        ],
+        "text": "British Society for the History of Medicine",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          130,
+          147
+        ],
+        "text": "Francis Champneys",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          154,
+          165
+        ],
+        "text": "Ronald Ross",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_Osler",
+          "wikidata": "http://www.wikidata.org/entity/Q369668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%A9%E3%83%BC"
+        },
+        "date_of_death": "1919-12-29T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/History_of_Medicine_Society",
+          "wikidata": "http://www.wikidata.org/entity/Q37461404"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Royal_Society_of_Medicine",
+          "wikidata": "http://www.wikidata.org/entity/Q3446034"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/History_of_medicine",
+          "wikidata": "http://www.wikidata.org/entity/Q380274",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%BB%E5%AD%A6%E5%8F%B2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Society_for_the_History_of_Medicine",
+          "wikidata": "http://www.wikidata.org/entity/Q24993998"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Francis_Champneys",
+          "wikidata": "http://www.wikidata.org/entity/Q7526686"
+        },
+        "date_of_death": "1930-07-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ronald_Ross",
+          "wikidata": "http://www.wikidata.org/entity/Q102034",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%AD%E3%82%B9"
+        },
+        "date_of_death": "1932-09-16T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Norah_Schuster",
+          "wikidata": "http://www.wikidata.org/entity/Q48425991"
+        },
+        "date_of_death": "1991-03-14T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charles_Edward_Wallis",
+          "wikidata": "http://www.wikidata.org/entity/Q46583465"
+        },
+        "date_of_death": "1927-01-04T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

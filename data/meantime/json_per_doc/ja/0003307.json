@@ -1,0 +1,509 @@
+{
+  "0003307": {
+    "doc_info": {
+      "title": "3307_Airbus_launches_world_largest_passenger_plane",
+      "url": "http://en.wikinews.org/wiki/Airbus_launches_world's_largest_passenger_plane"
+    },
+    "sentences": {
+      "00": {
+        "text": "エアバス、世界最大の旅客機を就航",
+        "mention_ids": [
+          "M006",
+          "M009"
+        ]
+      },
+      "01": {
+        "text": "2005 年 1 月 18 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ヨーロッパの政治指導者数名と5,000人のVIPゲストが出席した式典で、エアバスはオール・エコノミー・クラス最大840人を（ボーイング747の場合は550名）、または典型的な3クラス混合レイアウトの場合は555名を輸送できる二階建て航空機A380の計画を発表しました。",
+        "mention_ids": [
+          "M003",
+          "M019",
+          "M020"
+        ]
+      },
+      "03": {
+        "text": "新しい航空機は、ライバルであるボーイングの747から世界最大のタイトルを奪います。",
+        "mention_ids": [
+          "M008",
+          "M010"
+        ]
+      },
+      "04": {
+        "text": "ボーイングの今後の新しい設計である7e7は、A380と直接競合しようとするものではなく、200～250席でより効率的で快適な飛行を目的としています。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M018"
+        ]
+      },
+      "05": {
+        "text": "エアバスの最高経営責任者ノエル・フォーギアドは、彼は航空機の販売がプロジェクトの損益分岐点に必要な250機を超えると予想していると述べました。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "06": {
+        "text": "現在までに、航空機の確認済の注文が149機受領されました。",
+        "mention_ids": [
+          "M097"
+        ]
+      },
+      "07": {
+        "text": "エアバスは販売数が700機を超えると期待しています。",
+        "mention_ids": [
+          "M093"
+        ]
+      },
+      "08": {
+        "text": "同社は現在、中国での販売の可能性について中国と協議中です。",
+        "mention_ids": [
+          "M090"
+        ]
+      },
+      "09": {
+        "text": "航空機の最初の試験飛行は早ければ3月にも行われる可能性があり、最初の商用飛行は2006年半ばにシンガポールのチャンギ空港から離陸する予定です。",
+        "mention_ids": [
+          "M095"
+        ]
+      },
+      "10": {
+        "text": "英国と米国の航空会社ヴァージン・アトランティック航空は、これらの飛行機を6機購入し、飛行機に座席だけでなくジムやバーを取り付ける予定です。",
+        "mention_ids": [
+          "M106",
+          "M153"
+        ]
+      }
+    },
+    "mentions": {
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          123
+        ],
+        "text": "オール・エコノミー・クラス最大840人を（ボーイング747の場合は550名）、または典型的な3クラス混合レイアウトの場合は555名を輸送できる二階建て航空機A380",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M006": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M008": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "新しい航空機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M009": {
+        "sentence_id": "00",
+        "span": [
+          5,
+          13
+        ],
+        "text": "世界最大の旅客機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          24
+        ],
+        "text": "ボーイングの747",
+        "entity_type": null,
+        "entity_id": "E142"
+      },
+      "M012": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          26
+        ],
+        "text": "A380",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M013": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          52
+        ],
+        "text": "200～250席",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M015": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          22
+        ],
+        "text": "エアバスの最高経営責任者ノエル・フォーギアド",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M016": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          25
+        ],
+        "text": "彼",
+        "entity_type": null,
+        "entity_id": "E133"
+      },
+      "M017": {
+        "sentence_id": "05",
+        "span": [
+          26,
+          29
+        ],
+        "text": "航空機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          20
+        ],
+        "text": "ボーイングの今後の新しい設計である7e7",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M019": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          27
+        ],
+        "text": "ヨーロッパの政治指導者数名と5,000人のVIPゲスト",
+        "entity_type": null,
+        "entity_id": "E050"
+      },
+      "M020": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          40
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M090": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M093": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E144"
+      },
+      "M095": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          3
+        ],
+        "text": "航空機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M097": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          9
+        ],
+        "text": "航空機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M106": {
+        "sentence_id": "10",
+        "span": [
+          42,
+          45
+        ],
+        "text": "飛行機",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M153": {
+        "sentence_id": "10",
+        "span": [
+          28,
+          35
+        ],
+        "text": "これらの飛行機",
+        "entity_type": null,
+        "entity_id": "E147"
+      }
+    },
+    "entities": {
+      "E050": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E056": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E085": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M086"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E124": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M083"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E125": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007",
+          "M005",
+          "M088"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E133": {
+        "member_mention_ids": [
+          "M015",
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M081",
+          "M082"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/No%C3%ABl_Forgeard"
+        }
+      },
+      "E139": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004",
+          "M011"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing",
+          "wikidata": "http://www.wikidata.org/entity/Q66",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0"
+        }
+      },
+      "E142": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "removed_mention_ids": [
+          "M021"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing_747",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing_747",
+          "wikidata": "http://www.wikidata.org/entity/Q179",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0747"
+        }
+      },
+      "E143": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M122",
+          "M080"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing_787_Dreamliner",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+          "wikidata": "http://www.wikidata.org/entity/Q6428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0787"
+        }
+      },
+      "E144": {
+        "member_mention_ids": [
+          "M006",
+          "M020",
+          "M090",
+          "M093"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E145": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M003",
+          "M008",
+          "M009",
+          "M012",
+          "M017",
+          "M095",
+          "M097",
+          "M106",
+          "M153"
+        ],
+        "removed_mention_ids": [
+          "M087"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus_A380",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus_A380",
+          "wikidata": "http://www.wikidata.org/entity/Q5830",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9A380"
+        }
+      },
+      "E150": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M110"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E151": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

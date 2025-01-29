@@ -1,0 +1,783 @@
+{
+  "3370": {
+    "doc_info": {
+      "title": "Fedor Ozep",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "フョードル・オツェプまたはフョードル・オツェップ(、フョードル・アレクサンドロヴィチ・オツェプ;1895年2月9日–1949年6月20日)はロシア系 - アメリカ人の映画監督兼脚本家で、モスクワ生まれでした。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "映画と映画理論に関する初期の重要な作家である彼は、メズラッポンフィルム - ルーシ会社で劇作家を務め、V.I.などの監督のために数多くの映画を執筆しました。",
+        "mention_ids": [
+          "M6_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "プドフキンとヤコフ・プロタザノフは、1926年に監督に転向しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ドイツでの『生ける死体』の制作中、彼は残ることを決意し、1930年代の間ヨーロッパ中で活動し、『殺人者ディミトリ・カラマーゾフ』や『アモック』などの映画で国際的に高い評価を得ています。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "04": {
+        "text": "第二次世界大戦の勃発により、彼はハリウッドに移りましたが、そこでキャリアを確立することができず、1本の映画を監督しただけでした。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "05": {
+        "text": "彼の最後の2本の映画はカナダで制作されました。",
+        "mention_ids": [
+          "M22_0",
+          "M23_0"
+        ]
+      },
+      "06": {
+        "text": "彼は1949年にロサンゼルスで心臓発作により亡くなりました。",
+        "mention_ids": [
+          "M24_0",
+          "M25_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "フョードル・オツェプ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          24
+        ],
+        "text": "フョードル・オツェップ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          47
+        ],
+        "text": "フョードル・アレクサンドロヴィチ・オツェプ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          16
+        ],
+        "text": "ヤコフ・プロタザノフ",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          23
+        ],
+        "text": "1926年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          11
+        ],
+        "text": "生ける死体",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          41
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          34
+        ],
+        "text": "1930年代",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          63
+        ],
+        "text": "殺人者ディミトリ・カラマーゾフ",
+        "entity_type": "PER",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          66,
+          70
+        ],
+        "text": "アモック",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          48,
+          57
+        ],
+        "text": "1895年2月9日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          21
+        ],
+        "text": "ハリウッド",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "04",
+        "span": [
+          48,
+          50
+        ],
+        "text": "1本",
+        "entity_type": "NUM",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          7
+        ],
+        "text": "2本",
+        "entity_type": "NUM",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          8,
+          14
+        ],
+        "text": "ロサンゼルス",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          7
+        ],
+        "text": "1949年",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          68
+        ],
+        "text": "1949年6月20日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          74
+        ],
+        "text": "ロシア系",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          77,
+          82
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          93,
+          97
+        ],
+        "text": "モスクワ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          41
+        ],
+        "text": "メズラッポンフィルム - ルーシ",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          51,
+          55
+        ],
+        "text": "V.I.",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "プドフキン",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "removed_mention_ids": [
+          "M0_3",
+          "M0_4",
+          "M0_5"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fedor_Ozep",
+          "wikidata": "http://www.wikidata.org/entity/Q384694",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A7%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%84%E3%82%A7%E3%83%97"
+        },
+        "date_of_death": "1949-06-20T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "removed_mention_ids": [
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "removed_mention_ids": [
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "removed_mention_ids": [
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_language",
+          "wikidata": "http://www.wikidata.org/entity/Q7737",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "removed_mention_ids": [
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "removed_mention_ids": [
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+          "wikidata": "http://www.wikidata.org/entity/Q649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mezhrabpomfilm-Rus",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Mezhrabpomfilm-Rus"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mezhrabpomfilm-Rus",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Mezhrabpomfilm-Rus"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vsevolod_Pudovkin",
+          "wikidata": "http://www.wikidata.org/entity/Q55195",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/V.I._Pudovkin",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%BB%E3%83%B4%E3%82%A9%E3%83%AD%E3%83%89%E3%83%BB%E3%83%97%E3%83%89%E3%83%95%E3%82%AD%E3%83%B3"
+        },
+        "date_of_death": "1953-06-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "removed_mention_ids": [
+          "M9_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vsevolod_Pudovkin",
+          "wikidata": "http://www.wikidata.org/entity/Q55195",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/V.I._Pudovkin",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%BB%E3%83%B4%E3%82%A9%E3%83%AD%E3%83%89%E3%83%BB%E3%83%97%E3%83%89%E3%83%95%E3%82%AD%E3%83%B3"
+        },
+        "date_of_death": "1953-06-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "removed_mention_ids": [
+          "M10_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yakov_Protazanov",
+          "wikidata": "http://www.wikidata.org/entity/Q503219",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%BC%E3%82%B3%E3%83%95%E3%83%BB%E3%83%97%E3%83%AD%E3%82%BF%E3%82%B6%E3%83%8E%E3%83%95"
+        },
+        "date_of_death": "1945-08-08T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "removed_mention_ids": [
+          "M11_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "removed_mention_ids": [
+          "M13_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "removed_mention_ids": [
+          "M14_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Murderer_Dimitri_Karamazov",
+          "wikidata": "http://www.wikidata.org/entity/Q1195947",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%9E%E3%82%BE%E3%83%95%E3%81%AE%E5%85%84%E5%BC%9F_(1931%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "removed_mention_ids": [
+          "M18_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amok_(1934_film)",
+          "wikidata": "http://www.wikidata.org/entity/Q4747481"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "removed_mention_ids": [
+          "M19_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "removed_mention_ids": [
+          "M20_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles",
+          "wikidata": "http://www.wikidata.org/entity/Q34006",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "removed_mention_ids": [
+          "M23_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "removed_mention_ids": [
+          "M24_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles",
+          "wikidata": "http://www.wikidata.org/entity/Q65",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B5%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "removed_mention_ids": [
+          "M25_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

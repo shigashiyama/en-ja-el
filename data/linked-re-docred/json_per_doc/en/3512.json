@@ -1,0 +1,516 @@
+{
+  "3512": {
+    "doc_info": {
+      "title": "Alfred and Plantagenet",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Alfred and Plantagenet is a township in eastern Ontario , Canada , in the United Counties of Prescott and Russell .",
+        "text": "Alfred and Plantagenet is a township in eastern Ontario , Canada , in the United Counties of Prescott and Russell .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Located approximately from downtown Ottawa at the confluence of the Ottawa River and the South Nation River .",
+        "text": "Located approximately from downtown Ottawa at the confluence of the Ottawa River and the South Nation River .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The township was formed on January 1 , 1997 , through the amalgamation of Alfred Township , Alfred Village , North Plantagenet Township , and Plantagenet Village .",
+        "text": "The township was formed on January 1 , 1997 , through the amalgamation of Alfred Township , Alfred Village , North Plantagenet Township , and Plantagenet Village .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Near the town of Alfred , the Ontario Ministry of Natural Resources has designated the Alfred Bog as \" a provincially significant wetland and an Area of Natural and Scientific Interest . \"",
+        "text": "Near the town of Alfred , the Ontario Ministry of Natural Resources has designated the Alfred Bog as \" a provincially significant wetland and an Area of Natural and Scientific Interest . \"",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Species of interest include the palm warbler , northern pitcher - plant , pink lady's - slipper , cottongrass , bog elfin and bog copper butterflies , and ebony boghaunter dragonfly .",
+        "text": "Species of interest include the palm warbler , northern pitcher - plant , pink lady's - slipper , cottongrass , bog elfin and bog copper butterflies , and ebony boghaunter dragonfly .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "It also hosts one of the most southerly herds of moose .",
+        "text": "It also hosts one of the most southerly herds of moose .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The bog is open to the public with a boardwalk for nature walks .",
+        "text": "The bog is open to the public with a boardwalk for nature walks .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          22
+        ],
+        "text": "Alfred and Plantagenet",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          89
+        ],
+        "text": "Alfred Township",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          92,
+          106
+        ],
+        "text": "Alfred Village",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          109,
+          135
+        ],
+        "text": "North Plantagenet Township",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          142,
+          161
+        ],
+        "text": "Plantagenet Village",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          23
+        ],
+        "text": "Alfred",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          67
+        ],
+        "text": "Ontario Ministry of Natural Resources",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          87,
+          97
+        ],
+        "text": "Alfred Bog",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          145,
+          184
+        ],
+        "text": "Area of Natural and Scientific Interest",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          48,
+          55
+        ],
+        "text": "Ontario",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          64
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          89
+        ],
+        "text": "United Counties",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          93,
+          101
+        ],
+        "text": "Prescott",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          106,
+          113
+        ],
+        "text": "Russell",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          42
+        ],
+        "text": "Ottawa",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          68,
+          80
+        ],
+        "text": "Ottawa River",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          89,
+          107
+        ],
+        "text": "South Nation River",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          27,
+          43
+        ],
+        "text": "January 1 , 1997",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_and_Plantagenet",
+          "wikidata": "http://www.wikidata.org/entity/Q2835561"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q1904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Counties_of_Prescott_and_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q1815593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E9%80%A3%E5%90%88%E9%83%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa",
+          "wikidata": "http://www.wikidata.org/entity/Q1930",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa_River",
+          "wikidata": "http://www.wikidata.org/entity/Q60974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Nation_River",
+          "wikidata": "http://www.wikidata.org/entity/Q2304550"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_and_Plantagenet",
+          "wikidata": "http://www.wikidata.org/entity/Q2835561"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alfred_Bog",
+          "wikidata": "http://www.wikidata.org/entity/Q20155411"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Area_of_Natural_and_Scientific_Interest",
+          "wikidata": "http://www.wikidata.org/entity/Q4788667"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

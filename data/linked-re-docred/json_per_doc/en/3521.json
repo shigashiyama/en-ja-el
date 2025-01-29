@@ -1,0 +1,889 @@
+{
+  "3521": {
+    "doc_info": {
+      "title": "New Haven Harbor",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "New Haven Harbor is an inlet on the north side of Long Island Sound in the state of Connecticut in the United States .",
+        "text": "New Haven Harbor is an inlet on the north side of Long Island Sound in the state of Connecticut in the United States .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The harbor area is an inlet carved by the retreat of the glaciers during the last ice age approximately 13,000 years ago .",
+        "text": "The harbor area is an inlet carved by the retreat of the glaciers during the last ice age approximately 13,000 years ago .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The city of New Haven and its neighborhoods of City Point , Long Wharf , The Annex , and East Shore lie on the northern and eastern sides .",
+        "text": "The city of New Haven and its neighborhoods of City Point , Long Wharf , The Annex , and East Shore lie on the northern and eastern sides .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "West Haven is on the west .",
+        "text": "West Haven is on the west .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The Quinnipiac and Mill rivers converge and empty into the inlet on its north end .",
+        "text": "The Quinnipiac and Mill rivers converge and empty into the inlet on its north end .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The Pearl Harbor Memorial Bridge crosses here .",
+        "text": "The Pearl Harbor Memorial Bridge crosses here .",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The West River empties into the western end of the harbor ( also known as West Haven Harbor ) .",
+        "text": "The West River empties into the western end of the harbor ( also known as West Haven Harbor ) .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The harbor is protected from Long Island Sound by a peninsula on its eastern side , once known as \" Little Necke \" but now called Lighthouse Point , because of the lighthouse that was constructed on its tip in 1805 .",
+        "text": "The harbor is protected from Long Island Sound by a peninsula on its eastern side , once known as \" Little Necke \" but now called Lighthouse Point , because of the lighthouse that was constructed on its tip in 1805 .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M1_1"
+        ]
+      },
+      "08": {
+        "orig_text": "The original lighthouse was replaced in 1845 by the current structure , called the Five Mile Point Lighthouse .",
+        "text": "The original lighthouse was replaced in 1845 by the current structure , called the Five Mile Point Lighthouse .",
+        "mention_ids": [
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "09": {
+        "orig_text": "This lighthouse was replaced for navigation in 1877 by the offshore Southwest Ledge Light .",
+        "text": "This lighthouse was replaced for navigation in 1877 by the offshore Southwest Ledge Light .",
+        "mention_ids": [
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "10": {
+        "orig_text": "Sperry Lighthouse ( 1899 – 1933 ) also served the harbor .",
+        "text": "Sperry Lighthouse ( 1899 – 1933 ) also served the harbor .",
+        "mention_ids": [
+          "M23_0",
+          "M24_0",
+          "M25_0"
+        ]
+      },
+      "11": {
+        "orig_text": "In July 1779 , during the American Revolutionary War , the peninsula was the scene of an amphibious landing by British troops .",
+        "text": "In July 1779 , during the American Revolutionary War , the peninsula was the scene of an amphibious landing by British troops .",
+        "mention_ids": [
+          "M26_0",
+          "M27_0",
+          "M28_0"
+        ]
+      },
+      "12": {
+        "orig_text": "The harbor is circumnavigable via the partially completed \" Harborside Greenway \" bicycle and pedestrian trail , which is part of the East Coast Greenway system .",
+        "text": "The harbor is circumnavigable via the partially completed \" Harborside Greenway \" bicycle and pedestrian trail , which is part of the East Coast Greenway system .",
+        "mention_ids": [
+          "M29_0",
+          "M30_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "New Haven Harbor",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          10
+        ],
+        "text": "West Haven",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          14
+        ],
+        "text": "Quinnipiac",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          23
+        ],
+        "text": "Mill",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          32
+        ],
+        "text": "Pearl Harbor Memorial Bridge",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          4,
+          14
+        ],
+        "text": "West River",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          74,
+          91
+        ],
+        "text": "West Haven Harbor",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          100,
+          112
+        ],
+        "text": "Little Necke",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          130,
+          146
+        ],
+        "text": "Lighthouse Point",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          210,
+          214
+        ],
+        "text": "1805",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          40,
+          44
+        ],
+        "text": "1845",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          67
+        ],
+        "text": "Long Island Sound",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          29,
+          46
+        ],
+        "text": "Long Island Sound",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          83,
+          109
+        ],
+        "text": "Five Mile Point Lighthouse",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "09",
+        "span": [
+          47,
+          51
+        ],
+        "text": "1877",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "09",
+        "span": [
+          68,
+          89
+        ],
+        "text": "Southwest Ledge Light",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          17
+        ],
+        "text": "Sperry Lighthouse",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "10",
+        "span": [
+          20,
+          24
+        ],
+        "text": "1899",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "10",
+        "span": [
+          27,
+          31
+        ],
+        "text": "1933",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "11",
+        "span": [
+          3,
+          12
+        ],
+        "text": "July 1779",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "11",
+        "span": [
+          26,
+          52
+        ],
+        "text": "American Revolutionary War",
+        "entity_type": "MISC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "11",
+        "span": [
+          111,
+          118
+        ],
+        "text": "British",
+        "entity_type": "LOC",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "12",
+        "span": [
+          60,
+          79
+        ],
+        "text": "Harborside Greenway",
+        "entity_type": "LOC",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          84,
+          95
+        ],
+        "text": "Connecticut",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "12",
+        "span": [
+          134,
+          153
+        ],
+        "text": "East Coast Greenway",
+        "entity_type": "LOC",
+        "entity_id": "E030"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          116
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          104,
+          116
+        ],
+        "text": "13,000 years",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          21
+        ],
+        "text": "New Haven",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          47,
+          57
+        ],
+        "text": "City Point",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          70
+        ],
+        "text": "Long Wharf",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          73,
+          82
+        ],
+        "text": "The Annex",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          89,
+          99
+        ],
+        "text": "East Shore",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven_Harbor",
+          "wikidata": "http://www.wikidata.org/entity/Q7008521"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Island_Sound",
+          "wikidata": "http://www.wikidata.org/entity/Q867460",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E6%B9%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q779",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q49145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_Point,_New_Haven",
+          "wikidata": "http://www.wikidata.org/entity/Q5123371"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Wharf_(New_Haven)",
+          "wikidata": "http://www.wikidata.org/entity/Q6673403"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Annex_(New_Haven)",
+          "wikidata": "http://www.wikidata.org/entity/Q7713852"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Shore,_New_Haven",
+          "wikidata": "http://www.wikidata.org/entity/Q5329347"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/West_Haven,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q54219",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quinnipiac_River",
+          "wikidata": "http://www.wikidata.org/entity/Q3414549"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mill_River_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q6858391"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor_Memorial_Bridge_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q7158091"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/West_River_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q7986366"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Five_Mile_Point_Light",
+          "wikidata": "http://www.wikidata.org/entity/Q3073110"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Southwest_Ledge_Light",
+          "wikidata": "http://www.wikidata.org/entity/Q7571308"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+          "wikidata": "http://www.wikidata.org/entity/Q40949",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%8B%AC%E7%AB%8B%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Great_Britain",
+          "wikidata": "http://www.wikidata.org/entity/Q23666",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%96%E3%83%AA%E3%83%86%E3%83%B3%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Coast_Greenway",
+          "wikidata": "http://www.wikidata.org/entity/Q5328119",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

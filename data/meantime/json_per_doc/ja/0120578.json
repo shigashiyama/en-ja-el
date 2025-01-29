@@ -1,0 +1,449 @@
+{
+  "0120578": {
+    "doc_info": {
+      "title": "120578_Automobile_sales_in_the_United_States_down_sharply",
+      "url": "http://en.wikinews.org/wiki/Automobile_sales_in_the_United_States_down_sharply"
+    },
+    "sentences": {
+      "00": {
+        "text": "米国における自動車の売上高が大幅に減少",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "01": {
+        "text": "2009年2月3日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "メーカーがその1月の売上を報告したところによると、米国における自動車の販売は、1月に前年同月と比較して35%も減少しました。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "03": {
+        "text": "フォード・モーター・カンパニーの先月の売上高は前年比42%減少しました。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "04": {
+        "text": "ゼネラルモーターズは49%の減少を報告しました。",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "05": {
+        "text": "クライスラーは、国内メーカーの中で最も大きな打撃を受け、55%急落しました。",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "06": {
+        "text": "売上高の減少は米国メーカーだけに限られていません。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "日本の自動車メーカー、トヨタは米国での販売が前年比32%減少、日産自動車は30%減少、ホンダの販売は28%減少したと報告しました。",
+        "mention_ids": [
+          "M068",
+          "M070"
+        ]
+      },
+      "08": {
+        "text": "スバルと韓国の現代自動車は、販売の増加を報告した数少ない自動車企業のうちの2社でした。",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "09": {
+        "text": "それらは、それぞれ8パーセントと14パーセントの増加を発表しました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "年ベースで見ると、全体の売上高も大幅に減少しています。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "米国の業界全体の自動車販売台数は昨年18%減少し、1,320万台となりました。",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "12": {
+        "text": "GMは本日、同社がその支出を削減するために、米国内の22,000人の従業員に自主的な早期退職割増金を提案すると発表しました。",
+        "mention_ids": [
+          "M061",
+          "M067",
+          "M072"
+        ]
+      },
+      "13": {
+        "text": "先月、GMとクライスラーは、それらが差し迫った破産を警告した後、政府から174億米ドル相当の融資を受けました。",
+        "mention_ids": [
+          "M055",
+          "M063"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          34
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          27
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "メーカー",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          7
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          15
+        ],
+        "text": "フォード・モーター・カンパニー",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M022": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M026": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "クライスラー",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M027": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          14
+        ],
+        "text": "国内メーカー",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M043": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          9
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M044": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M049": {
+        "sentence_id": "08",
+        "span": [
+          28,
+          31
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M053": {
+        "sentence_id": "11",
+        "span": [
+          8,
+          11
+        ],
+        "text": "自動車",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M055": {
+        "sentence_id": "13",
+        "span": [
+          3,
+          12
+        ],
+        "text": "GMとクライスラー",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M061": {
+        "sentence_id": "12",
+        "span": [
+          9,
+          11
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M063": {
+        "sentence_id": "13",
+        "span": [
+          14,
+          17
+        ],
+        "text": "それら",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M067": {
+        "sentence_id": "12",
+        "span": [
+          6,
+          8
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M068": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          14
+        ],
+        "text": "日本の自動車メーカー、トヨタ",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M070": {
+        "sentence_id": "07",
+        "span": [
+          31,
+          36
+        ],
+        "text": "日産自動車",
+        "entity_type": null,
+        "entity_id": "E082"
+      },
+      "M072": {
+        "sentence_id": "12",
+        "span": [
+          0,
+          2
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E091"
+      }
+    },
+    "entities": {
+      "E077": {
+        "member_mention_ids": [
+          "M002",
+          "M044"
+        ],
+        "removed_mention_ids": [
+          "M038"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E079": {
+        "member_mention_ids": [
+          "M055",
+          "M063"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E080": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E082": {
+        "member_mention_ids": [
+          "M070"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nissan_Motor_Company",
+          "dbpedia:orig": "http://dbpedia.org/resource/Nissan_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nissan",
+          "wikidata": "http://www.wikidata.org/entity/Q20165",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A"
+        }
+      },
+      "E083": {
+        "member_mention_ids": [
+          "M001",
+          "M043",
+          "M049",
+          "M053"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E084": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E085": {
+        "member_mention_ids": [
+          "M003",
+          "M004"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E087": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M068"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Toyota",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Toyota",
+          "wikidata": "http://www.wikidata.org/entity/Q53268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "removed_mention_ids": [
+          "M047"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Chrysler",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chrysler",
+          "wikidata": "http://www.wikidata.org/entity/Q181114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC"
+        }
+      },
+      "E091": {
+        "member_mention_ids": [
+          "M022",
+          "M067",
+          "M072"
+        ],
+        "removed_mention_ids": [
+          "M048",
+          "M061"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      }
+    }
+  }
+}

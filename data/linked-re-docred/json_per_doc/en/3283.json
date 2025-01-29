@@ -1,0 +1,426 @@
+{
+  "3283": {
+    "doc_info": {
+      "title": "Trail Smelter dispute",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Trail Smelter dispute was a trans - boundary pollution case involving the federal governments of both Canada and the United States , which eventually contributed to establishing the Harm principle in the environmental law of transboundary pollution .",
+        "text": "The Trail Smelter dispute was a trans - boundary pollution case involving the federal governments of both Canada and the United States , which eventually contributed to establishing the Harm principle in the environmental law of transboundary pollution .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The smelter in Trail , British Columbia was historically operated by the Consolidated Mining and Smelting Company ( COMINCO ) until COMINCO merged with Teck in 2001 , and has processed lead and zinc since 1896 .",
+        "text": "The smelter in Trail , British Columbia was historically operated by the Consolidated Mining and Smelting Company ( COMINCO ) until COMINCO merged with Teck in 2001 , and has processed lead and zinc since 1896 .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M6_2",
+          "M6_3",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Smoke from the smelter caused damage to forests and crops in the surrounding area and also across the Canada – US border in Washington .",
+        "text": "Smoke from the smelter caused damage to forests and crops in the surrounding area and also across the Canada – US border in Washington .",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M2_1"
+        ]
+      },
+      "03": {
+        "orig_text": "The smoke from the smelter distressed residents , resulting in complaints to COMINCO and demands for compensation .",
+        "text": "The smoke from the smelter distressed residents , resulting in complaints to COMINCO and demands for compensation .",
+        "mention_ids": [
+          "M6_1"
+        ]
+      },
+      "04": {
+        "orig_text": "The dispute between the smelter operators and affected landowners could not be resolved , resulting in the case being sent to an arbitration tribunal .",
+        "text": "The dispute between the smelter operators and affected landowners could not be resolved , resulting in the case being sent to an arbitration tribunal .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Negotiation and resulting litigation and arbitration was settled in 1941 .",
+        "text": "Negotiation and resulting litigation and arbitration was settled in 1941 .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          25
+        ],
+        "text": "Trail Smelter dispute",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          124,
+          134
+        ],
+        "text": "Washington",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          68,
+          72
+        ],
+        "text": "1941",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          106,
+          112
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          102,
+          108
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          117,
+          134
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          111,
+          113
+        ],
+        "text": "US",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          186,
+          200
+        ],
+        "text": "Harm principle",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          20
+        ],
+        "text": "Trail",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          39
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          132,
+          139
+        ],
+        "text": "COMINCO",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          77,
+          84
+        ],
+        "text": "COMINCO",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "01",
+        "span": [
+          116,
+          123
+        ],
+        "text": "COMINCO",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_3": {
+        "sentence_id": "01",
+        "span": [
+          73,
+          113
+        ],
+        "text": "Consolidated Mining and Smelting Company",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          152,
+          156
+        ],
+        "text": "Teck",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          160,
+          164
+        ],
+        "text": "2001",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          205,
+          209
+        ],
+        "text": "1896",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Trail_Smelter_dispute",
+          "wikidata": "http://www.wikidata.org/entity/Q11322090",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB%E6%BA%B6%E9%89%B1%E6%89%80%E4%BA%8B%E4%BB%B6"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Harm_principle",
+          "wikidata": "http://www.wikidata.org/entity/Q831403",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%84%9A%E8%A1%8C%E6%A8%A9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Trail,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1808502",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2",
+          "M6_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Teck_Resources",
+          "wikidata": "http://www.wikidata.org/entity/Q688725"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Teck_Resources",
+          "wikidata": "http://www.wikidata.org/entity/Q688725"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington_(state)",
+          "wikidata": "http://www.wikidata.org/entity/Q1223",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Washington_(U.S._state)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

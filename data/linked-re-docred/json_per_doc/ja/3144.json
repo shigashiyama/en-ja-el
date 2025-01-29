@@ -1,0 +1,582 @@
+{
+  "3144": {
+    "doc_info": {
+      "title": "Drum Boogie",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『ドラム・ブギ』は、1941年のジャズ「ブギウギ」スタンダードで、ジーン・クルーパとトランペッターロイ・エルドリッジが作曲しましたが最初に歌っていたのはアイリーン・デイでしたが、すぐにアニタ・オデイに置き換えられました。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "text": "それはシカゴで1941年1月17日に最初に録音され、その年の映画『Ball of Fire』でも取り上げられ、クルパと彼のバンドによって拡張版で演奏され、バーバラ・スタンウィックによって歌われ、その歌はマーサ・ティルトンによって吹き替えられました。",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M3_2",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "1942年、エラ・フィッツジェラルドは、ジーン・クルーパ・オーケストラのツアーでこの曲を歌いました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "03": {
+        "text": "1953年、ジーン・クルーパは東京にある米国が運営するアーニー・パイル劇場でこの歌を演奏し、『ピッツバーグ・クーリエ』によると、「やんやのかっさいを受けた」といいます。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M3_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          7
+        ],
+        "text": "ドラム・ブギ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          110
+        ],
+        "text": "マーサ・ティルトン",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1942年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          18
+        ],
+        "text": "エラ・フィッツジェラルド",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          35
+        ],
+        "text": "ジーン・クルーパ・オーケストラ",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1953年",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          22
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          37
+        ],
+        "text": "アーニー・パイル劇場",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          17
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          47,
+          58
+        ],
+        "text": "ピッツバーグ・クーリエ",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          15
+        ],
+        "text": "1941年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          17
+        ],
+        "text": "1941年1月17日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          24
+        ],
+        "text": "ブギウギ",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          41
+        ],
+        "text": "ジーン・クルーパ",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          14
+        ],
+        "text": "ジーン・クルーパ",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "01",
+        "span": [
+          55,
+          58
+        ],
+        "text": "クルパ",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          58
+        ],
+        "text": "ロイ・エルドリッジ",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          76,
+          84
+        ],
+        "text": "アイリーン・デイ",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          92,
+          99
+        ],
+        "text": "アニタ・オデイ",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          6
+        ],
+        "text": "シカゴ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          45
+        ],
+        "text": "Ball of Fire",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          77,
+          89
+        ],
+        "text": "バーバラ・スタンウィック",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Drum_Boogie",
+          "wikidata": "http://www.wikidata.org/entity/Q18663633"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boogie-woogie",
+          "wikidata": "http://www.wikidata.org/entity/Q212952",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%AE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gene_Krupa",
+          "wikidata": "http://www.wikidata.org/entity/Q319980",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%91"
+        },
+        "date_of_death": "1973-10-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Roy_Eldridge",
+          "wikidata": "http://www.wikidata.org/entity/Q376146",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%82%B8"
+        },
+        "date_of_death": "1989-02-26T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Irene_Daye",
+          "wikidata": "http://www.wikidata.org/entity/Q1672500"
+        },
+        "date_of_death": "1971-11-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anita_O%27Day",
+          "wikidata": "http://www.wikidata.org/entity/Q234413",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Anita_O'Day",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%82%BF%E3%83%BB%E3%82%AA%E3%83%87%E3%82%A4"
+        },
+        "date_of_death": "2006-11-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chicago",
+          "wikidata": "http://www.wikidata.org/entity/Q1297",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AB%E3%82%B4"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ball_of_Fire",
+          "wikidata": "http://www.wikidata.org/entity/Q391452",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%95%99%E6%8E%88%E3%81%A8%E7%BE%8E%E5%A5%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barbara_Stanwyck",
+          "wikidata": "http://www.wikidata.org/entity/Q94002",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AF"
+        },
+        "date_of_death": "1990-01-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Martha_Tilton",
+          "wikidata": "http://www.wikidata.org/entity/Q276227"
+        },
+        "date_of_death": "2006-12-08T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ella_Fitzgerald",
+          "wikidata": "http://www.wikidata.org/entity/Q1768",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%84%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%AB%E3%83%89"
+        },
+        "date_of_death": "1996-06-15T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tokyo_Takarazuka_Theater",
+          "wikidata": "http://www.wikidata.org/entity/Q1134652",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ernie_Pyle_Theatre"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tokyo",
+          "wikidata": "http://www.wikidata.org/entity/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pittsburgh_Courier",
+          "wikidata": "http://www.wikidata.org/entity/Q3339001"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

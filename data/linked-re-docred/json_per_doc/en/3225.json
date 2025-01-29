@@ -1,0 +1,349 @@
+{
+  "3225": {
+    "doc_info": {
+      "title": "The Fortunate Pilgrim",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Fortunate Pilgrim is a 1965 novel by Mario Puzo .",
+        "text": "The Fortunate Pilgrim is a 1965 novel by Mario Puzo .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Until his dying day , Mario Puzo considered the novel his finest , most poetic , and literary work .",
+        "text": "Until his dying day , Mario Puzo considered the novel his finest , most poetic , and literary work .",
+        "mention_ids": [
+          "M2_1"
+        ]
+      },
+      "02": {
+        "orig_text": "In one of his last interviews he stated that he was saddened by the fact that The Godfather , a fiction he never liked , outshone the novel of his mother 's honest immigrant struggle for respectability in America and her courage and filial love , as portrayed in The Fortunate Pilgrim , 1965 .",
+        "text": "In one of his last interviews he stated that he was saddened by the fact that The Godfather , a fiction he never liked , outshone the novel of his mother 's honest immigrant struggle for respectability in America and her courage and filial love , as portrayed in The Fortunate Pilgrim , 1965 .",
+        "mention_ids": [
+          "M0_1",
+          "M1_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The Fortunate Pilgrim is the real birthplace of The Godfather .",
+        "text": "The Fortunate Pilgrim is the real birthplace of The Godfather .",
+        "mention_ids": [
+          "M0_2",
+          "M3_2"
+        ]
+      },
+      "04": {
+        "text": "As Puzo says , the book 's hero , ■■■■■■■■■■■ , is based on his own mother : \" Whenever the ■■■■■■■■■ opened his mouth , in my own mind I heard the voice of my mother .",
+        "mention_ids": [
+          "M2_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "05": {
+        "orig_text": "I heard her wisdom , her ruthlessness , and her unconquerable love for her family and for life itself .",
+        "text": "I heard her wisdom , her ruthlessness , and her unconquerable love for her family and for life itself .",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "… The ■■■ 's courage and loyalty came from her ; his humanity came from her … and so , I know now , without ■■■■■■■■■■■ , I could not have written The Godfather . \"",
+        "mention_ids": [
+          "M3_1",
+          "M5_1",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "The Fortunate Pilgrim",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          263,
+          284
+        ],
+        "text": "The Fortunate Pilgrim",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          21
+        ],
+        "text": "The Fortunate Pilgrim",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          31
+        ],
+        "text": "1965",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          287,
+          291
+        ],
+        "text": "1965",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          51
+        ],
+        "text": "Mario Puzo",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          32
+        ],
+        "text": "Mario Puzo",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          7
+        ],
+        "text": "Puzo",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          78,
+          91
+        ],
+        "text": "The Godfather",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          147,
+          160
+        ],
+        "text": "The Godfather",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          61
+        ],
+        "text": "The Godfather",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          205,
+          212
+        ],
+        "text": "America",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          45
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          108,
+          119
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          92,
+          101
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          9
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Fortunate_Pilgrim",
+          "wikidata": "http://www.wikidata.org/entity/Q768647"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mario_Puzo",
+          "wikidata": "http://www.wikidata.org/entity/Q182870",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%97%E3%83%BC%E3%82%BE"
+        },
+        "date_of_death": "1999-07-02T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
+          "wikidata": "http://www.wikidata.org/entity/Q243556",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B6%E3%83%BC_(%E5%B0%8F%E8%AA%AC)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

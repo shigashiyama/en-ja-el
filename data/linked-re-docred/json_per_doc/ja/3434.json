@@ -1,0 +1,393 @@
+{
+  "3434": {
+    "doc_info": {
+      "title": "Microsoft Sync Framework",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Microsoft Sync Frameworkは、Microsoftのデータ同期プラットフォームで、複数のデータストア間でデータを同期するために使用できます。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "Sync Frameworkには、トランスポートに依存しないアーキテクチャが含まれており、ADO.NETデータプロバイダAPIをモデルとしたデータストア固有の同期プロバイダをプラグインできます。",
+        "mention_ids": [
+          "M0_2",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "Sync Frameworkは、キャッシュされたデータセットに対して作業し、変更をバッチでマスター・データベースに送信することによって、データへのオフライン・アクセスに使用できます。また、すべてのコンシューマ間でデータソースへの変更を同期化(パブリッシュ/サブスクライブ同期)したり、複数のデータソースのピアツーピア同期を行ったりすることもできます。",
+        "mention_ids": [
+          "M0_3"
+        ]
+      },
+      "03": {
+        "text": "Sync Frameworkには、変更されるデータがすでに更新されているかどうかにかかわらず、競合を検出する機能が組み込まれており、手動で検査するようにフラグを設定したり、定義されたポリシーを使用して競合を解決しようとしたりできます。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "04": {
+        "text": "Sync Servicesには、同期関係および各同期試行に関するメタデータを格納するための埋め込みSQL Server Compactデータベースが含まれています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "05": {
+        "text": "Sync Framework APIは、.NET Frameworkアプリケーションで使用するマネージドコードと、COMアプリケーションで使用するアンマネージコードの両方で表示されます。",
+        "mention_ids": [
+          "M0_4",
+          "M3_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "06": {
+        "text": "Visual Studio 2008とともに2007年11月下旬に出荷される予定でした。",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          24
+        ],
+        "text": "Microsoft Sync Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Sync Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Sync Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Sync Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Sync Framework",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          35
+        ],
+        "text": "Microsoft",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          45,
+          52
+        ],
+        "text": "ADO.NET",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          60,
+          63
+        ],
+        "text": "API",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          18
+        ],
+        "text": "API",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Sync Services",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          67
+        ],
+        "text": "SQL Server Compact",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          34
+        ],
+        "text": ".NET Framework",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          57,
+          60
+        ],
+        "text": "COM",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          18
+        ],
+        "text": "Visual Studio 2008",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          32
+        ],
+        "text": "2007年11月下旬",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Sync_Framework",
+          "wikidata": "http://www.wikidata.org/entity/Q6840232"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft",
+          "wikidata": "http://www.wikidata.org/entity/Q2283",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ADO.NET",
+          "wikidata": "http://www.wikidata.org/entity/Q290508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ADO.NET"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/API",
+          "wikidata": "http://www.wikidata.org/entity/Q165194",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Sync_Framework",
+          "wikidata": "http://www.wikidata.org/entity/Q6840232"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SQL_Server_Compact",
+          "wikidata": "http://www.wikidata.org/entity/Q1814028"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/.NET_Framework",
+          "wikidata": "http://www.wikidata.org/entity/Q5289",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/.NET_Framework"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Component_Object_Model",
+          "wikidata": "http://www.wikidata.org/entity/Q662200",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Component_Object_Model"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Visual_Studio",
+          "wikidata": "http://www.wikidata.org/entity/Q134067",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Visual_Studio_2008",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

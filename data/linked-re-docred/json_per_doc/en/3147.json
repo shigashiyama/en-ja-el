@@ -1,0 +1,811 @@
+{
+  "3147": {
+    "doc_info": {
+      "title": "Elias Brown",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Elias Brown ( May 9 , 1793 – July 7 , 1857 ) was a U.S. Representative from Maryland .",
+        "text": "Elias Brown ( May 9 , 1793 – July 7 , 1857 ) was a U.S. Representative from Maryland .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Born near Baltimore , Maryland , Brown attended the common schools .",
+        "text": "Born near Baltimore , Maryland , Brown attended the common schools .",
+        "mention_ids": [
+          "M0_2",
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "He served as presidential elector on the ticket of James Monroe and Daniel D. Tompkins in 1820 and on the ticket of John Quincy Adams and Richard Rush in 1828 .",
+        "text": "He served as presidential elector on the ticket of James Monroe and Daniel D. Tompkins in 1820 and on the ticket of John Quincy Adams and Richard Rush in 1828 .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Brown was elected as a Jacksonian to the Twenty - first Congress , where he served from March 4 , 1829 to March 3 , 1831 .",
+        "text": "Brown was elected as a Jacksonian to the Twenty - first Congress , where he served from March 4 , 1829 to March 3 , 1831 .",
+        "mention_ids": [
+          "M0_1",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "orig_text": "He also served as member of the Maryland House of Delegates in 1834 and 1835 , and as member of the Maryland Senate from 1836 to 1838 .",
+        "text": "He also served as member of the Maryland House of Delegates in 1834 and 1835 , and as member of the Maryland Senate from 1836 to 1838 .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "05": {
+        "orig_text": "In 1836 , he served as presidential elector on the ticket of William Henry Harrison and John Tyler , and served as delegate to the State constitutional convention the same year .",
+        "text": "In 1836 , he served as presidential elector on the ticket of William Henry Harrison and John Tyler , and served as delegate to the State constitutional convention the same year .",
+        "mention_ids": [
+          "M20_1",
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "06": {
+        "orig_text": "He died near Baltimore , Maryland , and is interred in a private cemetery near Eldersburg , Maryland .",
+        "text": "He died near Baltimore , Maryland , and is interred in a private cemetery near Eldersburg , Maryland .",
+        "mention_ids": [
+          "M25_0",
+          "M4_2",
+          "M4_3",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          11
+        ],
+        "text": "Elias Brown",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Brown",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          38
+        ],
+        "text": "Brown",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          138,
+          150
+        ],
+        "text": "Richard Rush",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          154,
+          158
+        ],
+        "text": "1828",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          33
+        ],
+        "text": "Jacksonian",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          41,
+          64
+        ],
+        "text": "Twenty - first Congress",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          88,
+          102
+        ],
+        "text": "March 4 , 1829",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          106,
+          120
+        ],
+        "text": "March 3 , 1831",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          59
+        ],
+        "text": "Maryland House of Delegates",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          67
+        ],
+        "text": "1834",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          72,
+          76
+        ],
+        "text": "1835",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          100,
+          115
+        ],
+        "text": "Maryland Senate",
+        "entity_type": "ORG",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          26
+        ],
+        "text": "May 9 , 1793",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          121,
+          125
+        ],
+        "text": "1836",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1836",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "04",
+        "span": [
+          129,
+          133
+        ],
+        "text": "1838",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          83
+        ],
+        "text": "William Henry Harrison",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "05",
+        "span": [
+          88,
+          98
+        ],
+        "text": "John Tyler",
+        "entity_type": "PER",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "05",
+        "span": [
+          131,
+          136
+        ],
+        "text": "State",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          79,
+          89
+        ],
+        "text": "Eldersburg",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          42
+        ],
+        "text": "July 7 , 1857",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          51,
+          55
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          76,
+          84
+        ],
+        "text": "Maryland",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          30
+        ],
+        "text": "Maryland",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "06",
+        "span": [
+          25,
+          33
+        ],
+        "text": "Maryland",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "06",
+        "span": [
+          92,
+          100
+        ],
+        "text": "Maryland",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          19
+        ],
+        "text": "Baltimore",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          22
+        ],
+        "text": "Baltimore",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          63
+        ],
+        "text": "James Monroe",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          68,
+          86
+        ],
+        "text": "Daniel D. Tompkins",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          90,
+          94
+        ],
+        "text": "1820",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          116,
+          133
+        ],
+        "text": "John Quincy Adams",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elias_Brown",
+          "wikidata": "http://www.wikidata.org/entity/Q1726909"
+        },
+        "date_of_death": "1857-07-07T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q11701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8B%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland",
+          "wikidata": "http://www.wikidata.org/entity/Q1391",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baltimore",
+          "wikidata": "http://www.wikidata.org/entity/Q5092",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Baltimore,_Maryland",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%81%E3%83%A2%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
+          "wikidata": "http://www.wikidata.org/entity/Q11815",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%AD%E3%83%BC"
+        },
+        "date_of_death": "1831-07-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Daniel_D._Tompkins",
+          "wikidata": "http://www.wikidata.org/entity/Q223545",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%82%BA"
+        },
+        "date_of_death": "1825-06-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+          "wikidata": "http://www.wikidata.org/entity/Q11816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%AF%E3%82%A3%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
+        },
+        "date_of_death": "1848-02-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Richard_Rush",
+          "wikidata": "http://www.wikidata.org/entity/Q942844",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5_(%E6%94%BF%E6%B2%BB%E5%AE%B6)"
+        },
+        "date_of_death": "1859-07-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jacksonian_democracy",
+          "wikidata": "http://www.wikidata.org/entity/Q1040924",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E6%B5%81%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/21st_United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q4631174"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland_House_of_Delegates",
+          "wikidata": "http://www.wikidata.org/entity/Q165752"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maryland_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q1494656"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+          "wikidata": "http://www.wikidata.org/entity/Q11869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3"
+        },
+        "date_of_death": "1841-04-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Tyler",
+          "wikidata": "http://www.wikidata.org/entity/Q11881",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC"
+        },
+        "date_of_death": "1862-01-18T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/State_(polity)",
+          "wikidata": "http://www.wikidata.org/entity/Q7275",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eldersburg,_Maryland",
+          "wikidata": "http://www.wikidata.org/entity/Q754876"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

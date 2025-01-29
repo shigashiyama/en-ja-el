@@ -1,0 +1,768 @@
+{
+  "3076": {
+    "doc_info": {
+      "title": "Rambaan",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Rambaan ( Rama 's Arrow ) is a 1948 Indian film with a mythological theme , directed by Vijay Bhatt .",
+        "text": "Rambaan ( Rama 's Arrow ) is a 1948 Indian film with a mythological theme , directed by Vijay Bhatt .",
+        "mention_ids": [
+          "M0_0",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "Made under the banner of Prakash Pictures , it had music by ■■■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "The story writer was ■■■■■■■■■■■■■ with dialogue by ■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "text": "The film starred Shobhana Samarth , Prem Adib , Chandra Mohan , ■■■■■■■ , Amirbai Karnataki and ■■■■■■■■ .",
+        "mention_ids": [
+          "M10_1",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Bhatt produced several films based on themes from the epic Ramayana , with Shobhana Samarth and Prem Adib .",
+        "text": "Bhatt produced several films based on themes from the epic Ramayana , with Shobhana Samarth and Prem Adib .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M8_2",
+          "M9_2"
+        ]
+      },
+      "05": {
+        "orig_text": "The films proved successful and included Bharat Milap ( 1942 ) , Ram Rajya ( 1943 ) and Rambaan .",
+        "text": "The films proved successful and included Bharat Milap ( 1942 ) , Ram Rajya ( 1943 ) and Rambaan .",
+        "mention_ids": [
+          "M0_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Shobhana Samarth as Sita and Prem Adib as Rama were extremely popular and accepted by the masses .",
+        "text": "Shobhana Samarth as Sita and Prem Adib as Rama were extremely popular and accepted by the masses .",
+        "mention_ids": [
+          "M20_1",
+          "M21_1",
+          "M8_1",
+          "M9_1"
+        ]
+      },
+      "07": {
+        "orig_text": "Their success had them featuring as Rama and Sita on calendars .",
+        "text": "Their success had them featuring as Rama and Sita on calendars .",
+        "mention_ids": [
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "08": {
+        "orig_text": "Chandra Mohan played the role of Ravana .",
+        "text": "Chandra Mohan played the role of Ravana .",
+        "mention_ids": [
+          "M10_0",
+          "M22_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          23
+        ],
+        "text": "Rama 's Arrow",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          88,
+          95
+        ],
+        "text": "Rambaan",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Rambaan",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Chandra Mohan",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          61
+        ],
+        "text": "Chandra Mohan",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          64,
+          71
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          74,
+          91
+        ],
+        "text": "Amirbai Karnataki",
+        "entity_type": "PER",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          96,
+          104
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Bhatt",
+        "entity_type": "PER",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          59,
+          67
+        ],
+        "text": "Ramayana",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          53
+        ],
+        "text": "Bharat Milap",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          56,
+          60
+        ],
+        "text": "1942",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          65,
+          74
+        ],
+        "text": "Ram Rajya",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          77,
+          81
+        ],
+        "text": "1943",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          35
+        ],
+        "text": "1948",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          45,
+          49
+        ],
+        "text": "Sita",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          24
+        ],
+        "text": "Sita",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          40
+        ],
+        "text": "Rama",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M21_1": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          46
+        ],
+        "text": "Rama",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          33,
+          39
+        ],
+        "text": "Ravana",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          42
+        ],
+        "text": "Indian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          88,
+          99
+        ],
+        "text": "Vijay Bhatt",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          41
+        ],
+        "text": "Prakash Pictures",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          60,
+          76
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          34
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          65
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          33
+        ],
+        "text": "Shobhana Samarth",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          16
+        ],
+        "text": "Shobhana Samarth",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M8_2": {
+        "sentence_id": "04",
+        "span": [
+          75,
+          91
+        ],
+        "text": "Shobhana Samarth",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          45
+        ],
+        "text": "Prem Adib",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          38
+        ],
+        "text": "Prem Adib",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      },
+      "M9_2": {
+        "sentence_id": "04",
+        "span": [
+          96,
+          105
+        ],
+        "text": "Prem Adib",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rambaan",
+          "wikidata": "http://www.wikidata.org/entity/Q25302584"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cinema_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q328799",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E6%98%A0%E7%94%BB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vijay_Bhatt",
+          "wikidata": "http://www.wikidata.org/entity/Q6730188"
+        },
+        "date_of_death": "1993-10-17T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Prakash_Pictures",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Prakash_Pictures"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1",
+          "M8_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Shobhna_Samarth",
+          "wikidata": "http://www.wikidata.org/entity/Q467408",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Shobhana_Samarth"
+        },
+        "date_of_death": "2000-02-09T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1",
+          "M9_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Prem_Adib",
+          "wikidata": "http://www.wikidata.org/entity/Q19881688"
+        },
+        "date_of_death": "1959-12-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chandra_Mohan_(Hindi_actor)",
+          "wikidata": "http://www.wikidata.org/entity/Q5071299",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Chandra_Mohan_(Hindi_film_actor)"
+        },
+        "date_of_death": "1949-04-02T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amirbai_Karnataki",
+          "wikidata": "http://www.wikidata.org/entity/Q4746754"
+        },
+        "date_of_death": "1965-03-03T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vijay_Bhatt",
+          "wikidata": "http://www.wikidata.org/entity/Q6730188"
+        },
+        "date_of_death": "1993-10-17T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ramayana",
+          "wikidata": "http://www.wikidata.org/entity/Q37293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%A4%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bharat_Milap",
+          "wikidata": "http://www.wikidata.org/entity/Q4901136"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ram_Rajya",
+          "wikidata": "http://www.wikidata.org/entity/Q115215532"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sita",
+          "wikidata": "http://www.wikidata.org/entity/Q191114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%BF%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0",
+          "M21_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rama",
+          "wikidata": "http://www.wikidata.org/entity/Q160213",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%9E"
+        },
+        "date_of_death": "http://www.wikidata.org/.well-known/genid/7b4b7729650456d84726be05570bea45",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ravana",
+          "wikidata": "http://www.wikidata.org/entity/Q235102",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

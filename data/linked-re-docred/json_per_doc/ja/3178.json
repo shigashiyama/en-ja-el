@@ -1,0 +1,420 @@
+{
+  "3178": {
+    "doc_info": {
+      "title": "Suikerbosrand Nature Reserve",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "スイケルボスランド自然保護区は、南アフリカのスイケルボスランド山脈にある保護区です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "ここはハウテンの主要なエコツーリズム目的地の1つです。",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "ヨハネスブルグからはすぐ、ヨハネスブルグ国際空港からは車で1時間、歴史的な街ハイデルベルクの近くにあります。この保護区には、岩の多いハイベルド草原バイオームの動植物の代表的なサンプルが展示されています。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "手付かずの自然環境と、曲がりくねったハイキングコースが特徴的な山脈が特徴のこの保護区は、にぎやかな都市生活からは信じられないほど爽やかな休息を与えてくれます。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "ここで、高度は海抜の間で変化します。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "スイケルボスランド尾根は元々、1836年6月5日にヘンドリック・ポギーター将軍の一行によって、ここで生育しているのが発見されたサトウキビ（おそらくソルガム）にちなんで名付けられました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "その後、この尾根、そしてその結果として保護区の名前は、この地域の境界内で優勢な植生タイプである特徴的なトランスヴァール・シュガー・ブッシュ(プロテア・カフラ)に関連付けられるようになりました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "スイケルボスランド自然保護区",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          37
+        ],
+        "text": "ヘンドリック・ポギーター",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          24
+        ],
+        "text": "1836年6月5日",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          51,
+          69
+        ],
+        "text": "トランスヴァール・シュガー・ブッシュ",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          70,
+          78
+        ],
+        "text": "プロテア・カフラ",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          33
+        ],
+        "text": "スイケルボスランド山脈",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          21
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          7
+        ],
+        "text": "ハウテン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ヨハネスブルグ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          32
+        ],
+        "text": "1時間",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          24
+        ],
+        "text": "ヨハネスブルグ国際空港",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          45
+        ],
+        "text": "ハイデルベルク",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          71
+        ],
+        "text": "ハイベルド",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "スイケルボスランド",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Suikerbosrand_Nature_Reserve",
+          "wikidata": "http://www.wikidata.org/entity/Q1463687"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gauteng",
+          "wikidata": "http://www.wikidata.org/entity/Q133083",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Gauteng_province",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A6%E3%83%86%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Johannesburg",
+          "wikidata": "http://www.wikidata.org/entity/Q34647",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%8D%E3%82%B9%E3%83%96%E3%83%AB%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "removed_mention_ids": [
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport",
+          "wikidata": "http://www.wikidata.org/entity/Q821750",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/O%E3%83%BBR%E3%83%BB%E3%82%BF%E3%83%B3%E3%83%9C%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Heidelberg,_Gauteng",
+          "wikidata": "http://www.wikidata.org/entity/Q1594009"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Highveld",
+          "wikidata": "http://www.wikidata.org/entity/Q260225"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Suikerbosrand_Nature_Reserve",
+          "wikidata": "http://www.wikidata.org/entity/Q1463687"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hendrik_Potgieter",
+          "wikidata": "http://www.wikidata.org/entity/Q510522",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Andries_Hendrik_Potgieter"
+        },
+        "date_of_death": "1852-12-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Protea_caffra",
+          "wikidata": "http://www.wikidata.org/entity/Q2157941"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Protea_caffra",
+          "wikidata": "http://www.wikidata.org/entity/Q2157941"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

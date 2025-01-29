@@ -1,0 +1,572 @@
+{
+  "3262": {
+    "doc_info": {
+      "title": "Munghana Lonene FM",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ムンガナ・ロネネFMは、南アフリカのツォンガの言語で放送しているSABC（南アフリカ放送協力）のラジオ局です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M1_1",
+          "M2_1",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ツォンガでは、「ムンガナ・ロネネ」は「本当の友達」を意味します。",
+        "mention_ids": [
+          "M2_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "ムンガナ・ロネネFMは、クシツォンガを理解するリスナーを対象としています。",
+        "mention_ids": [
+          "M0_3",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "ムンガナ・ロネネFMは、音楽とトークを50%分割した「インフォテイメント」ラジオ局としてブランド化されています。",
+        "mention_ids": [
+          "M0_2",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "それは、ニュース、音楽、時事問題、トークショー、教育、スポーツ、天気、交通などを組み合わせた、リスナーとインタラクティブな環境を提供します。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "その音楽レパートリーはジャズ、R&B、クワイト、ハウス、ゴスペル音楽、アフリカ音楽で構成されています。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "ムンガナ・ロネネFMの放送エリアには、ハウテン、リンポポ、東部ムプマランガ、モザンビークが含まれます。",
+        "mention_ids": [
+          "M0_1",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ムンガナ・ロネネFM",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ムンガナ・ロネネFM",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ムンガナ・ロネネFM",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ムンガナ・ロネネFM",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          24,
+          27
+        ],
+        "text": "ハウス",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          34
+        ],
+        "text": "ゴスペル音楽",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          39
+        ],
+        "text": "アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          19,
+          23
+        ],
+        "text": "ハウテン",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          24,
+          28
+        ],
+        "text": "リンポポ",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          31,
+          37
+        ],
+        "text": "ムプマランガ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          38,
+          44
+        ],
+        "text": "モザンビーク",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          36
+        ],
+        "text": "SABC",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          46
+        ],
+        "text": "南アフリカ放送協力",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ツォンガ",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          22
+        ],
+        "text": "ツォンガ",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          17
+        ],
+        "text": "南アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          16
+        ],
+        "text": "ムンガナ・ロネネ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          18
+        ],
+        "text": "クシツォンガ",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          22
+        ],
+        "text": "50%",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "ジャズ",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          18
+        ],
+        "text": "R&B",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          19,
+          23
+        ],
+        "text": "クワイト",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Munghana_Lonene_FM",
+          "wikidata": "http://www.wikidata.org/entity/Q6936019"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SABC",
+          "wikidata": "http://www.wikidata.org/entity/Q1419926",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E6%94%BE%E9%80%81%E5%8D%94%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tsonga_language",
+          "wikidata": "http://www.wikidata.org/entity/Q34327",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A9%E3%83%B3%E3%82%AC%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tsonga_language",
+          "wikidata": "http://www.wikidata.org/entity/Q34327",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A9%E3%83%B3%E3%82%AC%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jazz",
+          "wikidata": "http://www.wikidata.org/entity/Q8341",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+          "wikidata": "http://www.wikidata.org/entity/Q45981",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/R&B",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kwaito",
+          "wikidata": "http://www.wikidata.org/entity/Q956717"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/House_music",
+          "wikidata": "http://www.wikidata.org/entity/Q20502",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A6%E3%82%B9_(%E9%9F%B3%E6%A5%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gospel_music",
+          "wikidata": "http://www.wikidata.org/entity/Q180268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B9%E3%83%9A%E3%83%AB_(%E9%9F%B3%E6%A5%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Music_of_Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q369820",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/African_music",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AE%E9%9F%B3%E6%A5%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gauteng",
+          "wikidata": "http://www.wikidata.org/entity/Q133083",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A6%E3%83%86%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Limpopo",
+          "wikidata": "http://www.wikidata.org/entity/Q134907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%83%9D%E3%83%9D%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mpumalanga",
+          "wikidata": "http://www.wikidata.org/entity/Q132410",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%97%E3%83%9E%E3%83%A9%E3%83%B3%E3%82%AC%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mozambique",
+          "wikidata": "http://www.wikidata.org/entity/Q1029",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

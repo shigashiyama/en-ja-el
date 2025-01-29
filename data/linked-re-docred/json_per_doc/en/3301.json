@@ -1,0 +1,431 @@
+{
+  "3301": {
+    "doc_info": {
+      "title": "Foundling Museum",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Foundling Museum in Brunswick Square , London tells the story of the Foundling Hospital , Britain 's first home for abandoned children .",
+        "text": "The Foundling Museum in Brunswick Square , London tells the story of the Foundling Hospital , Britain 's first home for abandoned children .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_1",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The museum houses the nationally important Foundling Hospital Art Collection as well as the Gerald Coke Handel Collection , the world 's greatest privately amassed collection of Handel memorabilia .",
+        "text": "The museum houses the nationally important Foundling Hospital Art Collection as well as the Gerald Coke Handel Collection , the world 's greatest privately amassed collection of Handel memorabilia .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "orig_text": "After a major building refurbishment it reopened to the public in June 2004 .",
+        "text": "After a major building refurbishment it reopened to the public in June 2004 .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The museum examines the work of the Foundling Hospital 's founder Thomas Coram , as well as the artist William Hogarth and the composer George Frideric Handel , both major benefactors of the institution .",
+        "text": "The museum examines the work of the Foundling Hospital 's founder Thomas Coram , as well as the artist William Hogarth and the composer George Frideric Handel , both major benefactors of the institution .",
+        "mention_ids": [
+          "M10_0",
+          "M3_0",
+          "M7_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It also illustrates how the Foundling Hospital 's charity work for children still carries on today through the child care organisation Coram .",
+        "text": "It also illustrates how the Foundling Hospital 's charity work for children still carries on today through the child care organisation Coram .",
+        "mention_ids": [
+          "M11_0",
+          "M3_2"
+        ]
+      },
+      "05": {
+        "orig_text": "It is a member of The London Museums of Health & Medicine group .",
+        "text": "It is a member of The London Museums of Health & Medicine group .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          20
+        ],
+        "text": "Foundling Museum",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          103,
+          118
+        ],
+        "text": "William Hogarth",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          135,
+          140
+        ],
+        "text": "Coram",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          57
+        ],
+        "text": "London Museums of Health & Medicine",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          24,
+          40
+        ],
+        "text": "Brunswick Square",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          49
+        ],
+        "text": "London",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          54
+        ],
+        "text": "Foundling Hospital",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          73,
+          91
+        ],
+        "text": "Foundling Hospital",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          46
+        ],
+        "text": "Foundling Hospital",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          94,
+          101
+        ],
+        "text": "Britain",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          76
+        ],
+        "text": "Foundling Hospital Art Collection",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          92,
+          121
+        ],
+        "text": "Gerald Coke Handel Collection",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          178,
+          184
+        ],
+        "text": "Handel",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          136,
+          158
+        ],
+        "text": "George Frideric Handel",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          66,
+          75
+        ],
+        "text": "June 2004",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          66,
+          78
+        ],
+        "text": "Thomas Coram",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Foundling_Museum",
+          "wikidata": "http://www.wikidata.org/entity/Q5474645"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brunswick_Square",
+          "wikidata": "http://www.wikidata.org/entity/Q4979544"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Foundling_Hospital",
+          "wikidata": "http://www.wikidata.org/entity/Q1439887"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+          "wikidata": "http://www.wikidata.org/entity/Q7302",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB"
+        },
+        "date_of_death": "1759-04-14T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Thomas_Coram",
+          "wikidata": "http://www.wikidata.org/entity/Q180413"
+        },
+        "date_of_death": "1751-03-29T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_Hogarth",
+          "wikidata": "http://www.wikidata.org/entity/Q171344",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%9B%E3%82%AC%E3%83%BC%E3%82%B9"
+        },
+        "date_of_death": "1764-10-26T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Thomas_Coram_Foundation_for_Children",
+          "wikidata": "http://www.wikidata.org/entity/Q7788611",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Coram_(charity)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London_Museums_of_Health_%26_Medicine",
+          "wikidata": "http://www.wikidata.org/entity/Q7748058",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/The_London_Museums_of_Health_&_Medicine"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

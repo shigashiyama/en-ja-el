@@ -1,0 +1,608 @@
+{
+  "3121": {
+    "doc_info": {
+      "title": "Something to Believe In (Poison song)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "\" Something to Believe In \" is a power ballad by American Glam metal band Poison , being the 2nd single from their 1990 album Flesh & Blood .",
+        "text": "\" Something to Believe In \" is a power ballad by American Glam metal band Poison , being the 2nd single from their 1990 album Flesh & Blood .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "\" Something to Believe In \" was also released on the Best of Ballads & Blues album in 2003 , with alternate lyrics ( part 2 ) .",
+        "text": "\" Something to Believe In \" was also released on the Best of Ballads & Blues album in 2003 , with alternate lyrics ( part 2 ) .",
+        "mention_ids": [
+          "M0_1",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The song peaked at number 4 in the US Billboard Hot 100 , number 5 on the Mainstream rock charts , number 35 in the UK and # 44 on the Australian charts .",
+        "text": "The song peaked at number 4 in the US Billboard Hot 100 , number 5 on the Mainstream rock charts , number 35 in the UK and # 44 on the Australian charts .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "It was the last Top 10 on Billboard chart for the band to date .",
+        "text": "It was the last Top 10 on Billboard chart for the band to date .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "04": {
+        "text": "This song was dedicated to ■■■■■■■■■■■■■■■■ , a security guard and best friend of ■■■■■■■■■■■■■ who had died some time earlier .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "text": "The cover art for the single depicts a tattoo on ■■■■■■■■ ' arm of a cross with the words \" Something to Believe In \" .",
+        "mention_ids": [
+          "M0_2",
+          "M16_2"
+        ]
+      },
+      "06": {
+        "text": "The tattoo artist , according to ■■■■■■■■ , had been drinking and spelled \" believe \" incorrectly putting the \" e \" before the \" i \" .",
+        "mention_ids": [
+          "M16_3"
+        ]
+      },
+      "07": {
+        "text": "It was attempted to be corrected by adding a rose to the cross that covered the misspelling , but ■■■■■■■■ was never satisfied with the results .",
+        "mention_ids": [
+          "M16_1"
+        ]
+      },
+      "08": {
+        "text": "In the first season of the reality show Rock of Love , ■■■■■■■■ goes to a tattoo shop where the tattoo artist properly touches up the tattoo .",
+        "mention_ids": [
+          "M16_4",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          25
+        ],
+        "text": "Something to Believe In",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          2,
+          25
+        ],
+        "text": "Something to Believe In",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          115
+        ],
+        "text": "Something to Believe In",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          74,
+          89
+        ],
+        "text": "Mainstream rock",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          116,
+          118
+        ],
+        "text": "UK",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          135,
+          145
+        ],
+        "text": "Australian",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          16,
+          22
+        ],
+        "text": "Top 10",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          35
+        ],
+        "text": "Billboard",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          27,
+          43
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          82,
+          95
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M16_1": {
+        "sentence_id": "07",
+        "span": [
+          98,
+          106
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M16_2": {
+        "sentence_id": "05",
+        "span": [
+          49,
+          57
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M16_3": {
+        "sentence_id": "06",
+        "span": [
+          33,
+          41
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M16_4": {
+        "sentence_id": "08",
+        "span": [
+          55,
+          63
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "08",
+        "span": [
+          40,
+          52
+        ],
+        "text": "Rock of Love",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          57
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          68
+        ],
+        "text": "Glam metal",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          80
+        ],
+        "text": "Poison",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          115,
+          119
+        ],
+        "text": "1990",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          126,
+          139
+        ],
+        "text": "Flesh & Blood",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          53,
+          76
+        ],
+        "text": "Best of Ballads & Blues",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          86,
+          90
+        ],
+        "text": "2003",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          122,
+          123
+        ],
+        "text": "2",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          35,
+          55
+        ],
+        "text": "US Billboard Hot 100",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Something_to_Believe_In_(Poison_song)",
+          "wikidata": "http://www.wikidata.org/entity/Q6131982"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Glam_metal",
+          "wikidata": "http://www.wikidata.org/entity/Q188539",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%BB%E3%83%A1%E3%82%BF%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Poison_(band)",
+          "wikidata": "http://www.wikidata.org/entity/Q550602",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Poison_(American_band)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3_(%E3%83%AD%E3%83%83%E3%82%AF%E3%83%90%E3%83%B3%E3%83%89)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Flesh_%26_Blood_(Poison_album)",
+          "wikidata": "http://www.wikidata.org/entity/Q1428100",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Flesh_&_Blood_(Poison_album)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Best_of_Ballads_%26_Blues",
+          "wikidata": "http://www.wikidata.org/entity/Q4355985",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Best_of_Ballads_&_Blues_(album)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+          "wikidata": "http://www.wikidata.org/entity/Q180072",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Billboard_Hot_100"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mainstream_rock",
+          "wikidata": "http://www.wikidata.org/entity/Q2526653"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Billboard_(magazine)",
+          "wikidata": "http://www.wikidata.org/entity/Q485240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0",
+          "M16_1",
+          "M16_2",
+          "M16_3",
+          "M16_4"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bret_Michaels",
+          "wikidata": "http://www.wikidata.org/entity/Q365042",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rock_of_Love_with_Bret_Michaels",
+          "wikidata": "http://www.wikidata.org/entity/Q3437871",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rock_of_Love"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

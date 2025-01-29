@@ -1,0 +1,479 @@
+{
+  "3294": {
+    "doc_info": {
+      "title": "UNESCO Confucius Prize for Literacy",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ユネスコ孔子識字賞は、農村部の成人と学校に通っていない青少年、特に女性と少女の識字教育に取り組む優れた個人、政府、政府機関、非政府組織（NGO）の活動を表彰します。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "01": {
+        "text": "この賞は、中華人民共和国政府の支援により偉大な中国の学者である孔子を讃え、2005年に設立されました。",
+        "mention_ids": [
+          "M0_4",
+          "M1_0",
+          "M2_0",
+          "M2_2",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "これは、ユネスコが世界中の識字分野における卓越性と刺激的な経験を表彰して毎年授与する国際識字賞の一部です。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "孔子賞は、それぞれ20,000米ドルの2つの賞と、メダルと賞状、中国での識字プロジェクト現場への研修訪問が提供します。",
+        "mention_ids": [
+          "M0_0",
+          "M2_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "この賞は、読み書き能力において傑出した功績を示し、特に効果的な成果を達成し、革新的なアプローチを推進している機関、組織、または個人に開かれています。",
+        "mention_ids": [
+          "M0_3"
+        ]
+      },
+      "05": {
+        "text": "受賞者の選出は、ユネスコ事務局長によって任命された国際審査員によって行われ、年に1回パリで会合が開催されます。",
+        "mention_ids": [
+          "M5_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "この賞は、国際識字デー（9月8日）にパリのユネスコ本部で、その目的で開催される公式式典で授与されます。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "孔子賞",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ユネスコ孔子識字賞",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          3
+        ],
+        "text": "賞",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          2,
+          3
+        ],
+        "text": "賞",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "01",
+        "span": [
+          2,
+          3
+        ],
+        "text": "賞",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          27
+        ],
+        "text": "ユネスコ本部",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          11
+        ],
+        "text": "国際識字デー",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          12,
+          16
+        ],
+        "text": "9月8日",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "01",
+        "span": [
+          37,
+          42
+        ],
+        "text": "2005年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          12
+        ],
+        "text": "中華人民共和国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          34
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          26
+        ],
+        "text": "中国の",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          33
+        ],
+        "text": "孔子",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          47
+        ],
+        "text": "国際識字賞",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          8
+        ],
+        "text": "ユネスコ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          12
+        ],
+        "text": "ユネスコ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          21
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          18
+        ],
+        "text": "20,000米ドル",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          30
+        ],
+        "text": "国際審査員",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          42,
+          44
+        ],
+        "text": "パリ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          20
+        ],
+        "text": "パリ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UNESCO_Confucius_Prize_for_Literacy",
+          "wikidata": "http://www.wikidata.org/entity/Q3826871"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/People's_Republic_of_China",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Confucius",
+          "wikidata": "http://www.wikidata.org/entity/Q4604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AD%94%E5%AD%90"
+        },
+        "date_of_death": "-0478-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_international_literacy_prizes",
+          "wikidata": "http://www.wikidata.org/entity/Q6574324",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/International_Literacy_Prizes"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/UNESCO",
+          "wikidata": "http://www.wikidata.org/entity/Q7809",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E6%96%87%E5%8C%96%E6%A9%9F%E9%96%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_Heritage_Centre",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/World_Heritage_Centre"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/International_Literacy_Day",
+          "wikidata": "http://www.wikidata.org/entity/Q756864",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%AD%98%E5%AD%97%E3%83%87%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

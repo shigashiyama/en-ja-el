@@ -1,0 +1,641 @@
+{
+  "3437": {
+    "doc_info": {
+      "title": "Operation Unified Resolve",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "統一解決作戦は、アフガニスタン東部の地域に隠れているアルカイダ戦闘員を追い出し、捕らえる空と地上の作戦です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "2003年6月23日に開始された統一解決作戦は、パキスタン、米国、およびアフガニスタンの共同作戦です。",
+        "mention_ids": [
+          "M0_1",
+          "M2_1",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "主に米国第82空挺師団からの500人以上の部隊が、アフガニスタンの東部国境にあるナンガルハール州とクナル州でタリバンとアルカイダの戦闘員を狩り始めました。",
+        "mention_ids": [
+          "M10_0",
+          "M1_1",
+          "M2_2",
+          "M5_1",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "この作戦は特に、アフガニスタンの首都カブールとパキスタンの都市ペシャワルの間の主要ルートに戦略的に位置するアルカイダの拠点として知られるジャラーラーバード市に焦点を当てています。",
+        "mention_ids": [
+          "M11_0",
+          "M12_1",
+          "M13_0",
+          "M14_0",
+          "M1_2",
+          "M4_1"
+        ]
+      },
+      "04": {
+        "text": "元アフガニスタンの首相■■■■■■■■■■■■■■■■■率いる反連合軍は、いつものようにロケット弾、地雷、ボビートラップを使って連合軍を攻撃しました。",
+        "mention_ids": [
+          "M12_0",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "text": "■■■■■■■■は、この地域に残っている反連合勢力間の同盟を組織し、連携を強化しています。",
+        "mention_ids": [
+          "M15_1"
+        ]
+      },
+      "06": {
+        "text": "タリバンとアルカイダ戦闘員の狩猟に加えて、統一解決作戦は近くの谷に住むアフガニスタンの人々にも人道支援を提供しています。",
+        "mention_ids": [
+          "M0_2",
+          "M12_2",
+          "M1_3",
+          "M8_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "統一解決作戦",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          22
+        ],
+        "text": "統一解決作戦",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          27
+        ],
+        "text": "統一解決作戦",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          49,
+          52
+        ],
+        "text": "クナル",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          77
+        ],
+        "text": "ジャラーラーバード",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          9
+        ],
+        "text": "アフガニスタンの",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          16
+        ],
+        "text": "アフガニスタンの",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M12_2": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          43
+        ],
+        "text": "アフガニスタンの",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          22
+        ],
+        "text": "カブール",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          36
+        ],
+        "text": "ペシャワル",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          28
+        ],
+        "text": "■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          31
+        ],
+        "text": "アルカイダ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          59,
+          64
+        ],
+        "text": "アルカイダ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          58
+        ],
+        "text": "アルカイダ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          10
+        ],
+        "text": "アルカイダ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          15
+        ],
+        "text": "アフガニスタン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          36,
+          43
+        ],
+        "text": "アフガニスタン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          32
+        ],
+        "text": "アフガニスタン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          10
+        ],
+        "text": "2003年6月23日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          29
+        ],
+        "text": "パキスタン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          28
+        ],
+        "text": "パキスタン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          32
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          2,
+          4
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          18
+        ],
+        "text": "500人",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          11
+        ],
+        "text": "第82空挺師団",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          58
+        ],
+        "text": "タリバン",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "タリバン",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          40,
+          47
+        ],
+        "text": "ナンガルハール",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Operation_Unified_Resolve",
+          "wikidata": "http://www.wikidata.org/entity/Q7097675"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Al-Qaeda",
+          "wikidata": "http://www.wikidata.org/entity/Q34490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%BC%E3%82%A4%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Afghanistan",
+          "wikidata": "http://www.wikidata.org/entity/Q889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pakistan",
+          "wikidata": "http://www.wikidata.org/entity/Q843",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/82nd_Airborne_Division",
+          "wikidata": "http://www.wikidata.org/entity/Q2358",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC82%E7%A9%BA%E6%8C%BA%E5%B8%AB%E5%9B%A3_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Taliban",
+          "wikidata": "http://www.wikidata.org/entity/Q42418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%90%E3%83%BC%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nangarhar_Province",
+          "wikidata": "http://www.wikidata.org/entity/Q178471",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%AB%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kunar_Province",
+          "wikidata": "http://www.wikidata.org/entity/Q188147",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%8A%E3%83%AB%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jalalabad",
+          "wikidata": "http://www.wikidata.org/entity/Q183303",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Jalalabad,_Afghanistan",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%A9%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1",
+          "M12_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Afghanistan",
+          "wikidata": "http://www.wikidata.org/entity/Q889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kabul",
+          "wikidata": "http://www.wikidata.org/entity/Q5838",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Peshawar",
+          "wikidata": "http://www.wikidata.org/entity/Q1113311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AF%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gulbuddin_Hekmatyar",
+          "wikidata": "http://www.wikidata.org/entity/Q317797",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%83%96%E3%83%83%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%98%E3%82%AF%E3%83%9E%E3%83%86%E3%82%A3%E3%83%A4%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

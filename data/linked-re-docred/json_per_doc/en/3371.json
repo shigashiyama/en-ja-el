@@ -1,0 +1,198 @@
+{
+  "3371": {
+    "doc_info": {
+      "title": "List of islands of Western Australia, M–Q",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "This is a list of islands in Western Australia .",
+        "text": "This is a list of islands in Western Australia .",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It includes all coastal and inland islands , cays , isles and islets .",
+        "text": "It includes all coastal and inland islands , cays , isles and islets .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "It also includes named island groups , archipelagos and island clumps .",
+        "text": "It also includes named island groups , archipelagos and island clumps .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "This list is complete with respect to the 1996 Gazetteer of Australia .",
+        "text": "This list is complete with respect to the 1996 Gazetteer of Australia .",
+        "mention_ids": [
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Dubious names have been checked against the online 2004 data , and in all cases confirmed correct .",
+        "text": "Dubious names have been checked against the online 2004 data , and in all cases confirmed correct .",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "05": {
+        "orig_text": "However , if any islands have been gazetted or deleted since 1996 , this list does not reflect these changes .",
+        "text": "However , if any islands have been gazetted or deleted since 1996 , this list does not reflect these changes .",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "06": {
+        "orig_text": "Strictly speaking , Australian place names are gazetted in capital letters only ; the names in this list have been converted to mixed case in accordance with normal capitalisation conventions .",
+        "text": "Strictly speaking , Australian place names are gazetted in capital letters only ; the names in this list have been converted to mixed case in accordance with normal capitalisation conventions .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "07": {
+        "orig_text": "Locations are as gazetted ; obviously some islands may extend over large areas .",
+        "text": "Locations are as gazetted ; obviously some islands may extend over large areas .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          46
+        ],
+        "text": "Western Australia",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          46
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          61,
+          65
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          47,
+          69
+        ],
+        "text": "Gazetteer of Australia",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          51,
+          55
+        ],
+        "text": "2004",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          30
+        ],
+        "text": "Australian",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Western_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q3206",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gazetteer_of_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q5529110"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

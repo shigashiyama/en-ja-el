@@ -1,0 +1,746 @@
+{
+  "3346": {
+    "doc_info": {
+      "title": "Concordia Station",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Concordia Research Station , which opened in 2005 , is a French - Italian research facility that was built above sea level at a location called Dome C on the Antarctic Plateau , Antarctica .",
+        "text": "Concordia Research Station , which opened in 2005 , is a French - Italian research facility that was built above sea level at a location called Dome C on the Antarctic Plateau , Antarctica .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is located inland from the French research station at Dumont D'Urville , inland from Australia 's Casey Station and inland from the Italian Zucchelli Station at Terra Nova Bay .",
+        "text": "It is located inland from the French research station at Dumont D'Urville , inland from Australia 's Casey Station and inland from the Italian Zucchelli Station at Terra Nova Bay .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M2_1",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Russia 's Vostok Station is away .",
+        "text": "Russia 's Vostok Station is away .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The Geographic South Pole is away .",
+        "text": "The Geographic South Pole is away .",
+        "mention_ids": [
+          "M14_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The facility is also located within Australia 's claim on Antarctica , the Australian Antarctic Territory .",
+        "text": "The facility is also located within Australia 's claim on Antarctica , the Australian Antarctic Territory .",
+        "mention_ids": [
+          "M15_0",
+          "M6_1",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Concordia Station is the third permanent , all - year research station on the Antarctic Plateau besides Vostok Station ( Russian ) and the Amundsen – Scott South Pole Station ( U.S. ) at the Geographic South Pole .",
+        "text": "Concordia Station is the third permanent , all - year research station on the Antarctic Plateau besides Vostok Station ( Russian ) and the Amundsen – Scott South Pole Station ( U.S. ) at the Geographic South Pole .",
+        "mention_ids": [
+          "M0_1",
+          "M13_1",
+          "M14_1",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M5_1"
+        ]
+      },
+      "06": {
+        "orig_text": "It is jointly operated by scientists from France and Italy and regularly hosts ESA scientists .",
+        "text": "It is jointly operated by scientists from France and Italy and regularly hosts ESA scientists .",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          26
+        ],
+        "text": "Concordia Research Station",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          17
+        ],
+        "text": "Concordia Station",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          135,
+          160
+        ],
+        "text": "Italian Zucchelli Station",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          164,
+          178
+        ],
+        "text": "Terra Nova Bay",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Russia",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          24
+        ],
+        "text": "Vostok Station",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "05",
+        "span": [
+          104,
+          118
+        ],
+        "text": "Vostok Station",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          25
+        ],
+        "text": "Geographic South Pole",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "05",
+        "span": [
+          191,
+          212
+        ],
+        "text": "Geographic South Pole",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          75,
+          105
+        ],
+        "text": "Australian Antarctic Territory",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          121,
+          128
+        ],
+        "text": "Russian",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          139,
+          174
+        ],
+        "text": "Amundsen – Scott South Pole Station",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          177,
+          181
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          48
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          45,
+          49
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          53,
+          58
+        ],
+        "text": "Italy",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          79,
+          82
+        ],
+        "text": "ESA",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          63
+        ],
+        "text": "French",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          30,
+          36
+        ],
+        "text": "French",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          73
+        ],
+        "text": "Italian",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          144,
+          150
+        ],
+        "text": "Dome C",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          158,
+          175
+        ],
+        "text": "Antarctic Plateau",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          78,
+          95
+        ],
+        "text": "Antarctic Plateau",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          178,
+          188
+        ],
+        "text": "Antarctica",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          68
+        ],
+        "text": "Antarctica",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          73
+        ],
+        "text": "Dumont D'Urville",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          88,
+          97
+        ],
+        "text": "Australia",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          36,
+          45
+        ],
+        "text": "Australia",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          114
+        ],
+        "text": "Casey Station",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Concordia_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q403127"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dome_C",
+          "wikidata": "http://www.wikidata.org/entity/Q3045552"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antarctic_Plateau",
+          "wikidata": "http://www.wikidata.org/entity/Q1001294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E9%AB%98%E5%8E%9F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antarctica",
+          "wikidata": "http://www.wikidata.org/entity/Q51",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dumont_d%27Urville_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q403901",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dumont_d'Urville_Station"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australian_Antarctic_Division",
+          "wikidata": "http://www.wikidata.org/entity/Q781331"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Casey_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q1047169"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Zucchelli_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q1677142"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Terra_Nova_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q731848"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_Antarctic_Expedition",
+          "wikidata": "http://www.wikidata.org/entity/Q1834879"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vostok_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q211014",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E5%9F%BA%E5%9C%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Pole",
+          "wikidata": "http://www.wikidata.org/entity/Q933",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Geographic_South_Pole",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E7%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory",
+          "wikidata": "http://www.wikidata.org/entity/Q178994",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%8D%97%E6%A5%B5%E9%A0%98%E5%9C%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amundsen%E2%80%93Scott_South_Pole_Station",
+          "wikidata": "http://www.wikidata.org/entity/Q243307",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Amundsen–Scott_South_Pole_Station",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%B3%E3%82%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E5%9F%BA%E5%9C%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Space_Agency",
+          "wikidata": "http://www.wikidata.org/entity/Q42262",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/ESA",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%AE%87%E5%AE%99%E6%A9%9F%E9%96%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

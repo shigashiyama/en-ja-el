@@ -1,0 +1,430 @@
+{
+  "3514": {
+    "doc_info": {
+      "title": "Ljiljana Raičević",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■(；1947年6月29日生まれ、旧姓■■■■■■■)は、セルビアとモンテネグロの人権および女性の権利活動家です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "彼女は、2006年にアムネスティ・インターナショナルのジネッタ・セーガン基金賞を受賞しました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "■■■■■■■は、モンテネグロのSOS・LINEを設立しました。これは、虐待的な関係にある女性にリソースを提供することで女性に奉仕する同国初のNGOです。",
+        "mention_ids": [
+          "M0_1",
+          "M4_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "SOS・LINEに電話をかけてきた女性たちが、医学的、心理的、法的支援だけでなく、安全な滞在場所などの追加の支援を必要としていることに気づいた後、■■■■■■■■はモンテネグロにおける家庭内暴力の被害者のための最初の避難所である女性のセーフ・ハウスを設立しました。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M4_2",
+          "M8_1"
+        ]
+      },
+      "04": {
+        "text": "セーフ・ハウスを利用して、彼女はモンテネグロの議会に証人保護法の採択を求める働きかけに成功しました。",
+        "mention_ids": [
+          "M10_1",
+          "M11_0",
+          "M4_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          73,
+          81
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          114,
+          124
+        ],
+        "text": "女性のセーフ・ハウス",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "セーフ・ハウス",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          25
+        ],
+        "text": "議会",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          25
+        ],
+        "text": "1947年6月29日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          38
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          45
+        ],
+        "text": "セルビア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          52
+        ],
+        "text": "モンテネグロ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          15
+        ],
+        "text": "モンテネグロ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "03",
+        "span": [
+          82,
+          88
+        ],
+        "text": "モンテネグロ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          22
+        ],
+        "text": "モンテネグロ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          9
+        ],
+        "text": "2006年",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          26
+        ],
+        "text": "アムネスティ・インターナショナル",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          39
+        ],
+        "text": "ジネッタ・セーガン基金賞",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          24
+        ],
+        "text": "SOS・LINE",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          8
+        ],
+        "text": "SOS・LINE",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          74
+        ],
+        "text": "NGO",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ljiljana_Rai%C4%8Devi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q16734878",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ljiljana_Raičević"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ljiljana_Rai%C4%8Devi%C4%87",
+          "wikidata": "http://www.wikidata.org/entity/Q16734878",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ljiljana_Raičević"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Serbia",
+          "wikidata": "http://www.wikidata.org/entity/Q403",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Montenegro",
+          "wikidata": "http://www.wikidata.org/entity/Q236",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%8D%E3%82%B0%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Amnesty_International",
+          "wikidata": "http://www.wikidata.org/entity/Q42970",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A0%E3%83%8D%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Non-governmental_organization",
+          "wikidata": "http://www.wikidata.org/entity/Q79913",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/NGO",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%B5%84%E7%B9%94"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_Montenegro",
+          "wikidata": "http://www.wikidata.org/entity/Q1579497",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%8D%E3%82%B0%E3%83%AD%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

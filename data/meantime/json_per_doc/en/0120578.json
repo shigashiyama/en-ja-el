@@ -1,0 +1,463 @@
+{
+  "0120578": {
+    "doc_info": {
+      "title": "120578_Automobile_sales_in_the_United_States_down_sharply",
+      "url": "http://en.wikinews.org/wiki/Automobile_sales_in_the_United_States_down_sharply"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Automobile sales in the United States down sharply",
+        "text": "Automobile sales in the United States down sharply",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "01": {
+        "orig_text": "February 03, 2009",
+        "text": "February 03, 2009",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Sales of automobiles in the United States fell as much as 35% in January, compared to the same month a year ago, as manufacturers reported their January sales.",
+        "text": "Sales of automobiles in the United States fell as much as 35% in January, compared to the same month a year ago, as manufacturers reported their January sales.",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "03": {
+        "orig_text": "Ford Motor Company sales dropped 42% last month from the previous year.",
+        "text": "Ford Motor Company sales dropped 42% last month from the previous year.",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "04": {
+        "orig_text": "General Motors reported a 49% decline.",
+        "text": "General Motors reported a 49% decline.",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "05": {
+        "orig_text": "Chrysler was hardest hit among the domestically owned manufacturers with a plunge of 55%.",
+        "text": "Chrysler was hardest hit among the domestically owned manufacturers with a plunge of 55%.",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "06": {
+        "orig_text": "The decline in sales has not been limited to just US manufacturers.",
+        "text": "The decline in sales has not been limited to just US manufacturers.",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "Japanese automaker Toyota reported a 32% drop in US sales from a year earlier, Nissan Motors dropped 30%, and Honda sales dropped 28%.",
+        "text": "Japanese automaker Toyota reported a 32% drop in US sales from a year earlier, Nissan Motors dropped 30%, and Honda sales dropped 28%.",
+        "mention_ids": [
+          "M068",
+          "M070"
+        ]
+      },
+      "08": {
+        "orig_text": "Subaru and South Korean Hyundai Motor Company were two of the few auto firms that reported an increase in sales.",
+        "text": "Subaru and South Korean Hyundai Motor Company were two of the few auto firms that reported an increase in sales.",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "09": {
+        "orig_text": "They posted gains of eight and fourteen percent, respectively.",
+        "text": "They posted gains of eight and fourteen percent, respectively.",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "On an annual basis, sales overall have also been plummeting.",
+        "text": "On an annual basis, sales overall have also been plummeting.",
+        "mention_ids": []
+      },
+      "11": {
+        "orig_text": "Industry-wide US car sales dropped 18% last year to 13.2 million automobiles.",
+        "text": "Industry-wide US car sales dropped 18% last year to 13.2 million automobiles.",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "12": {
+        "orig_text": "GM announced today that it will offer voluntary buyouts to 22,000 employees in the US, in an effort to reduce its expenditures.",
+        "text": "GM announced today that it will offer voluntary buyouts to 22,000 employees in the US, in an effort to reduce its expenditures.",
+        "mention_ids": [
+          "M061",
+          "M067",
+          "M072"
+        ]
+      },
+      "13": {
+        "orig_text": "Last month, GM and Chrysler were given loans worth US$17.4 billion from the government after they warned of imminent bankruptcy.",
+        "text": "Last month, GM and Chrysler were given loans worth US$17.4 billion from the government after they warned of imminent bankruptcy.",
+        "mention_ids": [
+          "M055",
+          "M063"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          9,
+          20
+        ],
+        "text": "automobiles",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          41
+        ],
+        "text": "the United States",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          116,
+          129
+        ],
+        "text": "manufacturers",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          139,
+          144
+        ],
+        "text": "their",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          18
+        ],
+        "text": "Ford Motor Company",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M022": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          14
+        ],
+        "text": "General Motors",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M026": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          8
+        ],
+        "text": "Chrysler",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M027": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          67
+        ],
+        "text": "the domestically owned manufacturers",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M043": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Automobile",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M044": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          37
+        ],
+        "text": "the United States",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M049": {
+        "sentence_id": "08",
+        "span": [
+          66,
+          70
+        ],
+        "text": "auto",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M053": {
+        "sentence_id": "11",
+        "span": [
+          17,
+          20
+        ],
+        "text": "car",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M055": {
+        "sentence_id": "13",
+        "span": [
+          12,
+          27
+        ],
+        "text": "GM and Chrysler",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M061": {
+        "sentence_id": "12",
+        "span": [
+          110,
+          113
+        ],
+        "text": "its",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M063": {
+        "sentence_id": "13",
+        "span": [
+          93,
+          97
+        ],
+        "text": "they",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M067": {
+        "sentence_id": "12",
+        "span": [
+          24,
+          26
+        ],
+        "text": "it",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M068": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          25
+        ],
+        "text": "Japanese automaker Toyota",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M070": {
+        "sentence_id": "07",
+        "span": [
+          79,
+          92
+        ],
+        "text": "Nissan Motors",
+        "entity_type": null,
+        "entity_id": "E082"
+      },
+      "M072": {
+        "sentence_id": "12",
+        "span": [
+          0,
+          2
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E091"
+      }
+    },
+    "entities": {
+      "E077": {
+        "member_mention_ids": [
+          "M002",
+          "M044"
+        ],
+        "removed_mention_ids": [
+          "M038"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E079": {
+        "member_mention_ids": [
+          "M055",
+          "M063"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E080": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E082": {
+        "member_mention_ids": [
+          "M070"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nissan_Motor_Company",
+          "dbpedia:orig": "http://dbpedia.org/resource/Nissan_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nissan",
+          "wikidata": "http://www.wikidata.org/entity/Q20165",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E8%87%AA%E5%8B%95%E8%BB%8A"
+        }
+      },
+      "E083": {
+        "member_mention_ids": [
+          "M001",
+          "M043",
+          "M049",
+          "M053"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E084": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E085": {
+        "member_mention_ids": [
+          "M003",
+          "M004"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E087": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M068"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Toyota",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Toyota",
+          "wikidata": "http://www.wikidata.org/entity/Q53268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E8%87%AA%E5%8B%95%E8%BB%8A"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "removed_mention_ids": [
+          "M047"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Chrysler",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chrysler",
+          "wikidata": "http://www.wikidata.org/entity/Q181114",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC"
+        }
+      },
+      "E091": {
+        "member_mention_ids": [
+          "M022",
+          "M067",
+          "M072"
+        ],
+        "removed_mention_ids": [
+          "M048",
+          "M061"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      }
+    }
+  }
+}

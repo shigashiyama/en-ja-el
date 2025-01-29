@@ -1,0 +1,951 @@
+{
+  "3233": {
+    "doc_info": {
+      "title": "Minako Nishiyama",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■ ( ■■■■■■ , born in Hyōgo prefecture , in 1965 ) is a Japanese contemporary artist whose works have dealt with cultures , customs , and the representations of young females in Japanese media and popular culture .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_1",
+          "M3_2"
+        ]
+      },
+      "01": {
+        "orig_text": "Her work is identified with an initial stage of the artistic transformation of post - modern Japanese \" cute culture \" in which cute images were appropriated and used for critique .",
+        "text": "Her work is identified with an initial stage of the artistic transformation of post - modern Japanese \" cute culture \" in which cute images were appropriated and used for critique .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Nationally she has had many solo shows in Okayama , Tokyo , Kyoto , Osaka , Fukuoka , and Nishinomiya .",
+        "text": "Nationally she has had many solo shows in Okayama , Tokyo , Kyoto , Osaka , Fukuoka , and Nishinomiya .",
+        "mention_ids": [
+          "M10_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "In addition to a solo show at the Galerie Ghislaine Hussenot in Paris , France she has participated internationally in group shows in Beijing , China ; Madrid , Spain ; Rimini , Italy and Portland , Oregon , Minneapolis and Miami in the United States .",
+        "text": "In addition to a solo show at the Galerie Ghislaine Hussenot in Paris , France she has participated internationally in group shows in Beijing , China ; Madrid , Spain ; Rimini , Italy and Portland , Oregon , Minneapolis and Miami in the United States .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Since the beginning of the 1990s she has been making sculptures , paintings and installations using a transient material such as sugar with a bright luscious pink red to pink color that evaporate and dissolve over time .",
+        "text": "Since the beginning of the 1990s she has been making sculptures , paintings and installations using a transient material such as sugar with a bright luscious pink red to pink color that evaporate and dissolve over time .",
+        "mention_ids": [
+          "M25_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Her used of sugar and bright pink color refer to the stereotypical representations or images of cuteness or kawaii of young Japanese female .",
+        "text": "Her used of sugar and bright pink color refer to the stereotypical representations or images of cuteness or kawaii of young Japanese female .",
+        "mention_ids": [
+          "M3_3"
+        ]
+      },
+      "06": {
+        "orig_text": "In 2015 her work was included in the group exhibition \" Kawaii \" at the University for the Creative Arts in Farnham , England .",
+        "text": "In 2015 her work was included in the group exhibition \" Kawaii \" at the University for the Creative Arts in Farnham , England .",
+        "mention_ids": [
+          "M26_0",
+          "M27_0",
+          "M28_0",
+          "M29_0",
+          "M30_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          25
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          90,
+          101
+        ],
+        "text": "Nishinomiya",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          34,
+          60
+        ],
+        "text": "Galerie Ghislaine Hussenot",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          64,
+          69
+        ],
+        "text": "Paris",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          72,
+          78
+        ],
+        "text": "France",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          134,
+          141
+        ],
+        "text": "Beijing",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          144,
+          149
+        ],
+        "text": "China",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          152,
+          158
+        ],
+        "text": "Madrid",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          161,
+          166
+        ],
+        "text": "Spain",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "03",
+        "span": [
+          169,
+          175
+        ],
+        "text": "Rimini",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "03",
+        "span": [
+          178,
+          183
+        ],
+        "text": "Italy",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          52
+        ],
+        "text": "Hyōgo prefecture",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "03",
+        "span": [
+          188,
+          196
+        ],
+        "text": "Portland",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "03",
+        "span": [
+          199,
+          205
+        ],
+        "text": "Oregon",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "03",
+        "span": [
+          208,
+          219
+        ],
+        "text": "Minneapolis",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "03",
+        "span": [
+          224,
+          229
+        ],
+        "text": "Miami",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "03",
+        "span": [
+          233,
+          250
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          32
+        ],
+        "text": "the 1990s",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          7
+        ],
+        "text": "2015",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "06",
+        "span": [
+          56,
+          62
+        ],
+        "text": "Kawaii",
+        "entity_type": "MISC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "06",
+        "span": [
+          72,
+          104
+        ],
+        "text": "University for the Creative Arts",
+        "entity_type": "ORG",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "06",
+        "span": [
+          108,
+          115
+        ],
+        "text": "Farnham",
+        "entity_type": "LOC",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          62
+        ],
+        "text": "1965",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "06",
+        "span": [
+          118,
+          125
+        ],
+        "text": "England",
+        "entity_type": "LOC",
+        "entity_id": "E030"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          93,
+          101
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          78
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "00",
+        "span": [
+          192,
+          200
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          124,
+          132
+        ],
+        "text": "Japanese",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          104,
+          116
+        ],
+        "text": "cute culture",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          49
+        ],
+        "text": "Okayama",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          57
+        ],
+        "text": "Tokyo",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          65
+        ],
+        "text": "Kyoto",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          68,
+          73
+        ],
+        "text": "Osaka",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          76,
+          83
+        ],
+        "text": "Fukuoka",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minako_Nishiyama",
+          "wikidata": "http://www.wikidata.org/entity/Q3314701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E7%BE%8E%E3%81%AA%E3%82%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hy%C5%8Dgo_Prefecture",
+          "wikidata": "http://www.wikidata.org/entity/Q130290",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Hyōgo_Prefecture",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kawaii",
+          "wikidata": "http://www.wikidata.org/entity/Q281639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%84%9B%E3%81%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Okayama",
+          "wikidata": "http://www.wikidata.org/entity/Q200078",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B1%B1%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tokyo",
+          "wikidata": "http://www.wikidata.org/entity/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kyoto",
+          "wikidata": "http://www.wikidata.org/entity/Q34600",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Osaka",
+          "wikidata": "http://www.wikidata.org/entity/Q35765",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fukuoka",
+          "wikidata": "http://www.wikidata.org/entity/Q26600",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nishinomiya",
+          "wikidata": "http://www.wikidata.org/entity/Q243853",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%AE%AE%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Paris,_France",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beijing",
+          "wikidata": "http://www.wikidata.org/entity/Q956",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Beijing,_China",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Madrid",
+          "wikidata": "http://www.wikidata.org/entity/Q2807",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Madrid,_Spain",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rimini",
+          "wikidata": "http://www.wikidata.org/entity/Q13369",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rimini,_Italy",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9F%E3%83%8B"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portland,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q6106",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Minneapolis",
+          "wikidata": "http://www.wikidata.org/entity/Q36091",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8D%E3%82%A2%E3%83%9D%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Miami",
+          "wikidata": "http://www.wikidata.org/entity/Q8652",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%9F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kawaii",
+          "wikidata": "http://www.wikidata.org/entity/Q281639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%84%9B%E3%81%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/University_for_the_Creative_Arts",
+          "wikidata": "http://www.wikidata.org/entity/Q2598272",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/UCA%E8%8A%B8%E8%A1%93%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Farnham",
+          "wikidata": "http://www.wikidata.org/entity/Q643160"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/England",
+          "wikidata": "http://www.wikidata.org/entity/Q21",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

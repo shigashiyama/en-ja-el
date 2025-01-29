@@ -1,0 +1,401 @@
+{
+  "3442": {
+    "doc_info": {
+      "title": "P. D. T. Acharya",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■ ( born 17 June 1945 ) is the former Secretary General of the 14th Lok Sabha and 15th Lok Sabha and Lok Sabha Secretariat , Parliament of India .",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "As Secretary General , he was also the ex - officio administrative head of the Secretariat of the Lok Sabha .",
+        "text": "As Secretary General , he was also the ex - officio administrative head of the Secretariat of the Lok Sabha .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The post of Secretary - General is of the rank of the Cabinet Secretary in the Government of India , who is the senior most civil servant to the Indian Government .",
+        "text": "The post of Secretary - General is of the rank of the Cabinet Secretary in the Government of India , who is the senior most civil servant to the Indian Government .",
+        "mention_ids": [
+          "M6_0",
+          "M7_1",
+          "M7_2"
+        ]
+      },
+      "03": {
+        "orig_text": "The incumbent to the post is appointed by the Speaker of Lok Sabha in consultation with the Prime Minister of India and the Leader of the Opposition in the Lok Sabha .",
+        "text": "The incumbent to the post is appointed by the Speaker of Lok Sabha in consultation with the Prime Minister of India and the Leader of the Opposition in the Lok Sabha .",
+        "mention_ids": [
+          "M3_1",
+          "M3_2",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "As per precedence , incumbents to the post of Secretary General have either been senior officers in the Lok Sabha Secretariat or senior civil servants in the Government of India .",
+        "text": "As per precedence , incumbents to the post of Secretary General have either been senior officers in the Lok Sabha Secretariat or senior civil servants in the Government of India .",
+        "mention_ids": [
+          "M10_1",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          23
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "00",
+        "span": [
+          123,
+          144
+        ],
+        "text": "Lok Sabha Secretariat",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          104,
+          125
+        ],
+        "text": "Lok Sabha Secretariat",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          43
+        ],
+        "text": "17 June 1945",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          99
+        ],
+        "text": "14th Lok Sabha",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          109,
+          118
+        ],
+        "text": "Lok Sabha",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          156,
+          165
+        ],
+        "text": "Lok Sabha",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          57,
+          66
+        ],
+        "text": "Lok Sabha",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          147,
+          166
+        ],
+        "text": "Parliament of India",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          79,
+          107
+        ],
+        "text": "Secretariat of the Lok Sabha",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          61
+        ],
+        "text": "Cabinet",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          158,
+          177
+        ],
+        "text": "Government of India",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "02",
+        "span": [
+          79,
+          98
+        ],
+        "text": "Government of India",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "02",
+        "span": [
+          145,
+          162
+        ],
+        "text": "Indian Government",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          110,
+          115
+        ],
+        "text": "India",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          138,
+          148
+        ],
+        "text": "Opposition",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/P._D._T._Achary",
+          "wikidata": "http://www.wikidata.org/entity/Q7117201"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/14th_Lok_Sabha",
+          "wikidata": "http://www.wikidata.org/entity/Q3521611"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha",
+          "wikidata": "http://www.wikidata.org/entity/Q230003",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B5%E3%83%90%E3%83%BC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q695252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%9B%BD%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha_Secretariat",
+          "wikidata": "http://www.wikidata.org/entity/Q85781931"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cabinet_secretary",
+          "wikidata": "http://www.wikidata.org/entity/Q2920659",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Cabinet_Secretary"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Government_of_India",
+          "wikidata": "http://www.wikidata.org/entity/Q2767140",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E6%94%BF%E5%BA%9C"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Opposition_(politics)",
+          "wikidata": "http://www.wikidata.org/entity/Q192852",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%85%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lok_Sabha_Secretariat",
+          "wikidata": "http://www.wikidata.org/entity/Q85781931"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

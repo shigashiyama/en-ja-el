@@ -1,0 +1,387 @@
+{
+  "3389": {
+    "doc_info": {
+      "title": "Edward Lowassa",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Edward Ngoyai Lowassa ( born August 26 , 1953 ) is a Tanzanian politician who was Prime Minister of Tanzania from 2005 to 2008 , serving under President ■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M2_2",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Lowassa has gone into record as the first Prime Minister to have been forced to resign by a fraud scandal in the history of Tanzania .",
+        "text": "Lowassa has gone into record as the first Prime Minister to have been forced to resign by a fraud scandal in the history of Tanzania .",
+        "mention_ids": [
+          "M0_1",
+          "M2_1"
+        ]
+      },
+      "02": {
+        "text": "Following his resignation President ■■■■■■■ was obliged to dissolve his cabinet as required by the Constitution and with minimum delay , constituted a new one under a new Prime Minister , ■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M5_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "After the ruling CCM failed to select him as its candidate for the October 2015 presidential election , he left the party and stood instead as an opposition candidate .",
+        "text": "After the ruling CCM failed to select him as its candidate for the October 2015 presidential election , he left the party and stood instead as an opposition candidate .",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "He was defeated in the election by CCM candidate John Magufuli .",
+        "text": "He was defeated in the election by CCM candidate John Magufuli .",
+        "mention_ids": [
+          "M10_0",
+          "M8_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Edward Ngoyai Lowassa",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Lowassa",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          62
+        ],
+        "text": "John Magufuli",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          45
+        ],
+        "text": "August 26 , 1953",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          53,
+          62
+        ],
+        "text": "Tanzanian",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          124,
+          132
+        ],
+        "text": "Tanzania",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "00",
+        "span": [
+          100,
+          108
+        ],
+        "text": "Tanzania",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          114,
+          118
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          122,
+          126
+        ],
+        "text": "2008",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          153,
+          167
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          43
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          99,
+          111
+        ],
+        "text": "Constitution",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          188,
+          201
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          20
+        ],
+        "text": "CCM",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          35,
+          38
+        ],
+        "text": "CCM",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          67,
+          79
+        ],
+        "text": "October 2015",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edward_Lowassa",
+          "wikidata": "http://www.wikidata.org/entity/Q451885"
+        },
+        "date_of_death": "2024-02-10T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tanzania",
+          "wikidata": "http://www.wikidata.org/entity/Q924",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ridhiwani_Kikwete",
+          "wikidata": "http://www.wikidata.org/entity/Q16218586"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Constitution",
+          "wikidata": "http://www.wikidata.org/entity/Q7755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%81%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E6%B3%95%E5%AD%A6)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mizengo_Pinda",
+          "wikidata": "http://www.wikidata.org/entity/Q57693",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BC%E3%83%B3%E3%82%B4%E3%83%BB%E3%83%94%E3%83%B3%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chama_Cha_Mapinduzi",
+          "wikidata": "http://www.wikidata.org/entity/Q652091",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Chama_cha_Mapinduzi",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2%E9%9D%A9%E5%91%BD%E5%85%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Magufuli",
+          "wikidata": "http://www.wikidata.org/entity/Q5018756",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B0%E3%83%95%E3%83%AA"
+        },
+        "date_of_death": "2021-03-17T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

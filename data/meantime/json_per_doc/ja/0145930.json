@@ -1,0 +1,308 @@
+{
+  "0145930": {
+    "doc_info": {
+      "title": "145930_Boeing_787_Dreamliner_makes_maiden_flight",
+      "url": "http://en.wikinews.org/wiki/Boeing_787_\"Dreamliner\"_makes_maiden_flight"
+    },
+    "sentences": {
+      "00": {
+        "text": "ボーイング787「ドリームライナー」、初飛行する",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "01": {
+        "text": "2009年12月16日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "ボーイングの最新民間航空機の787「ドリームライナー」は、火曜日の18:00 UTCにワシントン州エベレットでその最初のテスト飛行を行いました。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M005"
+        ]
+      },
+      "03": {
+        "text": "ボーイングは、新しい290席以上のワイドボディ、双発エンジンのジェット旅客機は、以前のボーイングモデルよりも燃費が良いと主張しています。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M010"
+        ]
+      },
+      "04": {
+        "text": "「ドリームライナー」の発売は予定よりほぼ2年半遅れています。",
+        "mention_ids": [
+          "M011"
+        ]
+      },
+      "05": {
+        "text": "このプロジェクトは、ストライキの影響、部品不足、および設計上の問題など、さまざまな問題に悩まされてきました。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "この航空機は、これまでに840機の注文を引き付けてきたと考えられていますが、一部は遅延により取り消されており、そのために787はボーイングにとって1,400億米ドル（960億ドル、#860億)程度の価値になります。",
+        "mention_ids": [
+          "M058",
+          "M064",
+          "M102"
+        ]
+      },
+      "07": {
+        "text": "航空宇宙アナリストのリチャード・アブラフィアは、「[試験飛行は]計画が再びある種の予定の通りに進んでいるという、大いに求められている認識を与えるでしょうが、最終的な実績にはまだ程遠いのです」と語りました。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "ボーイングの欧州の競合社であるエアバスは、同等の航空機であるA350を2013年に発売する準備を進めています。",
+        "mention_ids": [
+          "M070",
+          "M075"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          26
+        ],
+        "text": "ボーイングの最新民間航空機の787「ドリームライナー",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          54
+        ],
+        "text": "ワシントン州エベレット",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M003": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          17
+        ],
+        "text": "ボーイング787「ドリームライナー",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          55,
+          57
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M008": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          38
+        ],
+        "text": "新しい290席以上のワイドボディ、双発エンジンのジェット旅客機",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          40,
+          51
+        ],
+        "text": "以前のボーイングモデル",
+        "entity_type": null,
+        "entity_id": "E038"
+      },
+      "M011": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "「ドリームライナー",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M058": {
+        "sentence_id": "06",
+        "span": [
+          64,
+          69
+        ],
+        "text": "ボーイング",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M064": {
+        "sentence_id": "06",
+        "span": [
+          60,
+          63
+        ],
+        "text": "787",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M070": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ボーイングの欧州の競合社",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M075": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          19
+        ],
+        "text": "エアバス",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M102": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "この航空機",
+        "entity_type": null,
+        "entity_id": "E087"
+      }
+    },
+    "entities": {
+      "E038": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E087": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M011",
+          "M064",
+          "M102"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M008",
+          "M055",
+          "M054"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing_787_Dreamliner",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing_787_Dreamliner",
+          "wikidata": "http://www.wikidata.org/entity/Q6428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0787"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M070",
+          "M075"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Airbus",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Airbus",
+          "wikidata": "http://www.wikidata.org/entity/Q2311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%90%E3%82%B9"
+        }
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Everett,_Washington",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Everett,_Washington",
+          "wikidata": "http://www.wikidata.org/entity/Q392599",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%AC%E3%83%83%E3%83%88_(%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E)"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Washington_(state)",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington_(state)",
+          "wikidata": "http://www.wikidata.org/entity/Q1223",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E"
+        }
+      },
+      "E101": {
+        "member_mention_ids": [
+          "M007",
+          "M058"
+        ],
+        "removed_mention_ids": [
+          "M009",
+          "M004",
+          "M079"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Boeing",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Boeing",
+          "wikidata": "http://www.wikidata.org/entity/Q66",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0"
+        }
+      }
+    }
+  }
+}

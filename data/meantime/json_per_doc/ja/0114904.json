@@ -1,0 +1,241 @@
+{
+  "0114904": {
+    "doc_info": {
+      "title": "114904_Dow_Jones_recovers_hundreds_of_points,_before_losing_them_in_minutes",
+      "url": "http://en.wikinews.org/wiki/Dow_Jones_recovers_hundreds_of_points,_before_losing_them_in_minutes"
+    },
+    "sentences": {
+      "00": {
+        "text": "ダウ・ジョーンズは数百ポイントを回復しますが、数分でポイントを失います",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "01": {
+        "text": "2008年10月10日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "その日の初めに大きく下落した後、ダウ・ジョーンズ工業平均は数百ポイント回復し、同指数は再び250ポイント以上上昇し、その後わずか数分で100ポイントまで下落しました。",
+        "mention_ids": [
+          "M003",
+          "M006"
+        ]
+      },
+      "03": {
+        "text": "100ポイントまで下がった後、それは12ポイントまで上昇し、その後3ポイント下がりました。",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "04": {
+        "text": "3ポイントダウンした後、それはわずかな上昇とゼロ未満の間で上下を繰り返しました。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "05": {
+        "text": "これに続いて、市場は60ドルまで下がり、その後-36ドルまでわずかに回復しました。",
+        "mention_ids": [
+          "M036"
+        ]
+      },
+      "06": {
+        "text": "その市場はその後、-30ドルと-60ドルの間で数分間推移し、その後-11ドルまでわずかに回復し、再び-82ドルまで下がりました。",
+        "mention_ids": [
+          "M063"
+        ]
+      },
+      "07": {
+        "text": "同指数は、5年間で最低の水準である8,579.19まで下落し、1日で679ポイント下落しました。",
+        "mention_ids": [
+          "M086"
+        ],
+        "untranslated_mention_ids": [
+          "M061"
+        ]
+      },
+      "08": {
+        "text": "これは7.3%で、同指数の歴史の中で11番目に大きな下落率です。",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "09": {
+        "text": "その後も上昇は続き、同指数はその日の開始時点で一時150ポイント以上上昇しました。",
+        "mention_ids": [
+          "M076"
+        ]
+      },
+      "10": {
+        "text": "アバロン・パートナーズの首席市場エコノミストのピーター・カーディロは、米国の現在の金融状況についてコメントしました。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "「ここで我々が見たのは、それ自体を糧にし続けた1つの大きなマージンコールで、逆のことが起こる可能性があります。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "しかし、きっかけが必要です」と彼は言いました。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "「私は今、この市場が底を打ったとこれまで以上に確信しています。",
+        "mention_ids": [
+          "M075"
+        ]
+      },
+      "14": {
+        "text": "降伏は我々が8,000を突破したときに来ました」と彼は続けました。",
+        "mention_ids": []
+      },
+      "15": {
+        "text": "「それは、我々が戻って、そのレベルを再訪できないという意味ではありません。」",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          28
+        ],
+        "text": "ダウ・ジョーンズ工業平均",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          42
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M017": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          17
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M027": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          14
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M036": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          9
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M050": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M063": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "その市場",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M071": {
+        "sentence_id": "08",
+        "span": [
+          9,
+          12
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M075": {
+        "sentence_id": "13",
+        "span": [
+          5,
+          9
+        ],
+        "text": "この市場",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M076": {
+        "sentence_id": "09",
+        "span": [
+          10,
+          13
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M086": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E106"
+      }
+    },
+    "entities": {
+      "E106": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M017",
+          "M027",
+          "M036",
+          "M050",
+          "M063",
+          "M071",
+          "M075",
+          "M076",
+          "M086"
+        ],
+        "removed_mention_ids": [
+          "M061"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      }
+    }
+  }
+}

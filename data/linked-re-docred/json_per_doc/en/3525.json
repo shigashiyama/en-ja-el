@@ -1,0 +1,746 @@
+{
+  "3525": {
+    "doc_info": {
+      "title": "Volcanoes Stadium",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Volcanoes Stadium is a minor league baseball park in the northwest United States , located in Keizer , Oregon .",
+        "text": "Volcanoes Stadium is a minor league baseball park in the northwest United States , located in Keizer , Oregon .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is the home field of the Salem - Keizer Volcanoes , a Class A affiliate of the San Francisco Giants in the short - season Northwest League .",
+        "text": "It is the home field of the Salem - Keizer Volcanoes , a Class A affiliate of the San Francisco Giants in the short - season Northwest League .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Nicknamed \" Oregon 's Field of Dreams \" , it opened in 1997 and has a capacity of 4,254 people .",
+        "text": "Nicknamed \" Oregon 's Field of Dreams \" , it opened in 1997 and has a capacity of 4,254 people .",
+        "mention_ids": [
+          "M0_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The ballpark is adjacent to Interstate 5 , just beyond the right field fence , and sits at an approximate elevation of above sea level .",
+        "text": "The ballpark is adjacent to Interstate 5 , just beyond the right field fence , and sits at an approximate elevation of above sea level .",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The Volcanoes have won five Northwest League championships , in 1998 , 2001 , 2006 , 2007 , and 2009 .",
+        "text": "The Volcanoes have won five Northwest League championships , in 1998 , 2001 , 2006 , 2007 , and 2009 .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M4_1",
+          "M6_2"
+        ]
+      },
+      "05": {
+        "orig_text": "The team moved to Salem - Keizer in 1997 , after two seasons in Bellingham , Washington , preceded by eleven years in Everett .",
+        "text": "The team moved to Salem - Keizer in 1997 , after two seasons in Bellingham , Washington , preceded by eleven years in Everett .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M7_1"
+        ]
+      },
+      "06": {
+        "orig_text": "Salem 's previous NWL teams in the 1980s played at Chemeketa Community College .",
+        "text": "Salem 's previous NWL teams in the 1980s played at Chemeketa Community College .",
+        "mention_ids": [
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M6_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          17
+        ],
+        "text": "Volcanoes Stadium",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          37
+        ],
+        "text": "Oregon 's Field of Dreams",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          27
+        ],
+        "text": "five",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          64,
+          68
+        ],
+        "text": "1998",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          71,
+          75
+        ],
+        "text": "2001",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          78,
+          82
+        ],
+        "text": "2006",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          85,
+          89
+        ],
+        "text": "2007",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          96,
+          100
+        ],
+        "text": "2009",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          32
+        ],
+        "text": "Salem - Keizer",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          49,
+          52
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          64,
+          74
+        ],
+        "text": "Bellingham",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          77,
+          87
+        ],
+        "text": "Washington",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          67,
+          80
+        ],
+        "text": "United States",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          102,
+          114
+        ],
+        "text": "eleven years",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          118,
+          125
+        ],
+        "text": "Everett",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Salem",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          40
+        ],
+        "text": "1980s",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          51,
+          78
+        ],
+        "text": "Chemeketa Community College",
+        "entity_type": "ORG",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          94,
+          100
+        ],
+        "text": "Keizer",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          103,
+          109
+        ],
+        "text": "Oregon",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          28,
+          52
+        ],
+        "text": "Salem - Keizer Volcanoes",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          13
+        ],
+        "text": "Volcanoes",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          82,
+          102
+        ],
+        "text": "San Francisco Giants",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          125,
+          141
+        ],
+        "text": "Northwest League",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          21
+        ],
+        "text": "NWL",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          44
+        ],
+        "text": "Northwest League",
+        "entity_type": "ORG",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          55,
+          59
+        ],
+        "text": "1997",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          40
+        ],
+        "text": "1997",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          87
+        ],
+        "text": "4,254",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          40
+        ],
+        "text": "Interstate 5",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Volcanoes_Stadium",
+          "wikidata": "http://www.wikidata.org/entity/Q7940079"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Keizer,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q1762871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%B6%E3%83%BC_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Salem-Keizer_Volcanoes",
+          "wikidata": "http://www.wikidata.org/entity/Q7404019"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Francisco_Giants",
+          "wikidata": "http://www.wikidata.org/entity/Q308966",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Northwest_League",
+          "wikidata": "http://www.wikidata.org/entity/Q1186822",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Interstate_5_in_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q2442449"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Salem,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q43919",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bellingham_Mariners",
+          "wikidata": "http://www.wikidata.org/entity/Q4884029"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington_(state)",
+          "wikidata": "http://www.wikidata.org/entity/Q1223",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Everett_AquaSox",
+          "wikidata": "http://www.wikidata.org/entity/Q5416971",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%BD%E3%83%83%E3%82%AF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Salem,_Oregon",
+          "wikidata": "http://www.wikidata.org/entity/Q43919",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%A9%E3%83%A0_(%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chemeketa_Community_College",
+          "wikidata": "http://www.wikidata.org/entity/Q5090359",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%A1%E3%82%B1%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%83%E3%82%B8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "3132": {
+    "doc_info": {
+      "title": "Battle of Kashii",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "樫井の戦い(カシイの戦い)は、日本の江戸時代の初め頃の1615年の大坂の陣の夏の陣の最初の戦いでした。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "それは慶長年間の4月26日に起こりました。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "将軍の東軍が包囲を再開する準備をし、前年の冬に包囲が始まると、大阪守備隊が出動し、徳川軍を待ち伏せし小競り合いと包囲戦が起こりました。",
+        "mention_ids": [
+          "M10_2",
+          "M11_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "樫井の戦いでは、大阪の領主豊臣秀頼に忠誠を誓う部隊が、将軍の同盟者浅野長晟が支配する和歌山城を包囲しようとしました。",
+        "mention_ids": [
+          "M10_1",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "04": {
+        "text": "攻撃側は大野治長、花輪直之、岡部則綱が率いていました。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "05": {
+        "text": "浅野の守備隊は、彼らの攻撃者が支援や援軍から遠く離れていることに気づき、和歌山から少し離れた樫井で彼らと戦いました。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "06": {
+        "text": "岡部と花輪は戦死し、大野は大阪への撤退を余儀なくされました。",
+        "mention_ids": [
+          "M10_0",
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "樫井の戦い",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          12
+        ],
+        "text": "カシイの戦い",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          15
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          10
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_2": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          33
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          43
+        ],
+        "text": "徳川",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "樫井の戦い",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          17
+        ],
+        "text": "豊臣秀頼",
+        "entity_type": "PER",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          46
+        ],
+        "text": "和歌山城",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          37
+        ],
+        "text": "浅野長晟",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          8
+        ],
+        "text": "大野治長",
+        "entity_type": "PER",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          9,
+          13
+        ],
+        "text": "花輪直之",
+        "entity_type": "PER",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          18
+        ],
+        "text": "岡部則綱",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          2
+        ],
+        "text": "浅野",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          41
+        ],
+        "text": "夏の陣",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          46,
+          48
+        ],
+        "text": "樫井",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          39
+        ],
+        "text": "和歌山",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          2
+        ],
+        "text": "岡部",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          5
+        ],
+        "text": "花輪",
+        "entity_type": "PER",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          12
+        ],
+        "text": "大野",
+        "entity_type": "PER",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          27,
+          32
+        ],
+        "text": "1615年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          37
+        ],
+        "text": "大坂の陣",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          18,
+          22
+        ],
+        "text": "江戸時代",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          17
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          13
+        ],
+        "text": "4月26日",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          7
+        ],
+        "text": "慶長年間",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          5
+        ],
+        "text": "将軍の東軍",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Kashii",
+          "wikidata": "http://www.wikidata.org/entity/Q687349",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AB%E4%BA%95%E3%81%AE%E6%88%A6%E3%81%84"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Siege_of_Osaka",
+          "wikidata": "http://www.wikidata.org/entity/Q475780",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E3%81%AE%E9%99%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M10_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Osaka_Castle",
+          "wikidata": "http://www.wikidata.org/entity/Q321242",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Osaka_castle",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%9D%82%E5%9F%8E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edo_period",
+          "wikidata": "http://www.wikidata.org/entity/Q184963",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Kashii",
+          "wikidata": "http://www.wikidata.org/entity/Q687349",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AB%E4%BA%95%E3%81%AE%E6%88%A6%E3%81%84"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Toyotomi_Hideyori",
+          "wikidata": "http://www.wikidata.org/entity/Q313641",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E8%87%A3%E7%A7%80%E9%A0%BC"
+        },
+        "date_of_death": "1615-06-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wakayama_Castle",
+          "wikidata": "http://www.wikidata.org/entity/Q1151269",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%9F%8E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asano_Nagaakira",
+          "wikidata": "http://www.wikidata.org/entity/Q761596",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E9%95%B7%E6%99%9F"
+        },
+        "date_of_death": "1632-10-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/%C5%8Cno_Harunaga",
+          "wikidata": "http://www.wikidata.org/entity/Q8081663",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ono_Harunaga",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E6%B2%BB%E9%95%B7"
+        },
+        "date_of_death": "1615-06-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Okabe_Noritsuna",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Okabe_Noritsuna"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asano_Nagaakira",
+          "wikidata": "http://www.wikidata.org/entity/Q761596",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E9%95%B7%E6%99%9F"
+        },
+        "date_of_death": "1632-10-16T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Battle_of_Kashii",
+          "wikidata": "http://www.wikidata.org/entity/Q687349",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AB%E4%BA%95%E3%81%AE%E6%88%A6%E3%81%84"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wakayama_(city)",
+          "wikidata": "http://www.wikidata.org/entity/Q200747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Okabe_Noritsuna",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Okabe_Noritsuna"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/%C5%8Cno_Harunaga",
+          "wikidata": "http://www.wikidata.org/entity/Q8081663",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ono_Harunaga",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E6%B2%BB%E9%95%B7"
+        },
+        "date_of_death": "1615-06-04T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "3523": {
+    "doc_info": {
+      "title": "Appenzell (village)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "アッペンツェルは、村、統計上の町ですが、自治体ではなく、スイスのアッペンツェルインナーローデン州の州都です。",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "アッペンツェルには独自の自治体はありません。むしろ、アッペンツェルの各地域は、アッペンツェル、シュヴェンデ、およびリュテの地区（および自治体）に属し、統治されています。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_3",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "そのため、消防、エネルギー、水の確保のために、アッペンツェル村には、フォイアーシャウゲマインデという特別目的の自治体があります。",
+        "mention_ids": [
+          "M0_4",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "1071年、この村はアッバチェッラと呼ばれていました。",
+        "mention_ids": [
+          "M0_5",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "1223年までに、これは修道院長の独房を意味するアッバティスチェッラに変わりました。",
+        "mention_ids": [
+          "M0_6",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "これは、ザンクト・ガレン修道院の修道院長を指します。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "06": {
+        "text": "アッペンツェルの公用語は（標準語のスイス変種）ドイツ語ですが、主に話されている言語はアレマン語のスイス・ドイツ語の方言の現地変形版です。",
+        "mention_ids": [
+          "M0_7",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "text": "村の中心部の建物、教区教会、1563市庁舎、Salesisの家、クランクス城の遺跡、および管理棟付き州立文書館とともに国家重要遺産に登録されています。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          46
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          33
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "02",
+        "span": [
+          23,
+          30
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          17
+        ],
+        "text": "アッバチェッラ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          34
+        ],
+        "text": "アッバティスチェッラ",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_7": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          7
+        ],
+        "text": "アッペンツェル",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          27
+        ],
+        "text": "ドイツ語",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          47
+        ],
+        "text": "アレマン語",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          48,
+          56
+        ],
+        "text": "スイス・ドイツ語",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          18
+        ],
+        "text": "1563",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          22,
+          31
+        ],
+        "text": "Salesisの家",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          32,
+          38
+        ],
+        "text": "クランクス城",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          47
+        ],
+        "text": "アッペンツェルインナーローデン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          31
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          47,
+          53
+        ],
+        "text": "シュヴェンデ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          57,
+          60
+        ],
+        "text": "リュテ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          47
+        ],
+        "text": "フォイアーシャウゲマインデ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1071年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "1223年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          15
+        ],
+        "text": "ザンクト・ガレン修道院",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          20
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6",
+          "M0_7"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Appenzell_District",
+          "wikidata": "http://www.wikidata.org/entity/Q67125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Appenzell_(district)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Appenzell_Innerrhoden",
+          "wikidata": "http://www.wikidata.org/entity/Q12094",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%9A%E3%83%B3%E3%83%84%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%87%E3%83%B3%E6%BA%96%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Schwende_District",
+          "wikidata": "http://www.wikidata.org/entity/Q69378"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCte",
+          "wikidata": "http://www.wikidata.org/entity/Q67188",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rüte"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Feuerschaugemeinde",
+          "wikidata": "http://www.wikidata.org/entity/Q70697"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abbey_of_Saint_Gall",
+          "wikidata": "http://www.wikidata.org/entity/Q155699",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%88%E3%83%BB%E3%82%AC%E3%83%AC%E3%83%B3%E4%BF%AE%E9%81%93%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swiss_Standard_German",
+          "wikidata": "http://www.wikidata.org/entity/Q1366643"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alemannic_German",
+          "wikidata": "http://www.wikidata.org/entity/Q131339",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%9E%E3%83%B3%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swiss_German",
+          "wikidata": "http://www.wikidata.org/entity/Q387066",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Swiss_German_(linguistics)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Clanx_Castle",
+          "wikidata": "http://www.wikidata.org/entity/Q2175234"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

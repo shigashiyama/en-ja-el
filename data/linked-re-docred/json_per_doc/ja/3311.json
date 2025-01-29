@@ -1,0 +1,807 @@
+{
+  "3311": {
+    "doc_info": {
+      "title": "Orange (India)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "インドのオレンジブランドは、一連の複雑な合併と分割を経て買収され、最終的にはオレンジS.A.に保持され、現在はオレンジ・ビジネス・サービス・インド（OBSインディア）として運営されています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M3_4"
+        ]
+      },
+      "01": {
+        "text": "2000年2月14日、香港が本拠地とするハッチソン・ワンポアが過半数を所有するインド通信合弁会社のハチソン・マックスは、既存のムンバイ通信サークルの携帯電話サービスの「マックス・タッチ」を「オレンジ」にリブランドし、このブランドを国内に導入しました。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "間もなく、2000年5月にフランス・テレコムがブランドの世界的な権利を購入した際に、インドでの「オレンジ」ブランドの所有権に関する問題が発生しました。",
+        "mention_ids": [
+          "M0_1",
+          "M1_1",
+          "M2_1",
+          "M4_1"
+        ]
+      },
+      "03": {
+        "text": "ハチソン・エッサー（以前はハチソン・マックス）は2006年1月にブランドの使用を終了しました。",
+        "mention_ids": [
+          "M11_0",
+          "M11_1",
+          "M12_0"
+        ]
+      },
+      "04": {
+        "text": "オレンジは、フランス・テレコムがGTL社の企業ネットワーク・サービスと管理サービス事業を買収した際に、2007年7月にオレンジ・ビジネス・サービス・インドとしてインドに戻りました。",
+        "mention_ids": [
+          "M0_2",
+          "M13_0",
+          "M14_0",
+          "M2_2",
+          "M3_1"
+        ]
+      },
+      "05": {
+        "text": "それ以来、OBSインディアは、この国の主要なデータ接続ソリューション・プロバイダーの1つに成長しました。",
+        "mention_ids": [
+          "M3_3"
+        ]
+      },
+      "06": {
+        "text": "現在、同社には国内に14のポイント・オブ・プレゼンス（PoP)のネットワークがあり、8拠点にオフィスがあり、1500人以上の従業員が働き、クラウド・コンピューティング、ユニファイド・コミュニケーション、コラボレーションにおけるビジネス・サービスをローカル企業およびグローバル企業に提供します。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "text": "インドには、OBSの4つの主要なグローバルサービスセンターの1つがグルガオンにあります。",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M1_2",
+          "M3_5"
+        ]
+      },
+      "08": {
+        "text": "OBSインディアは、SITA（国際電気通信航空協会）航空業界のニーズを満たすために設立された1969年まで、インドにおけるその存在感を追跡しています。",
+        "mention_ids": [
+          "M1_3",
+          "M20_0",
+          "M21_0",
+          "M21_1",
+          "M3_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          8
+        ],
+        "text": "オレンジ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          52
+        ],
+        "text": "オレンジ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "オレンジ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          95,
+          99
+        ],
+        "text": "オレンジ",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          84,
+          92
+        ],
+        "text": "マックス・タッチ",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ハチソン・エッサー",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          22
+        ],
+        "text": "ハチソン・マックス",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          24,
+          31
+        ],
+        "text": "2006年1月",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          51,
+          58
+        ],
+        "text": "2007年7月",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          20
+        ],
+        "text": "GTL社",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          12
+        ],
+        "text": "14",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          43
+        ],
+        "text": "8",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          54,
+          59
+        ],
+        "text": "1500人",
+        "entity_type": "NUM",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          10,
+          12
+        ],
+        "text": "4つ",
+        "entity_type": "NUM",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          38
+        ],
+        "text": "グルガオン",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          3
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          42,
+          45
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          3
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "08",
+        "span": [
+          54,
+          57
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          46,
+          51
+        ],
+        "text": "1969年",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          25
+        ],
+        "text": "国際電気通信航空協会",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M21_1": {
+        "sentence_id": "08",
+        "span": [
+          10,
+          14
+        ],
+        "text": "SITA",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          46
+        ],
+        "text": "オレンジS.A.",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          22
+        ],
+        "text": "フランス・テレコム",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          15
+        ],
+        "text": "フランス・テレコム",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          73
+        ],
+        "text": "オレンジ・ビジネス・サービス・インド",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          59,
+          77
+        ],
+        "text": "オレンジ・ビジネス・サービス・インド",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          8
+        ],
+        "text": "OBSインディア",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          13
+        ],
+        "text": "OBSインディア",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          82
+        ],
+        "text": "OBSインディア",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          9
+        ],
+        "text": "OBS",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          10
+        ],
+        "text": "2000年2月14日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          5,
+          12
+        ],
+        "text": "2000年5月",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          58
+        ],
+        "text": "ハチソン・マックス",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          42
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          11,
+          13
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          30
+        ],
+        "text": "ハッチソン・ワンポア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          63,
+          67
+        ],
+        "text": "ムンバイ",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_Group",
+          "wikidata": "http://www.wikidata.org/entity/Q1431486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Orange_S.A.",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Orange_(%E9%80%9A%E4%BF%A1%E4%BC%9A%E7%A4%BE)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4",
+          "M3_5"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Orange_(India)",
+          "wikidata": "http://www.wikidata.org/entity/Q7099497"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/India",
+          "wikidata": "http://www.wikidata.org/entity/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hutchison_Whampoa",
+          "wikidata": "http://www.wikidata.org/entity/Q15805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%81%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%B3%E3%83%9D%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mumbai",
+          "wikidata": "http://www.wikidata.org/entity/Q1156",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%B3%E3%83%90%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vodafone_India",
+          "wikidata": "http://www.wikidata.org/entity/Q2719715"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/GTL_Ltd",
+          "wikidata": "http://www.wikidata.org/entity/Q5514712"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gurgaon",
+          "wikidata": "http://www.wikidata.org/entity/Q238508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0",
+          "M21_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SITA_(business_services_company)",
+          "wikidata": "http://www.wikidata.org/entity/Q690702",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/SITA_(IT_company)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/SITA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

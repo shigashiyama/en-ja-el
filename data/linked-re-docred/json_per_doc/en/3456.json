@@ -1,0 +1,684 @@
+{
+  "3456": {
+    "doc_info": {
+      "title": "Anna Karenina",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Anna Karenina ( ) is a novel by the Russian author Leo Tolstoy , first published in book form in 1878 .",
+        "text": "Anna Karenina ( ) is a novel by the Russian author Leo Tolstoy , first published in book form in 1878 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Many authors consider Anna Karenina the greatest work of literature ever written , and Tolstoy himself called it his first true novel .",
+        "text": "Many authors consider Anna Karenina the greatest work of literature ever written , and Tolstoy himself called it his first true novel .",
+        "mention_ids": [
+          "M0_1",
+          "M2_1"
+        ]
+      },
+      "02": {
+        "orig_text": "It was initially released in serial installments from 1873 to 1877 in the periodical The Russian Messenger .",
+        "text": "It was initially released in serial installments from 1873 to 1877 in the periodical The Russian Messenger .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "A complex novel in eight parts , with more than a dozen major characters , it is spread over more than 800 pages ( depending on the translation ) , typically contained in two volumes .",
+        "text": "A complex novel in eight parts , with more than a dozen major characters , it is spread over more than 800 pages ( depending on the translation ) , typically contained in two volumes .",
+        "mention_ids": [
+          "M10_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It deals with themes of betrayal , faith , family , marriage , Imperial Russian society , desire , and rural vs. city life .",
+        "text": "It deals with themes of betrayal , faith , family , marriage , Imperial Russian society , desire , and rural vs. city life .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "05": {
+        "text": "The plot centers on an extramarital affair between ■■■■ and dashing cavalry officer Count ■■■■■■■■■■■■■■■■■■■■■■■■■■ that scandalizes the social circles of Saint Petersburg and forces the young lovers to flee for Italy in a futile search for happiness .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Returning to Russia , their lives further unravel .",
+        "text": "Returning to Russia , their lives further unravel .",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "07": {
+        "text": "A second major plot line follows ■■■■■ , a character loosely based on Tolstoy himself , who rejects glitzy city life and those same social circles for his rural farm , but struggles with both his love for ■■■■■ , who has rejected him , and with his Christian faith .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M2_2"
+        ]
+      },
+      "08": {
+        "orig_text": "Trains are a recurring motif throughout the novel , which takes place against the backdrop of rapid transformations as a result of the liberal reforms initiated by Emperor Alexander II of Russia , with several major plot points taking place either on passenger trains or at stations in Saint Petersburg or elsewhere in Russia .",
+        "text": "Trains are a recurring motif throughout the novel , which takes place against the backdrop of rapid transformations as a result of the liberal reforms initiated by Emperor Alexander II of Russia , with several major plot points taking place either on passenger trains or at stations in Saint Petersburg or elsewhere in Russia .",
+        "mention_ids": [
+          "M14_1",
+          "M19_0",
+          "M1_2",
+          "M1_3"
+        ]
+      },
+      "09": {
+        "orig_text": "The novel has been adapted into various media including opera , film , television , ballet , figure skating and radio drama .",
+        "text": "The novel has been adapted into various media including opera , film , television , ballet , figure skating and radio drama .",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "The first film adaptation was released in 1911 but has not survived .",
+        "text": "The first film adaptation was released in 1911 but has not survived .",
+        "mention_ids": [
+          "M20_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Anna Karenina",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          35
+        ],
+        "text": "Anna Karenina",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          171,
+          174
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          79
+        ],
+        "text": "Imperial Russian",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          55
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          90,
+          116
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          156,
+          172
+        ],
+        "text": "Saint Petersburg",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "08",
+        "span": [
+          286,
+          302
+        ],
+        "text": "Saint Petersburg",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          213,
+          218
+        ],
+        "text": "Italy",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          38
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          205,
+          210
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          249,
+          258
+        ],
+        "text": "Christian",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          172,
+          184
+        ],
+        "text": "Alexander II",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          36,
+          43
+        ],
+        "text": "Russian",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          19
+        ],
+        "text": "Russia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "08",
+        "span": [
+          319,
+          325
+        ],
+        "text": "Russia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "08",
+        "span": [
+          188,
+          194
+        ],
+        "text": "Russia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "10",
+        "span": [
+          42,
+          46
+        ],
+        "text": "1911",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          51,
+          62
+        ],
+        "text": "Leo Tolstoy",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          87,
+          94
+        ],
+        "text": "Tolstoy",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "07",
+        "span": [
+          70,
+          77
+        ],
+        "text": "Tolstoy",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          97,
+          101
+        ],
+        "text": "1878",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          58
+        ],
+        "text": "1873",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          62,
+          66
+        ],
+        "text": "1877",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          85,
+          106
+        ],
+        "text": "The Russian Messenger",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          24
+        ],
+        "text": "eight",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          55
+        ],
+        "text": "a dozen",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          103,
+          106
+        ],
+        "text": "800",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anna_Karenina",
+          "wikidata": "http://www.wikidata.org/entity/Q147787",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%8A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portal:Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q8252645",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Portal:%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+          "wikidata": "http://www.wikidata.org/entity/Q7243",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%95%E3%83%BB%E3%83%88%E3%83%AB%E3%82%B9%E3%83%88%E3%82%A4"
+        },
+        "date_of_death": "1910-11-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Russian_Messenger",
+          "wikidata": "http://www.wikidata.org/entity/Q1850566"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q34266",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+          "wikidata": "http://www.wikidata.org/entity/Q656",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%88%E3%83%9A%E3%83%86%E3%83%AB%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Levin",
+          "wikidata": "http://www.wikidata.org/entity/Q295719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Christianity",
+          "wikidata": "http://www.wikidata.org/entity/Q5043",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q83171",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB2%E4%B8%96_(%E3%83%AD%E3%82%B7%E3%82%A2%E7%9A%87%E5%B8%9D)"
+        },
+        "date_of_death": "1881-03-13T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

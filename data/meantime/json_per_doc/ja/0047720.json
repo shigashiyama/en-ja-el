@@ -1,0 +1,350 @@
+{
+  "0047720": {
+    "doc_info": {
+      "title": "47720_Ford_announces_deep_production_cuts_in_response_to_growing_losses",
+      "url": "http://en.wikinews.org/wiki/Ford_announces_deep_production_cuts_in_response_to_growing_losses"
+    },
+    "sentences": {
+      "00": {
+        "text": "フォード、損失拡大に対応して大幅な減産を発表",
+        "mention_ids": [
+          "M076"
+        ]
+      },
+      "01": {
+        "text": "2006 年 8 月 19 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "フォードは、その米国とカナダでの生産を21% (168,000台)大幅に削減すると発表しました。第4四半期中に10の工場を部分的に閉鎖します。",
+        "mention_ids": [
+          "M001",
+          "M004",
+          "M005",
+          "M009",
+          "M013"
+        ]
+      },
+      "03": {
+        "text": "この措置は、1月に発表された既存の再建計画に基づくもので、2012年までに2万5,000人から3万人の人員削減と14工場の閉鎖が盛り込まれています。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "04": {
+        "text": "フォードは、世界第3位の自動車メーカーであり、米国第2位です。",
+        "mention_ids": [
+          "M037",
+          "M046"
+        ]
+      },
+      "05": {
+        "text": "しかしそれは近年、収益性の低下と市場シェアの縮小に苦しんでいます。",
+        "mention_ids": [
+          "M041"
+        ]
+      },
+      "06": {
+        "text": "2005年に同社は16億ドルの損失を出し、最近同社は、第2四半期で2億5,400万ドルの損失を計上し、7月の売上高が前年比で34%減少したと報告しました。",
+        "mention_ids": [
+          "M113",
+          "M124"
+        ]
+      },
+      "07": {
+        "text": "フォードの販売分析ディレクター、ジョージ・ピパス氏は、ガソリン価格の上昇が同社のSUVラインと販売リーダーであるFシリーズピックアップトラックの販売に悪影響を及ぼしていることが、今回の取り組みの直接的な原因だと指摘しています。",
+        "mention_ids": [
+          "M130"
+        ]
+      },
+      "08": {
+        "text": "これまでのところ、以下の工場が影響を受けていると考えられています。*カナダ、オンタリオ州セント・トーマスのセント・トーマス・アセンブリー *イリノイ州シカゴ *ミシガン州ウィクソムのウィクソム・アセンブリー工場 *ケンタッキー州ルイビルのルイビル・アセンブリー *ミシガン州ウェインのミシガン・トラック工場 *ミネソタ州セントポール *ミズーリ州カンザスシティのカンザスシティ・アセンブリー *バージニア州ノーフォークのノーフォーク・アセンブリー *ミシガン州ディアボーンのリバー・ルージュ工場 フォードの株価は、ニューヨーク証券取引所で17セント(2.1%)下落して8ドルになりました。",
+        "mention_ids": [
+          "M125"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          8
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          14
+        ],
+        "text": "米国とカナダ",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          32
+        ],
+        "text": "168,000台",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M013": {
+        "sentence_id": "02",
+        "span": [
+          55,
+          60
+        ],
+        "text": "10の工場",
+        "entity_type": null,
+        "entity_id": "E155"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          60
+        ],
+        "text": "14工場",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M037": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M041": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          5
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M046": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          28
+        ],
+        "text": "世界第3位の自動車メーカーであり、米国第2位",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M076": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M113": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          25
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M124": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          8
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M125": {
+        "sentence_id": "08",
+        "span": [
+          248,
+          252
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M130": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フォード",
+        "entity_type": null,
+        "entity_id": "E149"
+      }
+    },
+    "entities": {
+      "E059": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M038"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E142": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Canada",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        }
+      },
+      "E144": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M039",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E145": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M126"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Earth",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        }
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E148": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E149": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M037",
+          "M041",
+          "M046",
+          "M076",
+          "M113",
+          "M124",
+          "M125",
+          "M130"
+        ],
+        "removed_mention_ids": [
+          "M044",
+          "M045",
+          "M006"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ford_Motor_Company",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company",
+          "wikidata": "http://www.wikidata.org/entity/Q44294",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC"
+        }
+      },
+      "E150": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E155": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "3171": {
+    "doc_info": {
+      "title": "Heinrich LXXII, Prince Reuss of Lobenstein and Ebersdorf",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ハインリヒ72世、ローベンシュタインとエーバースドルフのロイス王子（1797年3月27日～1853年2月17日）は、1824年5月7日から1848年10月1日に退位するまで、ロイス-ローベンシュタインの君主であり、1822年から1848年までロイス - エーバースドルフの君主でした。",
+        "mention_ids": [
+          "M0_0",
+          "M10_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "01": {
+        "text": "ほとんどのヨーロッパ君主制とは異なり、彼の君主番号の多さは、彼の前に■■■■■という名前の以前に71人の統治者が居たことを示しているのではありません。",
+        "mention_ids": [
+          "M11_1",
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "02": {
+        "text": "伝統により、ロイス家の男性メンバーは全員■■■■■と名付けられ、一般に家族内での出生順に番号が付けられています。",
+        "mention_ids": [
+          "M13_1",
+          "M14_0"
+        ]
+      },
+      "03": {
+        "text": "ロイス・ヤンガー・ライン家では、番号付けシステムは各世紀の初めにリセットされました。したがって、ハインリヒ72世の高い数字は、彼が18世紀の終わりに生まれたことに直接関係しています。",
+        "mention_ids": [
+          "M0_2",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "04": {
+        "text": "ハインリッヒ72世は、その年にドイツやヨーロッパの他の地域に広がった革命に関連した社会不安のため、1848年に退位しました。",
+        "mention_ids": [
+          "M0_1",
+          "M10_0",
+          "M11_0",
+          "M17_0"
+        ]
+      },
+      "05": {
+        "text": "彼の一族の最後の分家である彼の公国は王子ロイス・ツ・シュライツに移り、ロイス・ヤンガー・ライン家の土地を統一しました。",
+        "mention_ids": [
+          "M15_1",
+          "M1_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ハインリヒ72世",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ハインリッヒ72世",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          56
+        ],
+        "text": "ハインリヒ72世",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          54
+        ],
+        "text": "1848年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "00",
+        "span": [
+          114,
+          119
+        ],
+        "text": "1848年",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          24
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          10
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "01",
+        "span": [
+          48,
+          51
+        ],
+        "text": "71人",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "01",
+        "span": [
+          34,
+          39
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          25
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          10
+        ],
+        "text": "ロイス家",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          13
+        ],
+        "text": "ロイス・ヤンガー・ライン家",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          48
+        ],
+        "text": "ロイス・ヤンガー・ライン家",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          65,
+          69
+        ],
+        "text": "18世紀",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          15,
+          18
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          31
+        ],
+        "text": "ロイス",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          31
+        ],
+        "text": "ロイス・ツ・シュライツ",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          18
+        ],
+        "text": "ローベンシュタイン",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          19,
+          27
+        ],
+        "text": "エーバースドルフ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          55
+        ],
+        "text": "1797年3月27日～1853年2月17日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          87,
+          100
+        ],
+        "text": "ロイス-ローベンシュタイン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          67
+        ],
+        "text": "1824年5月7日",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          69,
+          79
+        ],
+        "text": "1848年10月1日",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "00",
+        "span": [
+          121,
+          135
+        ],
+        "text": "ロイス - エーバースドルフ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "00",
+        "span": [
+          107,
+          112
+        ],
+        "text": "1822年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Heinrich_LXXII,_Prince_Reuss_of_Lobenstein_and_Ebersdorf",
+          "wikidata": "http://www.wikidata.org/entity/Q215069",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%9272%E4%B8%96_(%E3%83%AD%E3%82%A4%E3%82%B9%EF%BC%9D%E3%83%AD%E3%83%BC%E3%83%99%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%EF%BC%9D%E3%82%A8%E3%83%BC%E3%83%99%E3%83%AB%E3%82%B9%E3%83%89%E3%83%AB%E3%83%95%E4%BE%AF)"
+        },
+        "date_of_death": "1853-02-17T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reuss-Lobenstein",
+          "wikidata": "http://www.wikidata.org/entity/Q509478"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reuss-Lobenstein",
+          "wikidata": "http://www.wikidata.org/entity/Q509478"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reuss-Ebersdorf",
+          "wikidata": "http://www.wikidata.org/entity/Q543090"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reuss-Lobenstein",
+          "wikidata": "http://www.wikidata.org/entity/Q509478"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Reuss-Ebersdorf",
+          "wikidata": "http://www.wikidata.org/entity/Q543090"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Imperial_County_of_Reuss",
+          "wikidata": "http://www.wikidata.org/entity/Q819968",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/House_of_Reuss",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%82%B9%E5%AE%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Principality_of_Reuss-Gera",
+          "wikidata": "http://www.wikidata.org/entity/Q639100",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Reuss_Younger_Line",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%82%B9%EF%BC%9D%E3%82%B2%E3%83%BC%E3%83%A9%E4%BE%AF%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

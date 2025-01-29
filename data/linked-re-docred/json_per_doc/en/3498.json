@@ -1,0 +1,430 @@
+{
+  "3498": {
+    "doc_info": {
+      "title": "Julian Reinard",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■ ( born 5 March 1983 ) is a German footballer .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1"
+        ]
+      },
+      "01": {
+        "orig_text": "He first appeared in the German Bundesliga on 21 March 2004 while SC Freiburg 's first and second keepers had been injured .",
+        "text": "He first appeared in the German Bundesliga on 21 March 2004 while SC Freiburg 's first and second keepers had been injured .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A year later media and trainer looked upon him as the future number one of Freiburg , but his disastrous effort during a 0–7 defeat against Bayern Munich and the following massive public criticism terminated these ambitions .",
+        "text": "A year later media and trainer looked upon him as the future number one of Freiburg , but his disastrous effort during a 0–7 defeat against Bayern Munich and the following massive public criticism terminated these ambitions .",
+        "mention_ids": [
+          "M5_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "While plying his trade at Hakoah Amidar / Ramat Gan on 23 October 2006 he became the first German footballer ever to play a professional match in Israel .",
+        "text": "While plying his trade at Hakoah Amidar / Ramat Gan on 23 October 2006 he became the first German footballer ever to play a professional match in Israel .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M2_2",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Due to problems with his groin he quit Ramat Gan and , after a brief spell at FC Wil , is currently without a team .",
+        "text": "Due to problems with his groin he quit Ramat Gan and , after a brief spell at FC Wil , is currently without a team .",
+        "mention_ids": [
+          "M12_0",
+          "M9_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          55,
+          70
+        ],
+        "text": "23 October 2006",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          146,
+          152
+        ],
+        "text": "Israel",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          78,
+          84
+        ],
+        "text": "FC Wil",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          34
+        ],
+        "text": "5 March 1983",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          31
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          48
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "03",
+        "span": [
+          91,
+          97
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          32,
+          42
+        ],
+        "text": "Bundesliga",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          59
+        ],
+        "text": "21 March 2004",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          66,
+          77
+        ],
+        "text": "SC Freiburg",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          83
+        ],
+        "text": "Freiburg",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          121,
+          124
+        ],
+        "text": "0–7",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          140,
+          153
+        ],
+        "text": "Bayern Munich",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          39
+        ],
+        "text": "Hakoah Amidar",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          51
+        ],
+        "text": "Ramat Gan",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          48
+        ],
+        "text": "Ramat Gan",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Julian_Reinard",
+          "wikidata": "http://www.wikidata.org/entity/Q1712048"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bundesliga",
+          "wikidata": "http://www.wikidata.org/entity/Q82595",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%83%BB%E3%83%96%E3%83%B3%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%AC_(%E3%83%89%E3%82%A4%E3%83%84)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/SC_Freiburg",
+          "wikidata": "http://www.wikidata.org/entity/Q106394",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/SC%E3%83%95%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FC_Bayern_Munich",
+          "wikidata": "http://www.wikidata.org/entity/Q15789",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FC%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%B3%E3%83%98%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hakoah_Amidar_Ramat_Gan_F.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q388401",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Hakoah_Maccabi_Amidar/Ramat_Gan"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ramat_Gan",
+          "wikidata": "http://www.wikidata.org/entity/Q192807",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%9E%E3%83%88%E3%83%BB%E3%82%AC%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Israel",
+          "wikidata": "http://www.wikidata.org/entity/Q801",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FC_Wil",
+          "wikidata": "http://www.wikidata.org/entity/Q187091",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FC%E3%83%B4%E3%82%A3%E3%83%AB1900"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

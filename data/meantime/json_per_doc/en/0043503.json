@@ -1,0 +1,529 @@
+{
+  "0043503": {
+    "doc_info": {
+      "title": "43503_Apple_plans_to_sell",
+      "url": "http://en.wikinews.org/wiki/Apple_plans_to_sell_movies_on_iTunes"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Apple plans to sell movies on iTunes",
+        "text": "Apple plans to sell movies on iTunes",
+        "mention_ids": [
+          "M011",
+          "M013",
+          "M015"
+        ]
+      },
+      "01": {
+        "orig_text": "June 20, 2006",
+        "text": "June 20, 2006",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Apple Computer is planning to sell full-length feature films for download via the online iTunes Music Store.",
+        "text": "Apple Computer is planning to sell full-length feature films for download via the online iTunes Music Store.",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "03": {
+        "orig_text": "The store currently sells digital music tracks, and more recently has begun to sell TV episodes.",
+        "text": "The store currently sells digital music tracks, and more recently has begun to sell TV episodes.",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "04": {
+        "orig_text": "Apple executives are in negotiations with film studios to arrange the deal and settle on pricing structures.",
+        "text": "Apple executives are in negotiations with film studios to arrange the deal and settle on pricing structures.",
+        "mention_ids": [
+          "M010",
+          "M012",
+          "M014"
+        ]
+      },
+      "05": {
+        "orig_text": "It is expected that films will retail for around $9.99 US dollars, although some studios are reported to want to set a higher price.",
+        "text": "It is expected that films will retail for around $9.99 US dollars, although some studios are reported to want to set a higher price.",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M016"
+        ]
+      },
+      "06": {
+        "orig_text": "iTunes is currently by the biggest online retailer of digital music, with its software tightly integrated with the popular iPod line of products.",
+        "text": "iTunes is currently by the biggest online retailer of digital music, with its software tightly integrated with the popular iPod line of products.",
+        "mention_ids": [
+          "M100",
+          "M101",
+          "M102",
+          "M110"
+        ]
+      },
+      "07": {
+        "orig_text": "Newer versions of the iPod include a colour screen capable of displaying videos, and so consumers could watch the films on the devices, but it is not yet clear how many people will want to do this.",
+        "text": "Newer versions of the iPod include a colour screen capable of displaying videos, and so consumers could watch the films on the devices, but it is not yet clear how many people will want to do this.",
+        "mention_ids": [
+          "M099",
+          "M103"
+        ]
+      },
+      "08": {
+        "orig_text": "Apple CEO Steve Jobs is also the largest single shareholder of Disney, which now owns animation studio Pixar, however he could end up playing a wider role within the film industry if iTunes becomes the dominant online distributor.",
+        "text": "Apple CEO Steve Jobs is also the largest single shareholder of Disney, which now owns animation studio Pixar, however he could end up playing a wider role within the film industry if iTunes becomes the dominant online distributor.",
+        "mention_ids": [
+          "M104",
+          "M106",
+          "M107",
+          "M111"
+        ]
+      },
+      "09": {
+        "orig_text": "A full-length TV movie, 'High School Musical' from Disney, is already available on iTunes, suggesting that the technical infrastructure is already in place.",
+        "text": "A full-length TV movie, 'High School Musical' from Disney, is already available on iTunes, suggesting that the technical infrastructure is already in place.",
+        "mention_ids": [
+          "M105"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "05",
+        "span": [
+          76,
+          88
+        ],
+        "text": "some studios",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M002": {
+        "sentence_id": "05",
+        "span": [
+          117,
+          131
+        ],
+        "text": "a higher price",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M003": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E096"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          35,
+          60
+        ],
+        "text": "full-length feature films",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          78,
+          107
+        ],
+        "text": "the online iTunes Music Store",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M006": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "The store",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M007": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          46
+        ],
+        "text": "digital music tracks",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M008": {
+        "sentence_id": "03",
+        "span": [
+          84,
+          95
+        ],
+        "text": "TV episodes",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M010": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          16
+        ],
+        "text": "Apple executives",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M011": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E096"
+      },
+      "M012": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          54
+        ],
+        "text": "film studios",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M013": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          26
+        ],
+        "text": "movies",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M014": {
+        "sentence_id": "04",
+        "span": [
+          89,
+          107
+        ],
+        "text": "pricing structures",
+        "entity_type": null,
+        "entity_id": "E097"
+      },
+      "M015": {
+        "sentence_id": "00",
+        "span": [
+          30,
+          36
+        ],
+        "text": "iTunes",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M016": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          25
+        ],
+        "text": "films",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M099": {
+        "sentence_id": "07",
+        "span": [
+          123,
+          134
+        ],
+        "text": "the devices",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M100": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          67
+        ],
+        "text": "the biggest online retailer of digital music",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M101": {
+        "sentence_id": "06",
+        "span": [
+          123,
+          127
+        ],
+        "text": "iPod",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M102": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          6
+        ],
+        "text": "iTunes",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M103": {
+        "sentence_id": "07",
+        "span": [
+          18,
+          26
+        ],
+        "text": "the iPod",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M104": {
+        "sentence_id": "08",
+        "span": [
+          118,
+          120
+        ],
+        "text": "he",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M105": {
+        "sentence_id": "09",
+        "span": [
+          83,
+          89
+        ],
+        "text": "iTunes",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M106": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          20
+        ],
+        "text": "Apple CEO Steve Jobs",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M107": {
+        "sentence_id": "08",
+        "span": [
+          183,
+          189
+        ],
+        "text": "iTunes",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M110": {
+        "sentence_id": "06",
+        "span": [
+          74,
+          77
+        ],
+        "text": "its",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M111": {
+        "sentence_id": "08",
+        "span": [
+          29,
+          69
+        ],
+        "text": "the largest single shareholder of Disney",
+        "entity_type": null,
+        "entity_id": "E113"
+      }
+    },
+    "entities": {
+      "E088": {
+        "member_mention_ids": [
+          "M005",
+          "M006",
+          "M015",
+          "M100",
+          "M102",
+          "M105",
+          "M107",
+          "M110"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E091": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E092": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M004",
+          "M013",
+          "M016"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E094": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E096": {
+        "member_mention_ids": [
+          "M003",
+          "M011"
+        ],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E098": {
+        "member_mention_ids": [
+          "M001",
+          "M012"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Film_studio",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Film_studio",
+          "wikidata": "http://www.wikidata.org/entity/Q375336",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M099",
+          "M101",
+          "M103"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod",
+          "wikidata": "http://www.wikidata.org/entity/Q9479",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M104",
+          "M106",
+          "M111"
+        ],
+        "removed_mention_ids": [
+          "M109",
+          "M108"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      }
+    }
+  }
+}

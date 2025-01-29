@@ -1,0 +1,359 @@
+{
+  "0115587": {
+    "doc_info": {
+      "title": "115587_Global_stock_markets_plunge",
+      "url": "http://en.wikinews.org/wiki/Global_stock_markets_plunge"
+    },
+    "sentences": {
+      "00": {
+        "text": "世界の株式市場が急落",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "01": {
+        "text": "2008年10月24日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "世界中の株式市場は今日大幅に下落しました。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "03": {
+        "text": "これは、金融界で進行中の出来事と、ゴードン・ブラウン首相を含む数人の英国政治家による関連発言を受けてのものです。",
+        "mention_ids": [
+          "M011",
+          "M013",
+          "M015"
+        ]
+      },
+      "04": {
+        "text": "英国FTSE 100指数は、今日大幅な下落に見舞われた指数の1つでした。",
+        "mention_ids": [
+          "M016",
+          "M018",
+          "M042"
+        ]
+      },
+      "05": {
+        "text": "それは5.00%下落し、3,883.36ポイントで4,000ポイントを下回りました。",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "06": {
+        "text": "米国の主要指数2指数は2%を超える下落となりました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ダウジョーンズ工業平均は協定世界時17時30分までに252.01ポイント（2.90%）下落して8,439.24となり、ナスダック総合指数は2.30%下落しました。",
+        "mention_ids": [
+          "M060",
+          "M061"
+        ]
+      },
+      "08": {
+        "text": "今日の南米市場のパフォーマンスは特に悪かったです。",
+        "mention_ids": []
+      },
+      "09": {
+        "text": "協定世界時17時30分までに、アルゼンチンのメルバル指数は約6パーセント下落して906.160ポイントとなり、ブラジルのボベスパ指数は6.89パーセント（2,328.45ポイント）下落して31,490.04となりました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "BGCパートナーズのデビッド・ビュイックが今日の下落についてコメントしました。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "「それは大虐殺だ」と彼は言いました。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "「信頼はズタズタです。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "私たちには今すぐ行動が必要です。",
+        "mention_ids": []
+      },
+      "14": {
+        "text": "私たちが不況に陥ったのは大惨事ですが、私たちはそれと共存することを学ばなければならず、それは市場を救うことを意味します」",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          8
+        ],
+        "text": "世界中の株式市場",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          7
+        ],
+        "text": "金融界",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          39
+        ],
+        "text": "数人の英国政治家",
+        "entity_type": null,
+        "entity_id": "E082"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          28
+        ],
+        "text": "ゴードン・ブラウン首相",
+        "entity_type": null,
+        "entity_id": "E075"
+      },
+      "M016": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          12
+        ],
+        "text": "英国FTSE 100指数",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          29
+        ],
+        "text": "今日大幅な下落に見舞われた指数",
+        "entity_type": null,
+        "entity_id": "E076"
+      },
+      "M025": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          2
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M042": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          32
+        ],
+        "text": "1つ",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M043": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "世界の株式市場",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M060": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          11
+        ],
+        "text": "ダウジョーンズ工業平均",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M061": {
+        "sentence_id": "07",
+        "span": [
+          59,
+          68
+        ],
+        "text": "ナスダック総合指数",
+        "entity_type": null,
+        "entity_id": "E081"
+      }
+    },
+    "entities": {
+      "E073": {
+        "member_mention_ids": [
+          "M016",
+          "M025",
+          "M042"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/FTSE_100_Index",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/FTSE_100_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q466496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/FTSE100%E7%A8%AE%E7%B7%8F%E5%90%88%E6%A0%AA%E4%BE%A1%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E074": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M003"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Earth",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Earth",
+          "wikidata": "http://www.wikidata.org/entity/Q2",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83"
+        }
+      },
+      "E075": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "removed_mention_ids": [
+          "M039",
+          "M052"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Gordon_Brown",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gordon_Brown",
+          "wikidata": "http://www.wikidata.org/entity/Q10648",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%89%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+        }
+      },
+      "E076": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E077": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E078": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_Kingdom",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E081": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M061"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E082": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E083": {
+        "member_mention_ids": [
+          "M002",
+          "M043"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Stock_market",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Stock_market",
+          "wikidata": "http://www.wikidata.org/entity/Q475000",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%BC%E5%88%B8%E5%B8%82%E5%A0%B4"
+        }
+      },
+      "E084": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      }
+    }
+  }
+}

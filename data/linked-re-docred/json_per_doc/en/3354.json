@@ -1,0 +1,428 @@
+{
+  "3354": {
+    "doc_info": {
+      "title": "Old Loggers Path",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Old Loggers Path ( OLP ) is a loop hiking trail in Lycoming County in north - central Pennsylvania in the United States .",
+        "text": "The Old Loggers Path ( OLP ) is a loop hiking trail in Lycoming County in north - central Pennsylvania in the United States .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Marked with international orange blazes , the Old Loggers Path is located entirely within the Loyalsock State Forest .",
+        "text": "Marked with international orange blazes , the Old Loggers Path is located entirely within the Loyalsock State Forest .",
+        "mention_ids": [
+          "M0_3",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Most hikers take two and a half to three days and two nights to complete the Old Loggers Path , making it popular for weekend hikes .",
+        "text": "Most hikers take two and a half to three days and two nights to complete the Old Loggers Path , making it popular for weekend hikes .",
+        "mention_ids": [
+          "M0_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Highlights of the trail include waterfalls , several scenic streams and creeks ( most of which do not have bridges ) , and panoramic vistas .",
+        "text": "Highlights of the trail include waterfalls , several scenic streams and creeks ( most of which do not have bridges ) , and panoramic vistas .",
+        "mention_ids": []
+      },
+      "04": {
+        "orig_text": "The land the Old Loggers Path is on was initially owned and clear - cut by the Union Tanning Company , followed by the Central Pennsylvania Lumber Company .",
+        "text": "The land the Old Loggers Path is on was initially owned and clear - cut by the Union Tanning Company , followed by the Central Pennsylvania Lumber Company .",
+        "mention_ids": [
+          "M0_4",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The trail chiefly follows the grades of abandoned logging roads and railroads , and its trailhead is the lumber ghost town of Masten .",
+        "text": "The trail chiefly follows the grades of abandoned logging roads and railroads , and its trailhead is the lumber ghost town of Masten .",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Parts of the trail were made by the Civilian Conservation Corps , which operated a camp in the area from 1933 to 1941 .",
+        "text": "Parts of the trail were made by the Civilian Conservation Corps , which operated a camp in the area from 1933 to 1941 .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          20
+        ],
+        "text": "Old Loggers Path",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          26
+        ],
+        "text": "OLP",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          93
+        ],
+        "text": "Old Loggers Path",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          62
+        ],
+        "text": "Old Loggers Path",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          29
+        ],
+        "text": "Old Loggers Path",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          36,
+          63
+        ],
+        "text": "Civilian Conservation Corps",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          105,
+          109
+        ],
+        "text": "1933",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          113,
+          117
+        ],
+        "text": "1941",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          70
+        ],
+        "text": "Lycoming County",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          90,
+          102
+        ],
+        "text": "Pennsylvania",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          106,
+          123
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          94,
+          116
+        ],
+        "text": "Loyalsock State Forest",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          45
+        ],
+        "text": "two and a half to three days",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          50,
+          53
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          79,
+          100
+        ],
+        "text": "Union Tanning Company",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          119,
+          154
+        ],
+        "text": "Central Pennsylvania Lumber Company",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          126,
+          132
+        ],
+        "text": "Masten",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Old_Loggers_Path",
+          "wikidata": "http://www.wikidata.org/entity/Q15263816"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lycoming_County,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q495633",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%9F%E3%83%B3%E3%82%B0%E9%83%A1_(%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q1400",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Loyalsock_State_Forest",
+          "wikidata": "http://www.wikidata.org/entity/Q6694462"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Masten,_Pennsylvania",
+          "wikidata": "http://www.wikidata.org/entity/Q6784905"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Civilian_Conservation_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q1094508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%82%E6%B0%91%E4%BF%9D%E5%85%A8%E9%83%A8%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "3131": {
+    "doc_info": {
+      "title": "Pantabangan–Carranglan Watershed Forest Reserve",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Pantabangan-Carranglan流域保安林は、フィリピンのヌエバ・エシハのパンパンガ川の上流に位置する保護地域であり、オーロラとヌエバ・ビスカヤのシエラ・マドレとカラバジョ山脈に接しています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_1",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "01": {
+        "text": "それは、パンタバンガンダムによるパンパンガ川の貯水池であるパンタバンガン湖を囲む流域を取り囲んでいます。",
+        "mention_ids": [
+          "M1_2",
+          "M1_4",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "多目的ダムは、パンパンガ川の2つの源流、すなわちパンタバンガン市のパンタバンガンとカルランラン川の合流点に位置しています。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M1_3",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "それはダムサイトの上に、北のカラバロのカラングラン川の源となる場所と、東のシエラ・マドレのパンタバンガン川の源となる場所まで伸びています。",
+        "mention_ids": [
+          "M11_1",
+          "M12_0",
+          "M1_0",
+          "M4_0"
+        ]
+      },
+      "04": {
+        "text": "ここは、ルソン中部地域の農業経済と水力発電にとって重要な分水嶺と考えられています。",
+        "mention_ids": [
+          "M13_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          27
+        ],
+        "text": "Pantabangan-Carranglan流域保安林",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          33,
+          40
+        ],
+        "text": "パンタバンガン",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          31
+        ],
+        "text": "パンタバンガン",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          41,
+          48
+        ],
+        "text": "カルランラン川",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          26
+        ],
+        "text": "カラングラン川",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          18
+        ],
+        "text": "カラバロ",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          9
+        ],
+        "text": "ルソン中部",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          45,
+          53
+        ],
+        "text": "パンタバンガン川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          49
+        ],
+        "text": "パンパンガ川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "01",
+        "span": [
+          16,
+          22
+        ],
+        "text": "パンパンガ川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          13
+        ],
+        "text": "パンパンガ川",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          37
+        ],
+        "text": "パンタバンガン湖",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          42
+        ],
+        "text": "ヌエバ・エシハ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          34
+        ],
+        "text": "フィリピン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          44
+        ],
+        "text": "シエラ・マドレ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "00",
+        "span": [
+          79,
+          86
+        ],
+        "text": "シエラ・マドレ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          87,
+          94
+        ],
+        "text": "カラバジョ山脈",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          65,
+          69
+        ],
+        "text": "オーロラ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          78
+        ],
+        "text": "ヌエバ・ビスカヤ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          13
+        ],
+        "text": "パンタバンガンダム",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          16
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pantabangan%E2%80%93Carranglan_Watershed_Forest_Reserve",
+          "wikidata": "http://www.wikidata.org/entity/Q30591489",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Pantabangan–Carranglan_Watershed_Forest_Reserve"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M1_4"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pampanga_River",
+          "wikidata": "http://www.wikidata.org/entity/Q1527524"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nueva_Ecija",
+          "wikidata": "http://www.wikidata.org/entity/Q13865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%82%A8%E3%82%B7%E3%83%8F%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q928",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sierra_Madre_(Philippines)",
+          "wikidata": "http://www.wikidata.org/entity/Q2166028",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%9E%E3%83%89%E3%83%AC%E5%B1%B1%E8%84%88_(%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Caraballo_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q1035274"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aurora_(province)",
+          "wikidata": "http://www.wikidata.org/entity/Q13730",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%AD%E3%83%A9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nueva_Vizcaya",
+          "wikidata": "http://www.wikidata.org/entity/Q13866",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%A4%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pantabangan_Dam",
+          "wikidata": "http://www.wikidata.org/entity/Q1744884"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pantabangan",
+          "wikidata": "http://www.wikidata.org/entity/Q55567",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Pantabangan,_Nueva_Ecija"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Caraballo_Mountains",
+          "wikidata": "http://www.wikidata.org/entity/Q1035274"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Luzon",
+          "wikidata": "http://www.wikidata.org/entity/Q13617",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E3%83%AB%E3%82%BD%E3%83%B3%E5%9C%B0%E6%96%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

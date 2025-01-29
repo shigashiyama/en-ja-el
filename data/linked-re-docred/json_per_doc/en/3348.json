@@ -1,0 +1,903 @@
+{
+  "3348": {
+    "doc_info": {
+      "title": "Township High School District",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "A township high school district is a type of school district in the U.S. state of Illinois .",
+        "text": "A township high school district is a type of school district in the U.S. state of Illinois .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Despite the name , such a district does not necessarily follow township boundaries anymore .",
+        "text": "Despite the name , such a district does not necessarily follow township boundaries anymore .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "( For example , District 211 and District 214 , named below , each cover parts of Palatine Township in Cook County . )",
+        "text": "( For example , District 211 and District 214 , named below , each cover parts of Palatine Township in Cook County . )",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Districts that use the name \" Township High School District \" and a number , but no further name , include :",
+        "text": "Districts that use the name \" Township High School District \" and a number , but no further name , include :",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Township High School District 113 — the Lake County district of Deerfield High School and Highland Park High School",
+        "text": "Township High School District 113 — the Lake County district of Deerfield High School and Highland Park High School",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Township High School District 211 — the Cook County district of James B. Conant High School , Fremd High School , Hoffman Estates High School , Palatine High School , and Schaumburg High School , and formerly known as Palatine Township High School District 211",
+        "text": "Township High School District 211 — the Cook County district of James B. Conant High School , Fremd High School , Hoffman Estates High School , Palatine High School , and Schaumburg High School , and formerly known as Palatine Township High School District 211",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M6_1"
+        ]
+      },
+      "06": {
+        "orig_text": "Township High School District 214 — the Cook County district of Elk Grove and Wheeling townships ( and a part of Palatine Township ) , and containing Buffalo Grove High School , Elk Grove High School , John Hersey High School , Prospect High School , Rolling Meadows High School , and Wheeling High School , and formerly Arlington High School and Forest View High School",
+        "text": "Township High School District 214 — the Cook County district of Elk Grove and Wheeling townships ( and a part of Palatine Township ) , and containing Buffalo Grove High School , Elk Grove High School , John Hersey High School , Prospect High School , Rolling Meadows High School , and Wheeling High School , and formerly Arlington High School and Forest View High School",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M27_0",
+          "M28_0",
+          "M29_0",
+          "M5_1",
+          "M6_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          2,
+          31
+        ],
+        "text": "township high school district",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          64,
+          85
+        ],
+        "text": "Deerfield High School",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          90,
+          115
+        ],
+        "text": "Highland Park High School",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          33
+        ],
+        "text": "Township High School District 211",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          64,
+          91
+        ],
+        "text": "James B. Conant High School",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          94,
+          111
+        ],
+        "text": "Fremd High School",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          114,
+          141
+        ],
+        "text": "Hoffman Estates High School",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          144,
+          164
+        ],
+        "text": "Palatine High School",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          171,
+          193
+        ],
+        "text": "Schaumburg High School",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          218,
+          256
+        ],
+        "text": "Palatine Township High School District",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          33
+        ],
+        "text": "Township High School District 214",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          68,
+          72
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "06",
+        "span": [
+          64,
+          73
+        ],
+        "text": "Elk Grove",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          78,
+          96
+        ],
+        "text": "Wheeling townships",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          150,
+          175
+        ],
+        "text": "Buffalo Grove High School",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          178,
+          199
+        ],
+        "text": "Elk Grove High School",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          202,
+          225
+        ],
+        "text": "John Hersey High School",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          228,
+          248
+        ],
+        "text": "Prospect High School",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "06",
+        "span": [
+          251,
+          278
+        ],
+        "text": "Rolling Meadows High School",
+        "entity_type": "LOC",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "06",
+        "span": [
+          285,
+          305
+        ],
+        "text": "Wheeling High School",
+        "entity_type": "LOC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "06",
+        "span": [
+          321,
+          342
+        ],
+        "text": "Arlington High School",
+        "entity_type": "LOC",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "06",
+        "span": [
+          347,
+          370
+        ],
+        "text": "Forest View High School",
+        "entity_type": "LOC",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          82,
+          90
+        ],
+        "text": "Illinois",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          28
+        ],
+        "text": "District 211",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          33,
+          45
+        ],
+        "text": "District 214",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          99
+        ],
+        "text": "Palatine Township",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          113,
+          130
+        ],
+        "text": "Palatine Township",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          103,
+          114
+        ],
+        "text": "Cook County",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          51
+        ],
+        "text": "Cook County",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "06",
+        "span": [
+          40,
+          51
+        ],
+        "text": "Cook County",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          59
+        ],
+        "text": "Township High School District",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          33
+        ],
+        "text": "Township High School District 113",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          51
+        ],
+        "text": "Lake County",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District",
+          "wikidata": "http://www.wikidata.org/entity/Q16884865"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q1204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District_211",
+          "wikidata": "http://www.wikidata.org/entity/Q7830251"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District_214",
+          "wikidata": "http://www.wikidata.org/entity/Q7830252"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Palatine_Township,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q2886392",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Palatine_Township,_Cook_County,_Illinois"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cook_County,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q108418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%83%E3%82%AF%E9%83%A1_(%E3%82%A4%E3%83%AA%E3%83%8E%E3%82%A4%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District",
+          "wikidata": "http://www.wikidata.org/entity/Q16884865"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District_113",
+          "wikidata": "http://www.wikidata.org/entity/Q7830250"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lake_County,_California",
+          "wikidata": "http://www.wikidata.org/entity/Q156361",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%82%AF%E9%83%A1_(%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Deerfield_High_School_(Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q4162116"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Highland_Park_High_School_(Highland_Park,_Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q5758978"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District_211",
+          "wikidata": "http://www.wikidata.org/entity/Q7830251"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_B._Conant_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q6129077"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/William_Fremd_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q8009431"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hoffman_Estates_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q5876601"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Palatine_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q7126813"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Schaumburg_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q7431002"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Township_High_School_District_214",
+          "wikidata": "http://www.wikidata.org/entity/Q7830252"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elk_Grove_Village,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q328455"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wheeling_Township,_Illinois",
+          "wikidata": "http://www.wikidata.org/entity/Q598735",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Wheeling_Township,_Cook_County,_Illinois"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Grove_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q4985740"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Elk_Grove_High_School_(Elk_Grove_Village,_Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q5364013"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Hersey_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q6239104"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Prospect_High_School_(Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q7250749"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rolling_Meadows_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q7361196"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wheeling_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q7992300"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arlington_High_School_(Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q4792342"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Forest_View_High_School_(Illinois)",
+          "wikidata": "http://www.wikidata.org/entity/Q5469131",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Forest_View_High_School"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

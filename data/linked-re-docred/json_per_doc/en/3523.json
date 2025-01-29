@@ -1,0 +1,567 @@
+{
+  "3523": {
+    "doc_info": {
+      "title": "Appenzell (village)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Appenzell is a village , a statistic town , but not a municipality , and the capital of the canton of Appenzell Innerrhoden in Switzerland .",
+        "text": "Appenzell is a village , a statistic town , but not a municipality , and the capital of the canton of Appenzell Innerrhoden in Switzerland .",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Appenzell has no municipal government of its own ; rather , the different parts of Appenzell belong to and are governed by the districts ( and municipalities ) Appenzell , Schwende and Rüte .",
+        "text": "Appenzell has no municipal government of its own ; rather , the different parts of Appenzell belong to and are governed by the districts ( and municipalities ) Appenzell , Schwende and Rüte .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_3",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Because of that , for firefighting , energy and water , the village Appenzell has a special - purpose municipality , the Feuerschaugemeinde .",
+        "text": "Because of that , for firefighting , energy and water , the village Appenzell has a special - purpose municipality , the Feuerschaugemeinde .",
+        "mention_ids": [
+          "M0_4",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "orig_text": "In 1071 the village was referred to as Abbacella .",
+        "text": "In 1071 the village was referred to as Abbacella .",
+        "mention_ids": [
+          "M0_5",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "orig_text": "By 1223 this changed to Abbatiscella , meaning the Abbot 's cell .",
+        "text": "By 1223 this changed to Abbatiscella , meaning the Abbot 's cell .",
+        "mention_ids": [
+          "M0_6",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "orig_text": "This refers to the abbot of the Abbey of Saint Gall .",
+        "text": "This refers to the abbot of the Abbey of Saint Gall .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The official language of Appenzell is ( the Swiss variety of Standard ) German , but the main spoken language is the local variant of the Alemannic Swiss German dialect .",
+        "text": "The official language of Appenzell is ( the Swiss variety of Standard ) German , but the main spoken language is the local variant of the Alemannic Swiss German dialect .",
+        "mention_ids": [
+          "M0_7",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The buildings in the village core , the parish church , the 1563 town hall , the Salesis house , the ruins of Castle Clanx and the state archives with the administration building are listed as heritage sites of national significance .",
+        "text": "The buildings in the village core , the parish church , the 1563 town hall , the Salesis house , the ruins of Castle Clanx and the state archives with the administration building are listed as heritage sites of national significance .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          160,
+          169
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "01",
+        "span": [
+          83,
+          92
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "02",
+        "span": [
+          68,
+          77
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          48
+        ],
+        "text": "Abbacella",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "04",
+        "span": [
+          24,
+          36
+        ],
+        "text": "Abbatiscella",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_7": {
+        "sentence_id": "06",
+        "span": [
+          25,
+          34
+        ],
+        "text": "Appenzell",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          72,
+          78
+        ],
+        "text": "German",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          138,
+          147
+        ],
+        "text": "Alemannic",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          148,
+          160
+        ],
+        "text": "Swiss German",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          60,
+          64
+        ],
+        "text": "1563",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          81,
+          94
+        ],
+        "text": "Salesis house",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          110,
+          122
+        ],
+        "text": "Castle Clanx",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          102,
+          123
+        ],
+        "text": "Appenzell Innerrhoden",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          127,
+          138
+        ],
+        "text": "Switzerland",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          172,
+          180
+        ],
+        "text": "Schwende",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          185,
+          189
+        ],
+        "text": "Rüte",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          121,
+          139
+        ],
+        "text": "Feuerschaugemeinde",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1071",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1223",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          32,
+          51
+        ],
+        "text": "Abbey of Saint Gall",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          44,
+          49
+        ],
+        "text": "Swiss",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6",
+          "M0_7"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Appenzell_District",
+          "wikidata": "http://www.wikidata.org/entity/Q67125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Appenzell_(district)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Appenzell_Innerrhoden",
+          "wikidata": "http://www.wikidata.org/entity/Q12094",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%9A%E3%83%B3%E3%83%84%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%87%E3%83%B3%E6%BA%96%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Schwende_District",
+          "wikidata": "http://www.wikidata.org/entity/Q69378"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCte",
+          "wikidata": "http://www.wikidata.org/entity/Q67188",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rüte"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Feuerschaugemeinde",
+          "wikidata": "http://www.wikidata.org/entity/Q70697"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Abbey_of_Saint_Gall",
+          "wikidata": "http://www.wikidata.org/entity/Q155699",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%AF%E3%83%88%E3%83%BB%E3%82%AC%E3%83%AC%E3%83%B3%E4%BF%AE%E9%81%93%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swiss_Standard_German",
+          "wikidata": "http://www.wikidata.org/entity/Q1366643"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alemannic_German",
+          "wikidata": "http://www.wikidata.org/entity/Q131339",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%9E%E3%83%B3%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Swiss_German",
+          "wikidata": "http://www.wikidata.org/entity/Q387066",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Swiss_German_(linguistics)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%89%E3%82%A4%E3%83%84%E8%AA%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Clanx_Castle",
+          "wikidata": "http://www.wikidata.org/entity/Q2175234"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

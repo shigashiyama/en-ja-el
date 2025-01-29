@@ -1,0 +1,535 @@
+{
+  "0103623": {
+    "doc_info": {
+      "title": "103623_Apples_iTunes_replaces",
+      "url": "http://en.wikinews.org/wiki/Apple's_iTunes_replaces_Wal-Mart_as_No._1_U.S._music_seller"
+    },
+    "sentences": {
+      "00": {
+        "text": "AppleのiTunesが第1位の米国の音楽販売者としてウォルマートに代わる",
+        "mention_ids": [
+          "M025",
+          "M027",
+          "M029"
+        ]
+      },
+      "01": {
+        "text": "2008年4月9日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "市場調査会社のNPDグループが4月3日に発表した数字によると、その開始から5年後の2月に、AppleコンピューターのiTunesダウンロードが可能な音楽サービスは、ウォルマートを抜き、米国における第1位の音楽販売者になりました。",
+        "mention_ids": [
+          "M001",
+          "M005",
+          "M009",
+          "M030",
+          "M032",
+          "M036"
+        ]
+      },
+      "03": {
+        "text": "同グループは、2003年のその立ち上げ以来、40億曲以上がiTunesストアからダウンロードされており、2月の時点で、iTunesストアは、デジタル音楽全体の売上の70%を占めていると語りました。",
+        "mention_ids": [
+          "M012",
+          "M014",
+          "M016",
+          "M018",
+          "M022",
+          "M023"
+        ]
+      },
+      "04": {
+        "text": "NPDは、これらの数字によると、AppleのiTunesストアは、2007年に、米国の家電量販店のベスト・バイを追い抜いて米国第2位の音楽小売業者になったと語りました。",
+        "mention_ids": [
+          "M003",
+          "M007",
+          "M028",
+          "M035"
+        ]
+      },
+      "05": {
+        "text": "アルス・テクニカの4月2日のレポートによると、Appleの内部メモは、同社が米国音楽販売トップのウォルマートとしてのウォルマートを追い抜いたことを示していました。",
+        "mention_ids": [
+          "M011",
+          "M015",
+          "M017",
+          "M037",
+          "M039"
+        ]
+      },
+      "06": {
+        "text": "彼らの予測によると、2008年1月の時点で、AppleのiTunesが米国音楽市場の19%を占め、ウォルマートが15%、ベストバイが13%で続いています。",
+        "mention_ids": [
+          "M158"
+        ]
+      },
+      "07": {
+        "text": "トップ5をまとめると、Amazon.comとTargetで、それぞれ6%でした。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "市場調査会社のNPDグループ",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M003": {
+        "sentence_id": "04",
+        "span": [
+          40,
+          55
+        ],
+        "text": "米国の家電量販店のベスト・バイ",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M005": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          33
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M007": {
+        "sentence_id": "04",
+        "span": [
+          61,
+          73
+        ],
+        "text": "米国第2位の音楽小売業者",
+        "entity_type": null,
+        "entity_id": "E152"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          98,
+          107
+        ],
+        "text": "第1位の音楽販売者",
+        "entity_type": null,
+        "entity_id": "E151"
+      },
+      "M011": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          33
+        ],
+        "text": "Appleの内部メモ",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M012": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "同グループ",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M014": {
+        "sentence_id": "03",
+        "span": [
+          22,
+          28
+        ],
+        "text": "40億曲以上",
+        "entity_type": null,
+        "entity_id": "E156"
+      },
+      "M015": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          37
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          38
+        ],
+        "text": "iTunesストア",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M017": {
+        "sentence_id": "05",
+        "span": [
+          58,
+          64
+        ],
+        "text": "ウォルマート",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M018": {
+        "sentence_id": "03",
+        "span": [
+          13,
+          15
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M022": {
+        "sentence_id": "03",
+        "span": [
+          59,
+          68
+        ],
+        "text": "iTunesストア",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M023": {
+        "sentence_id": "03",
+        "span": [
+          70,
+          76
+        ],
+        "text": "デジタル音楽",
+        "entity_type": null,
+        "entity_id": "E156"
+      },
+      "M025": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          34
+        ],
+        "text": "ウォルマート",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M027": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          25
+        ],
+        "text": "第1位の米国の音楽販売者",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M028": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "NPD",
+        "entity_type": null,
+        "entity_id": "E148"
+      },
+      "M029": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "AppleのiTunes",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M030": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          88
+        ],
+        "text": "ウォルマート",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M032": {
+        "sentence_id": "02",
+        "span": [
+          45,
+          80
+        ],
+        "text": "AppleコンピューターのiTunesダウンロードが可能な音楽サービス",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M035": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          31
+        ],
+        "text": "AppleのiTunesストア",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M036": {
+        "sentence_id": "02",
+        "span": [
+          92,
+          94
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E155"
+      },
+      "M037": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          18
+        ],
+        "text": "アルス・テクニカの4月2日のレポート",
+        "entity_type": null,
+        "entity_id": "E154"
+      },
+      "M039": {
+        "sentence_id": "05",
+        "span": [
+          38,
+          54
+        ],
+        "text": "米国音楽販売トップのウォルマート",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M158": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          34
+        ],
+        "text": "AppleのiTunes",
+        "entity_type": null,
+        "entity_id": "E123"
+      }
+    },
+    "entities": {
+      "E123": {
+        "member_mention_ids": [
+          "M016",
+          "M018",
+          "M022",
+          "M027",
+          "M029",
+          "M032",
+          "M035",
+          "M158"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M021"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ITunes_Store",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ITunes_Store",
+          "wikidata": "http://www.wikidata.org/entity/Q9593",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ITunes_Store"
+        }
+      },
+      "E146": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "removed_mention_ids": [
+          "M002",
+          "M038"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Best_Buy",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Best_Buy",
+          "wikidata": "http://www.wikidata.org/entity/Q533415",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B9%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4"
+        }
+      },
+      "E148": {
+        "member_mention_ids": [
+          "M001",
+          "M012",
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M004",
+          "M040"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/NPD_Group",
+          "dbpedia:orig": "http://dbpedia.org/resource/NPD_Group",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_NPD_Group",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/The_NPD_Group"
+        }
+      },
+      "E149": {
+        "member_mention_ids": [
+          "M017",
+          "M025",
+          "M030",
+          "M039"
+        ],
+        "removed_mention_ids": [
+          "M024"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E150": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "removed_mention_ids": [
+          "M031",
+          "M033",
+          "M013",
+          "M026"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E151": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E152": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E153": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Ars_Technica",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ars_Technica",
+          "wikidata": "http://www.wikidata.org/entity/Q584152",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Ars_Technica"
+        }
+      },
+      "E154": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E155": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "removed_mention_ids": [
+          "M034",
+          "M006",
+          "M008",
+          "M019"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E156": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

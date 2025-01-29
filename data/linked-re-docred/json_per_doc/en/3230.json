@@ -1,0 +1,294 @@
+{
+  "3230": {
+    "doc_info": {
+      "title": "Los Alerces National Park",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Los Alerces National Park ( ) is located in the Andes in Chubut Province in the Patagonian region of Argentina .",
+        "text": "Los Alerces National Park ( ) is located in the Andes in Chubut Province in the Patagonian region of Argentina .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Its western boundary coincides with the Chilean border .",
+        "text": "Its western boundary coincides with the Chilean border .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Successive glaciations have molded the landscape in the region creating spectacular features such as moraines , glacial cirques and clear - water lakes .",
+        "text": "Successive glaciations have molded the landscape in the region creating spectacular features such as moraines , glacial cirques and clear - water lakes .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "The vegetation is dominated by dense temperate forests , which give way to alpine meadows higher up under the rocky Andean peaks .",
+        "text": "The vegetation is dominated by dense temperate forests , which give way to alpine meadows higher up under the rocky Andean peaks .",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "04": {
+        "orig_text": "A highly distinctive and emblematic feature is its alerce forest ; the globally threatened alerce tree is the second longest living tree species in the world ( > 3,600 years ) .",
+        "text": "A highly distinctive and emblematic feature is its alerce forest ; the globally threatened alerce tree is the second longest living tree species in the world ( > 3,600 years ) .",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The alerce forests in the park are in an excellent state of conservation .",
+        "text": "The alerce forests in the park are in an excellent state of conservation .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The property is vital for the protection of some of the last portions of continuous Patagonian Forest in an almost pristine state and is the habitat for a number of endemic and threatened species of flora and fauna .",
+        "text": "The property is vital for the protection of some of the last portions of continuous Patagonian Forest in an almost pristine state and is the habitat for a number of endemic and threatened species of flora and fauna .",
+        "mention_ids": [
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          25
+        ],
+        "text": "Los Alerces National Park",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          48,
+          53
+        ],
+        "text": "Andes",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          72
+        ],
+        "text": "Chubut Province",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          80,
+          90
+        ],
+        "text": "Patagonian",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          101,
+          110
+        ],
+        "text": "Argentina",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          47
+        ],
+        "text": "Chilean",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          116,
+          128
+        ],
+        "text": "Andean peaks",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          162,
+          173
+        ],
+        "text": "3,600 years",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          84,
+          101
+        ],
+        "text": "Patagonian Forest",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Los_Alerces_National_Park",
+          "wikidata": "http://www.wikidata.org/entity/Q828291",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%BB%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andes",
+          "wikidata": "http://www.wikidata.org/entity/Q5456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chubut_Province",
+          "wikidata": "http://www.wikidata.org/entity/Q45007",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%96%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Patagonia",
+          "wikidata": "http://www.wikidata.org/entity/Q1507",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BF%E3%82%B4%E3%83%8B%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Argentina",
+          "wikidata": "http://www.wikidata.org/entity/Q414",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chile",
+          "wikidata": "http://www.wikidata.org/entity/Q298",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andes",
+          "wikidata": "http://www.wikidata.org/entity/Q5456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E5%B1%B1%E8%84%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

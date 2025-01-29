@@ -1,0 +1,190 @@
+{
+  "3371": {
+    "doc_info": {
+      "title": "List of islands of Western Australia, M–Q",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "これは西オーストラリアの島のリストです。",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "01": {
+        "text": "これには、沿岸および内陸のすべての島、岩礁、島、小島が含まれます。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "これには、名前付きの島のグループ群、群島、島塊も含まれます。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "このリストは、1996年オーストラリア地名辞典に関しては全部揃っています。",
+        "mention_ids": [
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "04": {
+        "text": "疑わしい名前はオンラインの2004年のデータと照合され、すべての場合において正しいことが確認されました。",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "05": {
+        "text": "ただし、1996年以降に公報に掲載または削除された島がある場合、このリストにはこれらの変更が反映されません。",
+        "mention_ids": [
+          "M1_1"
+        ]
+      },
+      "06": {
+        "text": "厳密に言えば、オーストラリアの地名は大文字でのみ官報に掲載され、このリスト内の名前は、通常の大文字化規則に従って大文字と小文字が混合されたものに変換されています。",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "07": {
+        "text": "場所は官報に記載されている通りです；明らかに、一部の島は広い地域にまたがっている場合があります。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          3,
+          11
+        ],
+        "text": "西オーストラリア",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1996年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          9
+        ],
+        "text": "1996年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          23
+        ],
+        "text": "オーストラリア地名辞典",
+        "entity_type": "MISC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          18
+        ],
+        "text": "2004年",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          15
+        ],
+        "text": "オーストラリアの",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Western_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q3206",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gazetteer_of_Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q5529110"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australia",
+          "wikidata": "http://www.wikidata.org/entity/Q408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

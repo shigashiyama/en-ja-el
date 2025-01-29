@@ -1,0 +1,658 @@
+{
+  "3368": {
+    "doc_info": {
+      "title": "John Anderson Moore",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ジョン・アンダーソン・ムーア（1910年1月12日–1944年2月26日）は、第二次世界大戦中に戦死したアメリカ海軍の潜水艦司令官でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "彼は亡くなるまでに3個の海軍十字章とパープル・ハート勲章を受章していました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "米国海軍のフリゲート艦USSジョン・A・ムーア(FFG-19)は、彼の名誉にちなんで命名されました。",
+        "mention_ids": [
+          "M3_1",
+          "M8_0",
+          "M8_1"
+        ]
+      },
+      "03": {
+        "text": "ムーアは、米国海軍兵学校でボクシングとサッカーをしていました。",
+        "mention_ids": [
+          "M0_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "彼はR級潜水艦とS級潜水艦に乗務し、その後、1943年から1944年にかけて、潜水艦USSグレイバック(SS-208)、最後の3回の哨戒の指揮をとりました。",
+        "mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M11_0",
+          "M12_0",
+          "M5_1"
+        ]
+      },
+      "05": {
+        "text": "革新者チャールズ・「スウェーデ」・モムセン、グレイバック、USSセロ(SS-225)の全体指揮の下、USSプランジャー(SS-179)は「ウルフパック」戦術を使用して敵の輸送船に対して米国海軍として最初の攻撃を開始しました。",
+        "mention_ids": [
+          "M10_3",
+          "M13_0",
+          "M14_0",
+          "M14_1",
+          "M15_0",
+          "M15_1",
+          "M3_2"
+        ]
+      },
+      "06": {
+        "text": "ムーアは、グレイバック号の最後の哨戒中に戦死するまで、東シナ海で日本の船舶に繰り返し侵入し、「並外れた英雄的行動」をとった複数の出来事で認められました。",
+        "mention_ids": [
+          "M0_2",
+          "M10_2",
+          "M16_0",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "ジョン・アンダーソン・ムーア",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ムーア",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ムーア",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          51
+        ],
+        "text": "USSグレイバック",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "04",
+        "span": [
+          52,
+          58
+        ],
+        "text": "SS-208",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M10_2": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          11
+        ],
+        "text": "グレイバック",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M10_3": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          28
+        ],
+        "text": "グレイバック",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          27
+        ],
+        "text": "1943年",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          29,
+          34
+        ],
+        "text": "1944年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          21
+        ],
+        "text": "チャールズ・「スウェーデ」・モムセン",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          29,
+          34
+        ],
+        "text": "USSセロ",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "05",
+        "span": [
+          35,
+          41
+        ],
+        "text": "SS-225",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          50,
+          59
+        ],
+        "text": "USSプランジャー",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "05",
+        "span": [
+          60,
+          66
+        ],
+        "text": "SS-179",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          32,
+          35
+        ],
+        "text": "日本の",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          27,
+          31
+        ],
+        "text": "東シナ海",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          25
+        ],
+        "text": "1910年1月12日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          36
+        ],
+        "text": "1944年2月26日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          58
+        ],
+        "text": "アメリカ海軍",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "米国海軍",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "05",
+        "span": [
+          92,
+          96
+        ],
+        "text": "米国海軍",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          46
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          9,
+          11
+        ],
+        "text": "3個",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          65
+        ],
+        "text": "3回",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          12,
+          17
+        ],
+        "text": "海軍十字章",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          28
+        ],
+        "text": "パープル・ハート勲章",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          23
+        ],
+        "text": "USSジョン・A・ムーア",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          30
+        ],
+        "text": "FFG-19",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          12
+        ],
+        "text": "米国海軍兵学校",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Anderson_Moore",
+          "wikidata": "http://www.wikidata.org/entity/Q14585645"
+        },
+        "date_of_death": "1944-02-26T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Navy",
+          "wikidata": "http://www.wikidata.org/entity/Q11220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B5%B7%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_War_II",
+          "wikidata": "http://www.wikidata.org/entity/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Navy_Cross",
+          "wikidata": "http://www.wikidata.org/entity/Q833465",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Navy_Cross_(United_States)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%8D%81%E5%AD%97%E7%AB%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Purple_Heart",
+          "wikidata": "http://www.wikidata.org/entity/Q145752",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Purple_Heart_Medal",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88%E7%AB%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_John_A._Moore",
+          "wikidata": "http://www.wikidata.org/entity/Q7870541",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/USS_John_A._Moore_(FFG-19)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BBA%E3%83%BB%E3%83%A0%E3%83%BC%E3%82%A2_(%E3%83%95%E3%83%AA%E3%82%B2%E3%83%BC%E3%83%88)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Naval_Academy",
+          "wikidata": "http://www.wikidata.org/entity/Q559549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%85%B5%E5%AD%A6%E6%A0%A1_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M10_2",
+          "M10_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Grayback_(SS-208)",
+          "wikidata": "http://www.wikidata.org/entity/Q7869824",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF_(SS-208)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charles_Momsen",
+          "wikidata": "http://www.wikidata.org/entity/Q5081032"
+        },
+        "date_of_death": "1967-05-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Cero_(SS-225)",
+          "wikidata": "http://www.wikidata.org/entity/Q6144224",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AD_(%E6%BD%9C%E6%B0%B4%E8%89%A6)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/USS_Plunger_(SS-179)",
+          "wikidata": "http://www.wikidata.org/entity/Q7872954",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC_(SS-179)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_China_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q45341",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%B7%E3%83%8A%E6%B5%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

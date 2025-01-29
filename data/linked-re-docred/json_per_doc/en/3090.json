@@ -1,0 +1,437 @@
+{
+  "3090": {
+    "doc_info": {
+      "title": "Adolfo Nicolás",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Adolfo Nicolás Pachón ( born 29 April 1936 ) , is a Spanish priest of the Roman Catholic Church .",
+        "text": "Adolfo Nicolás Pachón ( born 29 April 1936 ) , is a Spanish priest of the Roman Catholic Church .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "He was the thirtieth Superior General of the Society of Jesus , the largest religious order in the Roman Catholic Church .",
+        "text": "He was the thirtieth Superior General of the Society of Jesus , the largest religious order in the Roman Catholic Church .",
+        "mention_ids": [
+          "M3_1",
+          "M4_1"
+        ]
+      },
+      "02": {
+        "text": "Nicolás , after consulting with Pope ■■■■■■■ , determined to resign after his 80th birthday , and initiated the process of calling a Jesuit General Congregation to elect his successor .",
+        "mention_ids": [
+          "M0_1",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Until the resignation of his predecessor , Peter Hans Kolvenbach , it was not the norm for a Jesuit Superior General to resign ; they , like the great majority of the Popes up until Benedict XVI , generally served until death .",
+        "text": "Until the resignation of his predecessor , Peter Hans Kolvenbach , it was not the norm for a Jesuit Superior General to resign ; they , like the great majority of the Popes up until Benedict XVI , generally served until death .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "orig_text": "However , the Jesuit constitutions include provision for a resignation .",
+        "text": "However , the Jesuit constitutions include provision for a resignation .",
+        "mention_ids": [
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "In October 2016 the thirty - sixth General Congregation of the Society of Jesus appointed his successor , ■■■■■■■■■■■ from Venezuela .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M4_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Adolfo Nicolás Pachón",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Nicolás",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          15
+        ],
+        "text": "October 2016",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          106,
+          117
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          123,
+          132
+        ],
+        "text": "Venezuela",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          42
+        ],
+        "text": "29 April 1936",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          59
+        ],
+        "text": "Spanish",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          74,
+          95
+        ],
+        "text": "Roman Catholic Church",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          99,
+          120
+        ],
+        "text": "Roman Catholic Church",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "05",
+        "span": [
+          63,
+          79
+        ],
+        "text": "Society of Jesus",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          45,
+          61
+        ],
+        "text": "Society of Jesus",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          44
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          133,
+          160
+        ],
+        "text": "Jesuit General Congregation",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          64
+        ],
+        "text": "Peter Hans Kolvenbach",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          182,
+          194
+        ],
+        "text": "Benedict XVI",
+        "entity_type": "PER",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          20
+        ],
+        "text": "Jesuit",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Adolfo_Nicol%C3%A1s",
+          "wikidata": "http://www.wikidata.org/entity/Q365131",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Adolfo_Nicolás",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9"
+        },
+        "date_of_death": "2020-05-20T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Spain",
+          "wikidata": "http://www.wikidata.org/entity/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Catholic_Church",
+          "wikidata": "http://www.wikidata.org/entity/Q9592",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%95%99%E4%BC%9A"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jesuits",
+          "wikidata": "http://www.wikidata.org/entity/Q36380",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%82%BA%E3%82%B9%E4%BC%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pope_Francis",
+          "wikidata": "http://www.wikidata.org/entity/Q450675",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Congregation",
+          "wikidata": "http://www.wikidata.org/entity/Q386750"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Peter_Hans_Kolvenbach",
+          "wikidata": "http://www.wikidata.org/entity/Q504810"
+        },
+        "date_of_death": "2016-11-26T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI",
+          "wikidata": "http://www.wikidata.org/entity/Q2494",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%87%E3%82%A3%E3%82%AF%E3%83%8816%E4%B8%96_(%E3%83%AD%E3%83%BC%E3%83%9E%E6%95%99%E7%9A%87)"
+        },
+        "date_of_death": "2022-12-31T00:00:00Z",
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jesuits",
+          "wikidata": "http://www.wikidata.org/entity/Q36380",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A8%E3%82%BA%E3%82%B9%E4%BC%9A"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Arturo_Sosa",
+          "wikidata": "http://www.wikidata.org/entity/Q27258137"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Venezuela",
+          "wikidata": "http://www.wikidata.org/entity/Q717",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

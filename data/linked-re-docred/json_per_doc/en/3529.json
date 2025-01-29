@@ -1,0 +1,338 @@
+{
+  "3529": {
+    "doc_info": {
+      "title": "National Integrated Ballistic Information Network",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The National Integrated Ballistic Information Network or NIBIN is a specialized computer network in the United States .",
+        "text": "The National Integrated Ballistic Information Network or NIBIN is a specialized computer network in the United States .",
+        "mention_ids": [
+          "M0_0",
+          "M0_3",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It contains digital images of recovered pieces of ballistic evidence .",
+        "text": "It contains digital images of recovered pieces of ballistic evidence .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Running on the Integrated Ballistic Identification System or IBIS platform , NIBIN enables U.S. law enforcers to rapidly determine if a piece of recovered ballistic evidence came from a firearm that has been previously used in a crime .",
+        "text": "Running on the Integrated Ballistic Identification System or IBIS platform , NIBIN enables U.S. law enforcers to rapidly determine if a piece of recovered ballistic evidence came from a firearm that has been previously used in a crime .",
+        "mention_ids": [
+          "M0_2",
+          "M0_5",
+          "M0_6",
+          "M1_1"
+        ]
+      },
+      "03": {
+        "orig_text": "There are certain criteria that must be met prior to entering information into the NIBIN database .",
+        "text": "There are certain criteria that must be met prior to entering information into the NIBIN database .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "04": {
+        "orig_text": "For instance , cartridge cases from a .22 caliber firearm or a revolver are normally not entered .",
+        "text": "For instance , cartridge cases from a .22 caliber firearm or a revolver are normally not entered .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Using NIBIN , law enforcement staff can identify firearms in new cases that were used in prior incidents .",
+        "text": "Using NIBIN , law enforcement staff can identify firearms in new cases that were used in prior incidents .",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "06": {
+        "orig_text": "A series of seventeen different Washington state crime scenes involving seven firearms , and three different agencies in two counties , was identified using information provided by IBIS / NIBIN .",
+        "text": "A series of seventeen different Washington state crime scenes involving seven firearms , and three different agencies in two counties , was identified using information provided by IBIS / NIBIN .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          53
+        ],
+        "text": "National Integrated Ballistic Information Network",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          83,
+          88
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          82
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          62
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "05",
+        "span": [
+          6,
+          11
+        ],
+        "text": "NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          65
+        ],
+        "text": "IBIS",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          57
+        ],
+        "text": "Integrated Ballistic Identification System",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          100,
+          117
+        ],
+        "text": "the United States",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          91,
+          95
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "06",
+        "span": [
+          12,
+          21
+        ],
+        "text": "seventeen",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          32,
+          42
+        ],
+        "text": "Washington",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          72,
+          77
+        ],
+        "text": "seven",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "06",
+        "span": [
+          93,
+          98
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "06",
+        "span": [
+          121,
+          124
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "06",
+        "span": [
+          181,
+          193
+        ],
+        "text": "IBIS / NIBIN",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Integrated_Ballistics_Identification_System",
+          "wikidata": "http://www.wikidata.org/entity/Q17081125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Integrated_Ballistic_Identification_System"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Washington,_D.C.",
+          "wikidata": "http://www.wikidata.org/entity/Q61",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3D.C."
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Integrated_Ballistics_Identification_System",
+          "wikidata": "http://www.wikidata.org/entity/Q17081125",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Integrated_Ballistic_Identification_System"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

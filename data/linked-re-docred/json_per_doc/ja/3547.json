@@ -1,0 +1,308 @@
+{
+  "3547": {
+    "doc_info": {
+      "title": "Motijheel Thana",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "モティジール( )は、ダッカ、バングラデシュのタナ(行政区画)です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_2",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "それは市の中心部にあります(中央郵便局はダッカの起点と考えられています)。",
+        "mention_ids": [
+          "M1_1",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "モティヒールは、ダッカ市の主要なビジネスおよび商業の中心地であり、市内の他の地域よりも多くのオフィスやビジネス機関があります。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0"
+        ]
+      },
+      "03": {
+        "text": "国内で最も多くの企業の本社が置かれています。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "多くのニュース、雑誌、印刷物、その他のメディア出版社がここに拠点を置いています。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "Motijheelは、ダッカの主要駅であるカマラプール駅の近くにあります。",
+        "mention_ids": [
+          "M0_2",
+          "M1_3",
+          "M4_0"
+        ]
+      },
+      "06": {
+        "text": "この大都市で最も高い超高層ビルの1つがこのエリアにあります。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "それはビジネス街の中心です。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "バングラデシュ市内中心部とバングラデシュ銀行ビルはこのエリアにあります。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "モティジール",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "モティヒール",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Motijheel",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "02",
+        "span": [
+          8,
+          11
+        ],
+        "text": "ダッカ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          20,
+          23
+        ],
+        "text": "ダッカ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "00",
+        "span": [
+          11,
+          14
+        ],
+        "text": "ダッカ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          14
+        ],
+        "text": "ダッカ",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          22
+        ],
+        "text": "バングラデシュ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          19
+        ],
+        "text": "中央郵便局",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "05",
+        "span": [
+          21,
+          28
+        ],
+        "text": "カマラプール駅",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          12
+        ],
+        "text": "バングラデシュ市内中心部",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "08",
+        "span": [
+          13,
+          24
+        ],
+        "text": "バングラデシュ銀行ビル",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Motijheel_(disambiguation)",
+          "wikidata": "http://www.wikidata.org/entity/Q6917693"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dhaka",
+          "wikidata": "http://www.wikidata.org/entity/Q1354",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bangladesh",
+          "wikidata": "http://www.wikidata.org/entity/Q902",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Post_Office",
+          "wikidata": "http://www.wikidata.org/entity/Q1325334"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kamalapur_railway_station",
+          "wikidata": "http://www.wikidata.org/entity/Q6355669",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Kamalapur_Railway_Station"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_Centre_Dhaka",
+          "wikidata": "http://www.wikidata.org/entity/Q5123077",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/City_Centre_Bangladesh"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bangladesh_Bank_Building",
+          "wikidata": "http://www.wikidata.org/entity/Q4855276"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

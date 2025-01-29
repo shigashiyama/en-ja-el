@@ -1,0 +1,806 @@
+{
+  "3398": {
+    "doc_info": {
+      "title": "Bicycles &amp; Tricycles",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『Bicycles & Tricycles』は、ジ・オーブの6枚目のスタジオ・アルバムです。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "text": "1990年代初期のジ・オーブのスタイルと現在の電子音楽を組み合わせたもので、さまざまな反応がありました。",
+        "mention_ids": [
+          "M1_1",
+          "M2_0"
+        ]
+      },
+      "02": {
+        "text": "『デイリー・テレグラフ』は、『Bicycles & Tricycles』を「包括的で、探検的で、楽しい旅」であると賞賛しました。しかし、他の多くの出版物はそれを「ストーナー・ダブ」であり、現在の電子音楽文化とはほとんど無関係であると一蹴しました。",
+        "mention_ids": [
+          "M0_2",
+          "M3_0"
+        ]
+      },
+      "03": {
+        "text": "■■■■■、■■■■■■■■■■、■■■■■に加えて、■■■■■■■がボコーダーのエフェクトを使った歌を提供し、■■■■■■■■■が歌詞とラップを提供しました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "オーブの共同創設者である■■■■■■■■も、『Bicycles & Tricycles』の『From a Distance』の共同作曲家としてゲスト出演しました。",
+        "mention_ids": [
+          "M0_3",
+          "M10_0",
+          "M11_0",
+          "M1_5"
+        ]
+      },
+      "05": {
+        "text": "アイランド・レコードを離れた後、ジ・オーブは2004年に英国のクッキング・ヴァイナルと米国のサンクチュアリ・レコードで『Bicycles & Tricycles』をリリースしました。",
+        "mention_ids": [
+          "M0_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M17_0",
+          "M18_0",
+          "M1_2"
+        ]
+      },
+      "06": {
+        "text": "アルバムを宣伝するために、ジ・オーブは、過去にジ・オーブをリミックスしたダブ・レゲエ・アーティストの■■■■■■■■■■■とともに英国ツアーを開始しました。",
+        "mention_ids": [
+          "M16_0",
+          "M19_0",
+          "M1_4"
+        ]
+      },
+      "07": {
+        "text": "ジ・オーブは依然として大勢の観衆を集めましたが、『ガーディアン』はロンドンのある公演を「楽しくない」と評し、「新しい曲は…本当に進歩しているものはほとんどない」と述べました。",
+        "mention_ids": [
+          "M1_6",
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "08": {
+        "text": "彼らはまた、■■■■■は古い曲よりも『Bicycles & Tricycles』の素材を演奏する方がはるかに快適で幸せであるようだとも指摘しました。",
+        "mention_ids": [
+          "M0_4",
+          "M4_1"
+        ]
+      },
+      "09": {
+        "text": "■■■■■がこのアルバムに与えた最大の影響は、ドラムンベースとトリップホップ・ミュージックでした。",
+        "mention_ids": [
+          "M4_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          60,
+          80
+        ],
+        "text": "Bicycles & Tricycles",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          21
+        ],
+        "text": "Bicycles & Tricycles",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          35
+        ],
+        "text": "Bicycles & Tricycles",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "04",
+        "span": [
+          23,
+          43
+        ],
+        "text": "Bicycles & Tricycles",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "08",
+        "span": [
+          19,
+          39
+        ],
+        "text": "Bicycles & Tricycles",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          20
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          46,
+          61
+        ],
+        "text": "From a Distance",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          10
+        ],
+        "text": "アイランド・レコード",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          27
+        ],
+        "text": "2004年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          42
+        ],
+        "text": "クッキング・ヴァイナル",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          30
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          65,
+          67
+        ],
+        "text": "英国",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          46,
+          58
+        ],
+        "text": "サンクチュアリ・レコード",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          43,
+          45
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          50,
+          61
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          29
+        ],
+        "text": "オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          9,
+          14
+        ],
+        "text": "ジ・オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          21
+        ],
+        "text": "ジ・オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          18
+        ],
+        "text": "ジ・オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_5": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          3
+        ],
+        "text": "オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_6": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ジ・オーブ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          25,
+          31
+        ],
+        "text": "ガーディアン",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          38,
+          40
+        ],
+        "text": "ある",
+        "entity_type": "NUM",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          37
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "1990年代",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          1,
+          11
+        ],
+        "text": "デイリー・テレグラフ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "08",
+        "span": [
+          6,
+          11
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          10
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          16
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          17,
+          22
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          34
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          65
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bicycles_%26_Tricycles",
+          "wikidata": "http://www.wikidata.org/entity/Q4903812",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Bicycles_&_Tricycles"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_4",
+          "M1_5",
+          "M1_6"
+        ],
+        "removed_mention_ids": [
+          "M1_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Daily_Telegraph",
+          "wikidata": "http://www.wikidata.org/entity/Q192621",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%83%AC%E3%82%B0%E3%83%A9%E3%83%95"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alex_Paterson",
+          "wikidata": "http://www.wikidata.org/entity/Q4717608",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Roome",
+          "wikidata": "http://www.wikidata.org/entity/Q6255576"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Simon_Phillips_(producer)",
+          "wikidata": "http://www.wikidata.org/entity/Q7519536"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Thomas_Fehlmann",
+          "wikidata": "http://www.wikidata.org/entity/Q352854",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Cauty",
+          "wikidata": "http://www.wikidata.org/entity/Q5605106"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/From_a_Distance",
+          "wikidata": "http://www.wikidata.org/entity/Q3232840"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Island_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q190585",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cooking_Vinyl",
+          "wikidata": "http://www.wikidata.org/entity/Q2996526",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "removed_mention_ids": [
+          "M16_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sanctuary_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q1347984",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%81%E3%83%A5%E3%82%A2%E3%83%AA%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mad_Professor",
+          "wikidata": "http://www.wikidata.org/entity/Q918458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B5%E3%83%BC"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Guardian",
+          "wikidata": "http://www.wikidata.org/entity/Q11148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      }
+    }
+  }
+}

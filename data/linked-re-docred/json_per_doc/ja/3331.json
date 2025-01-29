@@ -1,0 +1,728 @@
+{
+  "3331": {
+    "doc_info": {
+      "title": "Typhoon Vicente",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "台風ビセンテは、フィリピンでは熱帯低気圧フェルディとして知られ、近年、中国南部を襲った最も強力な嵐とみなされ、強力なカテゴリー4相当の強力な台風として上陸しました。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "ビセンテはマカオを攻撃し、香港、さらに中国の広東省と広西チワン族自治区にほぼ影響を与えました。",
+        "mention_ids": [
+          "M2_1",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "ビセンテは、2012年の太平洋の台風シーズンの8番目の名前付きの嵐で3番目の台風であり、2012年7月18日にフィリピンの北東で熱帯低気圧として誕生しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M1_1",
+          "M4_1",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ビセンテはすぐに着実に南シナ海に移動し、暖かい海水の上で勢力を強め始め、7月23日の早朝に爆発的な勢力を強め始め、広東省地域に向けて突撃を開始したため、香港観測所（HKO）にハリケーン警告の発令を引き起こしました。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M14_1",
+          "M15_0",
+          "M4_3",
+          "M7_1"
+        ]
+      },
+      "04": {
+        "text": "10、1999年のヨーク以来。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "05": {
+        "text": "マカオ気象地球物理局も警告番号を掲げました。",
+        "mention_ids": [
+          "M18_0"
+        ]
+      },
+      "06": {
+        "text": "9 ヨーク以来、そしてマカオの主権移管後は初めて。",
+        "mention_ids": [
+          "M16_1",
+          "M5_1"
+        ]
+      },
+      "07": {
+        "text": "同じ日遅く、ビセンテは中国の広東省の泰山に上陸しました。",
+        "mention_ids": [
+          "M19_0",
+          "M2_2",
+          "M4_2",
+          "M7_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "台風ビセンテ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          25
+        ],
+        "text": "熱帯低気圧フェルディ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          15
+        ],
+        "text": "太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          54
+        ],
+        "text": "2012年7月18日",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          15
+        ],
+        "text": "南シナ海",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          36,
+          41
+        ],
+        "text": "7月23日",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          76,
+          81
+        ],
+        "text": "香港観測所",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "03",
+        "span": [
+          82,
+          85
+        ],
+        "text": "HKO",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          87,
+          94
+        ],
+        "text": "ハリケーン警告",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          9,
+          12
+        ],
+        "text": "ヨーク",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M16_1": {
+        "sentence_id": "06",
+        "span": [
+          2,
+          5
+        ],
+        "text": "ヨーク",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          8
+        ],
+        "text": "1999年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          10
+        ],
+        "text": "マカオ気象地球物理局",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          18,
+          20
+        ],
+        "text": "泰山",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          13
+        ],
+        "text": "フィリピン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          55,
+          60
+        ],
+        "text": "フィリピン",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          37
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          21
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          13
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          64
+        ],
+        "text": "4",
+        "entity_type": "NUM",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ビセンテ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ビセンテ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          10
+        ],
+        "text": "ビセンテ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_3": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ビセンテ",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          8
+        ],
+        "text": "マカオ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          14
+        ],
+        "text": "マカオ",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          13,
+          15
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          25
+        ],
+        "text": "広東省",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          57,
+          60
+        ],
+        "text": "広東省",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          17
+        ],
+        "text": "広東省",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          35
+        ],
+        "text": "広西チワン族自治区",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          11
+        ],
+        "text": "2012年",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Typhoon_Vicente",
+          "wikidata": "http://www.wikidata.org/entity/Q2187136",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9024%E5%B9%B4%E5%8F%B0%E9%A2%A8%E7%AC%AC8%E5%8F%B7"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Philippines",
+          "wikidata": "http://www.wikidata.org/entity/Q928",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2",
+          "M4_3"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Typhoon_Vicente",
+          "wikidata": "http://www.wikidata.org/entity/Q2187136",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9024%E5%B9%B4%E5%8F%B0%E9%A2%A8%E7%AC%AC8%E5%8F%B7"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Macau",
+          "wikidata": "http://www.wikidata.org/entity/Q14773",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong",
+          "wikidata": "http://www.wikidata.org/entity/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guangdong",
+          "wikidata": "http://www.wikidata.org/entity/Q15175",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E6%9D%B1%E7%9C%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guangxi",
+          "wikidata": "http://www.wikidata.org/entity/Q15176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E8%A5%BF%E3%83%81%E3%83%AF%E3%83%B3%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+          "wikidata": "http://www.wikidata.org/entity/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_China_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q37660",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B7%E3%83%8A%E6%B5%B7"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong_Observatory",
+          "wikidata": "http://www.wikidata.org/entity/Q1537282",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%A4%A9%E6%96%87%E5%8F%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong_tropical_cyclone_warning_signals",
+          "wikidata": "http://www.wikidata.org/entity/Q838411"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0",
+          "M16_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/1999_Pacific_typhoon_season",
+          "wikidata": "http://www.wikidata.org/entity/Q743800",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1999%E5%B9%B4%E3%81%AE%E5%8F%B0%E9%A2%A8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Meteorological_and_Geophysical_Bureau",
+          "wikidata": "http://www.wikidata.org/entity/Q5926090",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Macao_Meteorological_and_Geophysical_Bureau",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%B0%97%E8%B1%A1%E5%B1%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Taishan,_Guangdong",
+          "wikidata": "http://www.wikidata.org/entity/Q164904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%B0%E5%B1%B1%E5%B8%82"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

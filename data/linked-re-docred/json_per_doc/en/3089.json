@@ -1,0 +1,705 @@
+{
+  "3089": {
+    "doc_info": {
+      "title": "The Longest Daycare",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Maggie Simpson in \" The Longest Daycare \" , or simply The Longest Daycare , is a 2012 American traditionally animated 3D comedy short film based on the animated television series The Simpsons .",
+        "text": "Maggie Simpson in \" The Longest Daycare \" , or simply The Longest Daycare , is a 2012 American traditionally animated 3D comedy short film based on the animated television series The Simpsons .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_1",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "In the film , ■■■■■■■■■■■■■■ is enrolled at a new daycare facility where she squares off with the foul - tempered ■■■■■■■■■■■ when she befriends a caterpillar .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "The short originated with Simpsons producer ■■■■■■■■■■■■■■■ , who enlisted long - time veteran of the series , ■■■■■■■■■■■■■■■ , to direct the film .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "The picture was written by producers ■■■■■■ , ■■■■■■■ , ■■■■■■■■■■■■ , writers ■■■■■■■■■■■■■ and ■■■■■■■■■■■■■ , as well as show creator ■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The events of the short film take place between the twenty - third and twenty - fourth seasons of The Simpsons .",
+        "text": "The events of the short film take place between the twenty - third and twenty - fourth seasons of The Simpsons .",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "05": {
+        "orig_text": "The film premiered on July 13 , 2012 , where it was attached to screenings of the 20th Century Fox release .",
+        "text": "The film premiered on July 13 , 2012 , where it was attached to screenings of the 20th Century Fox release .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The film is the second Simpsons theatrical release .",
+        "text": "The film is the second Simpsons theatrical release .",
+        "mention_ids": [
+          "M6_1"
+        ]
+      },
+      "07": {
+        "orig_text": "The short was re - released on February 15 , 2013 and played before the film Life of Pi in selected theaters in USA .",
+        "text": "The short was re - released on February 15 , 2013 and played before the film Life of Pi in selected theaters in USA .",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M2_0"
+        ]
+      },
+      "08": {
+        "orig_text": "Reception has been positive , praising the storytelling and animation .",
+        "text": "Reception has been positive , praising the storytelling and animation .",
+        "mention_ids": []
+      },
+      "09": {
+        "orig_text": "The film was nominated for an Academy Award for Best Animated Short Film in 2013 , losing to Paperman .",
+        "text": "The film was nominated for an Academy Award for Best Animated Short Film in 2013 , losing to Paperman .",
+        "mention_ids": [
+          "M19_0",
+          "M20_0",
+          "M21_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          41
+        ],
+        "text": "Maggie Simpson in \" The Longest Daycare \"",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          54,
+          73
+        ],
+        "text": "The Longest Daycare",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          53
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          68
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          79,
+          92
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          97,
+          110
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          137,
+          150
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          36
+        ],
+        "text": "July 13 , 2012",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          78,
+          98
+        ],
+        "text": "the 20th Century Fox",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          31,
+          49
+        ],
+        "text": "February 15 , 2013",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          77,
+          87
+        ],
+        "text": "Life of Pi",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "09",
+        "span": [
+          30,
+          72
+        ],
+        "text": "Academy Award for Best Animated Short Film",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          81,
+          85
+        ],
+        "text": "2012",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "09",
+        "span": [
+          76,
+          80
+        ],
+        "text": "2013",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "09",
+        "span": [
+          93,
+          101
+        ],
+        "text": "Paperman",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M2_0": {
+        "sentence_id": "07",
+        "span": [
+          112,
+          115
+        ],
+        "text": "USA",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          94
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          179,
+          191
+        ],
+        "text": "The Simpsons",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "04",
+        "span": [
+          98,
+          110
+        ],
+        "text": "The Simpsons",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          14,
+          28
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          114,
+          125
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          34
+        ],
+        "text": "Simpsons",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          31
+        ],
+        "text": "Simpsons",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          59
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          111,
+          126
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          43
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Longest_Daycare",
+          "wikidata": "http://www.wikidata.org/entity/Q255309"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Simpsons",
+          "wikidata": "http://www.wikidata.org/entity/Q886",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maggie_Simpson",
+          "wikidata": "http://www.wikidata.org/entity/Q7834"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_recurring_The_Simpsons_characters",
+          "wikidata": "http://www.wikidata.org/entity/Q2237599"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Simpsons",
+          "wikidata": "http://www.wikidata.org/entity/Q886",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_L._Brooks",
+          "wikidata": "http://www.wikidata.org/entity/Q95125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BBL%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Silverman_(animator)",
+          "wikidata": "http://www.wikidata.org/entity/Q919608",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9E%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_L._Brooks",
+          "wikidata": "http://www.wikidata.org/entity/Q95125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BBL%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Al_Jean",
+          "wikidata": "http://www.wikidata.org/entity/Q2829373",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%BC%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/David_Mirkin",
+          "wikidata": "http://www.wikidata.org/entity/Q2665938"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Michael_Price_(writer)",
+          "wikidata": "http://www.wikidata.org/entity/Q6833625"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joel_H._Cohen",
+          "wikidata": "http://www.wikidata.org/entity/Q2169969"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matt_Groening",
+          "wikidata": "http://www.wikidata.org/entity/Q43994",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/20th_Century_Studios",
+          "wikidata": "http://www.wikidata.org/entity/Q434841",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/20th_Century_Fox",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Life_of_Pi_(film)",
+          "wikidata": "http://www.wikidata.org/entity/Q152780",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%91%E3%82%A4/%E3%83%88%E3%83%A9%E3%81%A8%E6%BC%82%E6%B5%81%E3%81%97%E3%81%9F227%E6%97%A5"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Animated_Short_Film",
+          "wikidata": "http://www.wikidata.org/entity/Q917808",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC%E7%9F%AD%E7%B7%A8%E3%82%A2%E3%83%8B%E3%83%A1%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paperman",
+          "wikidata": "http://www.wikidata.org/entity/Q2252695",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B4%99%E3%81%B2%E3%81%93%E3%81%86%E3%81%8D_(%E6%98%A0%E7%94%BB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

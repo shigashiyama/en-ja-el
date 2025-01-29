@@ -1,0 +1,325 @@
+{
+  "0061327": {
+    "doc_info": {
+      "title": "61327_U.S._stocks_plummet_amid_global_sell-off",
+      "url": "http://en.wikinews.org/wiki/U.S._stocks_plummet_amid_global_sell-off"
+    },
+    "sentences": {
+      "00": {
+        "text": "世界的な株安の中でアメリカ株が急落",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "text": "2007 年 2 月 27 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国最大の株価指数、ダウ・ジョーンズは火曜日の終値までに416ポイント以上急落し、9月11日のテロ攻撃後に、市場が再開されて以来、1日としては最悪の下落となりました。",
+        "mention_ids": [
+          "M006",
+          "M009"
+        ]
+      },
+      "03": {
+        "text": "この下落は、中国市場での9%の売りに続くものでした。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "04": {
+        "text": "ナスダックやS&P 500などのその他の株価指数は、それぞれ96ポイントと50ポイント下落しました。",
+        "mention_ids": [
+          "M012",
+          "M013"
+        ]
+      },
+      "05": {
+        "text": "これは、米国史上、1日の下落としては7番目の大きさでした。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "06": {
+        "text": "アナリストらは、(1)米国と中国の株式市場があまりにも長い間上昇しており、大幅な調整が予想されていたこと、(2)インフレと債券・株式の価格が高すぎたこと、(3)米国が景気後退に向かっていることなど、多くの要因が下落の原因だとしています。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ダウ工業株は日々の記録を打ち立て、ホワイトハウスが火曜日に、2006年第4四半期のGDP成長率の推定値を当初の3.5%から約2.3%に下方修正することを示唆し、この数字がさらに低くなる可能性があることにますます神経質になっていることから、アラン・グリーンスパンは月曜日、米国経済は最近の成長を維持できないだろうと指摘しました。",
+        "mention_ids": [
+          "M059"
+        ]
+      },
+      "08": {
+        "text": "米国東部標準時の午後3時ごろ、ロイターは、ニューヨーク証券取引所が売りを抑制するため、場内取引規制を実施したと報じました。",
+        "mention_ids": [
+          "M065"
+        ]
+      },
+      "09": {
+        "text": "アフガニスタンでリチャード・チェイニー米副大統領暗殺計画が失敗した日にも下落が起きました。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          14
+        ],
+        "text": "アメリカ株",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          18
+        ],
+        "text": "米国最大の株価指数、ダウ・ジョーンズ",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M009": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          56
+        ],
+        "text": "市場",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          10
+        ],
+        "text": "中国市場",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M012": {
+        "sentence_id": "04",
+        "span": [
+          16,
+          24
+        ],
+        "text": "その他の株価指数",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M013": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          13
+        ],
+        "text": "ナスダックやS&P 500",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M016": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          6
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M059": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ダウ工業株",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M065": {
+        "sentence_id": "08",
+        "span": [
+          21,
+          32
+        ],
+        "text": "ニューヨーク証券取引所",
+        "entity_type": null,
+        "entity_id": "E090"
+      }
+    },
+    "entities": {
+      "E084": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M057"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E085": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E087": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E090": {
+        "member_mention_ids": [
+          "M065"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/New_York_Stock_Exchange",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_York_Stock_Exchange",
+          "wikidata": "http://www.wikidata.org/entity/Q13677",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E6%89%80"
+        }
+      },
+      "E091": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E092": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/China",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        }
+      },
+      "E094": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M006",
+          "M059"
+        ],
+        "removed_mention_ids": [
+          "M007",
+          "M008"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      },
+      "E098": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "removed_mention_ids": [
+          "M079"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

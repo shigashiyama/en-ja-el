@@ -1,0 +1,519 @@
+{
+  "3276": {
+    "doc_info": {
+      "title": "IBM Research – Brazil",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "IBM Research – Brazil is one of twelve research laboratories comprising IBM Research , its first in South America .",
+        "text": "IBM Research – Brazil is one of twelve research laboratories comprising IBM Research , its first in South America .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was established in June 2010 , with locations in São Paulo and Rio de Janeiro .",
+        "text": "It was established in June 2010 , with locations in São Paulo and Rio de Janeiro .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Research focuses on Industrial Technology and Science , Systems of Engagement and Insight , Social Data Analytics and Natural Resources Solutions .",
+        "text": "Research focuses on Industrial Technology and Science , Systems of Engagement and Insight , Social Data Analytics and Natural Resources Solutions .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "The new lab , IBM 's ninth at the time of opening and first in 12 years , underscores the growing importance of emerging markets and the globalization of innovation .",
+        "text": "The new lab , IBM 's ninth at the time of opening and first in 12 years , underscores the growing importance of emerging markets and the globalization of innovation .",
+        "mention_ids": [
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "orig_text": "In collaboration with Brazil 's government , it will help IBM to develop technology systems around natural resource development and large - scale events such as the 2016 Summer Olympics .",
+        "text": "In collaboration with Brazil 's government , it will help IBM to develop technology systems around natural resource development and large - scale events such as the 2016 Summer Olympics .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_1",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "Engineer and associate lab director ■■■■■■■■■■■■■ explains that IBM has four priority areas in Brazil : \" The main area is related to natural resources management , involving oil and gas , mining and agricultural sectors .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M7_2",
+          "M9_1"
+        ]
+      },
+      "06": {
+        "orig_text": "The second is the social data analytics segment that comprises the analysis of data generated from social networking sites [ such as Twitter or Facebook ] , which can be applied , for example , to financial analysis .",
+        "text": "The second is the social data analytics segment that comprises the analysis of data generated from social networking sites [ such as Twitter or Facebook ] , which can be applied , for example , to financial analysis .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "07": {
+        "orig_text": "The third strategic area is nanotechnology applied to the development of the smarter devices for the intermittent production industry .",
+        "text": "The third strategic area is nanotechnology applied to the development of the smarter devices for the intermittent production industry .",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "This technology can be applied to , for example , blood testing or recovering oil from existing fields .",
+        "text": "This technology can be applied to , for example , blood testing or recovering oil from existing fields .",
+        "mention_ids": []
+      },
+      "09": {
+        "orig_text": "And the last one is smarter cities . \"",
+        "text": "And the last one is smarter cities . \"",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "IBM Research – Brazil",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          165,
+          169
+        ],
+        "text": "2016",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          170,
+          185
+        ],
+        "text": "Summer Olympics",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          49
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          72,
+          76
+        ],
+        "text": "four",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          133,
+          140
+        ],
+        "text": "Twitter",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          144,
+          152
+        ],
+        "text": "Facebook",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          38
+        ],
+        "text": "twelve",
+        "entity_type": "NUM",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          72,
+          84
+        ],
+        "text": "IBM Research",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          100,
+          113
+        ],
+        "text": "South America",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          22,
+          31
+        ],
+        "text": "June 2010",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          52,
+          61
+        ],
+        "text": "São Paulo",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          66,
+          80
+        ],
+        "text": "Rio de Janeiro",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          17
+        ],
+        "text": "IBM",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          61
+        ],
+        "text": "IBM",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "05",
+        "span": [
+          64,
+          67
+        ],
+        "text": "IBM",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          63,
+          71
+        ],
+        "text": "12 years",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          28
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "05",
+        "span": [
+          95,
+          101
+        ],
+        "text": "Brazil",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IBM_Research",
+          "wikidata": "http://www.wikidata.org/entity/Q3146518",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/IBM_Research_–_Brazil",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IBM%E5%9F%BA%E7%A4%8E%E7%A0%94%E7%A9%B6%E6%89%80"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IBM_Research",
+          "wikidata": "http://www.wikidata.org/entity/Q3146518",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IBM%E5%9F%BA%E7%A4%8E%E7%A0%94%E7%A9%B6%E6%89%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_America",
+          "wikidata": "http://www.wikidata.org/entity/Q18",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "wikidata": "http://www.wikidata.org/entity/Q174",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/São_Paulo",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%91%E3%82%A6%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+          "wikidata": "http://www.wikidata.org/entity/Q8678",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA%E3%83%87%E3%82%B8%E3%83%A3%E3%83%8D%E3%82%A4%E3%83%AD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IBM",
+          "wikidata": "http://www.wikidata.org/entity/Q37156",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IBM"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brazil",
+          "wikidata": "http://www.wikidata.org/entity/Q155",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+          "wikidata": "http://www.wikidata.org/entity/Q159821",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%8F%E5%AD%A3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Twitter",
+          "wikidata": "http://www.wikidata.org/entity/Q918",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/X_(%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Facebook",
+          "wikidata": "http://www.wikidata.org/entity/Q355",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Facebook"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

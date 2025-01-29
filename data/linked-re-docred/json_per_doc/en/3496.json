@@ -1,0 +1,565 @@
+{
+  "3496": {
+    "doc_info": {
+      "title": "Waldshut station",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Waldshut station ( ) is a railway station in the city of Waldshut - Tiengen in the German state of Baden - Württemberg .",
+        "text": "Waldshut station ( ) is a railway station in the city of Waldshut - Tiengen in the German state of Baden - Württemberg .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was opened on 30 October 1856 .",
+        "text": "It was opened on 30 October 1856 .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The station lies on the Upper Rhine Railway , which connects Basel and Singen along the northern and , mostly , German bank of the Rhine .",
+        "text": "The station lies on the Upper Rhine Railway , which connects Basel and Singen along the northern and , mostly , German bank of the Rhine .",
+        "mention_ids": [
+          "M2_1",
+          "M5_1",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "It is the junction point for the Turgi – Koblenz – Waldshut line , which crosses the Rhine from Switzerland on the Waldshut to Koblenz railway bridge just to the south of the station .",
+        "text": "It is the junction point for the Turgi – Koblenz – Waldshut line , which crosses the Rhine from Switzerland on the Waldshut to Koblenz railway bridge just to the south of the station .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M8_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The Upper Rhine Railway is not electrified and most services are operated by diesel locomotives or railcars .",
+        "text": "The Upper Rhine Railway is not electrified and most services are operated by diesel locomotives or railcars .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The line from Switzerland is electrified using the Swiss standard of 15kV and 16.7Hz from an overhead line .",
+        "text": "The line from Switzerland is electrified using the Swiss standard of 15kV and 16.7Hz from an overhead line .",
+        "mention_ids": [
+          "M10_1",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Only one terminal platform in the station is electrified , and this is used by all trains from Switzerland .",
+        "text": "Only one terminal platform in the station is electrified , and this is used by all trains from Switzerland .",
+        "mention_ids": [
+          "M10_2",
+          "M16_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "Waldshut station",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          96,
+          107
+        ],
+        "text": "Switzerland",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          25
+        ],
+        "text": "Switzerland",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_2": {
+        "sentence_id": "06",
+        "span": [
+          95,
+          106
+        ],
+        "text": "Switzerland",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          115,
+          123
+        ],
+        "text": "Waldshut",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          127,
+          134
+        ],
+        "text": "Koblenz",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          56
+        ],
+        "text": "Swiss",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          69,
+          73
+        ],
+        "text": "15kV",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          78,
+          84
+        ],
+        "text": "16.7Hz",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          8
+        ],
+        "text": "one",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          57,
+          75
+        ],
+        "text": "Waldshut - Tiengen",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          83,
+          89
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          112,
+          118
+        ],
+        "text": "German",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          99,
+          118
+        ],
+        "text": "Baden - Württemberg",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          17,
+          32
+        ],
+        "text": "30 October 1856",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          23
+        ],
+        "text": "Upper Rhine Railway",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          43
+        ],
+        "text": "Upper Rhine Railway",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          61,
+          66
+        ],
+        "text": "Basel",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          71,
+          77
+        ],
+        "text": "Singen",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          131,
+          136
+        ],
+        "text": "Rhine",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "03",
+        "span": [
+          85,
+          90
+        ],
+        "text": "Rhine",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          59
+        ],
+        "text": "Turgi – Koblenz – Waldshut",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Waldshut_station",
+          "wikidata": "http://www.wikidata.org/entity/Q7961648"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Waldshut-Tiengen",
+          "wikidata": "http://www.wikidata.org/entity/Q505433"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg",
+          "wikidata": "http://www.wikidata.org/entity/Q985",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%87%E3%83%B3%EF%BC%9D%E3%83%B4%E3%83%A5%E3%83%AB%E3%83%86%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%B7%9E"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Upper_Rhine_Railway",
+          "wikidata": "http://www.wikidata.org/entity/Q110016354"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Basel",
+          "wikidata": "http://www.wikidata.org/entity/Q78",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%82%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singen",
+          "wikidata": "http://www.wikidata.org/entity/Q6979"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rhine",
+          "wikidata": "http://www.wikidata.org/entity/Q584",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%B3%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Turgi%E2%80%93Koblenz%E2%80%93Waldshut_railway_line",
+          "wikidata": "http://www.wikidata.org/entity/Q682522",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Turgi–Koblenz–Waldshut_railway_line"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M10_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Waldshut%E2%80%93Koblenz_Rhine_Bridge",
+          "wikidata": "http://www.wikidata.org/entity/Q2147616",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Waldshut–Koblenz_Rhine_Bridge"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Koblenz",
+          "wikidata": "http://www.wikidata.org/entity/Q3104",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%AC%E3%83%B3%E3%83%84"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

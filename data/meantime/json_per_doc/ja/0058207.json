@@ -1,0 +1,505 @@
+{
+  "0058207": {
+    "doc_info": {
+      "title": "58207_Apple_introduces_iPhone_and_Apple_TV",
+      "url": "http://en.wikinews.org/wiki/Apple_introduces_iPhone_and_Apple_TV"
+    },
+    "sentences": {
+      "00": {
+        "text": "AppleがiPhoneとApple TVを発表",
+        "mention_ids": [
+          "M014",
+          "M020"
+        ]
+      },
+      "01": {
+        "text": "2007 年 1 月 10 日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "Apple Inc.は本日、サンフランシスコで開催されるマックワールド・カンファレンスで待望のiPhoneを発表しました。",
+        "mention_ids": [
+          "M002",
+          "M006",
+          "M008"
+        ]
+      },
+      "03": {
+        "text": "iPhoneは、Appleのウェブサイトで述べられているように、「革新的な携帯電話」であると主張されています。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "04": {
+        "text": "デバイスは、Appleオペレーティング・システムMac OSXのモバイル・バージョンを実行しているようです。",
+        "mention_ids": [
+          "M013",
+          "M015"
+        ]
+      },
+      "05": {
+        "text": "それは第5世代のiPodとほぼ同じ大きさで、それは電話をかけるだけでなく、番号ダイヤルを含む電話のすべての機能にアクセスするために使用される3.5インチのLCDタッチスクリーン・ディスプレイを搭載しています。",
+        "mention_ids": [
+          "M003",
+          "M021",
+          "M022",
+          "M024"
+        ]
+      },
+      "06": {
+        "text": "iPhoneは音楽、映画を再生したり、写真を表示したり、ワイヤレス・ネットワークに接続したりできます。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "Apple CEOスティーブ・ジョブズはステージに上がり、彼のジーンズのポケットからiPhoneを取り出してデバイスを披露しました。",
+        "mention_ids": [
+          "M127",
+          "M128"
+        ]
+      },
+      "08": {
+        "text": "彼の2時間のスピーチの中で、彼は「今日、Appleは電話を再発明するつもりであり、我々は今日歴史的な偉業を成し遂げるつもりです」と述べました。",
+        "mention_ids": [
+          "M123",
+          "M124"
+        ]
+      },
+      "09": {
+        "text": "本日、Appleもメディアセンター・デバイスであるApple TVをリリースしました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "これは、Microsoftのメディアセンター・オペレーティングシステムと直接競合します。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "Appleはメディアセンター市場に対して異なるアプローチを取っています。Apple TVは、コンテンツ（映画、音楽、写真など）をデバイスに保存するのではなく、ワイヤレス・ネットワーク接続を介してコンピュータ（MacおよびWindows）に接続し、そのコンピュータに保存されているすべてのコンテンツを再生します。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "これにより、ユーザーはメディア・コンテンツを整理することが大幅に容易になります。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M002": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "Apple Inc.",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M003": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          95
+        ],
+        "text": "電話をかけるだけでなく、番号ダイヤルを含む電話のすべての機能にアクセスするために使用される3.5インチのLCDタッチスクリーン・ディスプレイ",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          53
+        ],
+        "text": "待望のiPhone",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          22
+        ],
+        "text": "サンフランシスコ",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "iPhone",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          41
+        ],
+        "text": "革新的な携帯電話",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M012": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          20
+        ],
+        "text": "Appleのウェブサイト",
+        "entity_type": null,
+        "entity_id": "E110"
+      },
+      "M013": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "デバイス",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M014": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M015": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          42
+        ],
+        "text": "Appleオペレーティング・システムMac OSXのモバイル・バージョン",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M020": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          21
+        ],
+        "text": "iPhoneとApple TV",
+        "entity_type": null,
+        "entity_id": "E104"
+      },
+      "M021": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          2
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M022": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          12
+        ],
+        "text": "第5世代のiPod",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M024": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          24
+        ],
+        "text": "それ",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M123": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "彼の",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M124": {
+        "sentence_id": "08",
+        "span": [
+          14,
+          16
+        ],
+        "text": "彼は",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M127": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          19
+        ],
+        "text": "Apple CEOスティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M128": {
+        "sentence_id": "07",
+        "span": [
+          29,
+          31
+        ],
+        "text": "彼の",
+        "entity_type": null,
+        "entity_id": "E129"
+      }
+    },
+    "entities": {
+      "E100": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPod",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPod",
+          "wikidata": "http://www.wikidata.org/entity/Q9479",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPod"
+        }
+      },
+      "E104": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E105": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M017"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/OS_X",
+          "dbpedia:orig": "http://dbpedia.org/resource/OS_X",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacOS",
+          "wikidata": "http://www.wikidata.org/entity/Q14116",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MacOS"
+        }
+      },
+      "E106": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E108": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M018"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_TV",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_TV",
+          "wikidata": "http://www.wikidata.org/entity/Q270285",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple_TV"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E110": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E111": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M002",
+          "M014"
+        ],
+        "removed_mention_ids": [
+          "M019",
+          "M023",
+          "M026"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E114": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/San_Francisco",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Francisco",
+          "wikidata": "http://www.wikidata.org/entity/Q62",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "removed_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M006",
+          "M010",
+          "M011",
+          "M013",
+          "M021",
+          "M024"
+        ],
+        "removed_mention_ids": [
+          "M001",
+          "M016"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPhone",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPhone",
+          "wikidata": "http://www.wikidata.org/entity/Q2766",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPhone"
+        }
+      },
+      "E129": {
+        "member_mention_ids": [
+          "M123",
+          "M124",
+          "M127",
+          "M128"
+        ],
+        "removed_mention_ids": [
+          "M126",
+          "M125"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      }
+    }
+  }
+}

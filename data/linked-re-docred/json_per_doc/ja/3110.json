@@ -1,0 +1,734 @@
+{
+  "3110": {
+    "doc_info": {
+      "title": "Intelligent design",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "インテリジェント・デザイン（ID）は神の存在に関する疑似科学的議論であり、その支持者によって「生命の起源に関する証拠に基づいた科学理論」として提示されています。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1"
+        ]
+      },
+      "01": {
+        "text": "支持者は、「宇宙や生物の特定の特徴は、自然淘汰のような無秩序なプロセスではなく、知的な原因によって最もよく説明される」と主張しています。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "IDは創造主義の一形態であり、経験的な裏付けがなく、検証可能または論証可能な仮説を提供しないため、科学ではありません。",
+        "mention_ids": [
+          "M0_6",
+          "M1_0"
+        ]
+      },
+      "03": {
+        "text": "IDの主要な支持者は、米国に拠点を置くキリスト教原理主義者で政治的に保守的なシンクタンクであるディスカバリー研究所と関係しています。",
+        "mention_ids": [
+          "M0_2",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "04": {
+        "text": "「インテリジェント・デザイン」というフレーズは、以前にデザイン議論の神学的議論の中で取り上げられていましたが、創造論の代替用語として現在使用されているインテリジェント・デザインという用語の最初の発表は、高校の生物学の授業を対象とした1989年の創造説の教科書である『パンダと人々について』の中でした。",
+        "mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "この用語は、憲法上の理由で公立学校での創造科学の教育を禁止した1987年の米国最高裁判所の■■■■■■■■■■■の判決の後、創造科学と創造説への言及を直接置き換えて、その本の草稿に代わりに入りました。",
+        "mention_ids": [
+          "M10_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "1990年代半ばから、ディスカバリー研究所が支援するインテリジェント・デザイン運動（IDM）が公立学校の生物学カリキュラムにインテリジェント・デザインを含めることを提唱しました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M12_1",
+          "M2_1"
+        ]
+      },
+      "07": {
+        "text": "これは、2005年のキッツミラー対ドーバー地域学区裁判につながり、連邦地裁の■■■■■■■■■■■■■判事は、インテリジェント・デザインは科学ではなく、それは「それ自体をその創造主義的、したがって宗教的な先例から切り離すことはできない」と判断し、したがって、学区によるその推進は、アメリカ合衆国憲法修正第1条の制定条項に違反すると判断しました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0"
+        ]
+      },
+      "08": {
+        "text": "IDは、進化論の説明に対して、還元不能複雑性と特定の複雑性という2つの主な議論を提示しています。",
+        "mention_ids": [
+          "M0_3",
+          "M19_0"
+        ]
+      },
+      "09": {
+        "text": "これらの議論は、ある種の特徴（それぞれ生物学的と情報的）は自然過程の結果であるには複雑すぎると主張しています。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "進化論に対する積極的な議論として、IDは自然システムと人間の人工物との類似性を提案しています。これは、神の存在に関する設計からの神学的議論の見解です。",
+        "mention_ids": [
+          "M0_4"
+        ]
+      },
+      "11": {
+        "text": "次に、IDの提唱者は、IDによって定義される複雑な特徴は設計の証拠であると類推によって結論づけます。",
+        "mention_ids": [
+          "M0_5",
+          "M0_7"
+        ]
+      },
+      "12": {
+        "text": "詳細な科学的検討は、進化の説明は不十分であり、インテリジェントなデザインの前提 — 進化に反する証拠がデザインの証拠を構成する — は誤った二分法であるという主張が反証しています。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "IDは現代科学に内在する方法論的自然主義に異議を唱えていると主張されていますが、支持者たちは、彼らがまだ科学理論を生み出していないことを認めています。",
+        "mention_ids": [
+          "M0_8"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          16
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "インテリジェント・デザイン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          2
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "10",
+        "span": [
+          17,
+          19
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "11",
+        "span": [
+          3,
+          5
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_7": {
+        "sentence_id": "11",
+        "span": [
+          11,
+          13
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_8": {
+        "sentence_id": "13",
+        "span": [
+          0,
+          2
+        ],
+        "text": "ID",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          56
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          8
+        ],
+        "text": "1990年代半ば",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          45
+        ],
+        "text": "IDM",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "06",
+        "span": [
+          26,
+          41
+        ],
+        "text": "インテリジェント・デザイン運動",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          9
+        ],
+        "text": "2005年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          10,
+          25
+        ],
+        "text": "キッツミラー対ドーバー地域学区",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          33,
+          37
+        ],
+        "text": "連邦地裁",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          38,
+          51
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          155,
+          159
+        ],
+        "text": "制定条項",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          140,
+          154
+        ],
+        "text": "アメリカ合衆国憲法修正第1条",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          32,
+          34
+        ],
+        "text": "2つ",
+        "entity_type": "NUM",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "02",
+        "span": [
+          3,
+          7
+        ],
+        "text": "創造主義",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          47,
+          57
+        ],
+        "text": "ディスカバリー研究所",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          21
+        ],
+        "text": "ディスカバリー研究所",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          24
+        ],
+        "text": "キリスト教",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          13
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          14
+        ],
+        "text": "インテリジェント・デザイン",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "04",
+        "span": [
+          75,
+          88
+        ],
+        "text": "インテリジェント・デザイン",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          133,
+          143
+        ],
+        "text": "パンダと人々について",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          116,
+          122
+        ],
+        "text": "1989年の",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          36
+        ],
+        "text": "1987年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "05",
+        "span": [
+          37,
+          44
+        ],
+        "text": "米国最高裁判所",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6",
+          "M0_7",
+          "M0_8"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intelligent_design",
+          "wikidata": "http://www.wikidata.org/entity/Q172618",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Creationism",
+          "wikidata": "http://www.wikidata.org/entity/Q130352",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%89%B5%E9%80%A0%E8%AB%96"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Discovery_Institute",
+          "wikidata": "http://www.wikidata.org/entity/Q197662"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Christian_humanism",
+          "wikidata": "http://www.wikidata.org/entity/Q2327432"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intelligent_design",
+          "wikidata": "http://www.wikidata.org/entity/Q172618",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Of_Pandas_and_People",
+          "wikidata": "http://www.wikidata.org/entity/Q15844550"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q11201",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%88%E8%A1%86%E5%9B%BD%E6%9C%80%E9%AB%98%E8%A3%81%E5%88%A4%E6%89%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edwards_v._Aguillard",
+          "wikidata": "http://www.wikidata.org/entity/Q725955"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intelligent_design_movement",
+          "wikidata": "http://www.wikidata.org/entity/Q936687"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kitzmiller_v._Dover_Area_School_District",
+          "wikidata": "http://www.wikidata.org/entity/Q1089030"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_district_court",
+          "wikidata": "http://www.wikidata.org/entity/Q1614849"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_E._Jones_III",
+          "wikidata": "http://www.wikidata.org/entity/Q6230799"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Establishment_Clause",
+          "wikidata": "http://www.wikidata.org/entity/Q3308297"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution",
+          "wikidata": "http://www.wikidata.org/entity/Q12616",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%86%B2%E6%B3%95%E4%BF%AE%E6%AD%A3%E7%AC%AC1%E6%9D%A1"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

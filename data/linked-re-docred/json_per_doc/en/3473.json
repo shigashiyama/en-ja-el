@@ -1,0 +1,451 @@
+{
+  "3473": {
+    "doc_info": {
+      "title": "Cassels Lake",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Cassels Lake ( originally known as White Bear Lake ) is a lake located within the Municipality of Temagami , in the Nipissing District , Ontario , Canada .",
+        "text": "Cassels Lake ( originally known as White Bear Lake ) is a lake located within the Municipality of Temagami , in the Nipissing District , Ontario , Canada .",
+        "mention_ids": [
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It contains numerous portages , campsites and is one of three lakes on the eastern edge of the White Bear Forest .",
+        "text": "It contains numerous portages , campsites and is one of three lakes on the eastern edge of the White Bear Forest .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "In the 1920s a log dam was constructed at the narrows connecting Cassels Lake and Rabbit Lake to float logs from the surrounding area out to the Ottawa River .",
+        "text": "In the 1920s a log dam was constructed at the narrows connecting Cassels Lake and Rabbit Lake to float logs from the surrounding area out to the Ottawa River .",
+        "mention_ids": [
+          "M0_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The water level in numerous lakes close to Temagami was increased numerous feet .",
+        "text": "The water level in numerous lakes close to Temagami was increased numerous feet .",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The Gillies ' Bros. logging company then cut the trees from the land and the flooded forest area leaving behind the snags and stumps seen in the water .",
+        "text": "The Gillies ' Bros. logging company then cut the trees from the land and the flooded forest area leaving behind the snags and stumps seen in the water .",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The old growth white pine and red pine immediately south of the mill was never cut and remains today as the 400-year - old White Bear Forest .",
+        "text": "The old growth white pine and red pine immediately south of the mill was never cut and remains today as the 400-year - old White Bear Forest .",
+        "mention_ids": [
+          "M12_0",
+          "M6_1"
+        ]
+      },
+      "06": {
+        "orig_text": "According to local folklore , this stand was n't cut because the wife of the mill manager wanted to look out of her home on the majestic pine forest , and so forbid him from cutting there .",
+        "text": "According to local folklore , this stand was n't cut because the wife of the mill manager wanted to look out of her home on the majestic pine forest , and so forbid him from cutting there .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The White Bear Forest on the south side of the lake , opposite the former mill , is now a conservation reserve .",
+        "text": "The White Bear Forest on the south side of the lake , opposite the former mill , is now a conservation reserve .",
+        "mention_ids": [
+          "M6_2"
+        ]
+      },
+      "08": {
+        "orig_text": "The reserve has a system of hiking trails , which provide visitors with a great opportunity to experience the old growth pine forest .",
+        "text": "The reserve has a system of hiking trails , which provide visitors with a great opportunity to experience the old growth pine forest .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          65,
+          77
+        ],
+        "text": "Cassels Lake",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Cassels Lake",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          50
+        ],
+        "text": "White Bear Lake",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          51
+        ],
+        "text": "Temagami",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          19
+        ],
+        "text": "Gillies ' Bros.",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          108,
+          122
+        ],
+        "text": "400-year - old",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          82,
+          106
+        ],
+        "text": "Municipality of Temagami",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          116,
+          134
+        ],
+        "text": "Nipissing District",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          137,
+          144
+        ],
+        "text": "Ontario",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          147,
+          153
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          61
+        ],
+        "text": "three",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          95,
+          112
+        ],
+        "text": "White Bear Forest",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "05",
+        "span": [
+          123,
+          140
+        ],
+        "text": "White Bear Forest",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          21
+        ],
+        "text": "White Bear Forest",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1920s",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          82,
+          93
+        ],
+        "text": "Rabbit Lake",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          145,
+          157
+        ],
+        "text": "Ottawa River",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cassels_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q5049304"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Temagami",
+          "wikidata": "http://www.wikidata.org/entity/Q368855"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nipissing_District",
+          "wikidata": "http://www.wikidata.org/entity/Q1436530",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Nipissing_District,_Ontario",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%94%E3%82%B7%E3%83%B3%E3%82%B0%E5%9C%B0%E5%8C%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q1904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_Bear_Forest",
+          "wikidata": "http://www.wikidata.org/entity/Q7994465"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rabbit_Lake_(Temagami)",
+          "wikidata": "http://www.wikidata.org/entity/Q7278602"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa_River",
+          "wikidata": "http://www.wikidata.org/entity/Q60974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Temagami",
+          "wikidata": "http://www.wikidata.org/entity/Q368855",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Temagami,_Ontario"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

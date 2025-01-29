@@ -1,0 +1,442 @@
+{
+  "3473": {
+    "doc_info": {
+      "title": "Cassels Lake",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "カッセル湖(元々はホワイトベア湖として知られていました)は、カナダのオンタリオ州、テマガミ市ニピシング地区内にある湖です。",
+        "mention_ids": [
+          "M0_1",
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "ここには数多くのポーテージやキャンプ場があり、白熊の森の東端にある3つの湖のうちの1つです。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "text": "1920年代、カッセルズ湖とラビット湖を結ぶ狭窄部に丸太ダムが建設され、周囲の地域から丸太をオタワ川に流していました。",
+        "mention_ids": [
+          "M0_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "テマガミ近くの多数の湖の水位が数フィート上昇しました。",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "text": "その後、ギリーズ・ブラザーズ伐採会社は、水中に見える障害物や切り株を残したまま、浸水した森林地帯と土地から木を伐採しました。",
+        "mention_ids": [
+          "M11_0"
+        ]
+      },
+      "05": {
+        "text": "工場のすぐ南にある老齢の白松と赤松は一度も伐採されることなく、現在樹齢400年の白熊の森として残っています。",
+        "mention_ids": [
+          "M12_0",
+          "M6_1"
+        ]
+      },
+      "06": {
+        "text": "地元の言い伝えによると、この林分が伐採されなかったのは、工場経営者の妻が自宅から雄大な松林を眺めたかったため、そこを伐採することを禁じたからだそうです。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "白熊の森は、湖の南側、かつての工場の向かいにあり、現在は保護区となっています。",
+        "mention_ids": [
+          "M6_2"
+        ]
+      },
+      "08": {
+        "text": "この保護区にはハイキングコースが整備されており、訪問者に原生松林を体験する絶好の機会を提供しています。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          7,
+          13
+        ],
+        "text": "カッセルズ湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "カッセル湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          16
+        ],
+        "text": "ホワイトベア湖",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "テマガミ",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          4,
+          14
+        ],
+        "text": "ギリーズ・ブラザーズ",
+        "entity_type": "ORG",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          33,
+          39
+        ],
+        "text": "樹齢400年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          41,
+          46
+        ],
+        "text": "テマガミ市",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          53
+        ],
+        "text": "ニピシング地区",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          40
+        ],
+        "text": "オンタリオ州",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          30,
+          33
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          36
+        ],
+        "text": "3つの",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          23,
+          27
+        ],
+        "text": "白熊の森",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          44
+        ],
+        "text": "白熊の森",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "白熊の森",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          6
+        ],
+        "text": "1920年代",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          19
+        ],
+        "text": "ラビット湖",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          46,
+          50
+        ],
+        "text": "オタワ川",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cassels_Lake",
+          "wikidata": "http://www.wikidata.org/entity/Q5049304"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Temagami",
+          "wikidata": "http://www.wikidata.org/entity/Q368855"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nipissing_District",
+          "wikidata": "http://www.wikidata.org/entity/Q1436530",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Nipissing_District,_Ontario",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%94%E3%82%B7%E3%83%B3%E3%82%B0%E5%9C%B0%E5%8C%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ontario",
+          "wikidata": "http://www.wikidata.org/entity/Q1904",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%AA%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_Bear_Forest",
+          "wikidata": "http://www.wikidata.org/entity/Q7994465"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rabbit_Lake_(Temagami)",
+          "wikidata": "http://www.wikidata.org/entity/Q7278602"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ottawa_River",
+          "wikidata": "http://www.wikidata.org/entity/Q60974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BF%E3%83%AF%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Temagami",
+          "wikidata": "http://www.wikidata.org/entity/Q368855",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Temagami,_Ontario"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

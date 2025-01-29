@@ -1,0 +1,367 @@
+{
+  "3484": {
+    "doc_info": {
+      "title": "The G-String Murders",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The G - String Murders is a 1941 detective novel written by famed American burlesque performer Gypsy Rose Lee .",
+        "text": "The G - String Murders is a 1941 detective novel written by famed American burlesque performer Gypsy Rose Lee .",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "There have been claims made that the novel was written by mystery writer Craig Rice but others have suggested that there is enough documented evidence in the form of manuscripts and correspondence to prove Lee wrote at least a large portion if not the whole of the novel herself under the tutelage of editor / friend George Davis with some essential guidance from her good friend Rice .",
+        "text": "There have been claims made that the novel was written by mystery writer Craig Rice but others have suggested that there is enough documented evidence in the form of manuscripts and correspondence to prove Lee wrote at least a large portion if not the whole of the novel herself under the tutelage of editor / friend George Davis with some essential guidance from her good friend Rice .",
+        "mention_ids": [
+          "M3_2",
+          "M4_0",
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The novel has also been published under the titles Lady of Burlesque and The Strip - Tease Murders .",
+        "text": "The novel has also been published under the titles Lady of Burlesque and The Strip - Tease Murders .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Set in a burlesque theater , Lee casts herself as the detective who solves a set of homicides in which strippers in her troupe are found strangled with their own G - strings .",
+        "text": "Set in a burlesque theater , Lee casts herself as the detective who solves a set of homicides in which strippers in her troupe are found strangled with their own G - strings .",
+        "mention_ids": [
+          "M3_1"
+        ]
+      },
+      "04": {
+        "orig_text": "In 2005 , Feminist Press of the City University of New York republished the book as one of its Women Write Pulp series .",
+        "text": "In 2005 , Feminist Press of the City University of New York republished the book as one of its Women Write Pulp series .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "02",
+        "span": [
+          51,
+          68
+        ],
+        "text": "Lady of Burlesque",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          98
+        ],
+        "text": "Strip - Tease Murders",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          22
+        ],
+        "text": "The G - String Murders",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          32
+        ],
+        "text": "1941",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          74
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          95,
+          109
+        ],
+        "text": "Gypsy Rose Lee",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          32
+        ],
+        "text": "Lee",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "01",
+        "span": [
+          206,
+          209
+        ],
+        "text": "Lee",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          73,
+          83
+        ],
+        "text": "Craig Rice",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          380,
+          384
+        ],
+        "text": "Rice",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          317,
+          329
+        ],
+        "text": "George Davis",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          7
+        ],
+        "text": "2005",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          24
+        ],
+        "text": "Feminist Press",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          59
+        ],
+        "text": "City University of New York",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          95,
+          111
+        ],
+        "text": "Women Write Pulp",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lady_of_Burlesque",
+          "wikidata": "http://www.wikidata.org/entity/Q3100955"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gypsy_Rose_Lee",
+          "wikidata": "http://www.wikidata.org/entity/Q267186",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%97%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1970-04-26T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Craig_Rice_(writer)",
+          "wikidata": "http://www.wikidata.org/entity/Q1639201",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Craig_Rice_(author)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B0%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%B9"
+        },
+        "date_of_death": "1957-08-28T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/George_Davis_(editor)",
+          "wikidata": "http://www.wikidata.org/entity/Q5538421"
+        },
+        "date_of_death": "1957-11-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Feminist_Press",
+          "wikidata": "http://www.wikidata.org/entity/Q7733667"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_University_of_New_York",
+          "wikidata": "http://www.wikidata.org/entity/Q762266",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

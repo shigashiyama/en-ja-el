@@ -1,0 +1,876 @@
+{
+  "3521": {
+    "doc_info": {
+      "title": "New Haven Harbor",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ニューヘブン港は、米国のコネチカット州のロングアイランド湾の北側にある入り江です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "港エリアは、約13,000年前の最終氷河期に氷河の後退によって形成された入り江です。",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "ニュー・ヘブンの市とその近隣のシティ・ポイント、ロング・ワーフ、別館、およびイースト・ショアは北側と東側にあります。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "ウェスト・ヘイブンは西にあります。",
+        "mention_ids": [
+          "M10_0"
+        ]
+      },
+      "04": {
+        "text": "クイニピアック川とミル川が合流し、北端の入り江に注いでいます。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "05": {
+        "text": "真珠湾記念橋がここを渡ります。",
+        "mention_ids": [
+          "M13_0"
+        ]
+      },
+      "06": {
+        "text": "ウェスト川は港の西端に注いでいます(ウェスト・ヘブン港としても知られています)。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "07": {
+        "text": "港は東側の半島によってロング・アイランド湾から保護されており、かつては「リトル・ネッケ」として知られていましたが、1805年にその先端に建設された灯台にちなんで、現在は灯台ポイントと呼ばれています。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M1_1"
+        ]
+      },
+      "08": {
+        "text": "元の灯台は1845年にファイブ・マイル・ポイント灯台と呼ばれる現在の構造に置き換えられました。",
+        "mention_ids": [
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "09": {
+        "text": "この灯台は、1877年に航行のために沖合のサウスウェスト・レッジ・ライトに置き換えられました。",
+        "mention_ids": [
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "10": {
+        "text": "スペリー灯台(1899年–1933年)も港として機能しました。",
+        "mention_ids": [
+          "M23_0",
+          "M24_0",
+          "M25_0"
+        ]
+      },
+      "11": {
+        "text": "アメリカ独立戦争中の1779年7月、半島はイギリス軍による水陸両用上陸の舞台となりました。",
+        "mention_ids": [
+          "M26_0",
+          "M27_0",
+          "M28_0"
+        ]
+      },
+      "12": {
+        "text": "港は、東海岸緑道システムの一部である、部分的に完成した自転車歩行者専用道路\"ハーバーサイド緑道\"を経由して周回できます。",
+        "mention_ids": [
+          "M29_0",
+          "M30_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ニューヘブン港",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ウェスト・ヘイブン",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "クイニピアック",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          9,
+          11
+        ],
+        "text": "ミル",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "真珠湾記念橋",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ウェスト川",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          27
+        ],
+        "text": "ウェスト・ヘブン港",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          43
+        ],
+        "text": "リトル・ネッケ",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "07",
+        "span": [
+          84,
+          90
+        ],
+        "text": "灯台ポイント",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          57,
+          62
+        ],
+        "text": "1805年",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "08",
+        "span": [
+          5,
+          10
+        ],
+        "text": "1845年",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          29
+        ],
+        "text": "ロングアイランド湾",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          21
+        ],
+        "text": "ロング・アイランド湾",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          11,
+          26
+        ],
+        "text": "ファイブ・マイル・ポイント灯台",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "09",
+        "span": [
+          6,
+          11
+        ],
+        "text": "1877年",
+        "entity_type": "TIME",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "09",
+        "span": [
+          21,
+          36
+        ],
+        "text": "サウスウェスト・レッジ・ライト",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          6
+        ],
+        "text": "スペリー灯台",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "10",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1899年",
+        "entity_type": "TIME",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "10",
+        "span": [
+          13,
+          18
+        ],
+        "text": "1933年",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "11",
+        "span": [
+          10,
+          17
+        ],
+        "text": "1779年7月",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          8
+        ],
+        "text": "アメリカ独立戦争",
+        "entity_type": "MISC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "11",
+        "span": [
+          21,
+          25
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "12",
+        "span": [
+          38,
+          47
+        ],
+        "text": "ハーバーサイド緑道",
+        "entity_type": "LOC",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          12,
+          18
+        ],
+        "text": "コネチカット",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "12",
+        "span": [
+          3,
+          8
+        ],
+        "text": "東海岸緑道",
+        "entity_type": "LOC",
+        "entity_id": "E030"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          11
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          14
+        ],
+        "text": "13,000年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ニュー・ヘブン",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          23
+        ],
+        "text": "シティ・ポイント",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          31
+        ],
+        "text": "ロング・ワーフ",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          32,
+          34
+        ],
+        "text": "別館",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          46
+        ],
+        "text": "イースト・ショア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven_Harbor",
+          "wikidata": "http://www.wikidata.org/entity/Q7008521"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Island_Sound",
+          "wikidata": "http://www.wikidata.org/entity/Q867460",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E6%B9%BE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q779",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q49145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/City_Point,_New_Haven",
+          "wikidata": "http://www.wikidata.org/entity/Q5123371"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Long_Wharf_(New_Haven)",
+          "wikidata": "http://www.wikidata.org/entity/Q6673403"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Annex_(New_Haven)",
+          "wikidata": "http://www.wikidata.org/entity/Q7713852"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Shore,_New_Haven",
+          "wikidata": "http://www.wikidata.org/entity/Q5329347"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/West_Haven,_Connecticut",
+          "wikidata": "http://www.wikidata.org/entity/Q54219",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%98%E3%82%A4%E3%83%96%E3%83%B3_(%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quinnipiac_River",
+          "wikidata": "http://www.wikidata.org/entity/Q3414549"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mill_River_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q6858391"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pearl_Harbor_Memorial_Bridge_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q7158091"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/West_River_(Connecticut)",
+          "wikidata": "http://www.wikidata.org/entity/Q7986366"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Five_Mile_Point_Light",
+          "wikidata": "http://www.wikidata.org/entity/Q3073110"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Southwest_Ledge_Light",
+          "wikidata": "http://www.wikidata.org/entity/Q7571308"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+          "wikidata": "http://www.wikidata.org/entity/Q40949",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E7%8B%AC%E7%AB%8B%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Great_Britain",
+          "wikidata": "http://www.wikidata.org/entity/Q23666",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%96%E3%83%AA%E3%83%86%E3%83%B3%E5%B3%B6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/East_Coast_Greenway",
+          "wikidata": "http://www.wikidata.org/entity/Q5328119",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

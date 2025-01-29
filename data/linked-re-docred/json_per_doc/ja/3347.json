@@ -1,0 +1,504 @@
+{
+  "3347": {
+    "doc_info": {
+      "title": "Angry Candy",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『アングリー・キャンディ』は、アメリカ人作家のハーラン・エリソンによる1988年の短編小説集で、死をテーマに大まかに構成されています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "タイトルは、E・E・カミングスの詩『家具調度つきの魂に住むケンブリッジの御婦人かたは』の最後の行の「...月は怒っているキャンディーの破片のようにガタガタします」に由来します。",
+        "mention_ids": [
+          "M4_1",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "このコレクションには、1989年にローカスの投票の最優秀短編小説賞を受賞した短編小説『エイドロン』が含まれています。",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "また、それに含まれているのは、小説『パラディン・オブ・ザ・ロスト・アワー』、ヒューゴー賞の最優秀小説賞を受賞し、後にエリソンによってテレビシリーズ『ザ・ニュー・トワイライト・ゾーン』のエピソード、1988年にエリソンが2度目のエドガー賞を受賞した短編小説『ソフト・モンキー』に書き換えられました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M1_1",
+          "M3_1",
+          "M3_2",
+          "M4_0"
+        ]
+      },
+      "04": {
+        "text": "アングリー・キャンディは、ブラム・ストーカー賞にノミネートされ、最優秀短編小説集に対するワールド・ファンタジー賞を受賞しました。",
+        "mention_ids": [
+          "M0_1",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          12
+        ],
+        "text": "アングリー・キャンディ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          11
+        ],
+        "text": "アングリー・キャンディ",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          74,
+          90
+        ],
+        "text": "ザ・ニュー・トワイライト・ゾーン",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          128,
+          136
+        ],
+        "text": "ソフト・モンキー",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          113,
+          118
+        ],
+        "text": "エドガー賞",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          23
+        ],
+        "text": "ブラム・ストーカー賞",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          44,
+          56
+        ],
+        "text": "ワールド・ファンタジー賞",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          40
+        ],
+        "text": "1988年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "03",
+        "span": [
+          98,
+          103
+        ],
+        "text": "1988年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          20
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          32
+        ],
+        "text": "ハーラン・エリソン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "03",
+        "span": [
+          104,
+          108
+        ],
+        "text": "エリソン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "03",
+        "span": [
+          58,
+          62
+        ],
+        "text": "エリソン",
+        "entity_type": "PER",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          27,
+          45
+        ],
+        "text": "ザ・ロスト・アワー』、ヒューゴー賞の",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          42
+        ],
+        "text": "家具調度つきの魂に住むケンブリッジの御婦人かたは",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          15
+        ],
+        "text": "E・E・カミングス",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          43,
+          48
+        ],
+        "text": "エイドロン",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          16
+        ],
+        "text": "1989年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          21
+        ],
+        "text": "ローカス",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Angry_Candy",
+          "wikidata": "http://www.wikidata.org/entity/Q4763933"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Harlan_Ellison",
+          "wikidata": "http://www.wikidata.org/entity/Q311253",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%B9%E3%83%B3"
+        },
+        "date_of_death": "2018-06-28T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/E._E._Cummings",
+          "wikidata": "http://www.wikidata.org/entity/Q298703",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/E%E3%83%BBE%E3%83%BB%E3%82%AB%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9"
+        },
+        "date_of_death": "1962-09-03T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Eidolons_(Harlan_Ellison)",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Eidolons_(Harlan_Ellison)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Locus_(magazine)",
+          "wikidata": "http://www.wikidata.org/entity/Q963987",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%AB%E3%82%B9_(%E9%9B%91%E8%AA%8C)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paladin_of_the_Lost_Hour",
+          "wikidata": "http://www.wikidata.org/entity/Q7126371"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hugo_Award",
+          "wikidata": "http://www.wikidata.org/entity/Q188914",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Hugo_award",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B4%E3%83%BC%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Twilight_Zone_(1985_TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q559270",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/The_New_Twilight_Zone",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AF%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%83%BB%E3%82%BE%E3%83%BC%E3%83%B3_(1985%E5%B9%B4)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edgar_Awards",
+          "wikidata": "http://www.wikidata.org/entity/Q833154"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bram_Stoker_Award",
+          "wikidata": "http://www.wikidata.org/entity/Q848963",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AB%E3%83%BC%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/World_Fantasy_Award",
+          "wikidata": "http://www.wikidata.org/entity/Q594886",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/World_Fantasy_award",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E5%B9%BB%E6%83%B3%E6%96%87%E5%AD%A6%E5%A4%A7%E8%B3%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

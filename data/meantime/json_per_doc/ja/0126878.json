@@ -1,0 +1,508 @@
+{
+  "0126878": {
+    "doc_info": {
+      "title": "126878_Bankruptcy_for_U.S._automaker_GM_becomes_almost_certain_after_bondholder_offers_fail",
+      "url": "http://en.wikinews.org/wiki/Bankruptcy_for_U.S._automaker_GM_becomes_almost_certain_after_bondholder_offers_fail"
+    },
+    "sentences": {
+      "00": {
+        "text": "米自動車メーカーGMの破産は、社債券保有者の提案が失敗したため、ほぼ確実になります",
+        "mention_ids": [
+          "M098",
+          "M099"
+        ]
+      },
+      "01": {
+        "text": "2009年5月28日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国の自動車製造会社のゼネラルモーターズは水曜日、同社の社債保有者の大半が、GMの270億米ドルの債務を同社の株式の10パーセントのシェアと交換しなかったと発表しました。",
+        "mention_ids": [
+          "M004",
+          "M006",
+          "M008",
+          "M011"
+        ]
+      },
+      "03": {
+        "text": "財政難に陥っているその自動車メーカーには、工場の閉鎖やその他の負債削減策を含む政府の再建計画を完了する6月1日の期限があります。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M029"
+        ]
+      },
+      "04": {
+        "text": "米国バラク・オバマ大統領の政権は、GM社の社債保有者の90%が、同社のコストを大幅に削減する妥協案に同意しなければ、同政権は、同社にさらなる資金援助を与えるつもりはないと述べました。",
+        "mention_ids": [
+          "M035",
+          "M036",
+          "M037",
+          "M038",
+          "M040",
+          "M041"
+        ]
+      },
+      "05": {
+        "text": "GMは声明で、「提供された債券の元本金額は、GMが債務の減額要件を満たすために必要な額を大幅に下回った」と述べました。",
+        "mention_ids": [
+          "M050",
+          "M051",
+          "M052",
+          "M053"
+        ]
+      },
+      "06": {
+        "text": "「彼らはノーと言いました。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "それでおしまい。",
+        "mention_ids": []
+      },
+      "08": {
+        "text": "彼らは試みました。",
+        "mention_ids": [
+          "M115"
+        ]
+      },
+      "09": {
+        "text": "だからこそ彼らは破産を申請しなければならないのです」と破産を専門とするミシガン大学の大学教授は語りました。",
+        "mention_ids": [
+          "M139"
+        ]
+      }
+    },
+    "mentions": {
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          20
+        ],
+        "text": "米国の自動車製造会社のゼネラルモーターズ",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M006": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          36
+        ],
+        "text": "同社の社債保有者の大半",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M008": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          69
+        ],
+        "text": "同社の株式の10パーセントのシェア",
+        "entity_type": null,
+        "entity_id": "E069"
+      },
+      "M011": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          51
+        ],
+        "text": "GMの270億米ドルの債務",
+        "entity_type": null,
+        "entity_id": "E158"
+      },
+      "M019": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          18
+        ],
+        "text": "その自動車メーカー",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          41
+        ],
+        "text": "政府",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M021": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          23
+        ],
+        "text": "工場",
+        "entity_type": null,
+        "entity_id": "E163"
+      },
+      "M029": {
+        "sentence_id": "03",
+        "span": [
+          31,
+          33
+        ],
+        "text": "負債",
+        "entity_type": null,
+        "entity_id": "E164"
+      },
+      "M035": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          15
+        ],
+        "text": "米国バラク・オバマ大統領の政権",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M036": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          61
+        ],
+        "text": "同政権",
+        "entity_type": null,
+        "entity_id": "E150"
+      },
+      "M037": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          74
+        ],
+        "text": "さらなる資金援助",
+        "entity_type": null,
+        "entity_id": "E149"
+      },
+      "M038": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          65
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M040": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          31
+        ],
+        "text": "GM社の社債保有者の90%が",
+        "entity_type": null,
+        "entity_id": "E151"
+      },
+      "M041": {
+        "sentence_id": "04",
+        "span": [
+          32,
+          34
+        ],
+        "text": "同社",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M050": {
+        "sentence_id": "05",
+        "span": [
+          8,
+          20
+        ],
+        "text": "提供された債券の元本金額",
+        "entity_type": null,
+        "entity_id": "E155"
+      },
+      "M051": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          24
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M052": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          27
+        ],
+        "text": "債務",
+        "entity_type": null,
+        "entity_id": "E164"
+      },
+      "M053": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          2
+        ],
+        "text": "GM",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M098": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          10
+        ],
+        "text": "米自動車メーカーGM",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M099": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          21
+        ],
+        "text": "社債券保有者",
+        "entity_type": null,
+        "entity_id": "E153"
+      },
+      "M115": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          2
+        ],
+        "text": "彼ら",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M139": {
+        "sentence_id": "09",
+        "span": [
+          5,
+          7
+        ],
+        "text": "彼ら",
+        "entity_type": null,
+        "entity_id": "E160"
+      }
+    },
+    "entities": {
+      "E069": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E072": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E149": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E150": {
+        "member_mention_ids": [
+          "M020",
+          "M035",
+          "M036"
+        ],
+        "removed_mention_ids": [
+          "M031",
+          "M125",
+          "M095"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E151": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E152": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E153": {
+        "member_mention_ids": [
+          "M099"
+        ],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E154": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M118"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E155": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E156": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M034",
+          "M032",
+          "M033"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Barack_Obama",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Barack_Obama",
+          "wikidata": "http://www.wikidata.org/entity/Q76",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%90%E3%83%9E"
+        }
+      },
+      "E158": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E160": {
+        "member_mention_ids": [
+          "M004",
+          "M038",
+          "M041",
+          "M051",
+          "M053",
+          "M115",
+          "M139"
+        ],
+        "removed_mention_ids": [
+          "M098",
+          "M007",
+          "M039",
+          "M010",
+          "M002",
+          "M096",
+          "M003",
+          "M097",
+          "M005",
+          "M019"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/General_Motors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Motors",
+          "wikidata": "http://www.wikidata.org/entity/Q81965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA"
+        }
+      },
+      "E163": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E164": {
+        "member_mention_ids": [
+          "M029",
+          "M052"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

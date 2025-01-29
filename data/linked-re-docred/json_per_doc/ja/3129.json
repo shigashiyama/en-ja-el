@@ -1,0 +1,939 @@
+{
+  "3129": {
+    "doc_info": {
+      "title": "Google Chrome",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Google Chrome (一般に単にChromeとして知られています)は、Google LLCによって開発されたフリーウェアWebブラウザです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_1",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "2008年9月2日にMicrosoft Windows向けに最初にリリースされ、その後Linux、macOS、iOS、Androidに移植されました。",
+        "mention_ids": [
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "02": {
+        "text": "Google ChromeはChrome OSの主要コンポーネントでもあり、ウェブアプリを実行するためのプラットフォームとして機能します。",
+        "mention_ids": [
+          "M0_1",
+          "M9_1"
+        ]
+      },
+      "03": {
+        "text": "Googleは、Chromeのソースコードの大部分をChromiumオープンソースプロジェクトとしてリリースしていますが、Chrome自体はプロプライエタリなソフトウェアです。",
+        "mention_ids": [
+          "M10_1",
+          "M11_0",
+          "M1_3",
+          "M1_6"
+        ]
+      },
+      "04": {
+        "text": "オープンソースではないコンポーネントの1つは、組み込みのAdobe Flash Playerで、(Chromeでは、2016年9月以降、デフォルトで無効になっています)。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M1_0"
+        ]
+      },
+      "05": {
+        "text": "Chromeは、バージョン27まではWebKitレイアウト・エンジンを使用していました。",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M1_7"
+        ]
+      },
+      "06": {
+        "text": "バージョン28では、iOSポートを除くすべてのChromeポートが、WebKitエンジンのフォークであるBlinkを使用しています。",
+        "mention_ids": [
+          "M14_1",
+          "M16_0",
+          "M17_0",
+          "M1_5",
+          "M7_1"
+        ]
+      },
+      "07": {
+        "text": "、StatCounterは、Google Chromeがデスクトップ・ブラウザとしてウェブ・ブラウザの世界的な使用シェアを68%持っていると推定しています。",
+        "mention_ids": [
+          "M0_2",
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "08": {
+        "text": "また、スマートフォンでは50%以上のシェアを持っているため、すべてのプラットフォームを合わせると61%の市場シェアを獲得しています。したがって、Chromeは事実上すべての国で最も使用されているブラウザです(アフリカはこの例外)。",
+        "mention_ids": [
+          "M1_4",
+          "M20_0",
+          "M21_0",
+          "M22_0"
+        ]
+      },
+      "09": {
+        "text": "その成功により、Googleは「Chrome」というブランド名を、Chrome OS、Chromecast、Chromebook、Chromebit、Chromebox、Chromebaseなどのさまざまな製品に拡大しました。",
+        "mention_ids": [
+          "M10_0",
+          "M1_2",
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Google Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Google Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          27
+        ],
+        "text": "Google Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "09",
+        "span": [
+          8,
+          14
+        ],
+        "text": "Google",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Google",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          34
+        ],
+        "text": "Chromium",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          46
+        ],
+        "text": "Adobe Flash Player",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          58,
+          65
+        ],
+        "text": "2016年9月",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          24
+        ],
+        "text": "WebKit",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M14_1": {
+        "sentence_id": "06",
+        "span": [
+          34,
+          40
+        ],
+        "text": "WebKit",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          13,
+          15
+        ],
+        "text": "27",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          5,
+          7
+        ],
+        "text": "28",
+        "entity_type": "NUM",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          52,
+          57
+        ],
+        "text": "Blink",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          1,
+          12
+        ],
+        "text": "StatCounter",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          61,
+          64
+        ],
+        "text": "68%",
+        "entity_type": "NUM",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          55
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          26
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "09",
+        "span": [
+          16,
+          22
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          14
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "08",
+        "span": [
+          72,
+          78
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_5": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          29
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_6": {
+        "sentence_id": "03",
+        "span": [
+          61,
+          67
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M1_7": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Chrome",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          48,
+          51
+        ],
+        "text": "61%",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "08",
+        "span": [
+          12,
+          15
+        ],
+        "text": "50%",
+        "entity_type": "NUM",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          104,
+          108
+        ],
+        "text": "アフリカ",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "09",
+        "span": [
+          54,
+          64
+        ],
+        "text": "Chromebook",
+        "entity_type": "MISC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "09",
+        "span": [
+          65,
+          74
+        ],
+        "text": "Chromebit",
+        "entity_type": "MISC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "09",
+        "span": [
+          75,
+          84
+        ],
+        "text": "Chromebox",
+        "entity_type": "MISC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "09",
+        "span": [
+          85,
+          95
+        ],
+        "text": "Chromebase",
+        "entity_type": "MISC",
+        "entity_id": "E026"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          49
+        ],
+        "text": "Google LLC",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          9
+        ],
+        "text": "2008年9月2日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          27
+        ],
+        "text": "Microsoft Windows",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          48
+        ],
+        "text": "Linux",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          54
+        ],
+        "text": "macOS",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          55,
+          58
+        ],
+        "text": "iOS",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          13
+        ],
+        "text": "iOS",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          59,
+          66
+        ],
+        "text": "Android",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "09",
+        "span": [
+          33,
+          42
+        ],
+        "text": "Chrome OS",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "02",
+        "span": [
+          14,
+          23
+        ],
+        "text": "Chrome OS",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Google_Chrome",
+          "wikidata": "http://www.wikidata.org/entity/Q777",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Google_Chrome"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M1_4",
+          "M1_5",
+          "M1_6",
+          "M1_7"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Google_Chrome",
+          "wikidata": "http://www.wikidata.org/entity/Q777",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Google_Chrome"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Google",
+          "wikidata": "http://www.wikidata.org/entity/Q95",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Google_LLC",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Google"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+          "wikidata": "http://www.wikidata.org/entity/Q1406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Microsoft_Windows"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Linux",
+          "wikidata": "http://www.wikidata.org/entity/Q388",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Linux"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacOS",
+          "wikidata": "http://www.wikidata.org/entity/Q14116",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MacOS"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IOS",
+          "wikidata": "http://www.wikidata.org/entity/Q48493",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IOS"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+          "wikidata": "http://www.wikidata.org/entity/Q94",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ChromeOS",
+          "wikidata": "http://www.wikidata.org/entity/Q79531",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Chrome_OS",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ChromeOS"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Google",
+          "wikidata": "http://www.wikidata.org/entity/Q95",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Google"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chromium_(web_browser)",
+          "wikidata": "http://www.wikidata.org/entity/Q48524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Chromium"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Adobe_Flash_Player",
+          "wikidata": "http://www.wikidata.org/entity/Q857177",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Adobe_Flash_Player"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0",
+          "M14_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/WebKit",
+          "wikidata": "http://www.wikidata.org/entity/Q654034",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/WebKit"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Blink_(browser_engine)",
+          "wikidata": "http://www.wikidata.org/entity/Q9603949",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Blink_(%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/StatCounter",
+          "wikidata": "http://www.wikidata.org/entity/Q3497284",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/StatCounter"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q15",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chromebook",
+          "wikidata": "http://www.wikidata.org/entity/Q861508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Chromebook"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chromebit",
+          "wikidata": "http://www.wikidata.org/entity/Q19864646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Chromebit"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "removed_mention_ids": [
+          "M25_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chromebox",
+          "wikidata": "http://www.wikidata.org/entity/Q15926652",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Chromebox"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "wikidata": "http://www.wikidata.org/entity/Q115109323",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chromebase",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Chromebase"
+        },
+        "method": "manual",
+        "confidence": "C"
+      }
+    }
+  }
+}

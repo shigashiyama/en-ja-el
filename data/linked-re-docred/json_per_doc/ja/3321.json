@@ -1,0 +1,848 @@
+{
+  "3321": {
+    "doc_info": {
+      "title": "The Storming of the Winter Palace",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『冬の宮殿襲撃』は、1917年10月革命中にペトログラードで起こった歴史的出来事に基づいた、1920年の大衆スペクタクルです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "革命3周年に行われ、ニコライ・エヴレイノフが監督し、『大衆行動』という副題が付けられました。",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "セットはユーリ・アネンコフによってデザインされました。",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "この光景は、ボリシェヴィキ革命の際に臨時政府が会議を行っていた旧皇帝の冬宮殿の外で上演されました。",
+        "mention_ids": [
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "出演者には、125人のバレエダンサー、100人のサーカス団員、1,750人の余剰人員と学生、200人の女性、260人の副俳優、150人のアシスタントが含まれていました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "05": {
+        "text": "戦車や装甲車も参加しました。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "大衆スペクタクルの形式は、革命以前の象徴主義者の「儀式劇場」のユートピア（その定式化は主に失敗した1905年革命への対応でした）を取り入れ、プロレタリアートとして彼らの「人民」を再構築しました。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "text": "11月7日に10万人の観衆の前で上演され、このアクションは二月革命から始まり、労働者の段階的な組織化を経て（赤いステージで左側、右側の白いステージ上のケレンスキーと臨時政府）、サーチライトで完全に照らされるまで、そして「レーニン」と叫び、レーニンは、「白軍と戦うために、2つのステージを結ぶアーチの上に突撃します。」",
+        "mention_ids": [
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M22_1",
+          "M23_0",
+          "M8_1"
+        ]
+      },
+      "08": {
+        "text": "ケレンスキーは逃げるために車に飛び乗り、2つの大規模な見物人のグループの間の道を、銃剣を振っている紅衛兵を満載したトラックに宮殿まで追跡されます。",
+        "mention_ids": [
+          "M21_1",
+          "M24_0",
+          "M25_0",
+          "M7_2"
+        ]
+      },
+      "09": {
+        "text": "宮殿の窓でシルエットが奮闘し、赤軍が最終的に成功し、赤いライトが点滅します。",
+        "mention_ids": [
+          "M26_0",
+          "M7_1"
+        ]
+      },
+      "10": {
+        "text": "巡洋艦オーロラから発射される大砲と花火が十月革命の勝利を告げます。",
+        "mention_ids": [
+          "M27_0",
+          "M3_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          7
+        ],
+        "text": "冬の宮殿襲撃",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          10
+        ],
+        "text": "125人",
+        "entity_type": "NUM",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          19,
+          23
+        ],
+        "text": "100人",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          31,
+          37
+        ],
+        "text": "1,750人",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          46,
+          50
+        ],
+        "text": "200人",
+        "entity_type": "NUM",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          54,
+          58
+        ],
+        "text": "260人",
+        "entity_type": "NUM",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          63,
+          67
+        ],
+        "text": "150人",
+        "entity_type": "NUM",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          23
+        ],
+        "text": "革命以前の象徴主義者",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          49,
+          54
+        ],
+        "text": "1905年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          5
+        ],
+        "text": "11月7日",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          10
+        ],
+        "text": "10万人",
+        "entity_type": "NUM",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          51
+        ],
+        "text": "1920年",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          29,
+          33
+        ],
+        "text": "二月革命",
+        "entity_type": "MISC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          75,
+          81
+        ],
+        "text": "ケレンスキー",
+        "entity_type": "PER",
+        "entity_id": "E021"
+      },
+      "M21_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ケレンスキー",
+        "entity_type": "PER",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          110,
+          114
+        ],
+        "text": "レーニン",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M22_1": {
+        "sentence_id": "07",
+        "span": [
+          119,
+          123
+        ],
+        "text": "レーニン",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          126,
+          128
+        ],
+        "text": "白軍",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "08",
+        "span": [
+          20,
+          23
+        ],
+        "text": "2つの",
+        "entity_type": "NUM",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "08",
+        "span": [
+          49,
+          52
+        ],
+        "text": "紅衛兵",
+        "entity_type": "ORG",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "09",
+        "span": [
+          15,
+          17
+        ],
+        "text": "赤軍",
+        "entity_type": "ORG",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "10",
+        "span": [
+          3,
+          7
+        ],
+        "text": "オーロラ",
+        "entity_type": "MISC",
+        "entity_id": "E027"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          29
+        ],
+        "text": "ペトログラード",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          10,
+          20
+        ],
+        "text": "1917年10月革命",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "10",
+        "span": [
+          20,
+          24
+        ],
+        "text": "十月革命",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          21
+        ],
+        "text": "ニコライ・エヴレイノフ",
+        "entity_type": "PER",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          31
+        ],
+        "text": "大衆行動",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          13
+        ],
+        "text": "ユーリ・アネンコフ",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          38
+        ],
+        "text": "皇帝の冬宮殿",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          2
+        ],
+        "text": "宮殿",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_2": {
+        "sentence_id": "08",
+        "span": [
+          62,
+          64
+        ],
+        "text": "宮殿",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          22
+        ],
+        "text": "臨時政府",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "07",
+        "span": [
+          82,
+          86
+        ],
+        "text": "臨時政府",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          15
+        ],
+        "text": "ボリシェヴィキ革命",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Storming_of_the_Winter_Palace",
+          "wikidata": "http://www.wikidata.org/entity/Q7766705"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+          "wikidata": "http://www.wikidata.org/entity/Q656",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%88%E3%83%9A%E3%83%86%E3%83%AB%E3%83%96%E3%83%AB%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/October_Revolution",
+          "wikidata": "http://www.wikidata.org/entity/Q42976",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%9C%88%E9%9D%A9%E5%91%BD"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Evreinov",
+          "wikidata": "http://www.wikidata.org/entity/Q2706411"
+        },
+        "date_of_death": "1953-09-07T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yury_Annenkov",
+          "wikidata": "http://www.wikidata.org/entity/Q1362480",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Yuri_Annenkov",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%B3%E3%82%B3%E3%83%95"
+        },
+        "date_of_death": "1974-07-12T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1",
+          "M7_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Winter_Palace",
+          "wikidata": "http://www.wikidata.org/entity/Q182147",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%AC%E5%AE%AE%E6%AE%BF"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_Provisional_Government",
+          "wikidata": "http://www.wikidata.org/entity/Q239543",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E8%87%A8%E6%99%82%E6%94%BF%E5%BA%9C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/October_Revolution",
+          "wikidata": "http://www.wikidata.org/entity/Q42976",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%9C%88%E9%9D%A9%E5%91%BD"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/February_Revolution",
+          "wikidata": "http://www.wikidata.org/entity/Q101534",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2%E6%9C%88%E9%9D%A9%E5%91%BD_(1917%E5%B9%B4)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0",
+          "M21_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexander_Kerensky",
+          "wikidata": "http://www.wikidata.org/entity/Q48211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%B1%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC"
+        },
+        "date_of_death": "1970-06-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0",
+          "M22_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+          "wikidata": "http://www.wikidata.org/entity/Q1394",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%BC%E3%83%9F%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3"
+        },
+        "date_of_death": "1924-01-21T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/White_movement",
+          "wikidata": "http://www.wikidata.org/entity/Q104309",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BD%E8%BB%8D"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Red_Guards_(Russia)",
+          "wikidata": "http://www.wikidata.org/entity/Q1418376"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Red_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q251395",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E8%BB%8D"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russian_cruiser_Aurora",
+          "wikidata": "http://www.wikidata.org/entity/Q168713",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%83%AD%E3%83%BC%E3%83%A9_(%E9%98%B2%E8%AD%B7%E5%B7%A1%E6%B4%8B%E8%89%A6)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

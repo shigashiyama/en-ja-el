@@ -1,0 +1,410 @@
+{
+  "0124259": {
+    "doc_info": {
+      "title": "124259_US_stocks_log_gains_for_fourth_week_in_a_row",
+      "url": "http://en.wikinews.org/wiki/US_stocks_log_gains_for_fourth_week_in_a_row"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "US stocks log gains for fourth week in a row",
+        "text": "US stocks log gains for fourth week in a row",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "orig_text": "April 04, 2009",
+        "text": "April 04, 2009",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "United States stock indexes posted gains on Friday, marking a four-week long positive streak.",
+        "text": "United States stock indexes posted gains on Friday, marking a four-week long positive streak.",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "03": {
+        "orig_text": "This comes despite a report released by the US Labor Department on the same day, which said that the US economy shed 663,000 jobs in March, with the unemployment rate reaching 8.5%, the highest since 1983.",
+        "text": "This comes despite a report released by the US Labor Department on the same day, which said that the US economy shed 663,000 jobs in March, with the unemployment rate reaching 8.5%, the highest since 1983.",
+        "mention_ids": [
+          "M020",
+          "M025"
+        ]
+      },
+      "04": {
+        "orig_text": "The Dow Jones Industrial Average posted a modest gain of half a percent or 39 points, ending the day at 8,017.",
+        "text": "The Dow Jones Industrial Average posted a modest gain of half a percent or 39 points, ending the day at 8,017.",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "05": {
+        "orig_text": "The index has not closed above 8,000 since February.",
+        "text": "The index has not closed above 8,000 since February.",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "06": {
+        "orig_text": "The last time the Dow had risen for four weeks in a row was between September and October of 2007, when the stock index reached its all-time high of over 14,000.",
+        "text": "The last time the Dow had risen for four weeks in a row was between September and October of 2007, when the stock index reached its all-time high of over 14,000.",
+        "mention_ids": [
+          "M077",
+          "M082",
+          "M094"
+        ]
+      },
+      "07": {
+        "orig_text": "The streak is the index's best since 1993.",
+        "text": "The streak is the index's best since 1993.",
+        "mention_ids": [
+          "M087"
+        ]
+      },
+      "08": {
+        "orig_text": "The broader S&P 500 gained eight points, or one percent, by the closing bell.",
+        "text": "The broader S&P 500 gained eight points, or one percent, by the closing bell.",
+        "mention_ids": [
+          "M089"
+        ]
+      },
+      "09": {
+        "orig_text": "The Nasdaq Composite had the largest gains of the three indexes, up 1.2% to 1,622.",
+        "text": "The Nasdaq Composite had the largest gains of the three indexes, up 1.2% to 1,622.",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "10": {
+        "orig_text": "Both the S&P and the Dow gained over 3% over the course of the week, while the Nasdaq was up almost 5%.",
+        "text": "Both the S&P and the Dow gained over 3% over the course of the week, while the Nasdaq was up almost 5%.",
+        "mention_ids": [
+          "M074",
+          "M079",
+          "M093"
+        ]
+      },
+      "11": {
+        "orig_text": "In other markets, both the German DAX and the Japanese Nikkei 225 indexes remained even, whilst the British FTSE 100 slipped 2.3%.",
+        "text": "In other markets, both the German DAX and the Japanese Nikkei 225 indexes remained even, whilst the British FTSE 100 slipped 2.3%.",
+        "mention_ids": [
+          "M073"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "US stocks log",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          27
+        ],
+        "text": "United States stock indexes",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M020": {
+        "sentence_id": "03",
+        "span": [
+          40,
+          63
+        ],
+        "text": "the US Labor Department",
+        "entity_type": null,
+        "entity_id": "E104"
+      },
+      "M025": {
+        "sentence_id": "03",
+        "span": [
+          97,
+          111
+        ],
+        "text": "the US economy",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M035": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          32
+        ],
+        "text": "The Dow Jones Industrial Average",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M043": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "The index",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M071": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          20
+        ],
+        "text": "The Nasdaq Composite",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M073": {
+        "sentence_id": "11",
+        "span": [
+          42,
+          65
+        ],
+        "text": "the Japanese Nikkei 225",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M074": {
+        "sentence_id": "10",
+        "span": [
+          75,
+          85
+        ],
+        "text": "the Nasdaq",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M077": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          21
+        ],
+        "text": "the Dow",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M079": {
+        "sentence_id": "10",
+        "span": [
+          17,
+          24
+        ],
+        "text": "the Dow",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M082": {
+        "sentence_id": "06",
+        "span": [
+          128,
+          131
+        ],
+        "text": "its",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M087": {
+        "sentence_id": "07",
+        "span": [
+          14,
+          23
+        ],
+        "text": "the index",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M089": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          19
+        ],
+        "text": "The broader S&P 500",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M093": {
+        "sentence_id": "10",
+        "span": [
+          5,
+          12
+        ],
+        "text": "the S&P",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M094": {
+        "sentence_id": "06",
+        "span": [
+          104,
+          119
+        ],
+        "text": "the stock index",
+        "entity_type": null,
+        "entity_id": "E114"
+      }
+    },
+    "entities": {
+      "E099": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M008",
+          "M002",
+          "M026"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E104": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States_Department_of_Labor",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Department_of_Labor",
+          "wikidata": "http://www.wikidata.org/entity/Q628807",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%8A%B4%E5%83%8D%E7%9C%81"
+        }
+      },
+      "E107": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M090",
+          "M092"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Nikkei_225",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nikkei_225",
+          "wikidata": "http://www.wikidata.org/entity/Q507338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M071",
+          "M074"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M035",
+          "M043",
+          "M077",
+          "M079",
+          "M082",
+          "M087",
+          "M094"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M093"
+        ],
+        "removed_mention_ids": [
+          "M089"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Economy_of_the_United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q188540",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%AE%E7%B5%8C%E6%B8%88"
+        }
+      }
+    }
+  }
+}

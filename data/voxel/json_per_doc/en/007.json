@@ -1,0 +1,333 @@
+{
+  "007": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/cartoon/4994860-old-europe"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Old Europe.",
+        "text": "Old Europe.",
+        "mention_ids": [
+          "M087"
+        ]
+      },
+      "01": {
+        "orig_text": "On 7 October, Operation Triton, a mission monitoring migration routes in Italy, was joined by Operation Sophia. ",
+        "text": "On 7 October, Operation Triton, a mission monitoring migration routes in Italy, was joined by Operation Sophia. ",
+        "mention_ids": [
+          "M088"
+        ]
+      },
+      "02": {
+        "orig_text": "It consists of intercepting smugglers in international waters, arresting and chasing them and boarding their boats, using the force if necessary. ",
+        "text": "It consists of intercepting smugglers in international waters, arresting and chasing them and boarding their boats, using the force if necessary. ",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": " \"Sophia\" can boasts nine warships and 1,300 men, taking its name from a little girl who was born while crossing the Mediterranean.",
+        "text": " \"Sophia\" can boasts nine warships and 1,300 men, taking its name from a little girl who was born while crossing the Mediterranean.",
+        "mention_ids": [
+          "M089"
+        ]
+      },
+      "04": {
+        "orig_text": "Since the beginning of the year, 564,000 people arrived in Europe via the Mediterranean and some 3,000 death, according to the International Organisation for Migration.",
+        "text": "Since the beginning of the year, 564,000 people arrived in Europe via the Mediterranean and some 3,000 death, according to the International Organisation for Migration.",
+        "mention_ids": [
+          "M090",
+          "M091",
+          "M092"
+        ]
+      },
+      "05": {
+        "orig_text": "This cartoon by Marilena Nardi was awarded the first prize for the best cartoon on Europe published in Italy, given in 2015 during Internazionale's festival in Ferrara, on 4 October.",
+        "text": "This cartoon by Marilena Nardi was awarded the first prize for the best cartoon on Europe published in Italy, given in 2015 during Internazionale's festival in Ferrara, on 4 October.",
+        "mention_ids": [
+          "M093",
+          "M094",
+          "M095",
+          "M096",
+          "M097"
+        ]
+      }
+    },
+    "mentions": {
+      "M087": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          10
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E087"
+      },
+      "M088": {
+        "sentence_id": "01",
+        "span": [
+          73,
+          78
+        ],
+        "text": "Italy",
+        "entity_type": null,
+        "entity_id": "E088"
+      },
+      "M089": {
+        "sentence_id": "03",
+        "span": [
+          117,
+          130
+        ],
+        "text": "Mediterranean",
+        "entity_type": null,
+        "entity_id": "E089"
+      },
+      "M090": {
+        "sentence_id": "04",
+        "span": [
+          59,
+          65
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E090"
+      },
+      "M091": {
+        "sentence_id": "04",
+        "span": [
+          74,
+          87
+        ],
+        "text": "Mediterranean",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M092": {
+        "sentence_id": "04",
+        "span": [
+          127,
+          167
+        ],
+        "text": "International Organisation for Migration",
+        "entity_type": null,
+        "entity_id": "E092"
+      },
+      "M093": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          30
+        ],
+        "text": "Marilena Nardi",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M094": {
+        "sentence_id": "05",
+        "span": [
+          83,
+          89
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M095": {
+        "sentence_id": "05",
+        "span": [
+          103,
+          108
+        ],
+        "text": "Italy",
+        "entity_type": null,
+        "entity_id": "E095"
+      },
+      "M096": {
+        "sentence_id": "05",
+        "span": [
+          131,
+          145
+        ],
+        "text": "Internazionale",
+        "entity_type": null,
+        "entity_id": "E096"
+      },
+      "M097": {
+        "sentence_id": "05",
+        "span": [
+          160,
+          167
+        ],
+        "text": "Ferrara",
+        "entity_type": null,
+        "entity_id": "E097"
+      }
+    },
+    "entities": {
+      "E087": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E088": {
+        "member_mention_ids": [
+          "M088"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E089": {
+        "member_mention_ids": [
+          "M089"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q4918",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E4%B8%AD%E6%B5%B7"
+        }
+      },
+      "E090": {
+        "member_mention_ids": [
+          "M090"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E091": {
+        "member_mention_ids": [
+          "M091"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+          "wikidata": "http://www.wikidata.org/entity/Q4918",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E4%B8%AD%E6%B5%B7"
+        }
+      },
+      "E092": {
+        "member_mention_ids": [
+          "M092"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
+          "wikidata": "http://www.wikidata.org/entity/Q472311",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%A7%BB%E4%BD%8F%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E093": {
+        "member_mention_ids": [
+          "M093"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NotInLexico",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/NotInLexico"
+        }
+      },
+      "E094": {
+        "member_mention_ids": [
+          "M094"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E095": {
+        "member_mention_ids": [
+          "M095"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E096": {
+        "member_mention_ids": [
+          "M096"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NotInLexico",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/NotInLexico"
+        }
+      },
+      "E097": {
+        "member_mention_ids": [
+          "M097"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ferrara",
+          "wikidata": "http://www.wikidata.org/entity/Q13362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%A9"
+        }
+      }
+    }
+  }
+}

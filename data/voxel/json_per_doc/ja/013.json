@@ -1,0 +1,189 @@
+{
+  "013": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/4863679-europeans-reach-historical-agreement-new-ariane-6-launcher"
+    },
+    "sentences": {
+      "00": {
+        "text": "「欧州は新型アリアン6ロケットに関して歴史的な合意に達します。」",
+        "mention_ids": []
+      },
+      "01": {
+        "text": "欧州宇宙機関の加盟20か国の代表は、12月2日、ルクセンブルクでのドイツの合併後、新しいロケット、アリアン6の製造について合意に達し、「アリアン5の漸進的な進化」を達成しました、と『ル・モンド』は書いています。",
+        "mention_ids": [
+          "M172",
+          "M173",
+          "M174",
+          "M175"
+        ]
+      },
+      "02": {
+        "text": "フランスの日刊紙は、アリアン5計画がローマで開始されてから19年後にこの計画が「軌道に乗りました」と指摘しています。",
+        "mention_ids": [
+          "M176"
+        ]
+      },
+      "03": {
+        "text": "『ル・モンド』によると、欧州諸国は「市場での優位性を失い」たくないなら、迅速に対応する必要があるといいます。",
+        "mention_ids": [
+          "M177"
+        ]
+      }
+    },
+    "mentions": {
+      "M172": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          6
+        ],
+        "text": "欧州宇宙機関",
+        "entity_type": null,
+        "entity_id": "E172"
+      },
+      "M173": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          36
+        ],
+        "text": "ドイツ",
+        "entity_type": null,
+        "entity_id": "E173"
+      },
+      "M174": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          31
+        ],
+        "text": "ルクセンブルク",
+        "entity_type": null,
+        "entity_id": "E174"
+      },
+      "M175": {
+        "sentence_id": "01",
+        "span": [
+          91,
+          96
+        ],
+        "text": "ル・モンド",
+        "entity_type": null,
+        "entity_id": "E175"
+      },
+      "M176": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          21
+        ],
+        "text": "ローマ",
+        "entity_type": null,
+        "entity_id": "E176"
+      },
+      "M177": {
+        "sentence_id": "03",
+        "span": [
+          1,
+          6
+        ],
+        "text": "ル・モンド",
+        "entity_type": null,
+        "entity_id": "E177"
+      }
+    },
+    "entities": {
+      "E172": {
+        "member_mention_ids": [
+          "M172"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Space_Agency",
+          "wikidata": "http://www.wikidata.org/entity/Q42262",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%AE%87%E5%AE%99%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E173": {
+        "member_mention_ids": [
+          "M173"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        }
+      },
+      "E174": {
+        "member_mention_ids": [
+          "M174"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Luxembourg",
+          "wikidata": "http://www.wikidata.org/entity/Q32",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
+        }
+      },
+      "E175": {
+        "member_mention_ids": [
+          "M175"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Le_Monde",
+          "wikidata": "http://www.wikidata.org/entity/Q12461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%89"
+        }
+      },
+      "E176": {
+        "member_mention_ids": [
+          "M176"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rome",
+          "wikidata": "http://www.wikidata.org/entity/Q220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E"
+        }
+      },
+      "E177": {
+        "member_mention_ids": [
+          "M177"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Le_Monde",
+          "wikidata": "http://www.wikidata.org/entity/Q12461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%89"
+        }
+      }
+    }
+  }
+}

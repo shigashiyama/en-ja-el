@@ -1,0 +1,635 @@
+{
+  "3334": {
+    "doc_info": {
+      "title": "Wagner–Rogers Bill",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ワグナー・ロジャース法案は、ナチス・ドイツから14歳未満のユダヤ人の子供たち（宗派の基準はありませんでした)を、合計20,000人（1939年に10,000人、1940年にさらに10,000人）を米国へ連れてくることによって、移民枠を増加させる米国の法案でした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M1_1",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "01-02": {
+        "text": "この法案は、ドイツのユダヤ人に対する1938年の水晶の夜攻撃を受けて、ロバート・F・ワグナー上院議員（民主党、ニューヨーク州）とイーディス・ロジャース下院議員（共和党、マサチューセッツ州）によって提案されました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "この法案は、1939年2月9日に議会に提出されました。",
+        "mention_ids": [
+          "M14_0",
+          "M6_1"
+        ]
+      },
+      "04": {
+        "text": "この法案は宗教団体や労働団体の間で幅広い支持を得ましたが、民族主義団体は反対しました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "同法案は、年功序列により強力な地位を占めていたノースカロライナ州のロバート・ライス・レイノルズ上院議員によって阻止されたため、この法案は採決に至りませんでした。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "06": {
+        "text": "レイノルズは反ユダヤ主義者でありイギリス嫌いで、アメリカの再軍備を必要してルーズベルト大統領を支援した人物の1人でした。",
+        "mention_ids": [
+          "M15_1",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M1_2"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ワグナー・ロジャース法案",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01-02",
+        "span": [
+          64,
+          75
+        ],
+        "text": "イーディス・ロジャース",
+        "entity_type": "PER",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01-02",
+        "span": [
+          18,
+          28
+        ],
+        "text": "1938年の水晶の夜",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "01-02",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ユダヤ人",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "01-02",
+        "span": [
+          6,
+          9
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          16,
+          18
+        ],
+        "text": "議会",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          33,
+          47
+        ],
+        "text": "ロバート・ライス・レイノルズ",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "レイノルズ",
+        "entity_type": "PER",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          32
+        ],
+        "text": "ノースカロライナ州",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          13
+        ],
+        "text": "反ユダヤ主義者",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          16,
+          22
+        ],
+        "text": "イギリス嫌い",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          37,
+          43
+        ],
+        "text": "ルーズベルト",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          122,
+          124
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          98,
+          100
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "06",
+        "span": [
+          24,
+          29
+        ],
+        "text": "アメリカの",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          65
+        ],
+        "text": "20,000人",
+        "entity_type": "NUM",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          34
+        ],
+        "text": "ユダヤ人の",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          25
+        ],
+        "text": "14",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          72,
+          79
+        ],
+        "text": "10,000人",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "00",
+        "span": [
+          89,
+          96
+        ],
+        "text": "10,000人",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          71
+        ],
+        "text": "1939年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "03",
+        "span": [
+          6,
+          15
+        ],
+        "text": "1939年2月9日",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          80,
+          85
+        ],
+        "text": "1940年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          21
+        ],
+        "text": "ナチス・ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01-02",
+        "span": [
+          35,
+          46
+        ],
+        "text": "ロバート・F・ワグナー",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Wagner%E2%80%93Rogers_Bill",
+          "wikidata": "http://www.wikidata.org/entity/Q17027531",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Wagner–Rogers_Bill"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jews",
+          "wikidata": "http://www.wikidata.org/entity/Q7325",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%80%E3%83%A4%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nazi_Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q7318",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%82%B9%E3%83%BB%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Wagner",
+          "wikidata": "http://www.wikidata.org/entity/Q213721",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BB%E3%83%AF%E3%83%BC%E3%82%B0%E3%83%8A%E3%83%BC"
+        },
+        "date_of_death": "1953-05-04T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Edith_Nourse_Rogers",
+          "wikidata": "http://www.wikidata.org/entity/Q240965"
+        },
+        "date_of_death": "1960-09-10T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kristallnacht",
+          "wikidata": "http://www.wikidata.org/entity/Q36756",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%99%B6%E3%81%AE%E5%A4%9C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jews",
+          "wikidata": "http://www.wikidata.org/entity/Q7325",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%80%E3%83%A4%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Germany",
+          "wikidata": "http://www.wikidata.org/entity/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q11268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Robert_R._Reynolds",
+          "wikidata": "http://www.wikidata.org/entity/Q1456676",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Robert_Rice_Reynolds"
+        },
+        "date_of_death": "1963-02-13T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Carolina",
+          "wikidata": "http://www.wikidata.org/entity/Q1454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Antisemitism",
+          "wikidata": "http://www.wikidata.org/entity/Q22649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%8D%E3%83%A6%E3%83%80%E3%83%A4%E4%B8%BB%E7%BE%A9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anti-English_sentiment",
+          "wikidata": "http://www.wikidata.org/entity/Q2734988"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+          "wikidata": "http://www.wikidata.org/entity/Q8007",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%99%E3%83%AB%E3%83%88"
+        },
+        "date_of_death": "1945-04-12T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "3385": {
+    "doc_info": {
+      "title": "Matagorda Bay",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Matagorda Bay ( ) is a large Gulf of Mexico estuary bay on the Texas coast , lying in Calhoun and Matagorda counties and located approximately northeast of Corpus Christi , east - southeast of San Antonio , south - southwest of Houston , and south - southeast of Austin .",
+        "text": "Matagorda Bay ( ) is a large Gulf of Mexico estuary bay on the Texas coast , lying in Calhoun and Matagorda counties and located approximately northeast of Corpus Christi , east - southeast of San Antonio , south - southwest of Houston , and south - southeast of Austin .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is separated from the Gulf of Mexico by Matagorda Peninsula and serves as the mouth of numerous streams , most notably the Lavaca and Colorado Rivers .",
+        "text": "It is separated from the Gulf of Mexico by Matagorda Peninsula and serves as the mouth of numerous streams , most notably the Lavaca and Colorado Rivers .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M1_1",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The Texas seaport of Port Lavaca is located on the system 's northwestern extension of Lavaca Bay .",
+        "text": "The Texas seaport of Port Lavaca is located on the system 's northwestern extension of Lavaca Bay .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M2_1"
+        ]
+      },
+      "03": {
+        "orig_text": "The city of Palacios is found on northeastern extension of Tres Palacios Bay , and Port O'Connor is located on the southwestern tip of the main bay 's shore .",
+        "text": "The city of Palacios is found on northeastern extension of Tres Palacios Bay , and Port O'Connor is located on the southwestern tip of the main bay 's shore .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The ghost town of Indianola , which was a major port before it was destroyed by two hurricanes in the late 19th Century , is also found on the bay .",
+        "text": "The ghost town of Indianola , which was a major port before it was destroyed by two hurricanes in the late 19th Century , is also found on the bay .",
+        "mention_ids": [
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The bay 's shore , especially near the Colorado River delta , provides a habitat for a wide variety of wildlife .",
+        "text": "The bay 's shore , especially near the Colorado River delta , provides a habitat for a wide variety of wildlife .",
+        "mention_ids": [
+          "M20_0"
+        ]
+      },
+      "06": {
+        "orig_text": "The wildlife serves as a basis for the birding and fishing tourism , and is an essential component of the production of seafood , specifically shrimp and blue crab , which are the specialties of the area .",
+        "text": "The wildlife serves as a basis for the birding and fishing tourism , and is an essential component of the production of seafood , specifically shrimp and blue crab , which are the specialties of the area .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The fertile land near the bay is ideal for farming , especially for the propagation of rice .",
+        "text": "The fertile land near the bay is ideal for farming , especially for the propagation of rice .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          13
+        ],
+        "text": "Matagorda Bay",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          126,
+          132
+        ],
+        "text": "Lavaca",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "01",
+        "span": [
+          137,
+          145
+        ],
+        "text": "Colorado",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          21,
+          32
+        ],
+        "text": "Port Lavaca",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "02",
+        "span": [
+          87,
+          97
+        ],
+        "text": "Lavaca Bay",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          20
+        ],
+        "text": "Palacios",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          59,
+          76
+        ],
+        "text": "Tres Palacios Bay",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          83,
+          96
+        ],
+        "text": "Port O'Connor",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "04",
+        "span": [
+          18,
+          27
+        ],
+        "text": "Indianola",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          80,
+          83
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          107,
+          119
+        ],
+        "text": "19th Century",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          43
+        ],
+        "text": "Gulf of Mexico",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          25,
+          39
+        ],
+        "text": "Gulf of Mexico",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          39,
+          59
+        ],
+        "text": "Colorado River delta",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          68
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          9
+        ],
+        "text": "Texas",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          93
+        ],
+        "text": "Calhoun",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          98,
+          107
+        ],
+        "text": "Matagorda",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          156,
+          170
+        ],
+        "text": "Corpus Christi",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          193,
+          204
+        ],
+        "text": "San Antonio",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "00",
+        "span": [
+          228,
+          235
+        ],
+        "text": "Houston",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "00",
+        "span": [
+          263,
+          269
+        ],
+        "text": "Austin",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          62
+        ],
+        "text": "Matagorda Peninsula",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matagorda_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q1600098",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%B4%E3%83%AB%E3%83%80%E6%B9%BE"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gulf_of_Mexico",
+          "wikidata": "http://www.wikidata.org/entity/Q12630",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E6%B9%BE"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Calhoun_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q26605",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%95%E3%83%BC%E3%83%B3%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matagorda_County,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q485910",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%B4%E3%83%AB%E3%83%80%E9%83%A1_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Corpus_Christi,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q49242",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%91%E3%82%B9%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/San_Antonio",
+          "wikidata": "http://www.wikidata.org/entity/Q975",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/San_Antonio,_Texas",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Houston",
+          "wikidata": "http://www.wikidata.org/entity/Q16555",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Houston,_Texas",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%88%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Austin,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q16559",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Matagorda_Peninsula",
+          "wikidata": "http://www.wikidata.org/entity/Q3899075"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lavaca_River",
+          "wikidata": "http://www.wikidata.org/entity/Q3827989"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Colorado_River_(Texas)",
+          "wikidata": "http://www.wikidata.org/entity/Q847785",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9D_(%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Port_of_Port_Lavaca_%E2%80%93_Point_Comfort",
+          "wikidata": "http://www.wikidata.org/entity/Q7231233",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Port_of_Port_Lavaca_–_Point_Comfort"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lavaca_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q6502242"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Palacios,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q969734"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tres_Palacios_Bay",
+          "wikidata": "http://www.wikidata.org/entity/Q7838728"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Port_O%27Connor,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q974694",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Port_O'Connor,_Texas"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Indianola,_Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q972308"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Colorado_River_Delta",
+          "wikidata": "http://www.wikidata.org/entity/Q5148890"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

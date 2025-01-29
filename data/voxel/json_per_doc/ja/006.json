@@ -1,0 +1,428 @@
+{
+  "006": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/5012914-map-showing-european-jihadists-countries-origin"
+    },
+    "sentences": {
+      "00": {
+        "text": "ヨーロッパのジハード主義者の国々を示す地図。",
+        "mention_ids": []
+      },
+      "01": {
+        "text": "この地図は、パリとその郊外で少なくとも129人の死者を出したイスラム国と名乗る組織による攻撃の翌日に、ラジオ・フリー・ヨーロッパ/ラジオ・リバティによって作成されたもので、イラクとシリア、特にヨーロッパの外国人戦闘員の国を示しています。",
+        "mention_ids": [
+          "M072",
+          "M073",
+          "M074",
+          "M075",
+          "M076"
+        ]
+      },
+      "02": {
+        "text": "フランスが1,200名の戦闘員で先頭に立ち、トルコ(1,000名)、イギリス(600名)が続きます。",
+        "mention_ids": [
+          "M077",
+          "M078",
+          "M079"
+        ]
+      },
+      "03": {
+        "text": "人口に比例して、ジハード戦士の出身者数が最も多いのはボスニア・ヘルツェゴビナであり(人口100万人あたり92人)、続いてコソボ(83人)、アルバニア(46人)です。",
+        "mention_ids": [
+          "M080",
+          "M081",
+          "M082"
+        ]
+      },
+      "04": {
+        "text": "西ヨーロッパ諸国の中では、ベルギーが人口100万人当たり40人のジハード戦士でトップ、次にスウェーデン(32人)、デンマーク(27人)が続きます。",
+        "mention_ids": [
+          "M083",
+          "M084",
+          "M085",
+          "M086"
+        ]
+      }
+    },
+    "mentions": {
+      "M072": {
+        "sentence_id": "01",
+        "span": [
+          51,
+          73
+        ],
+        "text": "ラジオ・フリー・ヨーロッパ/ラジオ・リバティ",
+        "entity_type": null,
+        "entity_id": "E072"
+      },
+      "M073": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          8
+        ],
+        "text": "パリ",
+        "entity_type": null,
+        "entity_id": "E073"
+      },
+      "M074": {
+        "sentence_id": "01",
+        "span": [
+          86,
+          89
+        ],
+        "text": "イラク",
+        "entity_type": null,
+        "entity_id": "E074"
+      },
+      "M075": {
+        "sentence_id": "01",
+        "span": [
+          90,
+          93
+        ],
+        "text": "シリア",
+        "entity_type": null,
+        "entity_id": "E075"
+      },
+      "M076": {
+        "sentence_id": "01",
+        "span": [
+          96,
+          101
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": null,
+        "entity_id": "E076"
+      },
+      "M077": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "フランス",
+        "entity_type": null,
+        "entity_id": "E077"
+      },
+      "M078": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          25
+        ],
+        "text": "トルコ",
+        "entity_type": null,
+        "entity_id": "E078"
+      },
+      "M079": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          38
+        ],
+        "text": "イギリス",
+        "entity_type": null,
+        "entity_id": "E079"
+      },
+      "M080": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          38
+        ],
+        "text": "ボスニア・ヘルツェゴビナ",
+        "entity_type": null,
+        "entity_id": "E080"
+      },
+      "M081": {
+        "sentence_id": "03",
+        "span": [
+          60,
+          63
+        ],
+        "text": "コソボ",
+        "entity_type": null,
+        "entity_id": "E081"
+      },
+      "M082": {
+        "sentence_id": "03",
+        "span": [
+          69,
+          74
+        ],
+        "text": "アルバニア",
+        "entity_type": null,
+        "entity_id": "E082"
+      },
+      "M083": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          6
+        ],
+        "text": "西ヨーロッパ",
+        "entity_type": null,
+        "entity_id": "E083"
+      },
+      "M084": {
+        "sentence_id": "04",
+        "span": [
+          13,
+          17
+        ],
+        "text": "ベルギー",
+        "entity_type": null,
+        "entity_id": "E084"
+      },
+      "M085": {
+        "sentence_id": "04",
+        "span": [
+          45,
+          51
+        ],
+        "text": "スウェーデン",
+        "entity_type": null,
+        "entity_id": "E085"
+      },
+      "M086": {
+        "sentence_id": "04",
+        "span": [
+          57,
+          62
+        ],
+        "text": "デンマーク",
+        "entity_type": null,
+        "entity_id": "E086"
+      }
+    },
+    "entities": {
+      "E072": {
+        "member_mention_ids": [
+          "M072"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Radio_Free_Europe/Radio_Liberty",
+          "wikidata": "http://www.wikidata.org/entity/Q485500",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E073": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        }
+      },
+      "E074": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Iraq",
+          "wikidata": "http://www.wikidata.org/entity/Q796",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%AF"
+        }
+      },
+      "E075": {
+        "member_mention_ids": [
+          "M075"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Syria",
+          "wikidata": "http://www.wikidata.org/entity/Q858",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2"
+        }
+      },
+      "E076": {
+        "member_mention_ids": [
+          "M076"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E077": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        }
+      },
+      "E078": {
+        "member_mention_ids": [
+          "M078"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Turkey",
+          "wikidata": "http://www.wikidata.org/entity/Q43",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3"
+        }
+      },
+      "E079": {
+        "member_mention_ids": [
+          "M079"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        }
+      },
+      "E080": {
+        "member_mention_ids": [
+          "M080"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+          "wikidata": "http://www.wikidata.org/entity/Q225",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A"
+        }
+      },
+      "E081": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kosovo",
+          "wikidata": "http://www.wikidata.org/entity/Q1246",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%BD%E3%83%9C"
+        }
+      },
+      "E082": {
+        "member_mention_ids": [
+          "M082"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Albania",
+          "wikidata": "http://www.wikidata.org/entity/Q222",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2"
+        }
+      },
+      "E083": {
+        "member_mention_ids": [
+          "M083"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Western_Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q27496",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E084": {
+        "member_mention_ids": [
+          "M084"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Belgium",
+          "wikidata": "http://www.wikidata.org/entity/Q31",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
+        }
+      },
+      "E085": {
+        "member_mention_ids": [
+          "M085"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sweden",
+          "wikidata": "http://www.wikidata.org/entity/Q34",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
+        }
+      },
+      "E086": {
+        "member_mention_ids": [
+          "M086"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Denmark",
+          "wikidata": "http://www.wikidata.org/entity/Q35",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF"
+        }
+      }
+    }
+  }
+}

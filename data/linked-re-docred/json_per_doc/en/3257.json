@@ -1,0 +1,668 @@
+{
+  "3257": {
+    "doc_info": {
+      "title": "List of Presidents of Ethiopia",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "This is a list of Presidents of Ethiopia and also a list of heads of state after the fall of the Ethiopian Empire in 1974 .",
+        "text": "This is a list of Presidents of Ethiopia and also a list of heads of state after the fall of the Ethiopian Empire in 1974 .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Until 1974 , the heads of state of the Ethiopian Empire were either Emperors or regents .",
+        "text": "Until 1974 , the heads of state of the Ethiopian Empire were either Emperors or regents .",
+        "mention_ids": [
+          "M1_1",
+          "M2_1"
+        ]
+      },
+      "02": {
+        "text": "From the coup d'état of the Derg leading to the fall of the Empire in September 1974 until March 1975 , the Derg considered the Crown Prince ■■■■■■■■■■■■ as the nominal head of state – which the Crown Prince refused to accept .",
+        "mention_ids": [
+          "M1_2",
+          "M2_2",
+          "M3_0",
+          "M3_5",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "During this time , the Chairmen of the Derg , the leaders of the Derg , were to be considered as acting heads of state .",
+        "text": "During this time , the Chairmen of the Derg , the leaders of the Derg , were to be considered as acting heads of state .",
+        "mention_ids": [
+          "M3_6",
+          "M3_7"
+        ]
+      },
+      "04": {
+        "orig_text": "After 21 March 1975 , the Derg military junta fully took over .",
+        "text": "After 21 March 1975 , the Derg military junta fully took over .",
+        "mention_ids": [
+          "M3_4",
+          "M4_1"
+        ]
+      },
+      "05": {
+        "orig_text": "Until the establishment of the People 's Democratic Republic of Ethiopia in 1987 , still dominated by Derg figures , Chairmen of the Derg have to be considered heads of state – but not presidents .",
+        "text": "Until the establishment of the People 's Democratic Republic of Ethiopia in 1987 , still dominated by Derg figures , Chairmen of the Derg have to be considered heads of state – but not presidents .",
+        "mention_ids": [
+          "M3_2",
+          "M3_3",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "After the fall of the Derg and the establishment of the Transitional Government of Ethiopia in 1991 , the first immediate President ( Meles Zenawi ) has to be considered an Interim President .",
+        "text": "After the fall of the Derg and the establishment of the Transitional Government of Ethiopia in 1991 , the first immediate President ( Meles Zenawi ) has to be considered an Interim President .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M3_1",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "orig_text": "Since the formal establishment of the office of President in 1987 , there have been 6 official presidents .",
+        "text": "Since the formal establishment of the office of President in 1987 , there have been 6 official presidents .",
+        "mention_ids": [
+          "M12_0",
+          "M8_1"
+        ]
+      },
+      "08": {
+        "orig_text": "The President is the head of state of Ethiopia .",
+        "text": "The President is the head of state of Ethiopia .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "09": {
+        "text": "The current president is ■■■■■■■■■■■■■■■■■■ , who is also the first female president of Ethiopia , elected on 25 October 2018 by members of the Federal Parliamentary Assembly .",
+        "mention_ids": [
+          "M0_2",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          32,
+          40
+        ],
+        "text": "Ethiopia",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "08",
+        "span": [
+          38,
+          46
+        ],
+        "text": "Ethiopia",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "09",
+        "span": [
+          88,
+          96
+        ],
+        "text": "Ethiopia",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          95,
+          99
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          134,
+          146
+        ],
+        "text": "Meles Zenawi",
+        "entity_type": "PER",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          84,
+          85
+        ],
+        "text": "6",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "09",
+        "span": [
+          25,
+          43
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "09",
+        "span": [
+          110,
+          125
+        ],
+        "text": "25 October 2018",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "09",
+        "span": [
+          144,
+          174
+        ],
+        "text": "Federal Parliamentary Assembly",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          97,
+          113
+        ],
+        "text": "Ethiopian Empire",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          39,
+          55
+        ],
+        "text": "Ethiopian Empire",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "02",
+        "span": [
+          60,
+          66
+        ],
+        "text": "Empire",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          117,
+          121
+        ],
+        "text": "1974",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          10
+        ],
+        "text": "1974",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "02",
+        "span": [
+          70,
+          84
+        ],
+        "text": "September 1974",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          108,
+          112
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          22,
+          26
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "05",
+        "span": [
+          133,
+          137
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          102,
+          106
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "04",
+        "span": [
+          26,
+          30
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "02",
+        "span": [
+          28,
+          32
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_6": {
+        "sentence_id": "03",
+        "span": [
+          65,
+          69
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_7": {
+        "sentence_id": "03",
+        "span": [
+          39,
+          43
+        ],
+        "text": "Derg",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          91,
+          101
+        ],
+        "text": "March 1975",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          19
+        ],
+        "text": "21 March 1975",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          141,
+          153
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          195,
+          207
+        ],
+        "text": "Crown Prince",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "05",
+        "span": [
+          31,
+          72
+        ],
+        "text": "People 's Democratic Republic of Ethiopia",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          76,
+          80
+        ],
+        "text": "1987",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "07",
+        "span": [
+          61,
+          65
+        ],
+        "text": "1987",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          56,
+          91
+        ],
+        "text": "Transitional Government of Ethiopia",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2"
+        ],
+        "removed_mention_ids": [
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ethiopian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q207521",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4",
+          "M3_5",
+          "M3_6",
+          "M3_7"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Derg",
+          "wikidata": "http://www.wikidata.org/entity/Q828005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Asfaw_Wossen",
+          "wikidata": "http://www.wikidata.org/entity/Q4804222"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Crown_prince",
+          "wikidata": "http://www.wikidata.org/entity/Q207293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9A%87%E5%A4%AA%E5%AD%90"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/People%27s_Democratic_Republic_of_Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q940821",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/People's_Democratic_Republic_of_Ethiopia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Transitional_Government_of_Ethiopia",
+          "wikidata": "http://www.wikidata.org/entity/Q332071",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E6%9A%AB%E5%AE%9A%E6%94%BF%E5%BA%9C"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Meles_Zenawi",
+          "wikidata": "http://www.wikidata.org/entity/Q161184",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%BC%E3%83%8A%E3%82%A6%E3%82%A3"
+        },
+        "date_of_death": "2012-08-20T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sahle-Work_Zewde",
+          "wikidata": "http://www.wikidata.org/entity/Q7399685",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BC%E3%82%A6%E3%83%87"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Federal_Parliamentary_Assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q257899",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E8%AD%B0%E4%BC%9A_(%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

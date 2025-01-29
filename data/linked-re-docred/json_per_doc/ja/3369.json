@@ -1,0 +1,493 @@
+{
+  "3369": {
+    "doc_info": {
+      "title": "Charles W. Chesnutt",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "チャールズ・ワデル・チェスナット（1858年6月20日–1932年11月15日）は、アフリカ系 - アメリカ人作家、エッセイスト、政治活動家、弁護士であり、ポスト南北戦争の南部における人種的および社会的アイデンティティの複雑な問題を探求した小説と短編小説で最もよく知られています。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "text": "植民地時代および連邦初期には、有色自由人の多くの家族が形成され、教育と財産を獲得した人もいます；さらに、多くの混血奴隷がおり、戦後は解放奴隷として南部の複雑な社会の一員となりました。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "彼の本のうち2冊は、アフリカ系 - アメリカ人監督兼プロデューサーのオスカー・ミショーによって、1926年と1927年にサイレント映画として脚色されました。",
+        "mention_ids": [
+          "M3_1",
+          "M4_1",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "20世紀の公民権運動の間に、チェスナットの作品への関心が再び高まりました。",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "04": {
+        "text": "彼の著書のいくつかは新版で出版され、正式に認められました。",
+        "mention_ids": []
+      },
+      "05": {
+        "text": "記念切手は2008年に印刷されました。",
+        "mention_ids": [
+          "M12_0"
+        ]
+      },
+      "06": {
+        "text": "20世紀初頭、クリーブランドで、チェスナットは法廷報道ビジネスとして大成功を収め、それが彼の主な収入源となりました。",
+        "mention_ids": [
+          "M0_1",
+          "M11_1",
+          "M13_0"
+        ]
+      },
+      "07": {
+        "text": "彼は全米有色人種地位向上協会で活動するようになり、教育を支援する記事や差別法に対する法的異議申し立てを執筆しました。",
+        "mention_ids": [
+          "M14_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          16
+        ],
+        "text": "チャールズ・ワデル・チェスナット",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "06",
+        "span": [
+          16,
+          22
+        ],
+        "text": "チェスナット",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          20
+        ],
+        "text": "チェスナット",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          10
+        ],
+        "text": "公民権運動",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "20世紀",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M11_1": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          4
+        ],
+        "text": "20世紀",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          5,
+          10
+        ],
+        "text": "2008年",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          14
+        ],
+        "text": "クリーブランド",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "07",
+        "span": [
+          2,
+          14
+        ],
+        "text": "全米有色人種地位向上協会",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          27
+        ],
+        "text": "1858年6月20日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          28,
+          39
+        ],
+        "text": "1932年11月15日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          47
+        ],
+        "text": "アフリカ系",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          15
+        ],
+        "text": "アフリカ系",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          50,
+          55
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          23
+        ],
+        "text": "アメリカ人",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          81,
+          88
+        ],
+        "text": "南北戦争の南部",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          8
+        ],
+        "text": "2冊",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          48,
+          53
+        ],
+        "text": "1926年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          54,
+          59
+        ],
+        "text": "1927年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          43
+        ],
+        "text": "オスカー・ミショー",
+        "entity_type": "PER",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Charles_W._Chesnutt",
+          "wikidata": "http://www.wikidata.org/entity/Q506757"
+        },
+        "date_of_death": "1932-11-17T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Africa",
+          "wikidata": "http://www.wikidata.org/entity/Q15",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q81931",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%80%A3%E5%90%88%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Oscar_Micheaux",
+          "wikidata": "http://www.wikidata.org/entity/Q1354247",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%83%9F%E3%82%B7%E3%83%A7%E3%83%BC"
+        },
+        "date_of_death": "1951-03-25T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+          "wikidata": "http://www.wikidata.org/entity/Q48537",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Civil_Rights_Movement",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E7%B3%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BA%BA%E5%85%AC%E6%B0%91%E6%A8%A9%E9%81%8B%E5%8B%95"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0",
+          "M11_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cleveland",
+          "wikidata": "http://www.wikidata.org/entity/Q37320",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89_(%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E)"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NAACP",
+          "wikidata": "http://www.wikidata.org/entity/Q502044",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/National_Association_for_the_Advancement_of_Colored_People",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%A8%E7%B1%B3%E9%BB%92%E4%BA%BA%E5%9C%B0%E4%BD%8D%E5%90%91%E4%B8%8A%E5%8D%94%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

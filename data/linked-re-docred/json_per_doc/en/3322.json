@@ -1,0 +1,463 @@
+{
+  "3322": {
+    "doc_info": {
+      "title": "First Gallagher Ministry",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "The First Gallagher Ministry is the eleventh ministry of the Government of the Australian Capital Territory , and is led by Labor Chief Minister ■■■■■■■■■■■■■■ and her deputy ■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "It was appointed as a transitional ministry on 16 May 2011 following the resignation of ■■■■■■■■■■■■ as Chief Minister and the subsequent election of ■■■■■■■■■■■■■■ as his replacement by the Australian Capital Territory Legislative Assembly .",
+        "mention_ids": [
+          "M3_1",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "The final ■■■■■■■■ ministry contained five ministers including ■■■■■■■■ .",
+        "mention_ids": [
+          "M6_1",
+          "M6_3",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "text": "With ■■■■■■■■ resigning his ministerial posts , the cabinet was reduced to four ministers .",
+        "mention_ids": [
+          "M6_2",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "The new ministry is also the first step in aligning ministerial appointments with the new structure of the ACT public service as recommended by the ■■■■■■■■■■■■ and adopted by the government .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "05": {
+        "text": "To this end , a number of ministerial appointments from the final ■■■■■■■■ ministry have been consolidated or removed in the new appointments .",
+        "mention_ids": [
+          "M6_4"
+        ]
+      },
+      "06": {
+        "text": "■■■■■■■■■■■■■■ has stated that , once the 2011 - 12 ACT Budget is passed by the assembly , she will appoint her deputy ■■■■■■■■■■■ to the Treasury portfolio in her place .",
+        "mention_ids": [
+          "M12_0",
+          "M3_2",
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          28
+        ],
+        "text": "First Gallagher Ministry",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          107,
+          110
+        ],
+        "text": "ACT",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          148,
+          160
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          62
+        ],
+        "text": "2011 - 12 ACT Budget",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          107
+        ],
+        "text": "Government of the Australian Capital Territory",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          124,
+          129
+        ],
+        "text": "Labor",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          145,
+          159
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          150,
+          164
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          14
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          175,
+          186
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "06",
+        "span": [
+          119,
+          130
+        ],
+        "text": "■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          47,
+          58
+        ],
+        "text": "16 May 2011",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          88,
+          100
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          63,
+          71
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          13
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_3": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          18
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M6_4": {
+        "sentence_id": "05",
+        "span": [
+          66,
+          74
+        ],
+        "text": "■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          191,
+          240
+        ],
+        "text": "Australian Capital Territory Legislative Assembly",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          38,
+          42
+        ],
+        "text": "five",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          75,
+          79
+        ],
+        "text": "four",
+        "entity_type": "NUM",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Australian_Capital_Territory_ministries",
+          "wikidata": "http://www.wikidata.org/entity/Q4823947",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Australian_Capital_Territory_ministries"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Government_of_the_Australian_Capital_Territory",
+          "wikidata": "http://www.wikidata.org/entity/Q27220504"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ACT_Labor_Party",
+          "wikidata": "http://www.wikidata.org/entity/Q20683858",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Australian_Labor_Party_(Australian_Capital_Territory_Branch)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Katy_Gallagher",
+          "wikidata": "http://www.wikidata.org/entity/Q463507"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrew_Barr",
+          "wikidata": "http://www.wikidata.org/entity/Q4756289"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2",
+          "M6_3",
+          "M6_4"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jon_Stanhope",
+          "wikidata": "http://www.wikidata.org/entity/Q713954"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australian_Capital_Territory_Legislative_Assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q494915",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E9%A6%96%E9%83%BD%E7%89%B9%E5%88%A5%E5%9C%B0%E5%9F%9F%E7%AB%8B%E6%B3%95%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Australian_Capital_Territory",
+          "wikidata": "http://www.wikidata.org/entity/Q3258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E9%A6%96%E9%83%BD%E7%89%B9%E5%88%A5%E5%9C%B0%E5%9F%9F"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

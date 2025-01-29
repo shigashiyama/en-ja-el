@@ -1,0 +1,923 @@
+{
+  "3428": {
+    "doc_info": {
+      "title": "Gershonites",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ゲルション人は、聖書時代のレビ人の4つの主要な区分の1つでした。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "聖書は、ゲルション人はすべて、レヴィの息子である同名の■■■■■の子孫であると主張していますが、一部の聖書学者たちはこれを、氏族とイスラエル人連合内の他の人々とのつながりの原因を提供する後付けの比喩であると考えています。",
+        "mention_ids": [
+          "M0_1",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "聖書は、ゲルション人に特定の宗教的役割、すなわち聖域のカーテン、吊り下げ、ロープの手入れを課しているとしています。",
+        "mention_ids": [
+          "M0_2",
+          "M4_1"
+        ]
+      },
+      "03": {
+        "text": "ゲルション人と他のレビ人、特にアロンとの間の宗教活動のこの区別は、祭司法典にのみ見られ、テキスト学者が他の著者に帰するとする節には見られません。",
+        "mention_ids": [
+          "M0_3",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "ヨシュア記によると、ゲルション人は連続した領土を所有するのではなく、ガリラヤとバシャンの地理的地域全体に点在するいくつかの都市を所有していました：",
+        "mention_ids": [
+          "M0_4",
+          "M10_0",
+          "M11_0",
+          "M12_0"
+        ]
+      },
+      "05": {
+        "text": "マナセの領土内では、ゴランとビーシュテラ、",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "text": "イッサカルの領土内では、キション、ダバレ、ヤルムテ、およびエン・ガンニム。",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "07": {
+        "text": "アシェルの領土内ではミシャル、アブドン、ヘルカス、およびレホブ、",
+        "mention_ids": [
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "08": {
+        "text": "ナフタリの領土内ではケデシュ、ハンモス・ドール、およびカルタン。",
+        "mention_ids": [
+          "M25_0",
+          "M26_0",
+          "M27_0",
+          "M28_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ゲルション人",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          4,
+          10
+        ],
+        "text": "ゲルション人",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          4,
+          10
+        ],
+        "text": "ゲルション人",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          6
+        ],
+        "text": "ゲルション人",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          16
+        ],
+        "text": "ゲルション人",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ヨシュア記",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          34,
+          38
+        ],
+        "text": "ガリラヤ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          39,
+          43
+        ],
+        "text": "バシャン",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          3
+        ],
+        "text": "マナセ",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          13
+        ],
+        "text": "ゴラン",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          14,
+          20
+        ],
+        "text": "ビーシュテラ",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "イッサカル",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          12,
+          16
+        ],
+        "text": "キション",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          20
+        ],
+        "text": "ダバレ",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          21,
+          25
+        ],
+        "text": "ヤルムテ",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          20
+        ],
+        "text": "4つの",
+        "entity_type": "NUM",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "アシェル",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ミシャル",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          15,
+          19
+        ],
+        "text": "アブドン",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          20,
+          24
+        ],
+        "text": "ヘルカス",
+        "entity_type": "LOC",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "07",
+        "span": [
+          28,
+          31
+        ],
+        "text": "レホブ",
+        "entity_type": "LOC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          4
+        ],
+        "text": "ナフタリ",
+        "entity_type": "LOC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "08",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ケデシュ",
+        "entity_type": "LOC",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          23
+        ],
+        "text": "ハンモス・ドール",
+        "entity_type": "LOC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "08",
+        "span": [
+          27,
+          31
+        ],
+        "text": "カルタン",
+        "entity_type": "LOC",
+        "entity_id": "E028"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          16
+        ],
+        "text": "レビ人",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          12
+        ],
+        "text": "レビ人",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          8,
+          12
+        ],
+        "text": "聖書時代",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          2
+        ],
+        "text": "聖書",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "聖書",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          27,
+          32
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          18
+        ],
+        "text": "レヴィ",
+        "entity_type": "PER",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          65,
+          71
+        ],
+        "text": "イスラエル人",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          18
+        ],
+        "text": "アロン",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          33,
+          37
+        ],
+        "text": "祭司法典",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gershonites",
+          "wikidata": "http://www.wikidata.org/entity/Q1515041"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Levite",
+          "wikidata": "http://www.wikidata.org/entity/Q6386590",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Levites"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bible",
+          "wikidata": "http://www.wikidata.org/entity/Q1845",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%81%96%E6%9B%B8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bible",
+          "wikidata": "http://www.wikidata.org/entity/Q1845",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%81%96%E6%9B%B8"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gershon",
+          "wikidata": "http://www.wikidata.org/entity/Q2915121"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Levi",
+          "wikidata": "http://www.wikidata.org/entity/Q215512",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%93"
+        },
+        "date_of_death": "-1428-01-01T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Israelites",
+          "wikidata": "http://www.wikidata.org/entity/Q51669",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB_(%E6%B0%91%E6%97%8F)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Priestly_Code",
+          "wikidata": "http://www.wikidata.org/entity/Q7242919"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Book_of_Joshua",
+          "wikidata": "http://www.wikidata.org/entity/Q47680",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B7%E3%83%A5%E3%82%A2%E8%A8%98"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Galilee",
+          "wikidata": "http://www.wikidata.org/entity/Q83241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%83%A9%E3%83%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bashan",
+          "wikidata": "http://www.wikidata.org/entity/Q612952",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B7%E3%83%A3%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tribe_of_Manasseh",
+          "wikidata": "http://www.wikidata.org/entity/Q1735753"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Golan",
+          "wikidata": "http://www.wikidata.org/entity/Q107287536",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%A9%E3%83%B3_(%E6%97%A7%E7%B4%84%E8%81%96%E6%9B%B8)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beeshterah",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Beeshterah"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tribe_of_Issachar",
+          "wikidata": "http://www.wikidata.org/entity/Q2005023",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%83%E3%82%B5%E3%82%AB%E3%83%AB%E6%97%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kishon_(biblical_city)",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Kishon_(biblical_city)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Daberath",
+          "wikidata": "http://www.wikidata.org/entity/Q5207462",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dabareh"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jarmuth",
+          "wikidata": "http://www.wikidata.org/entity/Q11926317"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tribe_of_Asher",
+          "wikidata": "http://www.wikidata.org/entity/Q163106",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%82%A7%E3%83%AB%E6%97%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mishal,_Yemen",
+          "wikidata": "http://www.wikidata.org/entity/Q6875486",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Mishal"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_minor_biblical_places",
+          "wikidata": "http://www.wikidata.org/entity/Q6628679",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Abdon_(biblical_place)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%AA%E3%83%A0"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Helkath_(biblical_place)",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Helkath_(biblical_place)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tel_Rehov",
+          "wikidata": "http://www.wikidata.org/entity/Q2920011",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Rehob"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tribe_of_Naphtali",
+          "wikidata": "http://www.wikidata.org/entity/Q1348367",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%95%E3%82%BF%E3%83%AA%E6%97%8F"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kedesh",
+          "wikidata": "http://www.wikidata.org/entity/Q2585161",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%87%E3%82%B7%E3%83%A5_(%E3%81%AE%E3%81%8C%E3%82%8C%E3%81%AE%E7%94%BA)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hammoth-dor",
+          "wikidata": "http://www.wikidata.org/entity/Q6881450"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kartan",
+          "wikidata": "http://www.wikidata.org/entity/Q6373498"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

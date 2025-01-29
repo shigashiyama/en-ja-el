@@ -1,0 +1,579 @@
+{
+  "3109": {
+    "doc_info": {
+      "title": "Operator Toll Dialing",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Operator Toll Dialing was a project and method used by the Bell System in the USA and Canada to automate the switching and billing of long distance calls in the public switched telephone network ( PSTN ) .",
+        "text": "Operator Toll Dialing was a project and method used by the Bell System in the USA and Canada to automate the switching and billing of long distance calls in the public switched telephone network ( PSTN ) .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "orig_text": "The program was initiated by 1945 , at which time ca .",
+        "text": "The program was initiated by 1945 , at which time ca .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "5 % of the 2.7 million toll board calls per day were handled by this method .",
+        "text": "5 % of the 2.7 million toll board calls per day were handled by this method .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Operator Toll Dialing eliminated the need for intermediate and inward operators to complete toll calls to distant central offices .",
+        "text": "Operator Toll Dialing eliminated the need for intermediate and inward operators to complete toll calls to distant central offices .",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "04": {
+        "orig_text": "Initially this system involved step - by - step routings to set up each circuit , but later was improved by the development of area codes with machine translation which helped to standardize dialing across the network .",
+        "text": "Initially this system involved step - by - step routings to set up each circuit , but later was improved by the development of area codes with machine translation which helped to standardize dialing across the network .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "The system was implemented in the USA beginning in 1946 .",
+        "text": "The system was implemented in the USA beginning in 1946 .",
+        "mention_ids": [
+          "M2_0",
+          "M8_0"
+        ]
+      },
+      "06": {
+        "orig_text": "In 1947 , the North American Numbering Plan for area codes was set up .",
+        "text": "In 1947 , the North American Numbering Plan for area codes was set up .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "orig_text": "Operator Toll DIaling was gradually superseded by Direct Distance Dialing ( DDD ) , in which the customer dialed the area code as well as the number .",
+        "text": "Operator Toll DIaling was gradually superseded by Direct Distance Dialing ( DDD ) , in which the customer dialed the area code as well as the number .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M13_1"
+        ]
+      },
+      "08": {
+        "orig_text": "Beginning in 1951 on a limited basis , it was not fully implemented until the 1970s .",
+        "text": "Beginning in 1951 on a limited basis , it was not fully implemented until the 1970s .",
+        "mention_ids": [
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "09": {
+        "orig_text": "Telephone administrations in other countries implemented similar programs , such as in the United Kingdom , which led to Subscriber Trunk Dialling ( STD ) .",
+        "text": "Telephone administrations in other countries implemented similar programs , such as in the United Kingdom , which led to Subscriber Trunk Dialling ( STD ) .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M17_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Operator Toll Dialing",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Operator Toll Dialing",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          14,
+          28
+        ],
+        "text": "North American",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          43
+        ],
+        "text": "Numbering Plan",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Operator Toll DIaling",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "07",
+        "span": [
+          50,
+          73
+        ],
+        "text": "Direct Distance Dialing",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "07",
+        "span": [
+          76,
+          79
+        ],
+        "text": "DDD",
+        "entity_type": "MISC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "08",
+        "span": [
+          13,
+          17
+        ],
+        "text": "1951",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "08",
+        "span": [
+          74,
+          83
+        ],
+        "text": "the 1970s",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "09",
+        "span": [
+          87,
+          105
+        ],
+        "text": "the United Kingdom",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "09",
+        "span": [
+          149,
+          152
+        ],
+        "text": "STD",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "09",
+        "span": [
+          121,
+          146
+        ],
+        "text": "Subscriber Trunk Dialling",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          59,
+          70
+        ],
+        "text": "Bell System",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          37
+        ],
+        "text": "USA",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "00",
+        "span": [
+          78,
+          81
+        ],
+        "text": "USA",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          92
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          197,
+          201
+        ],
+        "text": "PSTN",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          29,
+          33
+        ],
+        "text": "1945",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          3
+        ],
+        "text": "5 %",
+        "entity_type": "NUM",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          22
+        ],
+        "text": "2.7 million",
+        "entity_type": "NUM",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          51,
+          55
+        ],
+        "text": "1946",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          3,
+          7
+        ],
+        "text": "1947",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Operator_Toll_Dialing",
+          "wikidata": "http://www.wikidata.org/entity/Q24589922"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bell_System",
+          "wikidata": "http://www.wikidata.org/entity/Q4883269",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Public_switched_telephone_network",
+          "wikidata": "http://www.wikidata.org/entity/Q243961",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AC%E8%A1%86%E4%BA%A4%E6%8F%9B%E9%9B%BB%E8%A9%B1%E7%B6%B2"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan",
+          "wikidata": "http://www.wikidata.org/entity/Q13562566",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%B1%B3%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E8%A8%88%E7%94%BB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_American_Numbering_Plan",
+          "wikidata": "http://www.wikidata.org/entity/Q13562566",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E7%B1%B3%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E8%A8%88%E7%94%BB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Operator_Toll_Dialing",
+          "wikidata": "http://www.wikidata.org/entity/Q24589922"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Direct_distance_dialing",
+          "wikidata": "http://www.wikidata.org/entity/Q5280325"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Subscriber_trunk_dialling",
+          "wikidata": "http://www.wikidata.org/entity/Q7631960"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

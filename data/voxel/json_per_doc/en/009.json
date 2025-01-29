@@ -1,0 +1,557 @@
+{
+  "009": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/cartoon/4916908-insert-coin"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Greek prime minister Alexis Tsipras flew to Moscow for a two-day visit on 8 April.",
+        "text": "Greek prime minister Alexis Tsipras flew to Moscow for a two-day visit on 8 April.",
+        "mention_ids": [
+          "M111",
+          "M112"
+        ]
+      },
+      "01": {
+        "orig_text": "Tsipras has “called for an end to the ‘circle’ of sanctions against Russia over Ukraine, while Russia’s President Vladimir Putin denied using Athens to sow discord within the EU\", reports Kathimerini.",
+        "text": "Tsipras has “called for an end to the ‘circle’ of sanctions against Russia over Ukraine, while Russia’s President Vladimir Putin denied using Athens to sow discord within the EU\", reports Kathimerini.",
+        "mention_ids": [
+          "M113",
+          "M114",
+          "M115",
+          "M116",
+          "M117",
+          "M118",
+          "M119"
+        ]
+      },
+      "02": {
+        "orig_text": "Official Greek sources said “Greece has not asked Russia for financial aid and wants to resolve its debt problems within the European Union”, adds the English version of the Athens newspaper, but Europeans fear Tsipras’s visit “could result in a deal for a discount on Russian gas”, writes EUobserver.",
+        "text": "Official Greek sources said “Greece has not asked Russia for financial aid and wants to resolve its debt problems within the European Union”, adds the English version of the Athens newspaper, but Europeans fear Tsipras’s visit “could result in a deal for a discount on Russian gas”, writes EUobserver.",
+        "mention_ids": [
+          "M120",
+          "M121",
+          "M122",
+          "M123",
+          "M124",
+          "M125",
+          "M126",
+          "M127"
+        ]
+      },
+      "03": {
+        "orig_text": "Russian daily Kommersant also reports that Moscow is considering supplying Greece with gas at a reduced price.",
+        "text": "Russian daily Kommersant also reports that Moscow is considering supplying Greece with gas at a reduced price.",
+        "mention_ids": [
+          "M128",
+          "M129",
+          "M130"
+        ]
+      }
+    },
+    "mentions": {
+      "M111": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          35
+        ],
+        "text": "Alexis Tsipras",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M112": {
+        "sentence_id": "00",
+        "span": [
+          44,
+          50
+        ],
+        "text": "Moscow",
+        "entity_type": null,
+        "entity_id": "E112"
+      },
+      "M113": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Tsipras",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M114": {
+        "sentence_id": "01",
+        "span": [
+          68,
+          74
+        ],
+        "text": "Russia",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M115": {
+        "sentence_id": "01",
+        "span": [
+          80,
+          87
+        ],
+        "text": "Ukraine",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M116": {
+        "sentence_id": "01",
+        "span": [
+          114,
+          128
+        ],
+        "text": "Vladimir Putin",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M117": {
+        "sentence_id": "01",
+        "span": [
+          142,
+          148
+        ],
+        "text": "Athens",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M118": {
+        "sentence_id": "01",
+        "span": [
+          175,
+          177
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E118"
+      },
+      "M119": {
+        "sentence_id": "01",
+        "span": [
+          188,
+          199
+        ],
+        "text": "Kathimerini",
+        "entity_type": null,
+        "entity_id": "E119"
+      },
+      "M120": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          35
+        ],
+        "text": "Greece",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M121": {
+        "sentence_id": "02",
+        "span": [
+          50,
+          56
+        ],
+        "text": "Russia",
+        "entity_type": null,
+        "entity_id": "E121"
+      },
+      "M122": {
+        "sentence_id": "02",
+        "span": [
+          125,
+          139
+        ],
+        "text": "European Union",
+        "entity_type": null,
+        "entity_id": "E122"
+      },
+      "M123": {
+        "sentence_id": "02",
+        "span": [
+          174,
+          180
+        ],
+        "text": "Athens",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M124": {
+        "sentence_id": "02",
+        "span": [
+          196,
+          205
+        ],
+        "text": "Europeans",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M125": {
+        "sentence_id": "02",
+        "span": [
+          211,
+          218
+        ],
+        "text": "Tsipras",
+        "entity_type": null,
+        "entity_id": "E125"
+      },
+      "M126": {
+        "sentence_id": "02",
+        "span": [
+          269,
+          276
+        ],
+        "text": "Russian",
+        "entity_type": null,
+        "entity_id": "E126"
+      },
+      "M127": {
+        "sentence_id": "02",
+        "span": [
+          290,
+          300
+        ],
+        "text": "EUobserver",
+        "entity_type": null,
+        "entity_id": "E127"
+      },
+      "M128": {
+        "sentence_id": "03",
+        "span": [
+          14,
+          24
+        ],
+        "text": "Kommersant",
+        "entity_type": null,
+        "entity_id": "E128"
+      },
+      "M129": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          49
+        ],
+        "text": "Moscow",
+        "entity_type": null,
+        "entity_id": "E129"
+      },
+      "M130": {
+        "sentence_id": "03",
+        "span": [
+          75,
+          81
+        ],
+        "text": "Greece",
+        "entity_type": null,
+        "entity_id": "E130"
+      }
+    },
+    "entities": {
+      "E111": {
+        "member_mention_ids": [
+          "M111"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E112": {
+        "member_mention_ids": [
+          "M112"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+          "wikidata": "http://www.wikidata.org/entity/Q649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF"
+        }
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M113"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M114"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      },
+      "E115": {
+        "member_mention_ids": [
+          "M115"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ukraine",
+          "wikidata": "http://www.wikidata.org/entity/Q212",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M116"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+          "wikidata": "http://www.wikidata.org/entity/Q7747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%BC%E3%83%9F%E3%83%AB%E3%83%BB%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M117"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Athens",
+          "wikidata": "http://www.wikidata.org/entity/Q1524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%8D"
+        }
+      },
+      "E118": {
+        "member_mention_ids": [
+          "M118"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E119": {
+        "member_mention_ids": [
+          "M119"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kathimerini",
+          "wikidata": "http://www.wikidata.org/entity/Q144999",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BB%E3%82%AB%E3%82%B7%E3%83%A1%E3%83%AA%E3%83%8B"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M120"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      },
+      "E121": {
+        "member_mention_ids": [
+          "M121"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      },
+      "E122": {
+        "member_mention_ids": [
+          "M122"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M123"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Athens",
+          "wikidata": "http://www.wikidata.org/entity/Q1524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%8D"
+        }
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M124"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [
+          "M125"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E126": {
+        "member_mention_ids": [
+          "M126"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      },
+      "E127": {
+        "member_mention_ids": [
+          "M127"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/EUobserver",
+          "wikidata": "http://www.wikidata.org/entity/Q507198"
+        }
+      },
+      "E128": {
+        "member_mention_ids": [
+          "M128"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kommersant",
+          "wikidata": "http://www.wikidata.org/entity/Q1780189",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A1%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%88"
+        }
+      },
+      "E129": {
+        "member_mention_ids": [
+          "M129"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+          "wikidata": "http://www.wikidata.org/entity/Q649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF"
+        }
+      },
+      "E130": {
+        "member_mention_ids": [
+          "M130"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      }
+    }
+  }
+}

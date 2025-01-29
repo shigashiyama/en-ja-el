@@ -1,0 +1,889 @@
+{
+  "3351": {
+    "doc_info": {
+      "title": "Joseph Whipp",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■ ( born July 12 , 1941 ) is an American actor who has starred in many films and starred on television .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "He is known for playing police officers in films and on television , too .",
+        "text": "He is known for playing police officers in films and on television , too .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "He also taught drama at Carlmont High School in the 70 ’s .",
+        "text": "He also taught drama at Carlmont High School in the 70 ’s .",
+        "mention_ids": [
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "03": {
+        "orig_text": "His first role was in the 1979 movie Escape from Alcatraz as a prison guard .",
+        "text": "His first role was in the 1979 movie Escape from Alcatraz as a prison guard .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "orig_text": "He later on appeared in the 1984 horror movie A Nightmare on Elm Street as a cop and the 1987 science fiction movie The Hidden .",
+        "text": "He later on appeared in the 1984 horror movie A Nightmare on Elm Street as a cop and the 1987 science fiction movie The Hidden .",
+        "mention_ids": [
+          "M10_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "He also starred in the 1996 hit horror movie Scream as a sheriff as well as the 1989 horror video classic Death Spa as the ill - fated paranormal investigator Dr. ■■■■■■■■■■ .",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M15_0"
+        ]
+      },
+      "06": {
+        "orig_text": "His most recent film is in the 2010 movie Downstream .",
+        "text": "His most recent film is in the 2010 movie Downstream .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "text": "■■■■■■ has starred in the soap operas Generations as Charles Mullen from 1989 – 1990 , and on General Hospital as ■■■■■ in 1991 .",
+        "mention_ids": [
+          "M13_1",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M21_0",
+          "M22_0",
+          "M23_0"
+        ]
+      },
+      "08": {
+        "orig_text": "He has made many guest appearances on television series , including Lou Grant , The Dukes of Hazzard , Golden Girls , Night Court , Cheers , ER , Monk and The Middle .",
+        "text": "He has made many guest appearances on television series , including Lou Grant , The Dukes of Hazzard , Golden Girls , Night Court , Cheers , ER , Monk and The Middle .",
+        "mention_ids": [
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M27_0",
+          "M28_0",
+          "M29_0",
+          "M30_0",
+          "M31_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          12
+        ],
+        "text": "■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          116,
+          126
+        ],
+        "text": "The Hidden",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          27
+        ],
+        "text": "1996",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          51
+        ],
+        "text": "Scream",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "05",
+        "span": [
+          80,
+          84
+        ],
+        "text": "1989",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "07",
+        "span": [
+          73,
+          77
+        ],
+        "text": "1989",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          106,
+          115
+        ],
+        "text": "Death Spa",
+        "entity_type": "MISC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          163,
+          173
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          31,
+          35
+        ],
+        "text": "2010",
+        "entity_type": "TIME",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          52
+        ],
+        "text": "Downstream",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          6
+        ],
+        "text": "■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          38,
+          67
+        ],
+        "text": "Generations as Charles Mullen",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          34
+        ],
+        "text": "July 12 , 1941",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          80,
+          84
+        ],
+        "text": "1990",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          94,
+          110
+        ],
+        "text": "General Hospital",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "07",
+        "span": [
+          114,
+          119
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "07",
+        "span": [
+          123,
+          127
+        ],
+        "text": "1991",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "08",
+        "span": [
+          68,
+          77
+        ],
+        "text": "Lou Grant",
+        "entity_type": "MISC",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "08",
+        "span": [
+          80,
+          100
+        ],
+        "text": "The Dukes of Hazzard",
+        "entity_type": "MISC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "08",
+        "span": [
+          103,
+          115
+        ],
+        "text": "Golden Girls",
+        "entity_type": "MISC",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "08",
+        "span": [
+          118,
+          129
+        ],
+        "text": "Night Court",
+        "entity_type": "MISC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "08",
+        "span": [
+          132,
+          138
+        ],
+        "text": "Cheers",
+        "entity_type": "MISC",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "08",
+        "span": [
+          141,
+          143
+        ],
+        "text": "ER",
+        "entity_type": "MISC",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          43,
+          51
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "08",
+        "span": [
+          146,
+          150
+        ],
+        "text": "Monk",
+        "entity_type": "MISC",
+        "entity_id": "E030"
+      },
+      "M31_0": {
+        "sentence_id": "08",
+        "span": [
+          155,
+          165
+        ],
+        "text": "The Middle",
+        "entity_type": "MISC",
+        "entity_id": "E031"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          24,
+          44
+        ],
+        "text": "Carlmont High School",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          52,
+          57
+        ],
+        "text": "70 ’s",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          30
+        ],
+        "text": "1979",
+        "entity_type": "TIME",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          57
+        ],
+        "text": "Escape from Alcatraz",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          28,
+          32
+        ],
+        "text": "1984",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          46,
+          71
+        ],
+        "text": "A Nightmare on Elm Street",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          89,
+          93
+        ],
+        "text": "1987",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joseph_Whipp",
+          "wikidata": "http://www.wikidata.org/entity/Q255676"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Carlmont_High_School",
+          "wikidata": "http://www.wikidata.org/entity/Q5041435"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Escape_from_Alcatraz_(film)",
+          "wikidata": "http://www.wikidata.org/entity/Q496316",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%88%E3%83%A9%E3%82%BA%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%87%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+          "wikidata": "http://www.wikidata.org/entity/Q329434",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%A0%E8%A1%97%E3%81%AE%E6%82%AA%E5%A4%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Hidden_(1987_film)",
+          "wikidata": "http://www.wikidata.org/entity/Q2004314",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/The_Hidden_(film)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%89%E3%82%A5%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+          "wikidata": "http://www.wikidata.org/entity/Q27411",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0_(1996%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Death_Spa",
+          "wikidata": "http://www.wikidata.org/entity/Q19999914"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Downstream_(2010_film)",
+          "wikidata": "http://www.wikidata.org/entity/Q5303300"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joseph_Whipp",
+          "wikidata": "http://www.wikidata.org/entity/Q255676"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/General_Hospital",
+          "wikidata": "http://www.wikidata.org/entity/Q1136370",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lou_Grant_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q421733",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%8B%E4%BB%B6%E8%A8%98%E8%80%85%E3%83%AB%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard",
+          "wikidata": "http://www.wikidata.org/entity/Q1304408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%88%86%E7%99%BA!%E3%83%87%E3%83%A5%E3%83%BC%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Girls",
+          "wikidata": "http://www.wikidata.org/entity/Q912467",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Golden_Girls"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Night_Court",
+          "wikidata": "http://www.wikidata.org/entity/Q1248182"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cheers",
+          "wikidata": "http://www.wikidata.org/entity/Q732063",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A2%E3%83%BC%E3%82%BA_(%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ER_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q207375",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ER%E7%B7%8A%E6%80%A5%E6%95%91%E5%91%BD%E5%AE%A4"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Monk_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q189068",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%83%A2%E3%83%B3%E3%82%AF"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M31_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Middle_(TV_series)",
+          "wikidata": "http://www.wikidata.org/entity/Q1138000",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB_%E4%B8%AD%E6%B5%81%E5%AE%B6%E6%97%8F%E3%81%AE%E3%83%95%E3%83%84%E3%83%BC%E3%81%AE%E5%B9%B8%E3%81%9B"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}

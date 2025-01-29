@@ -1,0 +1,674 @@
+{
+  "3170": {
+    "doc_info": {
+      "title": "Cesare Mori",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "チェーザレ・モリ(パヴィア、1871年12月22日–ウディネ、1942年7月6日)はイタリアのファシスト時代以前およびその期間中、知事(プレフェット)でした。",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "01": {
+        "text": "彼は、イタリアでは、1920年代後半にシチリアでマフィアに対して鉄拳で戦ったことから「鉄の知事」（プリフェット・ディ・フェッロ）として知られています。",
+        "mention_ids": [
+          "M10_0",
+          "M6_1",
+          "M7_0",
+          "M7_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "text": "イタリアのファシスト独裁政権の初期、彼がボローニャの知事時代にファシストと社会主義者の両方を逮捕したにもかかわらず、彼はファシストとして広くみなされています。",
+        "mention_ids": [
+          "M11_0",
+          "M6_2"
+        ]
+      },
+      "03": {
+        "text": "彼が正式にファシスト国民党に加わったのは1926年になってからです。",
+        "mention_ids": [
+          "M12_0",
+          "M13_0"
+        ]
+      },
+      "04": {
+        "text": "彼はおそらく強い政治的信念を持たず、国家とその機関の防衛、特にシチリア島のマフィアとの戦いにおいて勇気、献身、誠実さを示した将校だったのでしょう。",
+        "mention_ids": [
+          "M8_1",
+          "M9_1"
+        ]
+      },
+      "05": {
+        "text": "それにもかかわらず、チェーザレ・モーリによって行われたマフィアとの戦いは、主に彼がシチリアで長官であったときにベニート・ムッソリーニによって与えられた特別な権限によって効果的であることが証明されました。",
+        "mention_ids": [
+          "M0_0",
+          "M14_0",
+          "M8_2",
+          "M9_2"
+        ]
+      },
+      "06": {
+        "text": "イタリア人の映画監督パスクワーレ・スクティエリは、1977年に、シチリアの知事時代にマフィアと戦っていた彼の映画---『鉄の知事』---を制作しました。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0",
+          "M18_0",
+          "M8_3",
+          "M9_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          19
+        ],
+        "text": "チェーザレ・モーリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "チェーザレ・モリ",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "01",
+        "span": [
+          10,
+          16
+        ],
+        "text": "1920年代",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          25
+        ],
+        "text": "ボローニャ",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          13
+        ],
+        "text": "ファシスト国民党",
+        "entity_type": "ORG",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          25
+        ],
+        "text": "1926年",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "05",
+        "span": [
+          55,
+          66
+        ],
+        "text": "ベニート・ムッソリーニ",
+        "entity_type": "PER",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "イタリア人",
+        "entity_type": "LOC",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          23
+        ],
+        "text": "パスクワーレ・スクティエリ",
+        "entity_type": "PER",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          25,
+          30
+        ],
+        "text": "1977年",
+        "entity_type": "TIME",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          60,
+          64
+        ],
+        "text": "鉄の知事",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          9,
+          13
+        ],
+        "text": "パヴィア",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          25
+        ],
+        "text": "1871年12月22日",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          30
+        ],
+        "text": "ウディネ",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          31,
+          40
+        ],
+        "text": "1942年7月6日",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          47,
+          52
+        ],
+        "text": "ファシスト",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "00",
+        "span": [
+          42,
+          46
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "01",
+        "span": [
+          3,
+          7
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          49,
+          63
+        ],
+        "text": "プリフェット・ディ・フェッロ",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "01",
+        "span": [
+          43,
+          47
+        ],
+        "text": "鉄の知事",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          24,
+          28
+        ],
+        "text": "マフィア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          37,
+          41
+        ],
+        "text": "マフィア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_2": {
+        "sentence_id": "05",
+        "span": [
+          27,
+          31
+        ],
+        "text": "マフィア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_3": {
+        "sentence_id": "06",
+        "span": [
+          42,
+          46
+        ],
+        "text": "マフィア",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          23
+        ],
+        "text": "シチリア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "04",
+        "span": [
+          31,
+          36
+        ],
+        "text": "シチリア島",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_2": {
+        "sentence_id": "05",
+        "span": [
+          41,
+          45
+        ],
+        "text": "シチリア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      },
+      "M9_3": {
+        "sentence_id": "06",
+        "span": [
+          32,
+          36
+        ],
+        "text": "シチリア",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cesare_Mori",
+          "wikidata": "http://www.wikidata.org/entity/Q1056917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B6%E3%83%AC%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%AA"
+        },
+        "date_of_death": "1942-07-05T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pavia",
+          "wikidata": "http://www.wikidata.org/entity/Q6259",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Udine",
+          "wikidata": "http://www.wikidata.org/entity/Q2790",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italian_fascism",
+          "wikidata": "http://www.wikidata.org/entity/Q747081",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Italian_Fascism"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cesare_Mori",
+          "wikidata": "http://www.wikidata.org/entity/Q1056917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B6%E3%83%AC%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%AA"
+        },
+        "date_of_death": "1942-07-05T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1",
+          "M8_2",
+          "M8_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mafia",
+          "wikidata": "http://www.wikidata.org/entity/Q18550",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1",
+          "M9_2",
+          "M9_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Sicily",
+          "wikidata": "http://www.wikidata.org/entity/Q1460",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%81%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bologna",
+          "wikidata": "http://www.wikidata.org/entity/Q1891",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%A3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Fascist_Party",
+          "wikidata": "http://www.wikidata.org/entity/Q139596",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Fascist_National_Party",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%B7%E3%82%B9%E3%83%88%E5%85%9A"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+          "wikidata": "http://www.wikidata.org/entity/Q23559",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8B%E3%83%BC%E3%83%88%E3%83%BB%E3%83%A0%E3%83%83%E3%82%BD%E3%83%AA%E3%83%BC%E3%83%8B"
+        },
+        "date_of_death": "1945-04-28T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Pasquale_Squitieri",
+          "wikidata": "http://www.wikidata.org/entity/Q346976"
+        },
+        "date_of_death": "2017-02-18T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Il_prefetto_di_ferro",
+          "wikidata": "http://www.wikidata.org/entity/Q3795248"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

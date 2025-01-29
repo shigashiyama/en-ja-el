@@ -1,0 +1,451 @@
+{
+  "3212": {
+    "doc_info": {
+      "title": "Central Massachusetts",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Central Massachusetts is the geographically central region of Massachusetts .",
+        "text": "Central Massachusetts is the geographically central region of Massachusetts .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Though definitions vary , most include all of Worcester County and the northwest corner of Middlesex County .",
+        "text": "Though definitions vary , most include all of Worcester County and the northwest corner of Middlesex County .",
+        "mention_ids": [
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "02": {
+        "orig_text": "Worcester , the largest city in the area and the seat of Worcester County , is often considered the cultural capital of the region .",
+        "text": "Worcester , the largest city in the area and the seat of Worcester County , is often considered the cultural capital of the region .",
+        "mention_ids": [
+          "M2_1",
+          "M4_1"
+        ]
+      },
+      "03": {
+        "orig_text": "Other populous cities include Fitchburg , Gardner , Leominster , and arguably Marlborough .",
+        "text": "Other populous cities include Fitchburg , Gardner , Leominster , and arguably Marlborough .",
+        "mention_ids": [
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The region is mostly wooded and hilly upland , in contrast to the Atlantic coastal plain to the east and the Connecticut River valley lowland to the west .",
+        "text": "The region is mostly wooded and hilly upland , in contrast to the Atlantic coastal plain to the east and the Connecticut River valley lowland to the west .",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "orig_text": "The geographic center of Massachusetts is located in the town of Rutland .",
+        "text": "The geographic center of Massachusetts is located in the town of Rutland .",
+        "mention_ids": [
+          "M11_0",
+          "M1_1"
+        ]
+      },
+      "06": {
+        "orig_text": "The term is seldom used in eastern Massachusetts , where Worcester and points west are instead regarded as part of Western Mass.",
+        "text": "The term is seldom used in eastern Massachusetts , where Worcester and points west are instead regarded as part of Western Mass.",
+        "mention_ids": [
+          "M1_2",
+          "M1_3",
+          "M4_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          21
+        ],
+        "text": "Central Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          109,
+          126
+        ],
+        "text": "Connecticut River",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "05",
+        "span": [
+          65,
+          72
+        ],
+        "text": "Rutland",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          75
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          25,
+          38
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          48
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "06",
+        "span": [
+          123,
+          128
+        ],
+        "text": "Mass.",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          46,
+          62
+        ],
+        "text": "Worcester County",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          73
+        ],
+        "text": "Worcester County",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          91,
+          107
+        ],
+        "text": "Middlesex County",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          57,
+          66
+        ],
+        "text": "Worcester",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Worcester",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          30,
+          39
+        ],
+        "text": "Fitchburg",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          49
+        ],
+        "text": "Gardner",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          52,
+          62
+        ],
+        "text": "Leominster",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          78,
+          89
+        ],
+        "text": "Marlborough",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          74
+        ],
+        "text": "Atlantic",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Central_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q5061409"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q771",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Worcester_County,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54093",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E9%83%A1_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Middlesex_County,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54073",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%89%E3%83%AB%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%E9%83%A1_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Worcester,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q49179",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Worcester,_MA",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fitchburg,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54182",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%83%81%E3%83%90%E3%83%BC%E3%82%B0_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gardner,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q1829193",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%89%E3%83%8A%E3%83%BC_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Leominster,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54185",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marlborough,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q54189",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%AD_(%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Atlantic_Plain",
+          "wikidata": "http://www.wikidata.org/entity/Q4816510",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Atlantic_coastal_plain"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Connecticut_River",
+          "wikidata": "http://www.wikidata.org/entity/Q379648",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%83%81%E3%82%AB%E3%83%83%E3%83%88%E5%B7%9D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Rutland,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q957421"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "3310": {
+    "doc_info": {
+      "title": "Ninety-Two Resolutions",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "92の決議は、1834年にルイ-ジョセフ・パピノーとロワー・カナダの愛国者党の他のメンバーによって起草されました。",
+        "mention_ids": [
+          "M0_1",
+          "M1_4",
+          "M2_0",
+          "M3_2",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "これらの決議は、イギリスが統治する植民地における政治改革を求める一連の長期にわたる要求でした。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "02": {
+        "text": "パピノーは、1815年にロウワー・カナダの立法議会の議長に選出されていました。",
+        "mention_ids": [
+          "M1_0",
+          "M3_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "彼の党は常に選挙で選ばれていない植民地政府に反対し、彼は1828年には、本質的に植民地政府に対する不満のリストである決議の初期の形の起草に協力しました。",
+        "mention_ids": [
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "立法議会の見解が英国庶民院に確実に理解されるように、回想録と87,000人が署名した請願書を提出するために、愛国者党は独自の代表団をロンドン派遣しました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M2_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "05": {
+        "text": "1834年2月28日、パピノーは92件の決議を立法議会に提出し、承認されロンドンへ送付されました。",
+        "mention_ids": [
+          "M0_0",
+          "M10_1",
+          "M12_0",
+          "M1_1",
+          "M8_1"
+        ]
+      },
+      "06": {
+        "text": "決議には、とりわけ、選出された立法評議会と下院で責任を負う執行評議会の要求が含まれていました。",
+        "mention_ids": [
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "07": {
+        "text": "1791年憲法に基づき、ロウワー・カナダ政府には選出された立法議会が与えられましたが、上院議員は植民地の知事によって任命されました。",
+        "mention_ids": [
+          "M15_0",
+          "M3_1"
+        ]
+      },
+      "08": {
+        "text": "決議の中で、選出された議員らは英国王室への忠誠を改めて表明しましたが、イギリス政府が、植民地の政府によって過去に引き起こされた不正義を正す意欲がなかったことに不満を表明しました。",
+        "mention_ids": [
+          "M10_2",
+          "M17_0"
+        ]
+      },
+      "09": {
+        "text": "パピノーの決議はほぼ3年間無視されました。一方、立法議会は、あからさまな反乱を避けながら、選出されていない上院に反対するために全力を尽くしました。",
+        "mention_ids": [
+          "M18_0",
+          "M1_2",
+          "M8_2"
+        ]
+      },
+      "10": {
+        "text": "イギリス植民地長官のラッセルは、最終的に彼自身の10の決議（ラッセル決議）を発行することで彼らに応えました。",
+        "mention_ids": [
+          "M19_0",
+          "M20_1",
+          "M21_0",
+          "M5_1"
+        ]
+      },
+      "11": {
+        "text": "立法議会の要求はすべて拒否されました。",
+        "mention_ids": [
+          "M8_3"
+        ]
+      },
+      "12": {
+        "text": "10の決議は1837年にカナダに達し、パピノーの改革派の多くが反乱を扇動し始めました。",
+        "mention_ids": [
+          "M1_3",
+          "M20_0",
+          "M22_0",
+          "M23_0"
+        ]
+      },
+      "13": {
+        "text": "ロウワー・カナダの反乱を参照してください。",
+        "mention_ids": [
+          "M24_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "05",
+        "span": [
+          16,
+          22
+        ],
+        "text": "92件の決議",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "92の決議",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "04",
+        "span": [
+          66,
+          70
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_1": {
+        "sentence_id": "05",
+        "span": [
+          36,
+          40
+        ],
+        "text": "ロンドン",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M10_2": {
+        "sentence_id": "08",
+        "span": [
+          35,
+          39
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          30,
+          37
+        ],
+        "text": "87,000人",
+        "entity_type": "NUM",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          10
+        ],
+        "text": "1834年2月28日",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "06",
+        "span": [
+          15,
+          20
+        ],
+        "text": "立法評議会",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "06",
+        "span": [
+          29,
+          34
+        ],
+        "text": "執行評議会",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          7
+        ],
+        "text": "1791年憲法",
+        "entity_type": "MISC",
+        "entity_id": "E015"
+      },
+      "M17_0": {
+        "sentence_id": "08",
+        "span": [
+          15,
+          19
+        ],
+        "text": "英国王室",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "09",
+        "span": [
+          10,
+          13
+        ],
+        "text": "3年間",
+        "entity_type": "TIME",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "10",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ラッセル",
+        "entity_type": "PER",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          4
+        ],
+        "text": "パピノー",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          15
+        ],
+        "text": "パピノー",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          4
+        ],
+        "text": "パピノー",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "12",
+        "span": [
+          19,
+          23
+        ],
+        "text": "パピノー",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M1_4": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          25
+        ],
+        "text": "ルイ-ジョセフ・パピノー",
+        "entity_type": "PER",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "12",
+        "span": [
+          0,
+          2
+        ],
+        "text": "10",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M20_1": {
+        "sentence_id": "10",
+        "span": [
+          24,
+          26
+        ],
+        "text": "10",
+        "entity_type": "NUM",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "10",
+        "span": [
+          30,
+          36
+        ],
+        "text": "ラッセル決議",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "12",
+        "span": [
+          12,
+          15
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "12",
+        "span": [
+          6,
+          11
+        ],
+        "text": "1837年",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "13",
+        "span": [
+          0,
+          11
+        ],
+        "text": "ロウワー・カナダの反乱",
+        "entity_type": "MISC",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          38
+        ],
+        "text": "愛国者党",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "04",
+        "span": [
+          54,
+          58
+        ],
+        "text": "愛国者党",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "02",
+        "span": [
+          12,
+          20
+        ],
+        "text": "ロウワー・カナダ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "07",
+        "span": [
+          12,
+          20
+        ],
+        "text": "ロウワー・カナダ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "00",
+        "span": [
+          26,
+          33
+        ],
+        "text": "ロワー・カナダ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          12
+        ],
+        "text": "1834年",
+        "entity_type": "TIME",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          12
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          4
+        ],
+        "text": "イギリス",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          11
+        ],
+        "text": "1815年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          33
+        ],
+        "text": "1828年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "立法議会",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          27
+        ],
+        "text": "立法議会",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_2": {
+        "sentence_id": "09",
+        "span": [
+          24,
+          28
+        ],
+        "text": "立法議会",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M8_3": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          4
+        ],
+        "text": "立法議会",
+        "entity_type": "ORG",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          13
+        ],
+        "text": "英国庶民院",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ninety-Two_Resolutions",
+          "wikidata": "http://www.wikidata.org/entity/Q2818696"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3",
+          "M1_4"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Louis-Joseph_Papineau",
+          "wikidata": "http://www.wikidata.org/entity/Q2271150"
+        },
+        "date_of_death": "1871-09-23T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Parti_canadien",
+          "wikidata": "http://www.wikidata.org/entity/Q3366191"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lower_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q1134180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1",
+          "M8_2",
+          "M8_3"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Legislative_assembly",
+          "wikidata": "http://www.wikidata.org/entity/Q1153777"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q11005",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/British_House_of_Commons",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%B6%E6%B0%91%E9%99%A2_(%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0",
+          "M10_1",
+          "M10_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/London",
+          "wikidata": "http://www.wikidata.org/entity/Q84",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Legislative_council",
+          "wikidata": "http://www.wikidata.org/entity/Q2994119",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E6%B3%95%E8%A9%95%E8%AD%B0%E4%BC%9A"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Executive_Council_(Canada)",
+          "wikidata": "http://www.wikidata.org/entity/Q2993928"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Constitutional_Act_1791",
+          "wikidata": "http://www.wikidata.org/entity/Q2090855",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Constitutional_Act_of_1791"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom",
+          "wikidata": "http://www.wikidata.org/entity/Q739941",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E3%81%AE%E5%90%9B%E4%B8%BB"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Russell,_1st_Earl_Russell",
+          "wikidata": "http://www.wikidata.org/entity/Q157259",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB_(%E5%88%9D%E4%BB%A3%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E4%BC%AF%E7%88%B5)"
+        },
+        "date_of_death": "1878-05-28T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0",
+          "M20_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russell_Resolutions",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Russell_Resolutions"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lower_Canada_Rebellion",
+          "wikidata": "http://www.wikidata.org/entity/Q2466441"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

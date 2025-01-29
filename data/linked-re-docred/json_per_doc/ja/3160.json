@@ -1,0 +1,385 @@
+{
+  "3160": {
+    "doc_info": {
+      "title": "Street Fighter X Mega Man",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『ストリートファイター X ロックマン』は、日本でも知られており、シンガポールのファン開発者■■■■■■■■■■■■■によって作成されたクロスオーバー・プラットフォーム・ゲームです。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "『ストリートファイター X ロックマン』は、当初ファン・ゲームとして開発されましたが、後にカプコンのサポートを受け、ゲームの制作を支援されました。",
+        "mention_ids": [
+          "M0_1",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "『ストリートファイター X ロックマン』は、2012年12月17日にカプコン・ユニティから無料ダウンロードとしてリリースされました。",
+        "mention_ids": [
+          "M0_2",
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "03": {
+        "text": "カプコンのロックマンとストリートファイターの両シリーズの25周年を記念しています。",
+        "mention_ids": [
+          "M4_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "ゲームプレイは古典的なロックマンのゲームのデザインを模倣しており、ゲーム内で遭遇する重要な敵としてストリートファイターのキャラクターが登場します。",
+        "mention_ids": [
+          "M7_1",
+          "M8_1"
+        ]
+      },
+      "05": {
+        "text": "このゲームは批評家からは賛否両論あり、保存機能の欠如やその他のバグに関するいくつかの一般的な苦情が寄せられました。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "苦情に応えて、2013年1月28日に、『ストリートファイター X ロックマンV2』というタイトルのアップデートがリリースされ、パスワード保存機能やその他の修正が追加されました。",
+        "mention_ids": [
+          "M10_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          19
+        ],
+        "text": "ストリートファイター X ロックマン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          1,
+          19
+        ],
+        "text": "ストリートファイター X ロックマン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          1,
+          19
+        ],
+        "text": "ストリートファイター X ロックマン",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "06",
+        "span": [
+          20,
+          40
+        ],
+        "text": "ストリートファイター X ロックマンV2",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          24
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          39
+        ],
+        "text": "シンガポール",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          59
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          45,
+          49
+        ],
+        "text": "カプコン",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          4
+        ],
+        "text": "カプコン",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          34,
+          43
+        ],
+        "text": "カプコン・ユニティ",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          33
+        ],
+        "text": "2012年12月17日",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          5,
+          10
+        ],
+        "text": "ロックマン",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "04",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ロックマン",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          21
+        ],
+        "text": "ストリートファイター",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          59
+        ],
+        "text": "ストリートファイター",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          7,
+          17
+        ],
+        "text": "2013年1月28日",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_X_Mega_Man",
+          "wikidata": "http://www.wikidata.org/entity/Q1583584",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Street_Fighter_X_Mega_Man"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Japan",
+          "wikidata": "http://www.wikidata.org/entity/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Singapore",
+          "wikidata": "http://www.wikidata.org/entity/Q334",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Capcom",
+          "wikidata": "http://www.wikidata.org/entity/Q14428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%97%E3%82%B3%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mega_Man",
+          "wikidata": "http://www.wikidata.org/entity/Q7565689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter",
+          "wikidata": "http://www.wikidata.org/entity/Q288035"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

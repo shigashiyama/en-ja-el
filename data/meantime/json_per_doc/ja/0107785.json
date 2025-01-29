@@ -1,0 +1,431 @@
+{
+  "0107785": {
+    "doc_info": {
+      "title": "107785_Apple_launches_3G",
+      "url": "http://en.wikinews.org/wiki/Apple_launches_3G_iPhone"
+    },
+    "sentences": {
+      "00": {
+        "text": "Apple、3G iPhoneを発売",
+        "mention_ids": [
+          "M027",
+          "M029"
+        ]
+      },
+      "01": {
+        "text": "2008年6月9日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "Appleコンピューターは本日、iPhoneデバイスの3Gバージョンを発売しました。",
+        "mention_ids": [
+          "M001",
+          "M004"
+        ]
+      },
+      "03": {
+        "text": "Appleの最高経営責任者であるスティーブ・ジョブズは開発者会議でこの開発を発表し、そこで彼は「iPhoneの発売からわずか1年後に、私たちは半額で2倍の速度の新しいiPhone 3Gを発売します。」と言ってiPhoneを宣伝しました。",
+        "mention_ids": [
+          "M002",
+          "M011",
+          "M013",
+          "M015",
+          "M016",
+          "M028"
+        ]
+      },
+      "04": {
+        "text": "Appleは、3G iPhoneは、以前のバージョンが提供するインターネット・アクセスの2倍の速度でインターネット・アクセスを提供すると主張しています。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "05": {
+        "text": "iPhoneの価格は、米国でも199ドルに引き下げられ、他の国での価格は、米国内の価格と同等かそれ以下です。",
+        "mention_ids": [
+          "M010",
+          "M012",
+          "M023"
+        ]
+      },
+      "06": {
+        "text": "数か月間、Appleファンの間では3G iPhoneの発売に関する憶測がありました。",
+        "mention_ids": [
+          "M118"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          12
+        ],
+        "text": "Appleコンピューター",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M002": {
+        "sentence_id": "03",
+        "span": [
+          67,
+          70
+        ],
+        "text": "私たち",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M004": {
+        "sentence_id": "02",
+        "span": [
+          16,
+          34
+        ],
+        "text": "iPhoneデバイスの3Gバージョン",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M010": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          9
+        ],
+        "text": "iPhoneの価格",
+        "entity_type": null,
+        "entity_id": "E114"
+      },
+      "M011": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          26
+        ],
+        "text": "Appleの最高経営責任者であるスティーブ・ジョブズ",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M012": {
+        "sentence_id": "05",
+        "span": [
+          28,
+          51
+        ],
+        "text": "他の国での価格は、米国内の価格と同等かそれ以下",
+        "entity_type": null,
+        "entity_id": "E109"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          104,
+          110
+        ],
+        "text": "iPhone",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          48,
+          54
+        ],
+        "text": "iPhone",
+        "entity_type": null,
+        "entity_id": "E108"
+      },
+      "M016": {
+        "sentence_id": "03",
+        "span": [
+          71,
+          98
+        ],
+        "text": "半額で2倍の速度の新しいiPhone 3Gを発売します",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M017": {
+        "sentence_id": "04",
+        "span": [
+          50,
+          62
+        ],
+        "text": "インターネット・アクセス",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M019": {
+        "sentence_id": "04",
+        "span": [
+          31,
+          43
+        ],
+        "text": "インターネット・アクセス",
+        "entity_type": null,
+        "entity_id": "E117"
+      },
+      "M020": {
+        "sentence_id": "04",
+        "span": [
+          7,
+          16
+        ],
+        "text": "3G iPhone",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M021": {
+        "sentence_id": "04",
+        "span": [
+          18,
+          26
+        ],
+        "text": "以前のバージョン",
+        "entity_type": null,
+        "entity_id": "E111"
+      },
+      "M023": {
+        "sentence_id": "05",
+        "span": [
+          11,
+          13
+        ],
+        "text": "米国",
+        "entity_type": null,
+        "entity_id": "E113"
+      },
+      "M027": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M028": {
+        "sentence_id": "03",
+        "span": [
+          45,
+          46
+        ],
+        "text": "彼",
+        "entity_type": null,
+        "entity_id": "E105"
+      },
+      "M029": {
+        "sentence_id": "00",
+        "span": [
+          6,
+          15
+        ],
+        "text": "3G iPhone",
+        "entity_type": null,
+        "entity_id": "E099"
+      },
+      "M118": {
+        "sentence_id": "06",
+        "span": [
+          17,
+          26
+        ],
+        "text": "3G iPhone",
+        "entity_type": null,
+        "entity_id": "E099"
+      }
+    },
+    "entities": {
+      "E099": {
+        "member_mention_ids": [
+          "M004",
+          "M013",
+          "M016",
+          "M020",
+          "M029",
+          "M118"
+        ],
+        "removed_mention_ids": [
+          "M022",
+          "M024"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E105": {
+        "member_mention_ids": [
+          "M011",
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M008",
+          "M009"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Steve_Jobs ",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "wikidata": "http://www.wikidata.org/entity/Q19837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA"
+        },
+        "date_of_death": "2011-10-05T00:00:00Z"
+      },
+      "E108": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IPhone",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IPhone",
+          "wikidata": "http://www.wikidata.org/entity/Q2766",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPhone"
+        }
+      },
+      "E109": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E111": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E112": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M005"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E113": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "removed_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E114": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E115": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M018",
+          "M027"
+        ],
+        "removed_mention_ids": [
+          "M006",
+          "M026"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "removed_mention_ids": [
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

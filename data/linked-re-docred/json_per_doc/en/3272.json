@@ -1,0 +1,435 @@
+{
+  "3272": {
+    "doc_info": {
+      "title": "While the City Sleeps, We Rule the Streets",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "While the City Sleeps , We Rule the Streets is the debut studio album by Cobra Starship .",
+        "text": "While the City Sleeps , We Rule the Streets is the debut studio album by Cobra Starship .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was released on October 10 , 2006 in the US , and on October 17 , 2006 in Canada .",
+        "text": "It was released on October 10 , 2006 in the US , and on October 17 , 2006 in Canada .",
+        "mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A rough clip of \" Send My Love to the Dancefloor , I 'll See You In Hell ( Hey Mister DJ ) \" , a finished version of \" Snakes on a Plane ( Bring It ) \" , and \" The Church of Hot Addiction \" were uploaded onto Cobra Starship 's PureVolume site .",
+        "text": "A rough clip of \" Send My Love to the Dancefloor , I 'll See You In Hell ( Hey Mister DJ ) \" , a finished version of \" Snakes on a Plane ( Bring It ) \" , and \" The Church of Hot Addiction \" were uploaded onto Cobra Starship 's PureVolume site .",
+        "mention_ids": [
+          "M1_1",
+          "M5_0",
+          "M5_1",
+          "M6_0",
+          "M6_1",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "03": {
+        "orig_text": "\" The Church of Hot Addiction \" was also used as the theme song for the WWE 's Great American Bash 2007 .",
+        "text": "\" The Church of Hot Addiction \" was also used as the theme song for the WWE 's Great American Bash 2007 .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M7_1",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "It has sold more than 69,000 copies to date .",
+        "text": "It has sold more than 69,000 copies to date .",
+        "mention_ids": [
+          "M12_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          43
+        ],
+        "text": "While the City Sleeps , We Rule the Streets",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "03",
+        "span": [
+          79,
+          98
+        ],
+        "text": "Great American Bash",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "03",
+        "span": [
+          99,
+          103
+        ],
+        "text": "2007",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          28
+        ],
+        "text": "69,000",
+        "entity_type": "NUM",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          73,
+          87
+        ],
+        "text": "Cobra Starship",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "02",
+        "span": [
+          209,
+          223
+        ],
+        "text": "Cobra Starship",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "01",
+        "span": [
+          19,
+          36
+        ],
+        "text": "October 10 , 2006",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          73
+        ],
+        "text": "October 17 , 2006",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          44,
+          46
+        ],
+        "text": "US",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          77,
+          83
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          18,
+          72
+        ],
+        "text": "Send My Love to the Dancefloor , I 'll See You In Hell",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "02",
+        "span": [
+          75,
+          88
+        ],
+        "text": "Hey Mister DJ",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          139,
+          147
+        ],
+        "text": "Bring It",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "02",
+        "span": [
+          119,
+          136
+        ],
+        "text": "Snakes on a Plane",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          160,
+          187
+        ],
+        "text": "The Church of Hot Addiction",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "03",
+        "span": [
+          2,
+          29
+        ],
+        "text": "The Church of Hot Addiction",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          227,
+          237
+        ],
+        "text": "PureVolume",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          72,
+          75
+        ],
+        "text": "WWE",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/While_the_City_Sleeps,_We_Rule_the_Streets",
+          "wikidata": "http://www.wikidata.org/entity/Q3496122"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cobra_Starship",
+          "wikidata": "http://www.wikidata.org/entity/Q524822",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%96%E3%83%A9%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Snakes_on_a_Plane_(Bring_It)",
+          "wikidata": "http://www.wikidata.org/entity/Q7547212"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/PureVolume",
+          "wikidata": "http://www.wikidata.org/entity/Q1508912"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/WWE",
+          "wikidata": "http://www.wikidata.org/entity/Q35339",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/WWE"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/The_Great_American_Bash",
+          "wikidata": "http://www.wikidata.org/entity/Q1074552",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/WWE_The_Great_American_Bash"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

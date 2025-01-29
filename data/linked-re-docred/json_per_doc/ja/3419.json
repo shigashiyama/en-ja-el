@@ -1,0 +1,193 @@
+{
+  "3419": {
+    "doc_info": {
+      "title": "List of United States Armed Forces unit mottoes",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "アメリカ合衆国軍の多くの部隊には、独特のモットーがあります。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "01": {
+        "text": "このようなモットーは、各ユニットの価値観と伝統を「反映し、強化する」ために使用されています。",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "モットーは軍事部門と、もっと小規模な部隊の両方で使用されています。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "モットーには公式なものもありますが、非公式なものもあります。",
+        "mention_ids": []
+      },
+      "04": {
+        "text": "米国陸軍の特徴的な部隊記章など、一部のモットーは部隊ワッペンに表示されるものもあります。",
+        "mention_ids": [
+          "M0_0"
+        ]
+      },
+      "05": {
+        "text": "モットーの使用は、米国軍自体と同じように古くからあります。",
+        "mention_ids": [
+          "M1_0"
+        ]
+      },
+      "06": {
+        "text": "ジョージ・ワシントンが大陸軍の最高司令官だった1776年2月20日に発令された一般命令では、「すべての連隊にはカラーを付けて提供されなければならず」、さらに「連隊の番号はそのカラー上に示され、そしてそのようなモットーは大佐が選択することができるように、これを決定する際に将軍は彼らの中で協議について勧告する必要があります。」",
+        "mention_ids": [
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "米国陸軍",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          8
+        ],
+        "text": "アメリカ合衆国軍",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          11
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ジョージ・ワシントン",
+        "entity_type": "PER",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          33
+        ],
+        "text": "1776年2月20日",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "06",
+        "span": [
+          11,
+          14
+        ],
+        "text": "大陸軍",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Armed_Forces",
+          "wikidata": "http://www.wikidata.org/entity/Q11211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
+          "wikidata": "http://www.wikidata.org/entity/Q23",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
+        },
+        "date_of_death": "1799-12-14T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Continental_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q54122",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E8%BB%8D_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

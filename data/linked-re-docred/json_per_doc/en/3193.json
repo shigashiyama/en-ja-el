@@ -1,0 +1,366 @@
+{
+  "3193": {
+    "doc_info": {
+      "title": "Georgian Foundation for Strategic and International Studies",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Georgian Foundation for Strategic and International Studies ( GFSIS ; ) is one of Georgia 's leading independent think tanks , based in Tbilisi .",
+        "text": "The Georgian Foundation for Strategic and International Studies ( GFSIS ; ) is one of Georgia 's leading independent think tanks , based in Tbilisi .",
+        "mention_ids": [
+          "M0_0",
+          "M0_2",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It was founded in 1998 with the declared aim of \" helping improve public policy decision - making in Georgia through research and analysis , training of policymakers and policy analysts , and public education about the strategic issues , both domestic and international , facing Georgia and the Caucasus \" .",
+        "text": "It was founded in 1998 with the declared aim of \" helping improve public policy decision - making in Georgia through research and analysis , training of policymakers and policy analysts , and public education about the strategic issues , both domestic and international , facing Georgia and the Caucasus \" .",
+        "mention_ids": [
+          "M1_1",
+          "M1_2",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "orig_text": "It has played an important role in training new public servants and scholars .",
+        "text": "It has played an important role in training new public servants and scholars .",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "The GFSIS includes several leading experts on politics , social studies , and economics in Georgia , many of them with experience as former high - ranking government officials and strong ties with the country 's top education institutions , such as Alexander Rondeli , ■■■■■■■■■■■■■■■■■■■ , ■■■■■■■■■■■■■■■ , ■■■■■■■■■■■■■ , and ■■■■■■■■■■■■■■■■■ .",
+        "mention_ids": [
+          "M0_1",
+          "M1_3",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          66,
+          71
+        ],
+        "text": "GFSIS",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          4,
+          9
+        ],
+        "text": "GFSIS",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          63
+        ],
+        "text": "Georgian Foundation for Strategic and International Studies",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          93
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          108
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_2": {
+        "sentence_id": "01",
+        "span": [
+          279,
+          286
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_3": {
+        "sentence_id": "03",
+        "span": [
+          91,
+          98
+        ],
+        "text": "Georgia",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          140,
+          147
+        ],
+        "text": "Tbilisi",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          22
+        ],
+        "text": "1998",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          295,
+          303
+        ],
+        "text": "Caucasus",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          249,
+          266
+        ],
+        "text": "Alexander Rondeli",
+        "entity_type": "PER",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          269,
+          288
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          291,
+          306
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          309,
+          322
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          329,
+          346
+        ],
+        "text": "■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Georgian_Foundation_for_Strategic_and_International_Studies",
+          "wikidata": "http://www.wikidata.org/entity/Q22031480"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1",
+          "M1_2",
+          "M1_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Georgia_(country)",
+          "wikidata": "http://www.wikidata.org/entity/Q230",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2_(%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tbilisi",
+          "wikidata": "http://www.wikidata.org/entity/Q994",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%AA%E3%82%B7"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Caucasus",
+          "wikidata": "http://www.wikidata.org/entity/Q18869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%82%AB%E3%82%B5%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexander_Rondeli",
+          "wikidata": "http://www.wikidata.org/entity/Q20085130"
+        },
+        "date_of_death": "2015-06-12T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Temur_Iakobashvili",
+          "wikidata": "http://www.wikidata.org/entity/Q839325",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Temuri_Yakobashvili"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladimer_Papava",
+          "wikidata": "http://www.wikidata.org/entity/Q7938226"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Merab_Kakulia",
+          "wikidata": "http://www.wikidata.org/entity/Q18206836"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Archil_Gegeshidze",
+          "wikidata": "http://www.wikidata.org/entity/Q16187079"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

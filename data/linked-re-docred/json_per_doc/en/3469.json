@@ -1,0 +1,520 @@
+{
+  "3469": {
+    "doc_info": {
+      "title": "John Ripley (USMC)",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "John Walter Ripley ( June 29 , 1939 – October 28 , 2008 ) was a United States Marine Corps officer who received the Navy Cross for his actions in combat during the Vietnam War .",
+        "text": "John Walter Ripley ( June 29 , 1939 – October 28 , 2008 ) was a United States Marine Corps officer who received the Navy Cross for his actions in combat during the Vietnam War .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "On Easter morning 1972 , Captain Ripley repeatedly exposed himself to intense enemy fire over a three - hour period as he prepared to blow up an essential bridge in Dong Ha .",
+        "text": "On Easter morning 1972 , Captain Ripley repeatedly exposed himself to intense enemy fire over a three - hour period as he prepared to blow up an essential bridge in Dong Ha .",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "His actions significantly hampered the North Vietnamese Army 's advance into South Vietnam .",
+        "text": "His actions significantly hampered the North Vietnamese Army 's advance into South Vietnam .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "03": {
+        "orig_text": "The story of \" Ripley at the Bridge \" is legendary in the Marine Corps and is captured in a gripping diorama at the United States Naval Academy .",
+        "text": "The story of \" Ripley at the Bridge \" is legendary in the Marine Corps and is captured in a gripping diorama at the United States Naval Academy .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "04": {
+        "orig_text": "On October 28 , 2009 , the first biography about Col . Ripley was published .",
+        "text": "On October 28 , 2009 , the first biography about Col . Ripley was published .",
+        "mention_ids": [
+          "M15_0",
+          "M7_1"
+        ]
+      },
+      "05": {
+        "text": "It was written by ■■■■■■■■■■■■■■■■ and is titled An American Knight , The Life of Col . John W. Ripley .",
+        "mention_ids": [
+          "M16_0",
+          "M17_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "John Walter Ripley",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          60
+        ],
+        "text": "North Vietnamese Army",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          77,
+          90
+        ],
+        "text": "South Vietnam",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          15,
+          35
+        ],
+        "text": "Ripley at the Bridge",
+        "entity_type": "MISC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          58,
+          70
+        ],
+        "text": "Marine Corps",
+        "entity_type": "ORG",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          116,
+          143
+        ],
+        "text": "United States Naval Academy",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          3,
+          20
+        ],
+        "text": "October 28 , 2009",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          18,
+          34
+        ],
+        "text": "■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          49,
+          102
+        ],
+        "text": "An American Knight , The Life of Col . John W. Ripley",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          21,
+          35
+        ],
+        "text": "June 29 , 1939",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          38,
+          55
+        ],
+        "text": "October 28 , 2008",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          90
+        ],
+        "text": "United States Marine Corps",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          116,
+          126
+        ],
+        "text": "Navy Cross",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          164,
+          175
+        ],
+        "text": "Vietnam War",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          22
+        ],
+        "text": "1972",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          39
+        ],
+        "text": "Ripley",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          61
+        ],
+        "text": "Col . Ripley",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          96,
+          108
+        ],
+        "text": "three - hour",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          165,
+          172
+        ],
+        "text": "Dong Ha",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Ripley_(USMC)",
+          "wikidata": "http://www.wikidata.org/entity/Q6254978"
+        },
+        "date_of_death": "2008-10-28T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Marine_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q11218",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B5%B7%E5%85%B5%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Navy_Cross",
+          "wikidata": "http://www.wikidata.org/entity/Q833465",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Navy_Cross_(United_States)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%8D%81%E5%AD%97%E7%AB%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "wikidata": "http://www.wikidata.org/entity/Q8740",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E6%88%A6%E4%BA%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/John_Ripley_(USMC)",
+          "wikidata": "http://www.wikidata.org/entity/Q6254978"
+        },
+        "date_of_death": "2008-10-28T00:00:00Z",
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_H%C3%A0",
+          "wikidata": "http://www.wikidata.org/entity/Q33343",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Dong_Ha",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%8F"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/People%27s_Army_of_Vietnam",
+          "wikidata": "http://www.wikidata.org/entity/Q3936506",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Vietnam_People's_Army",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BA%BA%E6%B0%91%E8%BB%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/South_Vietnam",
+          "wikidata": "http://www.wikidata.org/entity/Q180573",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Marine_Corps",
+          "wikidata": "http://www.wikidata.org/entity/Q11218",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B5%B7%E5%85%B5%E9%9A%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_Naval_Academy",
+          "wikidata": "http://www.wikidata.org/entity/Q559549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E5%85%B5%E5%AD%A6%E6%A0%A1_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

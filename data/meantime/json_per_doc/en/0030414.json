@@ -1,0 +1,363 @@
+{
+  "0030414": {
+    "doc_info": {
+      "title": "30414_Apple_unveils_new_Intel-based_Mac",
+      "url": "http://en.wikinews.org/wiki/Apple_unveils_new_Intel-based_Mac"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Apple unveils new Intel-based Mac",
+        "text": "Apple unveils new Intel-based Mac",
+        "mention_ids": [
+          "M004",
+          "M006"
+        ]
+      },
+      "01": {
+        "orig_text": "January 11, 2006",
+        "text": "January 11, 2006",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Apple Computer announced on Tuesday the first generation of their products to use Intel processors.",
+        "text": "Apple Computer announced on Tuesday the first generation of their products to use Intel processors.",
+        "mention_ids": [
+          "M016",
+          "M018"
+        ]
+      },
+      "03": {
+        "orig_text": "The iMac and the new MacBook Pro - a notebook computer replacing the PowerBook - are said to be up to four times faster than their predecessors (up to two times faster in the iMac, four times for the MacBook.)",
+        "text": "The iMac and the new MacBook Pro - a notebook computer replacing the PowerBook - are said to be up to four times faster than their predecessors (up to two times faster in the iMac, four times for the MacBook.)",
+        "mention_ids": [
+          "M010",
+          "M012",
+          "M013",
+          "M015"
+        ]
+      },
+      "04": {
+        "orig_text": "These new lines of computers have been set up to support the newest collection of Mac software entitled iLife, which has added internet publication software to its high-end graphics, video, and sound tools.",
+        "text": "These new lines of computers have been set up to support the newest collection of Mac software entitled iLife, which has added internet publication software to its high-end graphics, video, and sound tools.",
+        "mention_ids": [
+          "M014",
+          "M073"
+        ]
+      }
+    },
+    "mentions": {
+      "M004": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M006": {
+        "sentence_id": "00",
+        "span": [
+          14,
+          33
+        ],
+        "text": "new Intel-based Mac",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M010": {
+        "sentence_id": "03",
+        "span": [
+          125,
+          143
+        ],
+        "text": "their predecessors",
+        "entity_type": null,
+        "entity_id": "E120"
+      },
+      "M012": {
+        "sentence_id": "03",
+        "span": [
+          171,
+          179
+        ],
+        "text": "the iMac",
+        "entity_type": null,
+        "entity_id": "E115"
+      },
+      "M013": {
+        "sentence_id": "03",
+        "span": [
+          196,
+          207
+        ],
+        "text": "the MacBook",
+        "entity_type": null,
+        "entity_id": "E116"
+      },
+      "M014": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          28
+        ],
+        "text": "These new lines of computers",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M015": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          78
+        ],
+        "text": "The iMac and the new MacBook Pro - a notebook computer replacing the PowerBook",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M016": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E124"
+      },
+      "M018": {
+        "sentence_id": "02",
+        "span": [
+          36,
+          98
+        ],
+        "text": "the first generation of their products to use Intel processors",
+        "entity_type": null,
+        "entity_id": "E123"
+      },
+      "M073": {
+        "sentence_id": "04",
+        "span": [
+          57,
+          205
+        ],
+        "text": "the newest collection of Mac software entitled iLife, which has added internet publication software to its high-end graphics, video, and sound tools",
+        "entity_type": null,
+        "entity_id": "E117"
+      }
+    },
+    "entities": {
+      "E115": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "removed_mention_ids": [
+          "M025"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/IMac",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/IMac",
+          "wikidata": "http://www.wikidata.org/entity/Q14091",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IMac"
+        }
+      },
+      "E116": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "removed_mention_ids": [
+          "M001",
+          "M003",
+          "M027"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/MacBook_Pro",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacBook_Pro",
+          "wikidata": "http://www.wikidata.org/entity/Q214276",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MacBook_Pro"
+        }
+      },
+      "E117": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "removed_mention_ids": [
+          "M005",
+          "M008",
+          "M017",
+          "M024"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/ILife",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/ILife",
+          "wikidata": "http://www.wikidata.org/entity/Q9532",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/ILife"
+        }
+      },
+      "E118": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M028"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E119": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M009",
+          "M019"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/List_of_Intel_microprocessors",
+          "dbpedia:orig": "http://dbpedia.org/resource/List_of_Intel_microprocessors",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/List_of_Intel_processors",
+          "wikidata": "http://www.wikidata.org/entity/Q921015"
+        }
+      },
+      "E120": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E121": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M007"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/PowerBook",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/PowerBook",
+          "wikidata": "http://www.wikidata.org/entity/Q621317",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/PowerBook"
+        }
+      },
+      "E122": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E123": {
+        "member_mention_ids": [
+          "M006",
+          "M014",
+          "M015",
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M011"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E124": {
+        "member_mention_ids": [
+          "M004",
+          "M016"
+        ],
+        "removed_mention_ids": [
+          "M023"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E125": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E126": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M022"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E127": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M021"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Intel",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Intel",
+          "wikidata": "http://www.wikidata.org/entity/Q248",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AB"
+        }
+      }
+    }
+  }
+}

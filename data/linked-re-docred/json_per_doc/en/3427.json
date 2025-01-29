@@ -1,0 +1,920 @@
+{
+  "3427": {
+    "doc_info": {
+      "title": "Joshua Cushman",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Joshua Cushman ( April 11 , 1761 – January 27 , 1834 ) was a U.S. Representative from Massachusetts and from Maine .",
+        "text": "Joshua Cushman ( April 11 , 1761 – January 27 , 1834 ) was a U.S. Representative from Massachusetts and from Maine .",
+        "mention_ids": [
+          "M0_2",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Born in Halifax , Massachusetts , Cushman served in the Continental Army from April 1 , 1777 , until March 1780 .",
+        "text": "Born in Halifax , Massachusetts , Cushman served in the Continental Army from April 1 , 1777 , until March 1780 .",
+        "mention_ids": [
+          "M0_0",
+          "M4_1",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "02": {
+        "orig_text": "He was graduated from Harvard University in 1787 , studied theology , was ordained to the ministry and licensed to preach .",
+        "text": "He was graduated from Harvard University in 1787 , studied theology , was ordained to the ministry and licensed to preach .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0"
+        ]
+      },
+      "03": {
+        "orig_text": "He was pastor of the Congregational Church in Winslow , Maine for nearly twenty years .",
+        "text": "He was pastor of the Congregational Church in Winslow , Maine for nearly twenty years .",
+        "mention_ids": [
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M5_1"
+        ]
+      },
+      "04": {
+        "orig_text": "He served in the Massachusetts State Senate , and served as member of the Massachusetts House of Representatives .",
+        "text": "He served in the Massachusetts State Senate , and served as member of the Massachusetts House of Representatives .",
+        "mention_ids": [
+          "M15_0",
+          "M16_0"
+        ]
+      },
+      "05": {
+        "orig_text": "Cushman was elected as Democratic - Republican from Massachusetts to the Sixteenth Congress ( March 4 , 1819 – March 3 , 1821 ) .",
+        "text": "Cushman was elected as Democratic - Republican from Massachusetts to the Sixteenth Congress ( March 4 , 1819 – March 3 , 1821 ) .",
+        "mention_ids": [
+          "M0_1",
+          "M17_0",
+          "M18_0",
+          "M19_0",
+          "M20_0",
+          "M4_2"
+        ]
+      },
+      "06": {
+        "orig_text": "When the State of Maine was admitted into the Union , he was also elected as a Democratic - Republican member to the Seventeenth Congress , and reelected as an Adams - Clay Republican to the Eighteenth Congress ( March 4 , 1821 – March 3 , 1825 ) .",
+        "text": "When the State of Maine was admitted into the Union , he was also elected as a Democratic - Republican member to the Seventeenth Congress , and reelected as an Adams - Clay Republican to the Eighteenth Congress ( March 4 , 1821 – March 3 , 1825 ) .",
+        "mention_ids": [
+          "M17_1",
+          "M21_0",
+          "M22_0",
+          "M23_0",
+          "M24_0",
+          "M25_0",
+          "M26_0",
+          "M5_3"
+        ]
+      },
+      "07": {
+        "orig_text": "He died in Augusta , Maine on January 27 , 1834 .",
+        "text": "He died in Augusta , Maine on January 27 , 1834 .",
+        "mention_ids": [
+          "M27_0",
+          "M28_0",
+          "M5_2"
+        ]
+      },
+      "08": {
+        "orig_text": "He was interred in a tomb on the State grounds in Augusta .",
+        "text": "He was interred in a tomb on the State grounds in Augusta .",
+        "mention_ids": [
+          "M27_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "01",
+        "span": [
+          34,
+          41
+        ],
+        "text": "Cushman",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Cushman",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Joshua Cushman",
+        "entity_type": "PER",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          22,
+          40
+        ],
+        "text": "Harvard University",
+        "entity_type": "ORG",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          48
+        ],
+        "text": "1787",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          21,
+          42
+        ],
+        "text": "Congregational Church",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          46,
+          53
+        ],
+        "text": "Winslow",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          73,
+          85
+        ],
+        "text": "twenty years",
+        "entity_type": "TIME",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          17,
+          43
+        ],
+        "text": "Massachusetts State Senate",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "04",
+        "span": [
+          74,
+          112
+        ],
+        "text": "Massachusetts House of Representatives",
+        "entity_type": "ORG",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          23,
+          46
+        ],
+        "text": "Democratic - Republican",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M17_1": {
+        "sentence_id": "06",
+        "span": [
+          79,
+          102
+        ],
+        "text": "Democratic - Republican",
+        "entity_type": "ORG",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "05",
+        "span": [
+          73,
+          91
+        ],
+        "text": "Sixteenth Congress",
+        "entity_type": "ORG",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "05",
+        "span": [
+          94,
+          108
+        ],
+        "text": "March 4 , 1819",
+        "entity_type": "TIME",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          17,
+          32
+        ],
+        "text": "April 11 , 1761",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "05",
+        "span": [
+          111,
+          125
+        ],
+        "text": "March 3 , 1821",
+        "entity_type": "TIME",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "06",
+        "span": [
+          46,
+          51
+        ],
+        "text": "Union",
+        "entity_type": "ORG",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "06",
+        "span": [
+          117,
+          137
+        ],
+        "text": "Seventeenth Congress",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "06",
+        "span": [
+          160,
+          183
+        ],
+        "text": "Adams - Clay Republican",
+        "entity_type": "ORG",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "06",
+        "span": [
+          191,
+          210
+        ],
+        "text": "Eighteenth Congress",
+        "entity_type": "ORG",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "06",
+        "span": [
+          213,
+          227
+        ],
+        "text": "March 4 , 1821",
+        "entity_type": "TIME",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "06",
+        "span": [
+          230,
+          244
+        ],
+        "text": "March 3 , 1825",
+        "entity_type": "TIME",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "07",
+        "span": [
+          11,
+          18
+        ],
+        "text": "Augusta",
+        "entity_type": "LOC",
+        "entity_id": "E027"
+      },
+      "M27_1": {
+        "sentence_id": "08",
+        "span": [
+          50,
+          57
+        ],
+        "text": "Augusta",
+        "entity_type": "LOC",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "07",
+        "span": [
+          30,
+          47
+        ],
+        "text": "January 27 , 1834",
+        "entity_type": "TIME",
+        "entity_id": "E028"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          35,
+          52
+        ],
+        "text": "January 27 , 1834",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          61,
+          65
+        ],
+        "text": "U.S.",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          86,
+          99
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          18,
+          31
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_2": {
+        "sentence_id": "05",
+        "span": [
+          52,
+          65
+        ],
+        "text": "Massachusetts",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          109,
+          114
+        ],
+        "text": "Maine",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          61
+        ],
+        "text": "Maine",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "07",
+        "span": [
+          21,
+          26
+        ],
+        "text": "Maine",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_3": {
+        "sentence_id": "06",
+        "span": [
+          9,
+          23
+        ],
+        "text": "State of Maine",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          8,
+          15
+        ],
+        "text": "Halifax",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          56,
+          72
+        ],
+        "text": "Continental Army",
+        "entity_type": "ORG",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "01",
+        "span": [
+          78,
+          92
+        ],
+        "text": "April 1 , 1777",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "01",
+        "span": [
+          101,
+          111
+        ],
+        "text": "March 1780",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Joshua_Cushman",
+          "wikidata": "http://www.wikidata.org/entity/Q1708556"
+        },
+        "date_of_death": "1834-01-27T00:00:00Z",
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q11701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E4%B8%8B%E9%99%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1",
+          "M4_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q771",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2",
+          "M5_3"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Maine",
+          "wikidata": "http://www.wikidata.org/entity/Q724",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Halifax,_Massachusetts",
+          "wikidata": "http://www.wikidata.org/entity/Q1019248"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Continental_Army",
+          "wikidata": "http://www.wikidata.org/entity/Q54122",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%99%B8%E8%BB%8D_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Harvard_University",
+          "wikidata": "http://www.wikidata.org/entity/Q13371",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Congregationalism",
+          "wikidata": "http://www.wikidata.org/entity/Q1062789",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Congregational_Church",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BC%9A%E8%A1%86%E6%B4%BE%E6%95%99%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Winslow,_Maine",
+          "wikidata": "http://www.wikidata.org/entity/Q2736054",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC_(%E3%83%A1%E3%82%A4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts_Senate",
+          "wikidata": "http://www.wikidata.org/entity/Q1494665",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Massachusetts_State_Senate"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Massachusetts_House_of_Representatives",
+          "wikidata": "http://www.wikidata.org/entity/Q1494460"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0",
+          "M17_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Democratic-Republican_Party",
+          "wikidata": "http://www.wikidata.org/entity/Q42186",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Democratic-Republican",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%85%9A_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/16th_United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q4552253"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/17th_United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q4553695"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Republican_Party",
+          "wikidata": "http://www.wikidata.org/entity/Q1541747",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/National_Republican_Party_(United_States)",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E5%85%B1%E5%92%8C%E5%85%9A_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/18th_United_States_Congress",
+          "wikidata": "http://www.wikidata.org/entity/Q4557675"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0",
+          "M27_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Augusta,_Maine",
+          "wikidata": "http://www.wikidata.org/entity/Q28206",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF_(%E3%83%A1%E3%82%A4%E3%83%B3%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

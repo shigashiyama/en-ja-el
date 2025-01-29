@@ -1,0 +1,283 @@
+{
+  "3516": {
+    "doc_info": {
+      "title": "My Red Hot Car",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "『マイ・レッド・ホット・カー』は■■■■■■■■■によるシングルで、2001年にワープ・レコードからリリースされました。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "text": "シングルのリード・トラックは『マイ・レッド・ホット・カー（ガール）』で、曲のポップ・ミュージック的な側面がそのまま残されています。",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "『マイ・レッド・ホット・カー』の拡張バージョンは、アルバム『ゴー・プラスチック』に収録されています。",
+        "mention_ids": [
+          "M0_1",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "マイ・レッド・ホット・カーは、フォーマットに基づいて2つの異なる隠しトラックがあることが特徴です：CD盤は23分の沈黙の後のアンビエント・ピースを特徴としている一方で、レコード盤は沈黙の背後に提示された『アイ・ウイッシュ・ユー・オベリスク』のパーカッションなしバージョンを特徴としており、それを聞くためには、ロックされた溝、つまり、針を第2側の途中で持ち上げて、ロックされた溝の後に配置する必要があります。",
+        "mention_ids": [
+          "M0_2",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "text": "そのシングルは、リリース週のNMEシングル・オブ・ザ・ウイークに選ばれました。",
+        "mention_ids": [
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          14
+        ],
+        "text": "マイ・レッド・ホット・カー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          1,
+          14
+        ],
+        "text": "マイ・レッド・ホット・カー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          13
+        ],
+        "text": "マイ・レッド・ホット・カー",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          25
+        ],
+        "text": "■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          34,
+          39
+        ],
+        "text": "2001年",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          40,
+          48
+        ],
+        "text": "ワープ・レコード",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          33
+        ],
+        "text": "マイ・レッド・ホット・カー（ガール）",
+        "entity_type": "MISC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          30,
+          39
+        ],
+        "text": "ゴー・プラスチック",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          53,
+          56
+        ],
+        "text": "23分",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          102,
+          119
+        ],
+        "text": "アイ・ウイッシュ・ユー・オベリスク",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          31
+        ],
+        "text": "NMEシングル・オブ・ザ・ウイーク",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/My_Red_Hot_Car",
+          "wikidata": "http://www.wikidata.org/entity/Q3331257"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Squarepusher",
+          "wikidata": "http://www.wikidata.org/entity/Q553861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%83%97%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Warp_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q543707",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%BB%E3%83%AC%E3%82%B3%E3%83%BC%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Go_Plastic",
+          "wikidata": "http://www.wikidata.org/entity/Q5574897"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

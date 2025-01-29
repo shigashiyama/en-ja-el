@@ -1,0 +1,857 @@
+{
+  "3152": {
+    "doc_info": {
+      "title": "Altsys",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "Altsys Corporationは、■■■■■■■■■■■■■■■■■■■によって設立された、テキサスを拠点とするソフトウェア会社です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0"
+        ]
+      },
+      "01": {
+        "text": "同社は初期のApple Macintoshの開発者および発売者でした。",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "02": {
+        "text": "PC/Macintosh用AltsysとNeXTの3つの主要製品は次のとおりです。",
+        "mention_ids": [
+          "M0_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "WindowsおよびMac OS用のフォントグラファー -フォント・エディター",
+        "mention_ids": [
+          "M6_0",
+          "M7_0",
+          "M8_0"
+        ]
+      },
+      "04": {
+        "text": "Windows用フォント- O Matic - フォント・トランスフォーマー",
+        "mention_ids": [
+          "M7_1",
+          "M9_0"
+        ]
+      },
+      "06": {
+        "text": "Altsysの最もよく知られた製品は、基本的にFreeHandの名前でAldus Corporationにライセンス供与されたVirtuosoのブランド変更であり、Adobe Illustratorと競合するベクトル描画プログラムでした。",
+        "mention_ids": [
+          "M0_2",
+          "M10_1",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "07": {
+        "text": "これは長年にわたって公開されていましたが、当初はMacintoshでのみ公開されており、その後Microsoft Windowsでも公開されました。",
+        "mention_ids": [
+          "M18_1",
+          "M19_0"
+        ]
+      },
+      "08": {
+        "text": "AldusがAdobeに買収されたとき、AltsysがAldusと結んだライセンス契約により、FreeHandは除外され契約から外されたため、出版権はAltsysに戻りました。",
+        "mention_ids": [
+          "M0_3",
+          "M0_4",
+          "M15_1",
+          "M15_2",
+          "M16_1",
+          "M20_0"
+        ]
+      },
+      "09": {
+        "text": "Altsysは、Macintosh用のフォント・ユーティリティであるMetamorphosisも公開しました。",
+        "mention_ids": [
+          "M0_5",
+          "M18_0",
+          "M21_0"
+        ]
+      },
+      "10": {
+        "text": "Altsysは、1995年1月にマクロメディアに買収されました。",
+        "mention_ids": [
+          "M0_6",
+          "M22_0",
+          "M23_0"
+        ]
+      },
+      "11": {
+        "text": "■■■■■■■はマクロメディアの大株主となり、マクロメディアの取締役会に加わりました。",
+        "mention_ids": [
+          "M22_1",
+          "M22_2",
+          "M24_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "Altsys Corporation",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "02",
+        "span": [
+          13,
+          19
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_3": {
+        "sentence_id": "08",
+        "span": [
+          20,
+          26
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_4": {
+        "sentence_id": "08",
+        "span": [
+          75,
+          81
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_5": {
+        "sentence_id": "09",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M0_6": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Altsys",
+        "entity_type": "ORG",
+        "entity_id": "E000"
+      },
+      "M10_1": {
+        "sentence_id": "06",
+        "span": [
+          63,
+          71
+        ],
+        "text": "Virtuoso",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M15_0": {
+        "sentence_id": "06",
+        "span": [
+          35,
+          52
+        ],
+        "text": "Aldus Corporation",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M15_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Aldus",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M15_2": {
+        "sentence_id": "08",
+        "span": [
+          27,
+          32
+        ],
+        "text": "Aldus",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "06",
+        "span": [
+          23,
+          31
+        ],
+        "text": "FreeHand",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M16_1": {
+        "sentence_id": "08",
+        "span": [
+          47,
+          55
+        ],
+        "text": "FreeHand",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "06",
+        "span": [
+          82,
+          99
+        ],
+        "text": "Adobe Illustrator",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "09",
+        "span": [
+          8,
+          17
+        ],
+        "text": "Macintosh",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M18_1": {
+        "sentence_id": "07",
+        "span": [
+          24,
+          33
+        ],
+        "text": "Macintosh",
+        "entity_type": "MISC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "07",
+        "span": [
+          47,
+          64
+        ],
+        "text": "Microsoft Windows",
+        "entity_type": "MISC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          49,
+          53
+        ],
+        "text": "テキサス",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "08",
+        "span": [
+          6,
+          11
+        ],
+        "text": "Adobe",
+        "entity_type": "ORG",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "09",
+        "span": [
+          34,
+          47
+        ],
+        "text": "Metamorphosis",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "10",
+        "span": [
+          16,
+          23
+        ],
+        "text": "マクロメディア",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M22_1": {
+        "sentence_id": "11",
+        "span": [
+          8,
+          15
+        ],
+        "text": "マクロメディア",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M22_2": {
+        "sentence_id": "11",
+        "span": [
+          23,
+          30
+        ],
+        "text": "マクロメディア",
+        "entity_type": "ORG",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "10",
+        "span": [
+          8,
+          15
+        ],
+        "text": "1995年1月",
+        "entity_type": "TIME",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          7
+        ],
+        "text": "■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E024"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          39
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          21
+        ],
+        "text": "Apple Macintosh",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          25,
+          27
+        ],
+        "text": "3つ",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          20,
+          24
+        ],
+        "text": "NeXT",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          27
+        ],
+        "text": "フォントグラファー",
+        "entity_type": "MISC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Windows",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "Windows",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          10,
+          16
+        ],
+        "text": "Mac OS",
+        "entity_type": "MISC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "04",
+        "span": [
+          8,
+          21
+        ],
+        "text": "フォント- O Matic",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2",
+          "M0_3",
+          "M0_4",
+          "M0_5",
+          "M0_6"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Altsys",
+          "wikidata": "http://www.wikidata.org/entity/Q4737020"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_R._Von_Ehr_II",
+          "wikidata": "http://www.wikidata.org/entity/Q6141748"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mac_(computer)",
+          "wikidata": "http://www.wikidata.org/entity/Q75687",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Apple_Macintosh",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Mac_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "removed_mention_ids": [
+          "M5_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/NeXT",
+          "wikidata": "http://www.wikidata.org/entity/Q308993",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/NeXT"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Fontographer",
+          "wikidata": "http://www.wikidata.org/entity/Q549528"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+          "wikidata": "http://www.wikidata.org/entity/Q1406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Microsoft_Windows"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/MacOS",
+          "wikidata": "http://www.wikidata.org/entity/Q14116",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/MacOS"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Font-O-Matic",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Font-O-Matic"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_1"
+        ],
+        "removed_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/OpenStep",
+          "wikidata": "http://www.wikidata.org/entity/Q1193981",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/OPENSTEP"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Windows_NT",
+          "wikidata": "http://www.wikidata.org/entity/Q486487",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Microsoft_Windows_NT"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0",
+          "M15_1",
+          "M15_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aldus_Corporation",
+          "wikidata": "http://www.wikidata.org/entity/Q1339044",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%80%E3%82%B9"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0",
+          "M16_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Adobe_FreeHand",
+          "wikidata": "http://www.wikidata.org/entity/Q851356",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Macromedia_FreeHand",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Macromedia_FreeHand"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Adobe_Illustrator",
+          "wikidata": "http://www.wikidata.org/entity/Q215016",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Adobe_Illustrator"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0",
+          "M18_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Mac_(computer)",
+          "wikidata": "http://www.wikidata.org/entity/Q75687",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Mac_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF)"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+          "wikidata": "http://www.wikidata.org/entity/Q1406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Microsoft_Windows"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q11463",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%93"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Metamorphosis_(software)",
+          "en.wikipedia:orig_invalid": "https://en.wikipedia.org/wiki/Metamorphosis_(software)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0",
+          "M22_1",
+          "M22_2"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Macromedia",
+          "wikidata": "http://www.wikidata.org/entity/Q234946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/James_R._Von_Ehr_II",
+          "wikidata": "http://www.wikidata.org/entity/Q6141748"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

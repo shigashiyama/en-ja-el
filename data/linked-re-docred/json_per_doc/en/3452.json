@@ -1,0 +1,482 @@
+{
+  "3452": {
+    "doc_info": {
+      "title": "Municipal elections in Canada",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Municipal elections in Canada fall within the jurisdiction of the various provinces and territories , who usually hold their municipal elections on the same date every two , three or four years , depending on the location .",
+        "text": "Municipal elections in Canada fall within the jurisdiction of the various provinces and territories , who usually hold their municipal elections on the same date every two , three or four years , depending on the location .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Each province has its own nomenclature for municipalities and some have local elections for unincorporated areas which are not technically municipalities .",
+        "text": "Each province has its own nomenclature for municipalities and some have local elections for unincorporated areas which are not technically municipalities .",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "These entities can be called cities , towns , villages , townships , hamlets , parishes and , simply , municipalities , county municipalities , regional county municipalities , municipal districts , regional districts , counties , regional municipalities , specialized municipalities , district municipalities or rural municipalities .",
+        "text": "These entities can be called cities , towns , villages , townships , hamlets , parishes and , simply , municipalities , county municipalities , regional county municipalities , municipal districts , regional districts , counties , regional municipalities , specialized municipalities , district municipalities or rural municipalities .",
+        "mention_ids": []
+      },
+      "03": {
+        "orig_text": "Many of these may be used by Statistics Canada as the basis for census divisions or census subdivisions .",
+        "text": "Many of these may be used by Statistics Canada as the basis for census divisions or census subdivisions .",
+        "mention_ids": [
+          "M4_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Municipal elections usually elect a mayor and city council and often also a school board .",
+        "text": "Municipal elections usually elect a mayor and city council and often also a school board .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "Some locations may also elect other bodies , such as Vancouver , which elects its own parks board .",
+        "text": "Some locations may also elect other bodies , such as Vancouver , which elects its own parks board .",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "06": {
+        "orig_text": "Some municipalities will also hold referenda or ballot initiatives at the same time , usually relating to spending projects or tax changes .",
+        "text": "Some municipalities will also hold referenda or ballot initiatives at the same time , usually relating to spending projects or tax changes .",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "Elections for city councils are held through either a ward system or at - large system , depending on the location .",
+        "text": "Elections for city councils are held through either a ward system or at - large system , depending on the location .",
+        "mention_ids": []
+      },
+      "08": {
+        "orig_text": "Vancouver is the largest city in Canada to use the at - large system , while most other larger cities use wards .",
+        "text": "Vancouver is the largest city in Canada to use the at - large system , while most other larger cities use wards .",
+        "mention_ids": [
+          "M0_1",
+          "M5_1"
+        ]
+      },
+      "09": {
+        "orig_text": "Most councils are non - partisan and elect only independents .",
+        "text": "Most councils are non - partisan and elect only independents .",
+        "mention_ids": []
+      },
+      "10": {
+        "orig_text": "However , some municipalities have locally based political parties or election slates .",
+        "text": "However , some municipalities have locally based political parties or election slates .",
+        "mention_ids": []
+      },
+      "11": {
+        "orig_text": "These include Montreal , Quebec City and Longueuil in Quebec and Vancouver , Victoria , Surrey and Richmond in British Columbia .",
+        "text": "These include Montreal , Quebec City and Longueuil in Quebec and Vancouver , Victoria , Surrey and Richmond in British Columbia .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M5_2",
+          "M6_0",
+          "M7_0",
+          "M7_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "12": {
+        "orig_text": "These local parties are rarely affiliated with any provincial or federal parties .",
+        "text": "These local parties are rarely affiliated with any provincial or federal parties .",
+        "mention_ids": []
+      },
+      "13": {
+        "orig_text": "Voting may be done with paper ballots that are hand - counted , or by various forms of electronic voting .",
+        "text": "Voting may be done with paper ballots that are hand - counted , or by various forms of electronic voting .",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          23,
+          29
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "08",
+        "span": [
+          33,
+          39
+        ],
+        "text": "Canada",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "11",
+        "span": [
+          88,
+          94
+        ],
+        "text": "Surrey",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "11",
+        "span": [
+          99,
+          107
+        ],
+        "text": "Richmond",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "11",
+        "span": [
+          111,
+          127
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E012"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          168,
+          171
+        ],
+        "text": "two",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          174,
+          179
+        ],
+        "text": "three",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          183,
+          193
+        ],
+        "text": "four years",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          29,
+          46
+        ],
+        "text": "Statistics Canada",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "05",
+        "span": [
+          53,
+          62
+        ],
+        "text": "Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          9
+        ],
+        "text": "Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_2": {
+        "sentence_id": "11",
+        "span": [
+          65,
+          74
+        ],
+        "text": "Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "11",
+        "span": [
+          14,
+          22
+        ],
+        "text": "Montreal",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "11",
+        "span": [
+          25,
+          36
+        ],
+        "text": "Quebec City",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M7_1": {
+        "sentence_id": "11",
+        "span": [
+          54,
+          60
+        ],
+        "text": "Quebec",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "11",
+        "span": [
+          41,
+          50
+        ],
+        "text": "Longueuil",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "11",
+        "span": [
+          77,
+          85
+        ],
+        "text": "Victoria",
+        "entity_type": "LOC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Statistics_Canada",
+          "wikidata": "http://www.wikidata.org/entity/Q1155740"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1",
+          "M5_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q24639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Montreal",
+          "wikidata": "http://www.wikidata.org/entity/Q340",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0",
+          "M7_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Quebec",
+          "wikidata": "http://www.wikidata.org/entity/Q176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%99%E3%83%83%E3%82%AF%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Longueuil",
+          "wikidata": "http://www.wikidata.org/entity/Q139398",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Victoria,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q2132",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Surrey,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q390583",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AC%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Richmond,_British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q236837",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%83%81%E3%83%A2%E3%83%B3%E3%83%89_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

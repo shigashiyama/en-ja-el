@@ -1,0 +1,428 @@
+{
+  "012": {
+    "doc_info": {
+      "title": null,
+      "url": "http://www.voxeurop.eu/en/content/news-brief/4888809-tsipras-exposes-european-president-tusk"
+    },
+    "sentences": {
+      "00": {
+        "text": "「チプラスが欧州理事会議長トゥスクを暴露」。",
+        "mention_ids": [
+          "M157",
+          "M158"
+        ]
+      },
+      "01": {
+        "text": "「アレクシス・チプラス首相下のギリシャは、経済レベルでも政治レベルでも欧州連合にとって厄介な存在になる可能性があります」とデ・スタンダールは書いています。",
+        "mention_ids": [
+          "M159",
+          "M160",
+          "M161",
+          "M162"
+        ]
+      },
+      "02": {
+        "text": "火曜日初め、トゥスクはEU外相に対し、木曜日の会合でロシアに対する新たな制裁を提案するよう要請していました。",
+        "mention_ids": [
+          "M163",
+          "M164",
+          "M165"
+        ]
+      },
+      "03": {
+        "text": "ギリシャ政府は、トゥスクは宣言を送る前にアテネに連絡すべきでしたと述べました。",
+        "mention_ids": [
+          "M166",
+          "M167"
+        ]
+      },
+      "04": {
+        "text": "『ブリュッセル』紙によると、チプラスは「プーチンの同盟者である可能性が高い。」月曜日の首相就任後、彼が最初に会った人物は駐ギリシャのロシア大使でした。",
+        "mention_ids": [
+          "M168",
+          "M169",
+          "M170",
+          "M171"
+        ]
+      }
+    },
+    "mentions": {
+      "M157": {
+        "sentence_id": "00",
+        "span": [
+          1,
+          5
+        ],
+        "text": "チプラス",
+        "entity_type": null,
+        "entity_id": "E157"
+      },
+      "M158": {
+        "sentence_id": "00",
+        "span": [
+          13,
+          17
+        ],
+        "text": "トゥスク",
+        "entity_type": null,
+        "entity_id": "E158"
+      },
+      "M159": {
+        "sentence_id": "01",
+        "span": [
+          15,
+          19
+        ],
+        "text": "ギリシャ",
+        "entity_type": null,
+        "entity_id": "E159"
+      },
+      "M160": {
+        "sentence_id": "01",
+        "span": [
+          1,
+          11
+        ],
+        "text": "アレクシス・チプラス",
+        "entity_type": null,
+        "entity_id": "E160"
+      },
+      "M161": {
+        "sentence_id": "01",
+        "span": [
+          35,
+          39
+        ],
+        "text": "欧州連合",
+        "entity_type": null,
+        "entity_id": "E161"
+      },
+      "M162": {
+        "sentence_id": "01",
+        "span": [
+          61,
+          69
+        ],
+        "text": "デ・スタンダール",
+        "entity_type": null,
+        "entity_id": "E162"
+      },
+      "M163": {
+        "sentence_id": "02",
+        "span": [
+          6,
+          10
+        ],
+        "text": "トゥスク",
+        "entity_type": null,
+        "entity_id": "E163"
+      },
+      "M164": {
+        "sentence_id": "02",
+        "span": [
+          11,
+          13
+        ],
+        "text": "EU",
+        "entity_type": null,
+        "entity_id": "E164"
+      },
+      "M165": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          29
+        ],
+        "text": "ロシア",
+        "entity_type": null,
+        "entity_id": "E165"
+      },
+      "M166": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          12
+        ],
+        "text": "トゥスク",
+        "entity_type": null,
+        "entity_id": "E166"
+      },
+      "M167": {
+        "sentence_id": "03",
+        "span": [
+          20,
+          23
+        ],
+        "text": "アテネ",
+        "entity_type": null,
+        "entity_id": "E167"
+      },
+      "M168": {
+        "sentence_id": "04",
+        "span": [
+          1,
+          7
+        ],
+        "text": "ブリュッセル",
+        "entity_type": null,
+        "entity_id": "E168"
+      },
+      "M169": {
+        "sentence_id": "04",
+        "span": [
+          14,
+          18
+        ],
+        "text": "チプラス",
+        "entity_type": null,
+        "entity_id": "E169"
+      },
+      "M170": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          24
+        ],
+        "text": "プーチン",
+        "entity_type": null,
+        "entity_id": "E170"
+      },
+      "M171": {
+        "sentence_id": "04",
+        "span": [
+          61,
+          65
+        ],
+        "text": "ギリシャ",
+        "entity_type": null,
+        "entity_id": "E171"
+      }
+    },
+    "entities": {
+      "E157": {
+        "member_mention_ids": [
+          "M157"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E158": {
+        "member_mention_ids": [
+          "M158"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk",
+          "wikidata": "http://www.wikidata.org/entity/Q946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%82%A5%E3%82%B9%E3%82%AF"
+        }
+      },
+      "E159": {
+        "member_mention_ids": [
+          "M159"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      },
+      "E160": {
+        "member_mention_ids": [
+          "M160"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E161": {
+        "member_mention_ids": [
+          "M161"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E162": {
+        "member_mention_ids": [
+          "M162"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/De_Standaard",
+          "wikidata": "http://www.wikidata.org/entity/Q1180325"
+        }
+      },
+      "E163": {
+        "member_mention_ids": [
+          "M163"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk",
+          "wikidata": "http://www.wikidata.org/entity/Q946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%82%A5%E3%82%B9%E3%82%AF"
+        }
+      },
+      "E164": {
+        "member_mention_ids": [
+          "M164"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/European_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88"
+        }
+      },
+      "E165": {
+        "member_mention_ids": [
+          "M165"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        }
+      },
+      "E166": {
+        "member_mention_ids": [
+          "M166"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Tusk",
+          "wikidata": "http://www.wikidata.org/entity/Q946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%82%A5%E3%82%B9%E3%82%AF"
+        }
+      },
+      "E167": {
+        "member_mention_ids": [
+          "M167"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Athens",
+          "wikidata": "http://www.wikidata.org/entity/Q1524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%8D"
+        }
+      },
+      "E168": {
+        "member_mention_ids": [
+          "M168"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Brussels",
+          "wikidata": "http://www.wikidata.org/entity/Q240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
+        }
+      },
+      "E169": {
+        "member_mention_ids": [
+          "M169"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Alexis_Tsipras",
+          "wikidata": "http://www.wikidata.org/entity/Q312015",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9"
+        }
+      },
+      "E170": {
+        "member_mention_ids": [
+          "M170"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+          "wikidata": "http://www.wikidata.org/entity/Q7747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%BC%E3%83%9F%E3%83%AB%E3%83%BB%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3"
+        }
+      },
+      "E171": {
+        "member_mention_ids": [
+          "M171"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Greece",
+          "wikidata": "http://www.wikidata.org/entity/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3"
+        }
+      }
+    }
+  }
+}

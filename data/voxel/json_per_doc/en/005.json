@@ -1,0 +1,208 @@
+{
+  "005": {
+    "doc_info": {
+      "title": null,
+      "url": "www.voxeurop.eu/en/content/cartoon/5114856-new-trend"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "The Donald Trump's victory in the American presidential election, on 8 November after a brutal and a campaign of provocation, has unleashed a wave of concern in Europe.",
+        "text": "The Donald Trump's victory in the American presidential election, on 8 November after a brutal and a campaign of provocation, has unleashed a wave of concern in Europe.",
+        "mention_ids": [
+          "M065",
+          "M066"
+        ]
+      },
+      "01": {
+        "orig_text": "Some populist leaders however, like the Hungarian Viktor Orbán, the Dutch Geert Wilders, the German Frauke Petry and the French Marine Le Pen, were delighted, as they believe that Trump's election will take advantage of it in the upcoming elections in their respective countries.",
+        "text": "Some populist leaders however, like the Hungarian Viktor Orbán, the Dutch Geert Wilders, the German Frauke Petry and the French Marine Le Pen, were delighted, as they believe that Trump's election will take advantage of it in the upcoming elections in their respective countries.",
+        "mention_ids": [
+          "M067",
+          "M068",
+          "M069",
+          "M070",
+          "M071"
+        ]
+      }
+    },
+    "mentions": {
+      "M065": {
+        "sentence_id": "00",
+        "span": [
+          4,
+          16
+        ],
+        "text": "Donald Trump",
+        "entity_type": null,
+        "entity_id": "E065"
+      },
+      "M066": {
+        "sentence_id": "00",
+        "span": [
+          161,
+          167
+        ],
+        "text": "Europe",
+        "entity_type": null,
+        "entity_id": "E066"
+      },
+      "M067": {
+        "sentence_id": "01",
+        "span": [
+          50,
+          62
+        ],
+        "text": "Viktor Orbán",
+        "entity_type": null,
+        "entity_id": "E067"
+      },
+      "M068": {
+        "sentence_id": "01",
+        "span": [
+          74,
+          87
+        ],
+        "text": "Geert Wilders",
+        "entity_type": null,
+        "entity_id": "E068"
+      },
+      "M069": {
+        "sentence_id": "01",
+        "span": [
+          100,
+          112
+        ],
+        "text": "Frauke Petry",
+        "entity_type": null,
+        "entity_id": "E069"
+      },
+      "M070": {
+        "sentence_id": "01",
+        "span": [
+          128,
+          141
+        ],
+        "text": "Marine Le Pen",
+        "entity_type": null,
+        "entity_id": "E070"
+      },
+      "M071": {
+        "sentence_id": "01",
+        "span": [
+          180,
+          186
+        ],
+        "text": "Trump'",
+        "entity_type": null,
+        "entity_id": "E071"
+      }
+    },
+    "entities": {
+      "E065": {
+        "member_mention_ids": [
+          "M065"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "wikidata": "http://www.wikidata.org/entity/Q22686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97"
+        }
+      },
+      "E066": {
+        "member_mention_ids": [
+          "M066"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        }
+      },
+      "E067": {
+        "member_mention_ids": [
+          "M067"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n",
+          "wikidata": "http://www.wikidata.org/entity/Q57641",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%90%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AB"
+        }
+      },
+      "E068": {
+        "member_mention_ids": [
+          "M068"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Geert_Wilders",
+          "wikidata": "http://www.wikidata.org/entity/Q105338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B9"
+        }
+      },
+      "E069": {
+        "member_mention_ids": [
+          "M069"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Frauke_Petry",
+          "wikidata": "http://www.wikidata.org/entity/Q7477615",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A6%E3%82%B1%E3%83%BB%E3%83%9A%E3%83%88%E3%83%AA%E3%83%BC"
+        }
+      },
+      "E070": {
+        "member_mention_ids": [
+          "M070"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Marine_Le_Pen",
+          "wikidata": "http://www.wikidata.org/entity/Q12927",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8C%E3%83%BB%E3%83%AB%E3%83%BB%E3%83%9A%E3%83%B3"
+        }
+      },
+      "E071": {
+        "member_mention_ids": [
+          "M071"
+        ],
+        "entity_type": null,
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "wikidata": "http://www.wikidata.org/entity/Q22686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97"
+        }
+      }
+    }
+  }
+}

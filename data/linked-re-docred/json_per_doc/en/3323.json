@@ -1,0 +1,418 @@
+{
+  "3323": {
+    "doc_info": {
+      "title": "National Flag Square",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "National Flag Square ( ) is a large city square off Neftchiler Avenue in Bayil , Baku , Azerbaijan .",
+        "text": "National Flag Square ( ) is a large city square off Neftchiler Avenue in Bayil , Baku , Azerbaijan .",
+        "mention_ids": [
+          "M0_1",
+          "M1_0",
+          "M1_1",
+          "M2_0",
+          "M3_1"
+        ]
+      },
+      "01": {
+        "orig_text": "A flag measuring flies on a pole high .",
+        "text": "A flag measuring 35 by 70 metres (115 by 230 feet) flew on a free–standing flagpole in the square, 162 m (531 ft) high.",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "The flagpole was confirmed as the world 's tallest by the Guinness Book of Records , but was soon overtaken by the 165 m Dushanbe Flagpole in Tajikistan .",
+        "text": "The flagpole was confirmed as the world 's tallest by the Guinness Book of Records , but was soon overtaken by the 165 m Dushanbe Flagpole in Tajikistan .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Both flagpoles were built by the same American affiliated company , Trident Support .",
+        "text": "Both flagpoles were built by the same American affiliated company , Trident Support .",
+        "mention_ids": [
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "orig_text": "National Flag Square covers overall .",
+        "text": "National Flag Square covers overall .",
+        "mention_ids": [
+          "M0_2"
+        ]
+      },
+      "05": {
+        "orig_text": "The area of the upper part is .",
+        "text": "The area of the upper part is 3 hectares (7.4 acres).",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The square features the state symbols of Azerbaijan — the coat of arms and the anthem — and a map of the country .",
+        "text": "The square features the state symbols of Azerbaijan — the coat of arms and the anthem — and a map of the country .",
+        "mention_ids": [
+          "M3_0"
+        ]
+      },
+      "07": {
+        "orig_text": "As of October 2017 , the Flag Post is dismounted and the National Flag Square closed from public access with fences .",
+        "text": "As of October 2017 , the Flag Post is dismounted and the National Flag Square closed from public access with fences .",
+        "mention_ids": [
+          "M0_0",
+          "M10_0",
+          "M11_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "07",
+        "span": [
+          57,
+          77
+        ],
+        "text": "National Flag Square",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          20
+        ],
+        "text": "National Flag Square",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          20
+        ],
+        "text": "National Flag Square",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          6,
+          18
+        ],
+        "text": "October 2017",
+        "entity_type": "TIME",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          25,
+          34
+        ],
+        "text": "Flag Post",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          52,
+          69
+        ],
+        "text": "Neftchiler Avenue",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "00",
+        "span": [
+          81,
+          85
+        ],
+        "text": "Baku",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          73,
+          78
+        ],
+        "text": "Bayil",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "06",
+        "span": [
+          41,
+          51
+        ],
+        "text": "Azerbaijan",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          88,
+          98
+        ],
+        "text": "Azerbaijan",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "02",
+        "span": [
+          58,
+          82
+        ],
+        "text": "Guinness Book of Records",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          115,
+          120
+        ],
+        "text": "165 m",
+        "entity_type": "NUM",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          121,
+          138
+        ],
+        "text": "Dushanbe Flagpole",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          142,
+          152
+        ],
+        "text": "Tajikistan",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          46
+        ],
+        "text": "American",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          68,
+          83
+        ],
+        "text": "Trident Support",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/National_Flag_Square",
+          "wikidata": "http://www.wikidata.org/entity/Q621107"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Neftchilar_Avenue",
+          "wikidata": "http://www.wikidata.org/entity/Q4381302",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Neftchiler_Avenue"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bayil",
+          "wikidata": "http://www.wikidata.org/entity/Q803856"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Azerbaijan",
+          "wikidata": "http://www.wikidata.org/entity/Q227",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Guinness_World_Records",
+          "wikidata": "http://www.wikidata.org/entity/Q41675",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Guinness_Book_of_Records",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9%E4%B8%96%E7%95%8C%E8%A8%98%E9%8C%B2"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dushanbe_Flagpole",
+          "wikidata": "http://www.wikidata.org/entity/Q5316867"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Tajikistan",
+          "wikidata": "http://www.wikidata.org/entity/Q863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B8%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

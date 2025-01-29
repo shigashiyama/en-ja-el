@@ -1,0 +1,416 @@
+{
+  "0127576": {
+    "doc_info": {
+      "title": "127576_Apple_launches_new",
+      "url": "http://en.wikinews.org/wiki/Apple_launches_new,_faster_iPhone"
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Apple launches new, faster iPhone",
+        "text": "Apple launches new, faster iPhone",
+        "mention_ids": [
+          "M011",
+          "M013"
+        ]
+      },
+      "01": {
+        "orig_text": "June 09, 2009",
+        "text": "June 09, 2009",
+        "mention_ids": []
+      },
+      "02": {
+        "orig_text": "Apple Computer today announced its latest iteration of their popular iPhone, the iPhone 3GS.",
+        "text": "Apple Computer today announced its latest iteration of their popular iPhone, the iPhone 3GS.",
+        "mention_ids": [
+          "M023",
+          "M030"
+        ]
+      },
+      "03": {
+        "orig_text": "The new hardware, revealed at the company's annual Worldwide Developers Conference drew attention from the media and iPhone owners alike.",
+        "text": "The new hardware, revealed at the company's annual Worldwide Developers Conference drew attention from the media and iPhone owners alike.",
+        "mention_ids": [
+          "M006",
+          "M033"
+        ]
+      },
+      "04": {
+        "orig_text": "Features new to the iPhone include an upgraded camera, which also allows users to record video and sound, as well as ``voice control``, which will allow users to control most features of the iPhone with their voice.",
+        "text": "Features new to the iPhone include an upgraded camera, which also allows users to record video and sound, as well as ``voice control``, which will allow users to control most features of the iPhone with their voice.",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M020",
+          "M024",
+          "M028",
+          "M032",
+          "M034"
+        ]
+      },
+      "05": {
+        "orig_text": "The new phone will also come pre-loaded with the new iPhone 3.0 software, which will be available on June 17, two days before the phone launches.",
+        "text": "The new phone will also come pre-loaded with the new iPhone 3.0 software, which will be available on June 17, two days before the phone launches.",
+        "mention_ids": [
+          "M008",
+          "M036"
+        ]
+      },
+      "06": {
+        "orig_text": "In addition to the new iPhone hardware, Apple also demonstrated some of the features of its new desktop operating system, Snow Leopard, and highlighted the new Safari 4.0 web browser.",
+        "text": "In addition to the new iPhone hardware, Apple also demonstrated some of the features of its new desktop operating system, Snow Leopard, and highlighted the new Safari 4.0 web browser.",
+        "mention_ids": []
+      },
+      "07": {
+        "orig_text": "The iPhone 3GS will be available in a 16 GB and 32 GB models, retailing for US$199 and $299 respectively.",
+        "text": "The iPhone 3GS will be available in a 16 GB and 32 GB models, retailing for US$199 and $299 respectively.",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M006": {
+        "sentence_id": "03",
+        "span": [
+          103,
+          130
+        ],
+        "text": "the media and iPhone owners",
+        "entity_type": null,
+        "entity_id": "E146"
+      },
+      "M008": {
+        "sentence_id": "05",
+        "span": [
+          45,
+          144
+        ],
+        "text": "the new iPhone 3.0 software, which will be available on June 17, two days before the phone launches",
+        "entity_type": null,
+        "entity_id": "E135"
+      },
+      "M011": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          5
+        ],
+        "text": "Apple",
+        "entity_type": null,
+        "entity_id": "E145"
+      },
+      "M013": {
+        "sentence_id": "00",
+        "span": [
+          15,
+          33
+        ],
+        "text": "new, faster iPhone",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M017": {
+        "sentence_id": "04",
+        "span": [
+          153,
+          158
+        ],
+        "text": "users",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M018": {
+        "sentence_id": "04",
+        "span": [
+          170,
+          197
+        ],
+        "text": "most features of the iPhone",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M020": {
+        "sentence_id": "04",
+        "span": [
+          136,
+          141
+        ],
+        "text": "which",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M023": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Apple Computer",
+        "entity_type": null,
+        "entity_id": "E145"
+      },
+      "M024": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          26
+        ],
+        "text": "Features new to the iPhone",
+        "entity_type": null,
+        "entity_id": "E147"
+      },
+      "M028": {
+        "sentence_id": "04",
+        "span": [
+          119,
+          132
+        ],
+        "text": "voice control",
+        "entity_type": null,
+        "entity_id": "E141"
+      },
+      "M030": {
+        "sentence_id": "02",
+        "span": [
+          31,
+          92
+        ],
+        "text": "its latest iteration of their popular iPhone, the iPhone 3GS.",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M032": {
+        "sentence_id": "04",
+        "span": [
+          35,
+          104
+        ],
+        "text": "an upgraded camera, which also allows users to record video and sound",
+        "entity_type": null,
+        "entity_id": "E140"
+      },
+      "M033": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          82
+        ],
+        "text": "The new hardware, revealed at the company's annual Worldwide Developers Conference",
+        "entity_type": null,
+        "entity_id": "E139"
+      },
+      "M034": {
+        "sentence_id": "04",
+        "span": [
+          203,
+          208
+        ],
+        "text": "their",
+        "entity_type": null,
+        "entity_id": "E143"
+      },
+      "M036": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          13
+        ],
+        "text": "The new phone",
+        "entity_type": null,
+        "entity_id": "E139"
+      }
+    },
+    "entities": {
+      "E135": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M004",
+          "M005",
+          "M008"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E136": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M016"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E137": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M002"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Media",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Media",
+          "wikidata": "http://www.wikidata.org/entity/Q1727518",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2"
+        }
+      },
+      "E138": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M031"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E139": {
+        "member_mention_ids": [
+          "M013",
+          "M030",
+          "M033",
+          "M036"
+        ],
+        "removed_mention_ids": [
+          "M029",
+          "M003",
+          "M007",
+          "M009",
+          "M019",
+          "M022",
+          "M026"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E140": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "removed_mention_ids": [
+          "M010",
+          "M012"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E141": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "removed_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E142": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M015"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E143": {
+        "member_mention_ids": [
+          "M017",
+          "M034"
+        ],
+        "removed_mention_ids": [
+          "M014"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E144": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M001"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E145": {
+        "member_mention_ids": [
+          "M011",
+          "M023"
+        ],
+        "removed_mention_ids": [
+          "M035",
+          "M025",
+          "M027"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Apple_Inc.",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "wikidata": "http://www.wikidata.org/entity/Q312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple"
+        }
+      },
+      "E146": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M006"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E147": {
+        "member_mention_ids": [
+          "M018",
+          "M024"
+        ],
+        "entity_type": "PRO",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

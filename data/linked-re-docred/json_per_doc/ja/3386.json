@@ -1,0 +1,991 @@
+{
+  "3386": {
+    "doc_info": {
+      "title": "Clandestine literature",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "秘密文学は、「地下文学」とも呼ばれ、自己出版作品を伴う編集および出版プロセスの一種を指し、多くの場合、場所の法的基準に矛盾します。",
+        "mention_ids": [
+          "M0_0",
+          "M0_2"
+        ]
+      },
+      "01": {
+        "text": "秘密文書は、多くの場合、検閲、訴追などの圧力を回避する試みです。",
+        "mention_ids": [
+          "M0_1"
+        ]
+      },
+      "02": {
+        "text": "学術研究では、このような文献は、(公式に認可された正統な出版とは対照的に)異端的な出版物と呼ばれることがあります。",
+        "mention_ids": []
+      },
+      "03": {
+        "text": "秘密文学の例には、ソビエト反体制派のサミズダート文献や、アル・アンダルス・スペインのアルハミヤ文学、10世紀から19世紀頃の中国湖南で一部の上流階級女性が書いた女書があります。",
+        "mention_ids": [
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0",
+          "M5_0",
+          "M6_0",
+          "M7_0",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "04": {
+        "text": "18世紀のフランスの啓蒙時代には秘密出版物が数多く存在し、パンフレットまたは写本として流通し、アンシャン・レジームが非常に冒涜的であると考えた文章やあからさまな無神論の文章が含まれていました。",
+        "mention_ids": [
+          "M11_0",
+          "M12_0",
+          "M13_0",
+          "M14_0"
+        ]
+      },
+      "05": {
+        "text": "これらの秘密写本は、1720年代に特に栄え、三人の詐欺師の論文や牧師ジャン・メジエールの無神論的遺言などの物議を醸した作品が含まれていました。",
+        "mention_ids": [
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "06": {
+        "text": "両方のテキストは後にヴォルテールによって編集されたバージョンで出版されましたが、手書きの写本はヨーロッパ中の私立図書館にあります。",
+        "mention_ids": [
+          "M18_0",
+          "M19_0"
+        ]
+      },
+      "07": {
+        "text": "18世紀フランスの秘密文学には、近隣のスイスまたはオランダで制作され、フランスに密輸された印刷物も含まれていました。",
+        "mention_ids": [
+          "M12_1",
+          "M13_1",
+          "M13_2",
+          "M20_0",
+          "M21_0"
+        ]
+      },
+      "08": {
+        "text": "これらの本は通常「哲学書」と呼ばれますが、ポルノ、ユートピア小説、政治的中傷、さらにはドルバック男爵やジュリアン・オフレイ・ド・ラ・メトリー、ジャン=ジャック・ルソーなどの急進的な啓蒙哲学者による現実哲学作品など、その内容は多岐にわたりました。",
+        "mention_ids": [
+          "M22_0",
+          "M23_0",
+          "M24_0"
+        ]
+      },
+      "09": {
+        "text": "法律を破ろうとする意欲は、作品が政府の立場に反する場合、または権力機関に脅威をもたらす場合などのイデオロギー的な理由による場合がありますが、出版物が流通した印刷物に課せられた法的規制に従わない場合、形式上のレベルを理由にする場合もあります。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "地下文学は秘密文学の一種であり、必ずしも当時の検閲を回避することが目的ではありません。多くの場合、著者自身が資金を出しているため、著者らの目的が、出版コストを下げることだけかもしれません。",
+        "mention_ids": []
+      },
+      "11": {
+        "text": "『資本論』や『El Buscón』など、もともと秘密の手段で出版された作品も、最終的には正統な文学として確立される可能性があります。",
+        "mention_ids": [
+          "M25_0",
+          "M26_0"
+        ]
+      },
+      "12": {
+        "text": "ある管轄区域内の正規の出版社は、他の地域の作家が海外で出版できるようにすることで、自国の法律を回避できるよう支援することができます。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "パリのオリンピア・プレスは、当時、自国で検閲を受け、起訴される可能性があったヘンリー・ミラーなどの数人の20世紀の英語作家の書籍を出版しました。",
+        "mention_ids": [
+          "M27_0",
+          "M28_0",
+          "M29_0",
+          "M30_0",
+          "M31_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          7,
+          11
+        ],
+        "text": "地下文学",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          4
+        ],
+        "text": "秘密文書",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          4
+        ],
+        "text": "秘密文学",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M11_0": {
+        "sentence_id": "04",
+        "span": [
+          10,
+          14
+        ],
+        "text": "啓蒙時代",
+        "entity_type": "MISC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          4
+        ],
+        "text": "18世紀",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M12_1": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          4
+        ],
+        "text": "18世紀",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "04",
+        "span": [
+          5,
+          9
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          8
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M13_2": {
+        "sentence_id": "07",
+        "span": [
+          35,
+          39
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "04",
+        "span": [
+          47,
+          57
+        ],
+        "text": "アンシャン・レジーム",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "05",
+        "span": [
+          10,
+          16
+        ],
+        "text": "1720年代",
+        "entity_type": "TIME",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          22,
+          31
+        ],
+        "text": "三人の詐欺師の論文",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          34,
+          50
+        ],
+        "text": "ジャン・メジエールの無神論的遺言",
+        "entity_type": "MISC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "06",
+        "span": [
+          10,
+          16
+        ],
+        "text": "ヴォルテール",
+        "entity_type": "PER",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "06",
+        "span": [
+          47,
+          52
+        ],
+        "text": "ヨーロッパ",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "03",
+        "span": [
+          18,
+          24
+        ],
+        "text": "サミズダート",
+        "entity_type": "MISC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "07",
+        "span": [
+          19,
+          22
+        ],
+        "text": "スイス",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "07",
+        "span": [
+          25,
+          29
+        ],
+        "text": "オランダ",
+        "entity_type": "LOC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "08",
+        "span": [
+          43,
+          50
+        ],
+        "text": "ドルバック男爵",
+        "entity_type": "PER",
+        "entity_id": "E022"
+      },
+      "M23_0": {
+        "sentence_id": "08",
+        "span": [
+          51,
+          70
+        ],
+        "text": "ジュリアン・オフレイ・ド・ラ・メトリー",
+        "entity_type": "PER",
+        "entity_id": "E023"
+      },
+      "M24_0": {
+        "sentence_id": "08",
+        "span": [
+          71,
+          83
+        ],
+        "text": "ジャン=ジャック・ルソー",
+        "entity_type": "PER",
+        "entity_id": "E024"
+      },
+      "M25_0": {
+        "sentence_id": "11",
+        "span": [
+          1,
+          4
+        ],
+        "text": "資本論",
+        "entity_type": "MISC",
+        "entity_id": "E025"
+      },
+      "M26_0": {
+        "sentence_id": "11",
+        "span": [
+          7,
+          16
+        ],
+        "text": "El Buscón",
+        "entity_type": "MISC",
+        "entity_id": "E026"
+      },
+      "M27_0": {
+        "sentence_id": "13",
+        "span": [
+          3,
+          12
+        ],
+        "text": "オリンピア・プレス",
+        "entity_type": "ORG",
+        "entity_id": "E027"
+      },
+      "M28_0": {
+        "sentence_id": "13",
+        "span": [
+          0,
+          2
+        ],
+        "text": "パリ",
+        "entity_type": "LOC",
+        "entity_id": "E028"
+      },
+      "M29_0": {
+        "sentence_id": "13",
+        "span": [
+          52,
+          56
+        ],
+        "text": "20世紀",
+        "entity_type": "TIME",
+        "entity_id": "E029"
+      },
+      "M2_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          13
+        ],
+        "text": "ソビエト",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M30_0": {
+        "sentence_id": "13",
+        "span": [
+          57,
+          58
+        ],
+        "text": "英",
+        "entity_type": "MISC",
+        "entity_id": "E030"
+      },
+      "M31_0": {
+        "sentence_id": "13",
+        "span": [
+          38,
+          46
+        ],
+        "text": "ヘンリー・ミラー",
+        "entity_type": "PER",
+        "entity_id": "E031"
+      },
+      "M3_0": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          47
+        ],
+        "text": "アルハミヤ",
+        "entity_type": "MISC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "03",
+        "span": [
+          28,
+          41
+        ],
+        "text": "アル・アンダルス・スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          80,
+          82
+        ],
+        "text": "女書",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          64,
+          66
+        ],
+        "text": "湖南",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          62,
+          64
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "03",
+        "span": [
+          50,
+          54
+        ],
+        "text": "10世紀",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "03",
+        "span": [
+          56,
+          60
+        ],
+        "text": "19世紀",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Clandestine_literature",
+          "wikidata": "http://www.wikidata.org/entity/Q3821764"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Samizdat",
+          "wikidata": "http://www.wikidata.org/entity/Q152416",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9F%E3%82%BA%E3%83%80%E3%83%BC%E3%83%88"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Soviet_Union",
+          "wikidata": "http://www.wikidata.org/entity/Q15180",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E9%80%A3%E9%82%A6"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Aljamiado",
+          "wikidata": "http://www.wikidata.org/entity/Q36652",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%8F%E3%83%9F%E3%83%A4%E3%83%BC%E6%96%87%E5%AD%A6"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Al-Andalus",
+          "wikidata": "http://www.wikidata.org/entity/Q123559",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%AB%E3%82%B9"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/N%C3%BCshu",
+          "wikidata": "http://www.wikidata.org/entity/Q56436",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Nushu",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E6%9B%B8"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Hunan",
+          "wikidata": "http://www.wikidata.org/entity/Q45761",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B9%96%E5%8D%97%E7%9C%81"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/China",
+          "wikidata": "http://www.wikidata.org/entity/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+          "wikidata": "http://www.wikidata.org/entity/Q12539",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/French_Enlightenment",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%95%93%E8%92%99%E6%99%82%E4%BB%A3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0",
+          "M12_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1",
+          "M13_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/France",
+          "wikidata": "http://www.wikidata.org/entity/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ancien_r%C3%A9gime",
+          "wikidata": "http://www.wikidata.org/entity/Q234081",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Ancien_Régime",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%A0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Treatise_of_the_Three_Impostors",
+          "wikidata": "http://www.wikidata.org/entity/Q1180742"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
+          "wikidata": "http://www.wikidata.org/entity/Q9068",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%83%BC%E3%83%AB"
+        },
+        "date_of_death": "1778-05-30T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q39",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Netherlands",
+          "wikidata": "http://www.wikidata.org/entity/Q55",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Baron_d%27Holbach",
+          "wikidata": "http://www.wikidata.org/entity/Q7104",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Baron_d'Holbach",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%EF%BC%9D%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AA%E3%83%BB%E3%83%89%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF"
+        },
+        "date_of_death": "1789-01-21T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M23_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie",
+          "wikidata": "http://www.wikidata.org/entity/Q7068",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%95%E3%83%AC%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC"
+        },
+        "date_of_death": "1751-11-11T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M24_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+          "wikidata": "http://www.wikidata.org/entity/Q6527",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%EF%BC%9D%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AB%E3%82%BD%E3%83%BC"
+        },
+        "date_of_death": "1778-07-02T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M25_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Das_Kapital",
+          "wikidata": "http://www.wikidata.org/entity/Q58784",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B3%87%E6%9C%AC%E8%AB%96"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M26_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/El_Busc%C3%B3n",
+          "wikidata": "http://www.wikidata.org/entity/Q584572",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/El_Buscón"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M27_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Olympia_Press",
+          "wikidata": "http://www.wikidata.org/entity/Q532567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M28_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paris",
+          "wikidata": "http://www.wikidata.org/entity/Q90",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M29_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M30_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/English_people",
+          "wikidata": "http://www.wikidata.org/entity/Q42406",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M31_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Henry_Miller",
+          "wikidata": "http://www.wikidata.org/entity/Q187765",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+        },
+        "date_of_death": "1980-06-07T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

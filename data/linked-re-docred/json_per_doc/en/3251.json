@@ -1,0 +1,768 @@
+{
+  "3251": {
+    "doc_info": {
+      "title": "Canton of Raetia",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Raetia was the name of a canton of the Helvetic Republic from 1798 to 1803 , corresponding to modern Graubünden and composed of the Free State of the Three Leagues .",
+        "text": "Raetia was the name of a canton of the Helvetic Republic from 1798 to 1803 , corresponding to modern Graubünden and composed of the Free State of the Three Leagues .",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_1",
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "01": {
+        "orig_text": "Until 1799 , the canton was administered by the central government of the Helvetic Republic .",
+        "text": "Until 1799 , the canton was administered by the central government of the Helvetic Republic .",
+        "mention_ids": [
+          "M1_1",
+          "M6_0"
+        ]
+      },
+      "02": {
+        "orig_text": "The districts of Chiavenna , Valtellina and Bormio , previously dependencies of the Leagues , were never a part of the canton , having permanently been detached from the Leagues after Revolutionary France fomented revolt there , leading them to be annexed to the Cisalpine Republic on October 10 , 1797 .",
+        "text": "The districts of Chiavenna , Valtellina and Bormio , previously dependencies of the Leagues , were never a part of the canton , having permanently been detached from the Leagues after Revolutionary France fomented revolt there , leading them to be annexed to the Cisalpine Republic on October 10 , 1797 .",
+        "mention_ids": [
+          "M0_2",
+          "M10_0",
+          "M11_0",
+          "M12_0",
+          "M7_0",
+          "M8_0",
+          "M9_0",
+          "M9_1"
+        ]
+      },
+      "03": {
+        "orig_text": "The districts subsequently joined the Austrian client kingdom of Lombardy - Venetia after the Congress of Vienna and eventually become the Italian province of Sondrio .",
+        "text": "The districts subsequently joined the Austrian client kingdom of Lombardy - Venetia after the Congress of Vienna and eventually become the Italian province of Sondrio .",
+        "mention_ids": [
+          "M13_0",
+          "M14_0",
+          "M15_0",
+          "M16_0",
+          "M17_0"
+        ]
+      },
+      "04": {
+        "orig_text": "The town of Campione , an imperial fief into the Landvogtei of Lugano at the same time , joined Lombardy leading to its current position as an Italian enclave within Ticino .",
+        "text": "The town of Campione , an imperial fief into the Landvogtei of Lugano at the same time , joined Lombardy leading to its current position as an Italian enclave within Ticino .",
+        "mention_ids": [
+          "M16_1",
+          "M18_0",
+          "M19_0",
+          "M20_0"
+        ]
+      },
+      "05": {
+        "orig_text": "With the Napoleonic Act of Mediation in 1803 , the canton was reestablished as Graubünden , finally incorporating the Three Leagues into a decentralized and federal Switzerland .",
+        "text": "With the Napoleonic Act of Mediation in 1803 , the canton was reestablished as Graubünden , finally incorporating the Three Leagues into a decentralized and federal Switzerland .",
+        "mention_ids": [
+          "M21_0",
+          "M22_0",
+          "M3_0",
+          "M4_1",
+          "M5_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "Raetia",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          132,
+          142
+        ],
+        "text": "Free State",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          50
+        ],
+        "text": "Bormio",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          184,
+          204
+        ],
+        "text": "Revolutionary France",
+        "entity_type": "MISC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          263,
+          272
+        ],
+        "text": "Cisalpine",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "02",
+        "span": [
+          285,
+          302
+        ],
+        "text": "October 10 , 1797",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          38,
+          46
+        ],
+        "text": "Austrian",
+        "entity_type": "LOC",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          65,
+          83
+        ],
+        "text": "Lombardy - Venetia",
+        "entity_type": "LOC",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "03",
+        "span": [
+          94,
+          112
+        ],
+        "text": "Congress of Vienna",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "03",
+        "span": [
+          139,
+          146
+        ],
+        "text": "Italian",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M16_1": {
+        "sentence_id": "04",
+        "span": [
+          143,
+          150
+        ],
+        "text": "Italian",
+        "entity_type": "LOC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "03",
+        "span": [
+          159,
+          166
+        ],
+        "text": "Sondrio",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M18_0": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          20
+        ],
+        "text": "Campione",
+        "entity_type": "LOC",
+        "entity_id": "E018"
+      },
+      "M19_0": {
+        "sentence_id": "04",
+        "span": [
+          49,
+          59
+        ],
+        "text": "Landvogtei",
+        "entity_type": "LOC",
+        "entity_id": "E019"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          47
+        ],
+        "text": "Helvetic",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "01",
+        "span": [
+          74,
+          82
+        ],
+        "text": "Helvetic",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M20_0": {
+        "sentence_id": "04",
+        "span": [
+          166,
+          172
+        ],
+        "text": "Ticino",
+        "entity_type": "LOC",
+        "entity_id": "E020"
+      },
+      "M21_0": {
+        "sentence_id": "05",
+        "span": [
+          9,
+          36
+        ],
+        "text": "Napoleonic Act of Mediation",
+        "entity_type": "MISC",
+        "entity_id": "E021"
+      },
+      "M22_0": {
+        "sentence_id": "05",
+        "span": [
+          165,
+          176
+        ],
+        "text": "Switzerland",
+        "entity_type": "LOC",
+        "entity_id": "E022"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          62,
+          66
+        ],
+        "text": "1798",
+        "entity_type": "TIME",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "05",
+        "span": [
+          40,
+          44
+        ],
+        "text": "1803",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          70,
+          74
+        ],
+        "text": "1803",
+        "entity_type": "TIME",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          101,
+          111
+        ],
+        "text": "Graubünden",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "05",
+        "span": [
+          79,
+          89
+        ],
+        "text": "Graubünden",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "00",
+        "span": [
+          150,
+          163
+        ],
+        "text": "Three Leagues",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M5_1": {
+        "sentence_id": "05",
+        "span": [
+          118,
+          131
+        ],
+        "text": "Three Leagues",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          6,
+          10
+        ],
+        "text": "1799",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          26
+        ],
+        "text": "Chiavenna",
+        "entity_type": "LOC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          39
+        ],
+        "text": "Valtellina",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          84,
+          91
+        ],
+        "text": "Leagues",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      },
+      "M9_1": {
+        "sentence_id": "02",
+        "span": [
+          170,
+          177
+        ],
+        "text": "Leagues",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Raetia",
+          "wikidata": "http://www.wikidata.org/entity/Q156789",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Helvetic_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q206696",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%86%E3%82%A3%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Grisons",
+          "wikidata": "http://www.wikidata.org/entity/Q11925",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Graubünden",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%93%E3%83%A5%E3%83%B3%E3%83%87%E3%83%B3%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0",
+          "M5_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Three_Leagues",
+          "wikidata": "http://www.wikidata.org/entity/Q672685",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%90%8C%E7%9B%9F"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Chiavenna",
+          "wikidata": "http://www.wikidata.org/entity/Q40131",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A2%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Valtellina",
+          "wikidata": "http://www.wikidata.org/entity/Q685105",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%86%E3%83%83%E3%83%AA%E3%83%BC%E3%83%8A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0",
+          "M9_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Three_Leagues",
+          "wikidata": "http://www.wikidata.org/entity/Q672685",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%90%8C%E7%9B%9F"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/French_Revolution",
+          "wikidata": "http://www.wikidata.org/entity/Q6534",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Revolutionary_France",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%9D%A9%E5%91%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cisalpine_Republic",
+          "wikidata": "http://www.wikidata.org/entity/Q213353",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%B6%E3%83%AB%E3%83%94%E3%83%BC%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Austrian_Empire",
+          "wikidata": "http://www.wikidata.org/entity/Q131964",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E5%B8%9D%E5%9B%BD"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Kingdom_of_Lombardy%E2%80%93Venetia",
+          "wikidata": "http://www.wikidata.org/entity/Q209857",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Kingdom_of_Lombardy–Venetia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%90%E3%83%AB%E3%83%89%EF%BC%9D%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%88%E7%8E%8B%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+          "wikidata": "http://www.wikidata.org/entity/Q46362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3%E4%BC%9A%E8%AD%B0"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0",
+          "M16_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Italy",
+          "wikidata": "http://www.wikidata.org/entity/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Province_of_Sondrio",
+          "wikidata": "http://www.wikidata.org/entity/Q16282",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%B3%E3%83%89%E3%83%AA%E3%82%AA%E7%9C%8C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M18_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Campione",
+          "wikidata": "http://www.wikidata.org/entity/Q1031312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%94%E3%82%AA%E3%83%BC%E3%83%8D"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M19_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lugano_District",
+          "wikidata": "http://www.wikidata.org/entity/Q660612",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Landvogtei_of_Lugano"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M20_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ticino",
+          "wikidata": "http://www.wikidata.org/entity/Q12724",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%81%E3%83%BC%E3%83%8E%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M21_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Act_of_Mediation",
+          "wikidata": "http://www.wikidata.org/entity/Q666909"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M22_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Portal:Switzerland",
+          "wikidata": "http://www.wikidata.org/entity/Q3247839",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Portal:%E3%82%B9%E3%82%A4%E3%82%B9"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      }
+    }
+  }
+}

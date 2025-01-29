@@ -1,0 +1,424 @@
+{
+  "3120": {
+    "doc_info": {
+      "title": "Gambier Island",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "orig_text": "Gambier Island is an island located in Howe Sound near Vancouver , British Columbia .",
+        "text": "Gambier Island is an island located in Howe Sound near Vancouver , British Columbia .",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0"
+        ]
+      },
+      "01": {
+        "orig_text": "It is about in size and is located about north of the Horseshoe Bay community and ferry terminal in westernmost West Vancouver .",
+        "text": "It is about in size and is located about north of the Horseshoe Bay community and ferry terminal in westernmost West Vancouver .",
+        "mention_ids": [
+          "M4_0",
+          "M5_0"
+        ]
+      },
+      "02": {
+        "orig_text": "A rugged and sparsely populated island , it is far quieter than its neighbour Bowen Island , which is popular with day - trippers and summer vacationers .",
+        "text": "A rugged and sparsely populated island , it is far quieter than its neighbour Bowen Island , which is popular with day - trippers and summer vacationers .",
+        "mention_ids": [
+          "M6_0"
+        ]
+      },
+      "03": {
+        "orig_text": "Gambier Island is accessible only by B.C.",
+        "text": "Gambier Island is accessible only by B.C.",
+        "mention_ids": [
+          "M0_1",
+          "M7_0"
+        ]
+      },
+      "04": {
+        "orig_text": "Ferries passenger service , water taxi or other boats .",
+        "text": "Ferries passenger service , water taxi or other boats .",
+        "mention_ids": []
+      },
+      "05": {
+        "orig_text": "There is no central road network .",
+        "text": "There is no central road network .",
+        "mention_ids": []
+      },
+      "06": {
+        "orig_text": "The island elects two trustees to the Islands Trust , an organization that unites small island communities in British Columbia to oversee development and land use .",
+        "text": "The island elects two trustees to the Islands Trust , an organization that unites small island communities in British Columbia to oversee development and land use .",
+        "mention_ids": [
+          "M3_1",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "07": {
+        "orig_text": "Other islands in Howe Sound include Keats Island and Anvil Island .",
+        "text": "Other islands in Howe Sound include Keats Island and Anvil Island .",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M1_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Gambier Island",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          14
+        ],
+        "text": "Gambier Island",
+        "entity_type": "LOC",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "07",
+        "span": [
+          36,
+          48
+        ],
+        "text": "Keats Island",
+        "entity_type": "LOC",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "07",
+        "span": [
+          53,
+          65
+        ],
+        "text": "Anvil Island",
+        "entity_type": "LOC",
+        "entity_id": "E011"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          39,
+          49
+        ],
+        "text": "Howe Sound",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M1_1": {
+        "sentence_id": "07",
+        "span": [
+          17,
+          27
+        ],
+        "text": "Howe Sound",
+        "entity_type": "LOC",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          55,
+          64
+        ],
+        "text": "Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          67,
+          83
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "06",
+        "span": [
+          110,
+          126
+        ],
+        "text": "British Columbia",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          54,
+          67
+        ],
+        "text": "Horseshoe Bay",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          112,
+          126
+        ],
+        "text": "West Vancouver",
+        "entity_type": "LOC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "02",
+        "span": [
+          78,
+          90
+        ],
+        "text": "Bowen Island",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "03",
+        "span": [
+          37,
+          41
+        ],
+        "text": "B.C.",
+        "entity_type": "MISC",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          18,
+          21
+        ],
+        "text": "two",
+        "entity_type": "NUM",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "06",
+        "span": [
+          38,
+          51
+        ],
+        "text": "Islands Trust",
+        "entity_type": "ORG",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Gambier_Islands",
+          "wikidata": "http://www.wikidata.org/entity/Q504043",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%93%E3%82%A8%E8%AB%B8%E5%B3%B6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0",
+          "M1_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Howe_Sound",
+          "wikidata": "http://www.wikidata.org/entity/Q1631968"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q24639",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/British_Columbia",
+          "wikidata": "http://www.wikidata.org/entity/Q1973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Horseshoe_Bay,_West_Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q3140811",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Horseshoe_Bay,_West_Vancouver,_British_Columbia",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%99%E3%82%A4_(%E3%82%AB%E3%83%8A%E3%83%80)"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/West_Vancouver",
+          "wikidata": "http://www.wikidata.org/entity/Q991329",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bowen_Island",
+          "wikidata": "http://www.wikidata.org/entity/Q895413",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%A6%E3%82%A8%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/BC_Ferries",
+          "wikidata": "http://www.wikidata.org/entity/Q795723",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/B.C._Ferries",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Islands_Trust",
+          "wikidata": "http://www.wikidata.org/entity/Q48815247"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Keats_Island_(British_Columbia)",
+          "wikidata": "http://www.wikidata.org/entity/Q6382347"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Anvil_Island",
+          "wikidata": "http://www.wikidata.org/entity/Q4777982"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "0121416": {
+    "doc_info": {
+      "title": "121416_US_stock_markets_fall_to_lowest_levels_since_1997",
+      "url": "http://en.wikinews.org/wiki/US_stock_markets_fall_to_lowest_levels_since_1997"
+    },
+    "sentences": {
+      "00": {
+        "text": "米国株式市場、1997年以来の安値に下落",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "01": {
+        "text": "2009年2月24日",
+        "mention_ids": []
+      },
+      "02": {
+        "text": "米国の主要株価3指数は月曜日、投資家の信頼感低下と、政府が銀行を国有化するのではとの懸念のさなか、ここ10年以上でそれらの最低水準で取引を終えました。",
+        "mention_ids": [
+          "M007",
+          "M010",
+          "M018",
+          "M020",
+          "M065"
+        ]
+      },
+      "03": {
+        "text": "ダウ・ジョーンズ工業平均は3.41%、251.4ポイント下落し、1997年10月以来のその最低水準である7,114.3で取引を終えました。",
+        "mention_ids": [
+          "M021",
+          "M028"
+        ]
+      },
+      "04": {
+        "text": "スタンダード・アンド・プアーズ500指数は、26ポイント、3.5%下落して743.33のレベルとなり、1997年4月以来のその最低水準となりました。",
+        "mention_ids": [
+          "M031",
+          "M036"
+        ]
+      },
+      "05": {
+        "text": "中小企業のラッセル2000指数は4%下落しました。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "06": {
+        "text": "これら3つの株式市場の指数は過去6日間下落しています。",
+        "mention_ids": []
+      },
+      "07": {
+        "text": "ナスダック総合指数は53.5ポイント、3.71%下落し、1,387.7で取引を終えました。",
+        "mention_ids": [
+          "M083"
+        ]
+      },
+      "08": {
+        "text": "しかし、同指数は、その2008年11月20日の安値である1316.12を依然として上回っています。",
+        "mention_ids": [
+          "M067",
+          "M079"
+        ]
+      },
+      "09": {
+        "text": "銀行に対する懸念にもかかわらず、銀行株は本日上昇しました。",
+        "mention_ids": []
+      },
+      "10": {
+        "text": "バンク・オブ・アメリカ株は3.2%上昇し、シティグループは9.7%上昇しました。",
+        "mention_ids": [
+          "M068"
+        ]
+      },
+      "11": {
+        "text": "しかし、両行の株価は年初からで68%以上急落しています。",
+        "mention_ids": []
+      },
+      "12": {
+        "text": "「左右の人々が負けを認めています。",
+        "mention_ids": []
+      },
+      "13": {
+        "text": "ここで私が目にした最大のことは、信じられないほどの悲観論です--政府は恐怖を和らげることについて、ひどい仕事をしているということです」とキャピタル・ファイナンシャル・アドバイザリー・サービスのキース・シュプリンガーは語りました。",
+        "mention_ids": []
+      },
+      "14": {
+        "text": "「多くの投資家は、自分のポートフォリオに株式市場のリスクをこれ以上考慮することはできません。",
+        "mention_ids": []
+      },
+      "15": {
+        "text": "市場のセンチメントは非常に弱く、ネガティブです」とインベスコAIMのシニア市場ストラテジストのフリッツ・マイヤーは語りました。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          6
+        ],
+        "text": "米国株式市場",
+        "entity_type": null,
+        "entity_id": "E106"
+      },
+      "M007": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          10
+        ],
+        "text": "米国の主要株価3指数",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M010": {
+        "sentence_id": "02",
+        "span": [
+          57,
+          61
+        ],
+        "text": "それらの",
+        "entity_type": null,
+        "entity_id": "E094"
+      },
+      "M018": {
+        "sentence_id": "02",
+        "span": [
+          26,
+          29
+        ],
+        "text": "政府が",
+        "entity_type": null,
+        "entity_id": "E091"
+      },
+      "M020": {
+        "sentence_id": "02",
+        "span": [
+          29,
+          31
+        ],
+        "text": "銀行",
+        "entity_type": null,
+        "entity_id": "E102"
+      },
+      "M021": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          12
+        ],
+        "text": "ダウ・ジョーンズ工業平均",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M028": {
+        "sentence_id": "03",
+        "span": [
+          43,
+          45
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E101"
+      },
+      "M031": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          20
+        ],
+        "text": "スタンダード・アンド・プアーズ500指数",
+        "entity_type": null,
+        "entity_id": "E103"
+      },
+      "M036": {
+        "sentence_id": "04",
+        "span": [
+          61,
+          63
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E103"
+      },
+      "M039": {
+        "sentence_id": "05",
+        "span": [
+          0,
+          15
+        ],
+        "text": "中小企業のラッセル2000指数",
+        "entity_type": null,
+        "entity_id": "E098"
+      },
+      "M065": {
+        "sentence_id": "02",
+        "span": [
+          15,
+          18
+        ],
+        "text": "投資家",
+        "entity_type": null,
+        "entity_id": null
+      },
+      "M067": {
+        "sentence_id": "08",
+        "span": [
+          4,
+          7
+        ],
+        "text": "同指数",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M068": {
+        "sentence_id": "10",
+        "span": [
+          0,
+          11
+        ],
+        "text": "バンク・オブ・アメリカ",
+        "entity_type": null,
+        "entity_id": "E093"
+      },
+      "M079": {
+        "sentence_id": "08",
+        "span": [
+          9,
+          11
+        ],
+        "text": "その",
+        "entity_type": null,
+        "entity_id": "E100"
+      },
+      "M083": {
+        "sentence_id": "07",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ナスダック総合指数",
+        "entity_type": null,
+        "entity_id": "E100"
+      }
+    },
+    "entities": {
+      "E091": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "removed_mention_ids": [
+          "M045",
+          "M002"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/United_States",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        }
+      },
+      "E093": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M068"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Bank_of_America",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bank_of_America",
+          "wikidata": "http://www.wikidata.org/entity/Q487907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+        }
+      },
+      "E094": {
+        "member_mention_ids": [
+          "M007",
+          "M010"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E097": {
+        "member_mention_ids": [],
+        "removed_mention_ids": [
+          "M048"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E098": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Russell_2000",
+          "dbpedia:orig": "http://dbpedia.org/resource/Russell_2000",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russell_2000_Index",
+          "wikidata": "http://www.wikidata.org/entity/Q1329524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB2000"
+        }
+      },
+      "E100": {
+        "member_mention_ids": [
+          "M067",
+          "M079",
+          "M083"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/page/Nasdaq_Composite",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Nasdaq_Composite",
+          "wikidata": "http://www.wikidata.org/entity/Q575782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B9%E3%83%80%E3%83%83%E3%82%AF%E7%B7%8F%E5%90%88%E6%8C%87%E6%95%B0"
+        }
+      },
+      "E101": {
+        "member_mention_ids": [
+          "M021",
+          "M028"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/Dow_Jones_Industrial_Average",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "wikidata": "http://www.wikidata.org/entity/Q180816",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A6%E5%B9%B3%E5%9D%87%E6%A0%AA%E4%BE%A1"
+        }
+      },
+      "E102": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E103": {
+        "member_mention_ids": [
+          "M031",
+          "M036"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": true,
+        "ref_urls": {
+          "dbpedia": "http://dbpedia.org/resource/S&P_500",
+          "en.wikipedia": "https://en.wikipedia.org/wiki/S&P_500",
+          "wikidata": "http://www.wikidata.org/entity/Q242345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/S%26P_500"
+        }
+      },
+      "E106": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "removed_mention_ids": [
+          "M107"
+        ],
+        "entity_type": "FIN",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "3278": {
+    "doc_info": {
+      "title": "Bengals–Browns rivalry",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "ベンガルズ対ブラウンズの対立は、オハイオの戦いとも呼ばれ、ナショナル・フットボール・リーグ（NFL）のシンシナティ・ベンガルズとクリーブランド・ブラウンズの間の競争です。",
+        "mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M3_1"
+        ]
+      },
+      "01": {
+        "text": "両チームはアメリカン・フットボール・カンファレンス（AFC）の北ディビジョンのメンバーであり、毎年、互いに2試合を行います。",
+        "mention_ids": [
+          "M3_20",
+          "M3_21",
+          "M3_8",
+          "M4_0"
+        ]
+      },
+      "02": {
+        "text": "地理と共通された遺産がこの競争に拍車をかけます。",
+        "mention_ids": [
+          "M5_0"
+        ]
+      },
+      "03": {
+        "text": "クリーブランド（北東）とシンシナティ（南西）はオハイオ州の反対側の角にあり、本質的にオハイオ州を分割します。",
+        "mention_ids": [
+          "M6_0",
+          "M6_2",
+          "M6_3",
+          "M6_4",
+          "M6_5",
+          "M6_6"
+        ]
+      },
+      "04": {
+        "text": "両チームは、ブラウンズから解雇された後、アメリカン・フットボール・リーグ（AFL）でベンガルズのフランチャイズを作った、ブラウンズのフランチャイズの名前の由来であるヘッドコーチポール・ブラウンによって設立されました。",
+        "mention_ids": [
+          "M3_18",
+          "M3_19",
+          "M3_4",
+          "M3_9",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "各チームの色は似ています。",
+        "mention_ids": []
+      },
+      "06": {
+        "text": "ベンガルズとブラウンズは、1970年に初めてプレイしました。",
+        "mention_ids": [
+          "M3_16",
+          "M3_5",
+          "M8_0"
+        ]
+      },
+      "07": {
+        "text": "以前は、ベンガルズはAFLの一部でした。",
+        "mention_ids": [
+          "M3_10",
+          "M3_3"
+        ]
+      },
+      "08": {
+        "text": "AFLとNFLの合併後、ベンガルズとブラウンズはAFC中地区に所属し、ブラウンズがボルチモアへの移転後に活動を停止し、その後の新しいブラウンズの拡張チームはクリーブランドに割り当てられるまで、それらはそこにとどまりました。",
+        "mention_ids": [
+          "M3_11",
+          "M3_14",
+          "M3_15",
+          "M3_17",
+          "M3_6",
+          "M6_1",
+          "M6_7",
+          "M9_0"
+        ]
+      },
+      "09": {
+        "text": "拡張ブラウンズもAFC中地区に配置されました。",
+        "mention_ids": [
+          "M3_12",
+          "M3_13"
+        ]
+      },
+      "10": {
+        "text": "両チームは、NFLの再編の一環として、2002年に新設されたAFC北部門に移行しました。",
+        "mention_ids": [
+          "M3_2",
+          "M3_22",
+          "M8_1"
+        ]
+      },
+      "11": {
+        "text": "ベンガルズがシリーズ全体で50勝39敗でリードしています。",
+        "mention_ids": [
+          "M3_7"
+        ]
+      },
+      "12": {
+        "text": "2つのチームはポストシーズンで対戦したことがありません。",
+        "mention_ids": [
+          "M4_1"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          14
+        ],
+        "text": "ベンガルズ対ブラウンズの対立",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "00",
+        "span": [
+          16,
+          23
+        ],
+        "text": "オハイオの戦い",
+        "entity_type": "MISC",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          51,
+          63
+        ],
+        "text": "シンシナティ・ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          64,
+          77
+        ],
+        "text": "クリーブランド・ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          29,
+          45
+        ],
+        "text": "ナショナル・フットボール・リーグ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          49
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_10": {
+        "sentence_id": "07",
+        "span": [
+          10,
+          13
+        ],
+        "text": "AFL",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_11": {
+        "sentence_id": "08",
+        "span": [
+          24,
+          30
+        ],
+        "text": "AFC中地区",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_12": {
+        "sentence_id": "09",
+        "span": [
+          8,
+          14
+        ],
+        "text": "AFC中地区",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_13": {
+        "sentence_id": "09",
+        "span": [
+          2,
+          7
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_14": {
+        "sentence_id": "08",
+        "span": [
+          35,
+          40
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_15": {
+        "sentence_id": "08",
+        "span": [
+          18,
+          23
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_16": {
+        "sentence_id": "06",
+        "span": [
+          6,
+          11
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_17": {
+        "sentence_id": "08",
+        "span": [
+          66,
+          71
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_18": {
+        "sentence_id": "04",
+        "span": [
+          60,
+          65
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_19": {
+        "sentence_id": "04",
+        "span": [
+          6,
+          11
+        ],
+        "text": "ブラウンズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "10",
+        "span": [
+          6,
+          9
+        ],
+        "text": "NFL",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_20": {
+        "sentence_id": "01",
+        "span": [
+          26,
+          29
+        ],
+        "text": "AFC",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_21": {
+        "sentence_id": "01",
+        "span": [
+          31,
+          38
+        ],
+        "text": "北ディビジョン",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_22": {
+        "sentence_id": "10",
+        "span": [
+          30,
+          34
+        ],
+        "text": "AFC北",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "07",
+        "span": [
+          4,
+          9
+        ],
+        "text": "ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "04",
+        "span": [
+          42,
+          47
+        ],
+        "text": "ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "06",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_6": {
+        "sentence_id": "08",
+        "span": [
+          12,
+          17
+        ],
+        "text": "ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_7": {
+        "sentence_id": "11",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ベンガルズ",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_8": {
+        "sentence_id": "01",
+        "span": [
+          5,
+          25
+        ],
+        "text": "アメリカン・フットボール・カンファレンス",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M3_9": {
+        "sentence_id": "04",
+        "span": [
+          20,
+          40
+        ],
+        "text": "アメリカン・フットボール・リーグ（AFL",
+        "entity_type": "ORG",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          53,
+          54
+        ],
+        "text": "2",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "12",
+        "span": [
+          0,
+          3
+        ],
+        "text": "2つの",
+        "entity_type": "NUM",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "02",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地理",
+        "entity_type": "MISC",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          12,
+          18
+        ],
+        "text": "シンシナティ",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_1": {
+        "sentence_id": "08",
+        "span": [
+          78,
+          85
+        ],
+        "text": "クリーブランド",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_2": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          7
+        ],
+        "text": "クリーブランド",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_3": {
+        "sentence_id": "03",
+        "span": [
+          42,
+          47
+        ],
+        "text": "オハイオ州",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_4": {
+        "sentence_id": "03",
+        "span": [
+          23,
+          28
+        ],
+        "text": "オハイオ州",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_5": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          21
+        ],
+        "text": "南西",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_6": {
+        "sentence_id": "03",
+        "span": [
+          8,
+          10
+        ],
+        "text": "北東",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M6_7": {
+        "sentence_id": "08",
+        "span": [
+          41,
+          46
+        ],
+        "text": "ボルチモア",
+        "entity_type": "LOC",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          88,
+          96
+        ],
+        "text": "ポール・ブラウン",
+        "entity_type": "PER",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "06",
+        "span": [
+          13,
+          18
+        ],
+        "text": "1970年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M8_1": {
+        "sentence_id": "10",
+        "span": [
+          19,
+          24
+        ],
+        "text": "2002年",
+        "entity_type": "TIME",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "08",
+        "span": [
+          0,
+          10
+        ],
+        "text": "AFLとNFLの合併",
+        "entity_type": "MISC",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Bengals%E2%80%93Browns_rivalry",
+          "wikidata": "http://www.wikidata.org/entity/Q4887705",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Bengals–Browns_rivalry"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cincinnati_Bengals",
+          "wikidata": "http://www.wikidata.org/entity/Q223511",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%B7%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BB%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Browns",
+          "wikidata": "http://www.wikidata.org/entity/Q223527",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%BA"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_10",
+          "M3_11",
+          "M3_12",
+          "M3_13",
+          "M3_14",
+          "M3_15",
+          "M3_16",
+          "M3_17",
+          "M3_18",
+          "M3_19",
+          "M3_2",
+          "M3_20",
+          "M3_21",
+          "M3_22",
+          "M3_3",
+          "M3_4",
+          "M3_5",
+          "M3_6",
+          "M3_7",
+          "M3_8",
+          "M3_9"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/AFC_North",
+          "wikidata": "http://www.wikidata.org/entity/Q278064",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/AFC%E5%8C%97%E5%9C%B0%E5%8C%BA"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "NUM",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Geography",
+          "wikidata": "http://www.wikidata.org/entity/Q1071",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0",
+          "M6_1",
+          "M6_2",
+          "M6_3",
+          "M6_4",
+          "M6_5",
+          "M6_6",
+          "M6_7"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Ohio",
+          "wikidata": "http://www.wikidata.org/entity/Q1397",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8F%E3%82%A4%E3%82%AA%E5%B7%9E"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "PER",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Paul_Brown",
+          "wikidata": "http://www.wikidata.org/entity/Q968798",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3_(%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB)"
+        },
+        "date_of_death": "1991-08-05T00:00:00Z",
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0",
+          "M8_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/AFL%E2%80%93NFL_merger",
+          "wikidata": "http://www.wikidata.org/entity/Q431972",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/AFL–NFL_merger"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

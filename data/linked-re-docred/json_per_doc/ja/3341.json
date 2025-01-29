@@ -1,0 +1,349 @@
+{
+  "3341": {
+    "doc_info": {
+      "title": "Andrew Fastow",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■■（1961年12月22日生まれ）は、会社が破産宣告される直前に解雇されるまで、テキサス州ヒューストンに拠点を置くエネルギー取引会社のエンロン・コーポレーションの最高財務責任者を務めた有罪判決を受けた犯罪者であり実業家です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M4_0"
+        ]
+      },
+      "01": {
+        "text": "■■■■■は、エンロンの四半期貸借対照表上の巨額の損失を隠蔽するために使用された、簿外の特別目的事業体（エンロンが管理する有限責任組合）の複雑な網の背後にいた重要人物の1人でした。",
+        "mention_ids": [
+          "M0_2",
+          "M2_1",
+          "M2_4"
+        ]
+      },
+      "02": {
+        "text": "これらの表向きは独立した幽霊組織の個人的な株式を違法に維持することにより、彼はエンロンから数千万ドルをだまし取ることができました。",
+        "mention_ids": [
+          "M2_3"
+        ]
+      },
+      "03": {
+        "text": "米国証券取引委員会は、2001年における彼と会社の行為について調査を開始しました。",
+        "mention_ids": [
+          "M5_0",
+          "M6_0"
+        ]
+      },
+      "04": {
+        "text": "■■■■■は、これらの行為に関連した罪で懲役6年の刑に服しました。",
+        "mention_ids": [
+          "M0_1",
+          "M7_0"
+        ]
+      },
+      "05": {
+        "text": "彼の妻、■■■■■■■■■■もエンロンで財務アシスタントを務めていました。彼女は電信詐欺、マネーロンダリングの共同謀議、不正な所得税申告で有罪を認め、刑務所に服役し、早期に更生訓練施設に釈放されました。",
+        "mention_ids": [
+          "M2_2",
+          "M8_0"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          19
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          20,
+          31
+        ],
+        "text": "1961年12月22日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          85,
+          98
+        ],
+        "text": "エンロン・コーポレーション",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_1": {
+        "sentence_id": "01",
+        "span": [
+          52,
+          56
+        ],
+        "text": "エンロン",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_2": {
+        "sentence_id": "05",
+        "span": [
+          15,
+          19
+        ],
+        "text": "エンロン",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_3": {
+        "sentence_id": "02",
+        "span": [
+          39,
+          43
+        ],
+        "text": "エンロン",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M2_4": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          11
+        ],
+        "text": "エンロン",
+        "entity_type": "ORG",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          63,
+          69
+        ],
+        "text": "ヒューストン",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "00",
+        "span": [
+          58,
+          63
+        ],
+        "text": "テキサス州",
+        "entity_type": "LOC",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          9
+        ],
+        "text": "米国証券取引委員会",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "03",
+        "span": [
+          11,
+          16
+        ],
+        "text": "2001年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "04",
+        "span": [
+          22,
+          24
+        ],
+        "text": "6年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "05",
+        "span": [
+          4,
+          14
+        ],
+        "text": "■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fastow",
+          "wikidata": "http://www.wikidata.org/entity/Q504625"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0",
+          "M2_1",
+          "M2_2",
+          "M2_3",
+          "M2_4"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Enron",
+          "wikidata": "http://www.wikidata.org/entity/Q327646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%AD%E3%83%B3"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Houston",
+          "wikidata": "http://www.wikidata.org/entity/Q16555",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/Houston,_Texas",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%88%E3%83%B3"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Texas",
+          "wikidata": "http://www.wikidata.org/entity/Q1439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/U.S._Securities_and_Exchange_Commission",
+          "wikidata": "http://www.wikidata.org/entity/Q953944",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%9B%BD%E8%A8%BC%E5%88%B8%E5%8F%96%E5%BC%95%E5%A7%94%E5%93%A1%E4%BC%9A"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Lea_Fastow",
+          "wikidata": "http://www.wikidata.org/entity/Q6508194"
+        },
+        "method": "hyperlinks-alignment",
+        "confidence": "A"
+      }
+    }
+  }
+}

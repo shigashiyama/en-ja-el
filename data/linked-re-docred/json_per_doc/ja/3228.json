@@ -1,0 +1,639 @@
+{
+  "3228": {
+    "doc_info": {
+      "title": "Yuri Ushakov",
+      "url": null
+    },
+    "sentences": {
+      "00": {
+        "text": "■■■■■■■■■■■■■■■■■■( )（1947年3月13日、ロシア、モスクワ生まれ）はロシアの職業外交官です。",
+        "mention_ids": [
+          "M0_0",
+          "M1_0",
+          "M2_0",
+          "M3_0",
+          "M3_4"
+        ]
+      },
+      "01": {
+        "text": "■■■■■は、モスクワ国立国際関係研究所（MGIMO）の卒業生で、1996年から1998年まで駐OSCEロシア大使を務めました。",
+        "mention_ids": [
+          "M0_2",
+          "M3_1",
+          "M4_0",
+          "M4_1",
+          "M5_0",
+          "M6_0",
+          "M7_0"
+        ]
+      },
+      "02": {
+        "text": "彼は1999年1月にロシア連邦の駐米国大使に任命され、2008年6月2日にロシア大統領の■■■■■■■■■■■■■によりその職を解かれました。",
+        "mention_ids": [
+          "M10_0",
+          "M11_0",
+          "M3_2",
+          "M3_6",
+          "M8_0",
+          "M9_0"
+        ]
+      },
+      "03": {
+        "text": "2008年6月から2012年5月まで、■■■■■は、ロシア連邦の政府参謀の副長官を務めました。",
+        "mention_ids": [
+          "M0_1",
+          "M12_0",
+          "M13_0",
+          "M14_0",
+          "M3_5"
+        ]
+      },
+      "04": {
+        "text": "2012年5月以降、彼は大統領府の国際問題担当するロシア連邦大統領補佐官を務めています。",
+        "mention_ids": [
+          "M13_1",
+          "M15_0",
+          "M3_7"
+        ]
+      },
+      "05": {
+        "text": "彼は、ロシアの北オセチア-アラニアにあるベスランでの学校大虐殺について次のようにコメントしました：",
+        "mention_ids": [
+          "M16_0",
+          "M17_0",
+          "M3_3"
+        ]
+      }
+    },
+    "mentions": {
+      "M0_0": {
+        "sentence_id": "00",
+        "span": [
+          0,
+          18
+        ],
+        "text": "■■■■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_1": {
+        "sentence_id": "03",
+        "span": [
+          19,
+          24
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M0_2": {
+        "sentence_id": "01",
+        "span": [
+          0,
+          5
+        ],
+        "text": "■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E000"
+      },
+      "M10_0": {
+        "sentence_id": "02",
+        "span": [
+          44,
+          57
+        ],
+        "text": "■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010"
+      },
+      "M11_0": {
+        "sentence_id": "02",
+        "span": [
+          27,
+          36
+        ],
+        "text": "2008年6月2日",
+        "entity_type": "TIME",
+        "entity_id": "E011"
+      },
+      "M12_0": {
+        "sentence_id": "03",
+        "span": [
+          0,
+          7
+        ],
+        "text": "2008年6月",
+        "entity_type": "TIME",
+        "entity_id": "E012"
+      },
+      "M13_0": {
+        "sentence_id": "03",
+        "span": [
+          9,
+          16
+        ],
+        "text": "2012年5月",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M13_1": {
+        "sentence_id": "04",
+        "span": [
+          0,
+          7
+        ],
+        "text": "2012年5月",
+        "entity_type": "TIME",
+        "entity_id": "E013"
+      },
+      "M14_0": {
+        "sentence_id": "03",
+        "span": [
+          32,
+          36
+        ],
+        "text": "政府参謀",
+        "entity_type": "ORG",
+        "entity_id": "E014"
+      },
+      "M15_0": {
+        "sentence_id": "04",
+        "span": [
+          12,
+          16
+        ],
+        "text": "大統領府",
+        "entity_type": "ORG",
+        "entity_id": "E015"
+      },
+      "M16_0": {
+        "sentence_id": "05",
+        "span": [
+          20,
+          31
+        ],
+        "text": "ベスランでの学校大虐殺",
+        "entity_type": "MISC",
+        "entity_id": "E016"
+      },
+      "M17_0": {
+        "sentence_id": "05",
+        "span": [
+          7,
+          17
+        ],
+        "text": "北オセチア-アラニア",
+        "entity_type": "LOC",
+        "entity_id": "E017"
+      },
+      "M1_0": {
+        "sentence_id": "00",
+        "span": [
+          22,
+          32
+        ],
+        "text": "1947年3月13日",
+        "entity_type": "TIME",
+        "entity_id": "E001"
+      },
+      "M2_0": {
+        "sentence_id": "00",
+        "span": [
+          37,
+          41
+        ],
+        "text": "モスクワ",
+        "entity_type": "LOC",
+        "entity_id": "E002"
+      },
+      "M3_0": {
+        "sentence_id": "00",
+        "span": [
+          46,
+          49
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_1": {
+        "sentence_id": "01",
+        "span": [
+          52,
+          55
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_2": {
+        "sentence_id": "02",
+        "span": [
+          37,
+          40
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_3": {
+        "sentence_id": "05",
+        "span": [
+          3,
+          6
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_4": {
+        "sentence_id": "00",
+        "span": [
+          33,
+          36
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_5": {
+        "sentence_id": "03",
+        "span": [
+          26,
+          31
+        ],
+        "text": "ロシア連邦",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_6": {
+        "sentence_id": "02",
+        "span": [
+          10,
+          15
+        ],
+        "text": "ロシア連邦",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M3_7": {
+        "sentence_id": "04",
+        "span": [
+          25,
+          30
+        ],
+        "text": "ロシア連邦",
+        "entity_type": "LOC",
+        "entity_id": "E003"
+      },
+      "M4_0": {
+        "sentence_id": "01",
+        "span": [
+          7,
+          20
+        ],
+        "text": "モスクワ国立国際関係研究所",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M4_1": {
+        "sentence_id": "01",
+        "span": [
+          21,
+          26
+        ],
+        "text": "MGIMO",
+        "entity_type": "ORG",
+        "entity_id": "E004"
+      },
+      "M5_0": {
+        "sentence_id": "01",
+        "span": [
+          48,
+          52
+        ],
+        "text": "OSCE",
+        "entity_type": "ORG",
+        "entity_id": "E005"
+      },
+      "M6_0": {
+        "sentence_id": "01",
+        "span": [
+          33,
+          38
+        ],
+        "text": "1996年",
+        "entity_type": "TIME",
+        "entity_id": "E006"
+      },
+      "M7_0": {
+        "sentence_id": "01",
+        "span": [
+          40,
+          45
+        ],
+        "text": "1998年",
+        "entity_type": "TIME",
+        "entity_id": "E007"
+      },
+      "M8_0": {
+        "sentence_id": "02",
+        "span": [
+          17,
+          19
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E008"
+      },
+      "M9_0": {
+        "sentence_id": "02",
+        "span": [
+          2,
+          9
+        ],
+        "text": "1999年1月",
+        "entity_type": "TIME",
+        "entity_id": "E009"
+      }
+    },
+    "entities": {
+      "E000": {
+        "member_mention_ids": [
+          "M0_0",
+          "M0_1",
+          "M0_2"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Yuri_Ushakov",
+          "wikidata": "http://www.wikidata.org/entity/Q4479563",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BB%E3%82%A6%E3%82%B7%E3%83%A3%E3%82%B3%E3%83%95"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E001": {
+        "member_mention_ids": [
+          "M1_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M2_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow",
+          "wikidata": "http://www.wikidata.org/entity/Q649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF"
+        },
+        "method": "links-in-page",
+        "confidence": "B"
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M3_0",
+          "M3_1",
+          "M3_2",
+          "M3_3",
+          "M3_4",
+          "M3_5",
+          "M3_6",
+          "M3_7"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M4_0",
+          "M4_1"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Moscow_State_Institute_of_International_Relations",
+          "wikidata": "http://www.wikidata.org/entity/Q322964",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B9%E3%82%AF%E3%83%AF%E5%9B%BD%E9%9A%9B%E9%96%A2%E4%BF%82%E5%A4%A7%E5%AD%A6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M5_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe",
+          "wikidata": "http://www.wikidata.org/entity/Q81299",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E5%8D%94%E5%8A%9B%E6%A9%9F%E6%A7%8B"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M6_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M7_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M8_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/United_States",
+          "wikidata": "http://www.wikidata.org/entity/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+        },
+        "method": "common-knowledge",
+        "confidence": "B"
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M9_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M10_0"
+        ],
+        "entity_type": "PER_MASKED",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Medvedev",
+          "wikidata": "http://www.wikidata.org/entity/Q23530",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%89%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%95"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M11_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M12_0"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M13_0",
+          "M13_1"
+        ],
+        "entity_type": "TIME",
+        "has_enwiki_ref": false,
+        "has_jawiki_ref": false,
+        "has_wikidata_ref": false,
+        "has_dbpedia_ref": false,
+        "ref_urls": {}
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M14_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Government_of_Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q1140115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M15_0"
+        ],
+        "entity_type": "ORG",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Presidential_Administration_of_Russia",
+          "wikidata": "http://www.wikidata.org/entity/Q2060629",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E5%A4%A7%E7%B5%B1%E9%A0%98%E5%BA%9C"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M16_0"
+        ],
+        "entity_type": "MISC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/Beslan_school_siege",
+          "wikidata": "http://www.wikidata.org/entity/Q193733",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B9%E3%83%A9%E3%83%B3%E5%AD%A6%E6%A0%A1%E5%8D%A0%E6%8B%A0%E4%BA%8B%E4%BB%B6"
+        },
+        "method": "manual",
+        "confidence": "A"
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M17_0"
+        ],
+        "entity_type": "LOC",
+        "has_enwiki_ref": true,
+        "has_jawiki_ref": true,
+        "has_wikidata_ref": true,
+        "has_dbpedia_ref": false,
+        "ref_urls": {
+          "en.wikipedia": "https://en.wikipedia.org/wiki/North_Ossetia%E2%80%93Alania",
+          "wikidata": "http://www.wikidata.org/entity/Q5237",
+          "en.wikipedia:orig": "https://en.wikipedia.org/wiki/North_Ossetia–Alania",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%AA%E3%82%BB%E3%83%81%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD"
+        },
+        "method": "manual",
+        "confidence": "A"
+      }
+    }
+  }
+}
