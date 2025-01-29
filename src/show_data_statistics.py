@@ -71,6 +71,9 @@ def main():
                         key2sets[key] = set()
                     key2sets[key].add(men['text'])
 
+                    if men['entity_type'].endswith('MASKED'):
+                        continue
+
                 if men['entity_id'] == None:
                     continue
                     
@@ -88,6 +91,9 @@ def main():
             counter['num_ents'] += len(doc['entities'])
 
             for ent_id, ent in doc['entities'].items():
+                if ent['entity_type'].endswith('MASKED'):
+                    continue
+
                 if 'has_wikidata_ref' in ent and ent['has_wikidata_ref']:
                     counter['num_ents:has_wd_ref'] += 1
                 if 'has_jawiki_ref' in ent and ent['has_jawiki_ref']:

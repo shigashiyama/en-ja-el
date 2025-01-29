@@ -20,14 +20,14 @@ You can confirm them using the following commmand (with Python 3.8.0 or later). 
 |Document		     |	 15|	 120|          500|
 |Sentence		     |	 94|   1,797|	     3,944|
 |Mention		     |	204|   2,634|	    12,897|
-|Mention w/ Wikidata link    |	201|   1,861|	     9,446|
-|Mention w/ Wikipedia_En link|	201|   1,867|	     9,535|
-|Mention w/ Wikipedia_Ja link|	187|   1,781|	     6,127|
+|Mention w/ Wikidata link    |	201|   1,861|	     8,568|
+|Mention w/ Wikipedia_En link|	201|   1,867|	     8,624|
+|Mention w/ Wikipedia_Ja link|	187|   1,781|	     5,768|
 |Mention w/ DBpedia link     |	   |   1,871|		  |
 |Entity			     |	204|   1,407|	     9,779|
-|Entity w/ Wikidata link     |	201|	 785|	     6,607|
-|Entity w/ Wikipedia_En link |	201|	 789|	     6,690|
-|Entity w/ Wikipedia_Ja link |	187|	 747|	     4,410|
+|Entity w/ Wikidata link     |	201|	 785|	     6,023|
+|Entity w/ Wikipedia_En link |	201|	 789|	     6,076|
+|Entity w/ Wikipedia_Ja link |	187|	 747|	     4,170|
 |Entity w/ DBpedia link	     |	   |	 791|		  |
 
 The number of mentions for each entity type is as follows.
